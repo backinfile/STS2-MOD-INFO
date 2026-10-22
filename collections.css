@@ -34,9 +34,10 @@ dialog[data-kind=relic]::backdrop{background:rgb(0 0 0 / .9)}
 .relic-inspection[data-rarity=event] .inspect-rarity{color:var(--green)}
 .relic-inspection[data-rarity=ancient] .inspect-rarity{color:#ff5555}
 .inspect-relic-frame{position:absolute;left:32.407%;top:19.329%;width:35.185%;height:35.185%}
-.inspect-relic-frame>img{position:absolute;max-width:none;object-fit:contain}
+.inspect-relic-frame>img{position:absolute;max-width:none}
+/* FrameBg and Frame use STRETCH_SCALE; only RelicImage keeps its aspect. */
 .inspect-frame-bg{inset:.658%;width:98.684%;height:98.684%}
-.inspect-relic-image{left:18.421%;top:18.421%;width:63.158%;height:63.158%}
+.inspect-relic-image{left:18.421%;top:18.421%;width:63.158%;height:63.158%;object-fit:contain}
 .inspect-frame{inset:0;width:100%;height:100%}
 .inspect-copy{position:absolute;left:19.792%;top:59.606%;width:60.417%;font-size:3.2407cqw;line-height:calc(1.48em - .2315cqw);text-shadow:.3472cqw .2315cqw #0004}
 .inspect-copy p{margin:0;text-align:left}

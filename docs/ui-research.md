@@ -56,6 +56,8 @@
 
 窄屏遗物面板为可读正文保留流式高度：背景使用原图的 192px 九宫格切片，边角按原图宽度同比缩放，只延展中间纹理。这属于网页窄屏适配；游戏原场景的方形坐标与背景等比居中规则用于桌面布局。
 
+遗物底座是另一层 `Popup/RelicFrame/FrameBg`：原场景未指定 `stretch_mode`，使用默认 STRETCH_SCALE，将调色后的 reward panel 填充到居中的 300×300 区域；装饰框为 304×304，四边相差 2px。不能给整个遗物容器内的图片统一设置 `object-fit:contain`，否则竖版底座会缩窄，无法衬满装饰框。只有 `RelicImage` 按原场景的 KEEP_ASPECT_CENTERED 等比显示。
+
 卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。当前 115 张定义中，角色池 86、CurseCardPool 2、TokenCardPool 25，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
 
 角色展示 Mod 的插画、原始说明、72 初始生命、99 金币、初始遗物与牌组。当前上游没有独立事件模型，保留简短空状态，不编造事件内容。
