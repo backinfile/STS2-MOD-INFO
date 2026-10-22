@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "mods": [
+    {
+      "id": "karen",
+      "name": "少女歌剧 · 爱城华恋",
+      "repository": "backinfile/STS2_ShoujoKagekiAijoKaren",
+      "ref": "main",
+      "adapter": "karen",
+      "enabled": true
+    }
+  ]
+}

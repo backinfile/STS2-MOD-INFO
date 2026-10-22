@@ -1,0 +1,1484 @@
+{
+  "karen": {
+    "ShoujoKagekiAijoKaren/localization/zhs/card_keywords.json": {
+      "bytes": 1178,
+      "gitBlob": "0f3bdffe0a46b61f8fe64588d7a931888bd304d9",
+      "sha256": "c2c851e7f1948def1bc298e6a21834e8440e43c4788a44c80ff9f2459dda43d1"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/cards.json": {
+      "bytes": 20581,
+      "gitBlob": "a015aae4bf16935c3651ad551adfa082f44159cd",
+      "sha256": "b2f194e06db3db0011f82769f3fcb2a0a211176bce2abbe3d6eb34ff6354f304"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/characters.json": {
+      "bytes": 834,
+      "gitBlob": "edcd0c434e0b3593f6dcd7d39a7857977c321063",
+      "sha256": "8b5dfcdb18b5626533e57618e8b51c930162218dc4aab98be636fb36c60c7b16"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
+      "bytes": 1306,
+      "gitBlob": "083ef2e20769c388a35005644d77460b01adb3aa",
+      "sha256": "204588917b510331c268c3bd704dd5aac8d9c0a6b7e77eed1df85992f4ab97ad"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/potions.json": {
+      "bytes": 723,
+      "gitBlob": "8102dd66cef49ccd7e9f2718899b2bc4d12d4337",
+      "sha256": "bed6c663bb247b8556ea8a97c6e5810d3dd1bce1fcf55f7c180a7e7a6c8c99d9"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/powers.json": {
+      "bytes": 5963,
+      "gitBlob": "2360d13056a6ba95dac62927a19713242f3df9d6",
+      "sha256": "9ec40982cb9ba8e5446e57fe37f022fdd9d8469ec4b6e62ff7208e959dab8bbd"
+    },
+    "ShoujoKagekiAijoKaren/localization/zhs/relics.json": {
+      "bytes": 2836,
+      "gitBlob": "43973b8264c6a6d3783caf9db05d416085fc8cd9",
+      "sha256": "49af33a9ab4bd0c7b9abdf13b949f6cef8caafe55b87f8493d852affc1312a38"
+    },
+    "images/packed/card_portraits/curse/karen_sleepy.png": {
+      "bytes": 271459,
+      "gitBlob": "cda0f33fe402e4462a9403dafb598d6bdbcb04db",
+      "sha256": "8dc7d6ea81f20cf8588ef2ac7905eff63df846fa299d607daefc835e35e35e6d"
+    },
+    "images/packed/card_portraits/curse/karen_stage_reason.png": {
+      "bytes": 312865,
+      "gitBlob": "4ea903101eab1eb97260ba75527a293c87232a46",
+      "sha256": "a160f0303150fa2903001acd924d4aa09c8ba71931423de921e35ecd766fe51e"
+    },
+    "images/packed/card_portraits/karen/karen_aquarium_card.png": {
+      "bytes": 295069,
+      "gitBlob": "e9ef339e9d043ac76c55230d46c88c7f5a954514",
+      "sha256": "108bc21778c483124a8dfbe5e982e2d493872eda0c44e18888ad99e1277caa3c"
+    },
+    "images/packed/card_portraits/karen/karen_arrogant.png": {
+      "bytes": 254921,
+      "gitBlob": "8d7f629ce8606e25ddc05099db2f02bbfa36f2ab",
+      "sha256": "b3078e3271e4383e696199ad3e5e359e8792ae1ea6fbfd640bbf10b49e2fe2b8"
+    },
+    "images/packed/card_portraits/karen/karen_back_to_back_card.png": {
+      "bytes": 315208,
+      "gitBlob": "fe8ecd963ad7aae5860122de3af63ac2fcdfb017",
+      "sha256": "63d9f40bc6c8a7a3fc31d0108da1377e7b24a8ef73b2894863290e2ce7071a33"
+    },
+    "images/packed/card_portraits/karen/karen_banana_cake.png": {
+      "bytes": 331217,
+      "gitBlob": "7e49c211fca9a0124b52e2e901598f4e3ca5f1d5",
+      "sha256": "051233be362355a5ec217ac16c38440b5214ec58c72d1bebd2ce6520c4e3635d"
+    },
+    "images/packed/card_portraits/karen/karen_banana_lunch.png": {
+      "bytes": 344077,
+      "gitBlob": "c34add7c1fb78cbe8b35127d953b51a02f6025d9",
+      "sha256": "4cab25eb80c5173657ad37112145b963d4a2fa4c7b33a1c579cd24d4aae2bfa7"
+    },
+    "images/packed/card_portraits/karen/karen_banana_muffin.png": {
+      "bytes": 365262,
+      "gitBlob": "5b3f2f4d18e68c4819be2f18234b2b509fe58a4c",
+      "sha256": "bb82f9211e27c6082669cec52f0f46043f8f61d13971fd27994891017182c7b1"
+    },
+    "images/packed/card_portraits/karen/karen_baseball.png": {
+      "bytes": 265166,
+      "gitBlob": "10233dd12bc17af81f23a47d44f79d0ea85a42ac",
+      "sha256": "608688b32779c18a9d5ab0be32feb198aa2f3f891054adc1de72c48a871924f8"
+    },
+    "images/packed/card_portraits/karen/karen_bridge.png": {
+      "bytes": 236105,
+      "gitBlob": "73d2baa99e7f8c390d86a49f8334e6b37f24e365",
+      "sha256": "0de15f5344db6354076112439d1caab88b0f16cba2702992eb84de9296f47a3f"
+    },
+    "images/packed/card_portraits/karen/karen_burn.png": {
+      "bytes": 284047,
+      "gitBlob": "de74eb73ba540953052ac4a0f5c23c7bc642fea7",
+      "sha256": "b911cf575733030a04580001626550c533f953242810f42c6e91be600e5ff9fe"
+    },
+    "images/packed/card_portraits/karen/karen_carrying_guilt.png": {
+      "bytes": 88189,
+      "gitBlob": "c5fb745b38c524e99b3cbf4fb7dddbcdc41ebabb",
+      "sha256": "eb000086bf8cbb8a62f233f2896c0501d27248b4142eba7a455f38da06d333be"
+    },
+    "images/packed/card_portraits/karen/karen_chain.png": {
+      "bytes": 225948,
+      "gitBlob": "daf3657434350265c2490d8de109d0bd9c255caa",
+      "sha256": "a84eb74277ea6bbb95711bb33cb0f7a3d4a415ac432b83194ca0e006a2cef5cd"
+    },
+    "images/packed/card_portraits/karen/karen_charge_strike.png": {
+      "bytes": 352339,
+      "gitBlob": "202edc749614aee53a407b9be95a18579f84e223",
+      "sha256": "7c0c8ba9e1cb2f7ec8adcb5bbf53beed4ef6e75817a0e308057cea93baa04d76"
+    },
+    "images/packed/card_portraits/karen/karen_consciousness.png": {
+      "bytes": 321883,
+      "gitBlob": "a11f54180f8489b7032d362f60a73c3669e56547",
+      "sha256": "661e5b03282bd94cb149a6dbb8b9c9cd44999fd3051e99bf906d62feab1d9891"
+    },
+    "images/packed/card_portraits/karen/karen_continue02.png": {
+      "bytes": 218198,
+      "gitBlob": "f7c7c4df4f81e4396d79172cd47e87b3e5c1313c",
+      "sha256": "67828c30f070131cad18134fb0f4bcbc2fb17a0ab9574291eebf31f37c0f7b24"
+    },
+    "images/packed/card_portraits/karen/karen_courage_strike.png": {
+      "bytes": 303613,
+      "gitBlob": "97deae16459f8e0b05ff794df52ddbc25edadbce",
+      "sha256": "d82f9658f535b2139be9ff46aed648f1448a8bd0454e850ac61f74edb52fd737"
+    },
+    "images/packed/card_portraits/karen/karen_cry.png": {
+      "bytes": 272107,
+      "gitBlob": "f2e9a6c6d2022f26db793146234cb6edfab00fbc",
+      "sha256": "d2c5d06cb4fe6f3877ed46c0196460483b3f06050189128939b5253de3382a69"
+    },
+    "images/packed/card_portraits/karen/karen_dance.png": {
+      "bytes": 300612,
+      "gitBlob": "ba0bada44bc3d7fca471fd432be20c9ef4688cbd",
+      "sha256": "28a421f8d4cc0973237fbd14b0ddd453a69b33ba190784190cb85a81eee952cc"
+    },
+    "images/packed/card_portraits/karen/karen_debut.png": {
+      "bytes": 331960,
+      "gitBlob": "d232b5bbc73939687f88f6c3faf7f3557e33ec4d",
+      "sha256": "0d8907af922fb6480af422f6571f35a2cc390c4785f72fe19cd518f5c8027a08"
+    },
+    "images/packed/card_portraits/karen/karen_defend.png": {
+      "bytes": 388171,
+      "gitBlob": "36cd87879f8ef702873a2bbac53bb6fa4026b1dd",
+      "sha256": "afa7557fec2cd3d8215ee8d1615d674ebe5022a1b75f2e57173948227652c5a3"
+    },
+    "images/packed/card_portraits/karen/karen_dodge.png": {
+      "bytes": 387475,
+      "gitBlob": "48859e974a24a1206ce0ab10f6076edfd72ac223",
+      "sha256": "5ecbc00db598c9b3ff019d1deee716f4214c6f6de6413d46a8313ff6f311d8be"
+    },
+    "images/packed/card_portraits/karen/karen_drink_water.png": {
+      "bytes": 286111,
+      "gitBlob": "ca4982a77a745266dae3c33814c6488b1e4d1e47",
+      "sha256": "6a14f8b865be4a77d1464220c5476c26a49865fb8497baed2df9cae06b4099d9"
+    },
+    "images/packed/card_portraits/karen/karen_drop_fuel.png": {
+      "bytes": 353391,
+      "gitBlob": "4b3508f6c5d86f5ce086e09e4acecfd2bdbd73c7",
+      "sha256": "8c911b0b10179a145ce85193fc69cec226e8ec1f979832b4ece29a658e8c6538"
+    },
+    "images/packed/card_portraits/karen/karen_eat_together.png": {
+      "bytes": 411533,
+      "gitBlob": "377781e035fd907cd58106861e7fa1cc6fd97777",
+      "sha256": "e01a4acddb24f8eb2b9a4aabb2248ec472fb0f50793df1e584d05df587e36988"
+    },
+    "images/packed/card_portraits/karen/karen_exchange_fate.png": {
+      "bytes": 421155,
+      "gitBlob": "3b9c024eca990f932d815074588884989e5b334c",
+      "sha256": "5d26fe860a32c1042c77b4dc76ea9b64f865f3feedaab6671bb89dafeb8ed818"
+    },
+    "images/packed/card_portraits/karen/karen_fall.png": {
+      "bytes": 387988,
+      "gitBlob": "f08b3e47c057c0a2796995ee33a995ccb48fa270",
+      "sha256": "7dbd3b05076a919efeaaf7d6abaec57480131661266a0e2b1e1d3712ade69be3"
+    },
+    "images/packed/card_portraits/karen/karen_fight_relay.png": {
+      "bytes": 268205,
+      "gitBlob": "6c2f2a9e51da33f548d779ff8426eca0327ab130",
+      "sha256": "3de0bc7b3f1019e02b6444461da9c68bd4c616bf3cfcbad8ecf14c9f83e3415d"
+    },
+    "images/packed/card_portraits/karen/karen_financier.png": {
+      "bytes": 333765,
+      "gitBlob": "92406d683da2a85b6a67212d07d593489ed5a4f7",
+      "sha256": "655cb5c1da52f6adc3f83f9b45446c70b65e8890b314a9c9c0a94bee4607eb00"
+    },
+    "images/packed/card_portraits/karen/karen_forgive.png": {
+      "bytes": 345385,
+      "gitBlob": "0b9ec7744fe0f479b3d39abe16dde6b4ba490d49",
+      "sha256": "8ea3b9c3f15f848d352c0978d09c56346234b46128781ae76214dc0ad8f4d0fe"
+    },
+    "images/packed/card_portraits/karen/karen_form.png": {
+      "bytes": 282542,
+      "gitBlob": "5e0f587dabd87161453e814c15660a07173d3a28",
+      "sha256": "be07819eca020fe2de1a0b388999a8ae811ede926c9aa9d77c08887bced951af"
+    },
+    "images/packed/card_portraits/karen/karen_geer.png": {
+      "bytes": 141393,
+      "gitBlob": "c90a075b6904b18a16cabb434b73cef55229ea87",
+      "sha256": "24c82dc35d5f078739661d037e47221804ae2b915301fde53728fe92b073625d"
+    },
+    "images/packed/card_portraits/karen/karen_holy_star.png": {
+      "bytes": 352787,
+      "gitBlob": "9d06c10152b61f9492c07f92756d5a60fcd37aa4",
+      "sha256": "6d6f82678ce041b4401e29857f1394e44af36a6d4866f3ed3fccace472575f11"
+    },
+    "images/packed/card_portraits/karen/karen_jealousy.png": {
+      "bytes": 252923,
+      "gitBlob": "e86bf961aaea99d7e0d2202359cab73f52ec3412",
+      "sha256": "7690096caa8a87b3f4ac02328c1bb7221f2d7b1da55a7a453604aa49bbce296e"
+    },
+    "images/packed/card_portraits/karen/karen_landing.png": {
+      "bytes": 329251,
+      "gitBlob": "d8eee11934eeb10e2135828131b8f5851b8e2266",
+      "sha256": "588775f7e54d02b312e03e8bd475be679b1619df10b456fb97fa577f2a9a4698"
+    },
+    "images/packed/card_portraits/karen/karen_last_word.png": {
+      "bytes": 377826,
+      "gitBlob": "b02c49332265b7ecff8350d483cb91fbbcbcfb80",
+      "sha256": "4154154955bd1af7c65023e284798b5049275e3aece389902b03ad75b6686644"
+    },
+    "images/packed/card_portraits/karen/karen_letter_card.png": {
+      "bytes": 189992,
+      "gitBlob": "8a56f6805f842d6de5b87f6ef1a33a9d846a06c3",
+      "sha256": "a53a4a46606c018208594f39599254d1a7c1b306661af7aa917a67bdb9a37d07"
+    },
+    "images/packed/card_portraits/karen/karen_meet_again.png": {
+      "bytes": 472303,
+      "gitBlob": "ea1edbd0bedc224416127e8eaa3a83991302d800",
+      "sha256": "8ac3c93660cd1096fb57b03395b004ad8435d495c84a75531efa731fbc803dde"
+    },
+    "images/packed/card_portraits/karen/karen_new_day.png": {
+      "bytes": 279727,
+      "gitBlob": "adc196a22da4ab454dcda37a6929756f9cbba0cc",
+      "sha256": "3e7ab831903323c1ed8f6ef41337a5f76e26cf721c5fe2e83b0b446bfaaa0684"
+    },
+    "images/packed/card_portraits/karen/karen_new_situation.png": {
+      "bytes": 327109,
+      "gitBlob": "de62fcbe2b336b29fef590e044ea57020a8d2acc",
+      "sha256": "5609ddb6b63e1895b6c1afa36f242948091b7234202670238bf650896be2cdae"
+    },
+    "images/packed/card_portraits/karen/karen_next_stage.png": {
+      "bytes": 403144,
+      "gitBlob": "959b88e6d88331ae876ae159bf1e693437d90b08",
+      "sha256": "ddabb7f9725c18e59261b2c936ea376419f8a4788058120a1f99d8c8f5c8ba76"
+    },
+    "images/packed/card_portraits/karen/karen_no_hesitate.png": {
+      "bytes": 301899,
+      "gitBlob": "1d56a939a2f2f47afaebd3ce6326314c11e81b8b",
+      "sha256": "0149007cae2e506e468d1d8efcdc3ad2da3ee71cfa6c7a16f16984681c17a811"
+    },
+    "images/packed/card_portraits/karen/karen_nonon.png": {
+      "bytes": 359882,
+      "gitBlob": "6b2b2464dba7effc6257077b0912989d75e1e706",
+      "sha256": "e60aae154d420e5ffedbf19b033d80c5897479c221d4e79b752066ef20082f5b"
+    },
+    "images/packed/card_portraits/karen/karen_old_place.png": {
+      "bytes": 383920,
+      "gitBlob": "67f4dcaae8509b5c75a240e9adf23e3b888608fb",
+      "sha256": "120483af5607114486569678dfa38d3b986555946a4f68b2efd8ddba3c856650"
+    },
+    "images/packed/card_portraits/karen/karen_on_stage.png": {
+      "bytes": 344737,
+      "gitBlob": "e253d287a63b0aa0a07eec82aa612b256ec25c4e",
+      "sha256": "446460b67f5beb2a059ea4ea54d0bcb57e265799b51d40616518cec9c37a67fb"
+    },
+    "images/packed/card_portraits/karen/karen_open_up_stars.png": {
+      "bytes": 307269,
+      "gitBlob": "d0c677e9606adb37ca53bde1c64aaefde4318b8f",
+      "sha256": "58fc6799d9e4bb07d689ac183fad347ec5bbe41927e02f27401c03a7b9a0f22b"
+    },
+    "images/packed/card_portraits/karen/karen_our_promise.png": {
+      "bytes": 260741,
+      "gitBlob": "f185c8aa96802e4161aed4ed41578385e4744f4f",
+      "sha256": "f988a41d9a90f7738471f367563a4cbcc4fea0c5db77c433419ce868c02f1c9c"
+    },
+    "images/packed/card_portraits/karen/karen_parry.png": {
+      "bytes": 364493,
+      "gitBlob": "4fb0b6c3754825a582205c40d2ae97208aca4911",
+      "sha256": "d3aa78c4afc2ee0cf534ea9e79b840c739227013beb6e061c543baa783e15273"
+    },
+    "images/packed/card_portraits/karen/karen_passion.png": {
+      "bytes": 411122,
+      "gitBlob": "e88be818217c3c339ef21051e0db7bc7d82888ea",
+      "sha256": "269ae417b49d1bebe5d73bd515d7a52bd89f220d211dcebc353bb1d8d302e354"
+    },
+    "images/packed/card_portraits/karen/karen_past_and_future.png": {
+      "bytes": 243297,
+      "gitBlob": "945d2a1ce61d0b668f77cbc369e6a7cb7ff48690",
+      "sha256": "a8e98ba9b73b90a59445f51eb24feeb368db2893b098e3a30ef1b7038037f121"
+    },
+    "images/packed/card_portraits/karen/karen_pick_star.png": {
+      "bytes": 267632,
+      "gitBlob": "4aee4c3b97dcbfcfc9adb620afe35f4a74d218b2",
+      "sha256": "b7c15768df58ddaf74d6ca49453a1de1311a5d2097447628d8bb15e280ef8170"
+    },
+    "images/packed/card_portraits/karen/karen_pizza.png": {
+      "bytes": 336628,
+      "gitBlob": "86ad7a2e02c372f9df32cec9057619828ed39cbe",
+      "sha256": "49f3d3d96ac967fa0679376538875bb5508aecadec42cdff9e031ac54a66902f"
+    },
+    "images/packed/card_portraits/karen/karen_position0.png": {
+      "bytes": 2262642,
+      "gitBlob": "5d8d19c10fa4c88d4ac0799048396c59cce62d95",
+      "sha256": "507fb14dc38d7be178ab2df6f4051af412accb43f4948024c51829de83ee1f67"
+    },
+    "images/packed/card_portraits/karen/karen_potato.png": {
+      "bytes": 293954,
+      "gitBlob": "6c5fd8435911b76361356c552858854241f7f07b",
+      "sha256": "297f12e4dac2f2331a5516e1c4057774aaaf461db5359bd3452e932e11604b0a"
+    },
+    "images/packed/card_portraits/karen/karen_practice.png": {
+      "bytes": 291208,
+      "gitBlob": "cbf6a47c3b505464f8ee2895a3c18fa5a969fe93",
+      "sha256": "133125f5514ba5a68a97fc4303c38d7e738de45d6068d1a5872f75e016da339c"
+    },
+    "images/packed/card_portraits/karen/karen_practice2.png": {
+      "bytes": 322733,
+      "gitBlob": "a675a76334814e3584d1984eeaa5681a80e5ac36",
+      "sha256": "f0f927def31b1245ad34d8d6ac0d0d497f798b869e9086092bbfc2fd60b4d379"
+    },
+    "images/packed/card_portraits/karen/karen_practice3.png": {
+      "bytes": 242911,
+      "gitBlob": "5709a3b76079b4a400b1106f5a6e4e76bc6ca42a",
+      "sha256": "b3d4ab30d3f1111de63afd1861eee5605b5fd969a67137c049fa9bc530f67599"
+    },
+    "images/packed/card_portraits/karen/karen_promise_draw.png": {
+      "bytes": 400522,
+      "gitBlob": "19f4f5323ca785f514e7835cd466d4150b0e9b01",
+      "sha256": "3a95de8ae9e5d4f20f6b2539948c95d44809a94cb65460897df471457c529c26"
+    },
+    "images/packed/card_portraits/karen/karen_rapid.png": {
+      "bytes": 308006,
+      "gitBlob": "2ae100e5504298f77e9e7dae536843ae01c48e98",
+      "sha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+    },
+    "images/packed/card_portraits/karen/karen_ready.png": {
+      "bytes": 444935,
+      "gitBlob": "15debd2eed022c6eba4201683bbcb312e2a91c4f",
+      "sha256": "b367d9ddfe73aaef98b9ce4ad11479917b9402387cd021c69cdd268f9a5d84ee"
+    },
+    "images/packed/card_portraits/karen/karen_reborn.png": {
+      "bytes": 218059,
+      "gitBlob": "392de0326325070a9df3836deec0d8e97d0edf05",
+      "sha256": "b4634d5b9e51a6683b6742a8731ff61815c6cea52dd396f7df609f996846e9b5"
+    },
+    "images/packed/card_portraits/karen/karen_revue_duet.png": {
+      "bytes": 364230,
+      "gitBlob": "7d80a5c5743a5aafcc976ba74e0e2c10337452b2",
+      "sha256": "7740634874c0b58040f093a5dfa4f907fa42f5426e73d8db67819a0387742ff4"
+    },
+    "images/packed/card_portraits/karen/karen_rewrite.png": {
+      "bytes": 219541,
+      "gitBlob": "f4178638a4f28221b097536c4ee25008d58af2d5",
+      "sha256": "77101abeab801a877177a3ad65639d5a67a6dce9fb3d0b16ac6ea458c3192bb7"
+    },
+    "images/packed/card_portraits/karen/karen_run.png": {
+      "bytes": 351719,
+      "gitBlob": "fa0194f02486bdfcdf3b44b03ef0600a67346c2a",
+      "sha256": "4a276ab5a3ceb029a619daa0e808d4a6653c7e926ac2f9230d0cc49f90e50a11"
+    },
+    "images/packed/card_portraits/karen/karen_shine_strike.png": {
+      "bytes": 381515,
+      "gitBlob": "addde074b9208551681db64b05b6d5e06b7c4abd",
+      "sha256": "66aa2d1f13cc5da5a86ef05dafbbb139a483ecec7aba631c0b0377da1e66305e"
+    },
+    "images/packed/card_portraits/karen/karen_shine_strike_barrage.png": {
+      "bytes": 355443,
+      "gitBlob": "6e831fa89bc24c041935003d56a9bda6e57566ca",
+      "sha256": "a66e4490a503a2291caf01855cc2c81b06e0e547423e1ea45a70090d8f460a75"
+    },
+    "images/packed/card_portraits/karen/karen_shine_together.png": {
+      "bytes": 267993,
+      "gitBlob": "a2432ffca38ecb0847c7d30edbe72c83fc63463b",
+      "sha256": "de31c990334365b0ba80f4b276bd572317a3a3d2c7a20b07a399ea82cafc2472"
+    },
+    "images/packed/card_portraits/karen/karen_shine_together_all.png": {
+      "bytes": 279609,
+      "gitBlob": "541e90daeb4909d8176d0a4df8e6db45a4afca72",
+      "sha256": "a1ce7d2c66ae38ebd1edec0e461846b51c814cfb620268c35ce4089bd613a5ab"
+    },
+    "images/packed/card_portraits/karen/karen_small_snack.png": {
+      "bytes": 320770,
+      "gitBlob": "27f57591aba2e32019341d893aad352511591b0c",
+      "sha256": "0962344d8d78155787c9f586d3efabaa20410c22b7bcadb640b1d4c697c04ff1"
+    },
+    "images/packed/card_portraits/karen/karen_spin.png": {
+      "bytes": 243472,
+      "gitBlob": "2d5e2a68c0ddbb8f54e1b20fbbcc3e26ea6c0847",
+      "sha256": "06d3e9ac5354e29a7d55504d257f807900276a55342f80117c88c07240b190d7"
+    },
+    "images/packed/card_portraits/karen/karen_stage_is_waiting.png": {
+      "bytes": 151719,
+      "gitBlob": "4304dc45abeeb16d2bc6d69ad0fae25936fcc0ef",
+      "sha256": "95ec8b196aa22f540f0a46514a565285388f39a59b75ab63653dbd3a5f4475cd"
+    },
+    "images/packed/card_portraits/karen/karen_stage_reproduce.png": {
+      "bytes": 272461,
+      "gitBlob": "f83d54fd2bbf2703c91fe9011bda7a290c9980e2",
+      "sha256": "4030bfd0683f26e854ec0721a407ef95f1c77bd551a3a8f8fe221b914f0e3348"
+    },
+    "images/packed/card_portraits/karen/karen_star.png": {
+      "bytes": 335762,
+      "gitBlob": "7f1e2c9bb708db933ff67571a80966fde1bbc5c8",
+      "sha256": "608f45977c4d10c6127ceb1a9cdc3cc9ac2ea2eeb12f255ed4df1a71cf12165b"
+    },
+    "images/packed/card_portraits/karen/karen_star_crime.png": {
+      "bytes": 332894,
+      "gitBlob": "6ca8080258dcffdd0e82c281036468b71a78e1b1",
+      "sha256": "10b57ade5b22849a59b6638931201e1bb6413da619652a85f20c2b8e1b840052"
+    },
+    "images/packed/card_portraits/karen/karen_star_friend.png": {
+      "bytes": 313151,
+      "gitBlob": "4e76482b0ffab1441b134282551e987111c7c66f",
+      "sha256": "27907b22a8fe6d6082b29c9d322b9119c02fb333d645cc3a2c1839cf7195cee5"
+    },
+    "images/packed/card_portraits/karen/karen_star_guide.png": {
+      "bytes": 88185,
+      "gitBlob": "d6e63ea01ac672e7bd087e8f4b6cccace2a303e1",
+      "sha256": "15f3431fa4017352ed79278c6bdbcf6c4ac84bc21d5832ea7928fb193f81f7cb"
+    },
+    "images/packed/card_portraits/karen/karen_starlight02_card.png": {
+      "bytes": 309376,
+      "gitBlob": "9f16bd61a341ee018e74f5f7164a31529d1bd79d",
+      "sha256": "97a75fd81114c7f28ed2b9f3d4c0a327269392c2902577f6003fc53f20ee646e"
+    },
+    "images/packed/card_portraits/karen/karen_starlight03_card.png": {
+      "bytes": 217701,
+      "gitBlob": "6543b5405d1d83c25f0e8863cb26740e54cff8a0",
+      "sha256": "5c1f607d85a5bdecc120645b039503f45103729678d62a4a9fdee5b471967281"
+    },
+    "images/packed/card_portraits/karen/karen_starlight_card.png": {
+      "bytes": 228907,
+      "gitBlob": "57bd6d518e7d0daa879bd6fe1588847fa77b2443",
+      "sha256": "5a4ecab34084ad30b3b8cd52a93001376a7213cd4fcabda125675f141ba7482a"
+    },
+    "images/packed/card_portraits/karen/karen_stretching.png": {
+      "bytes": 258210,
+      "gitBlob": "d041cb9c00341dec55e9f40f1254d22d5378a355",
+      "sha256": "e8a1e79be5904a6f7687efd8b77c332a9dc372ca4efb7e51df2f960b04e0e8e7"
+    },
+    "images/packed/card_portraits/karen/karen_strike.png": {
+      "bytes": 319354,
+      "gitBlob": "3f00492011f7aa73542f588efe51fdae21f8de55",
+      "sha256": "f2e3f70aea93d8b09ac9a267ca7f8d5b678ca250c5fb59a3d522da07b5cc2818"
+    },
+    "images/packed/card_portraits/karen/karen_sunlight.png": {
+      "bytes": 299769,
+      "gitBlob": "170e5c4814f0c9fa0615e0a84218073f9dd36ba0",
+      "sha256": "3437c3f02b048760dd4dc12acdc86b8703b28c43af587f525f0b37607213e1dc"
+    },
+    "images/packed/card_portraits/karen/karen_sword_up.png": {
+      "bytes": 345722,
+      "gitBlob": "ceb988bc0d9775d449c8a22ba9d44ceccff01a0d",
+      "sha256": "6a1a740ba828d8dd1ea8c204195f6b08e890e5e334763cbc5b0b3f5f9b63148a"
+    },
+    "images/packed/card_portraits/karen/karen_ticket.png": {
+      "bytes": 184081,
+      "gitBlob": "37e3e66f023cc4111cfdff63adaf715d96c2338f",
+      "sha256": "5ef3bf30b8427d4c5d0913f06345d7e29191b34107b24f24f78a0de6d5e93772"
+    },
+    "images/packed/card_portraits/karen/karen_to_the_stage.png": {
+      "bytes": 291700,
+      "gitBlob": "3f8c91b7f4da2693cb84b1731d6e4c108912c9cb",
+      "sha256": "82306b116fabb5833a71158519d604ea22428aa6c52be29ed614a6775d4fb23e"
+    },
+    "images/packed/card_portraits/karen/karen_under_tower.png": {
+      "bytes": 373047,
+      "gitBlob": "51345299965b130ed45f1e39a3f944d2e931fba5",
+      "sha256": "b887a5c53a039bf71829b0df054d2cce5ca8ca4f4403bf494a12ed5617df0d01"
+    },
+    "images/packed/card_portraits/karen/karen_void.png": {
+      "bytes": 238844,
+      "gitBlob": "576a72836af317d4edb8236ed5666fef139df120",
+      "sha256": "d1b5743146e83fbae3fe4f99dc9c5d7649836d85f7e6db802f84177f8b1f6d7f"
+    },
+    "images/packed/card_portraits/karen/karen_wake_up.png": {
+      "bytes": 364587,
+      "gitBlob": "183abb3cc84d8733270904bad485a27331f98cff",
+      "sha256": "d2f47754f56d9ed91408f44bfbb85088357194e8d618006472c9ce66ea183af8"
+    },
+    "images/packed/card_portraits/karen/karen_we_kown.png": {
+      "bytes": 367965,
+      "gitBlob": "0d966cc339f0728ef422dc67ce16ae9065f78fbf",
+      "sha256": "69e02187a3c6caffbf32c5d25ebbe2bcb819795c9f71777c4d5e8742f2e39f31"
+    },
+    "images/packed/card_portraits/karen/karen_whos_promise.png": {
+      "bytes": 348782,
+      "gitBlob": "64bc57c4998bc74a2cf19631573c8bd3b67e5872",
+      "sha256": "340e17cf43f27b57e9bc1b771b3d976d7fe2ce23ddebc8033e23ae338561b4e3"
+    },
+    "images/packed/card_portraits/karen/karen_why.png": {
+      "bytes": 1635421,
+      "gitBlob": "c35e7a80c2da46d74d3ffd7c5ffd5da50e2e9cff",
+      "sha256": "e211f0b70ef99994c1008bedea3336c136f9f4c415af190e6ad5407271ccc8fa"
+    },
+    "images/packed/card_portraits/karen/karen_yesterglow.png": {
+      "bytes": 362364,
+      "gitBlob": "c0378f5bd18f3b95dfea00e945cc08ae70711081",
+      "sha256": "2679e1aafb4a0ed2af1d640c50bcc1301c1d4986e652495bda0065e3316931ee"
+    },
+    "images/packed/card_portraits/token/karen_awake_potion_discard_pile_option.png": {
+      "bytes": 17388,
+      "gitBlob": "dc6d2ec3182673464098627efef75b50b2da7874",
+      "sha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+    },
+    "images/packed/card_portraits/token/karen_awake_potion_draw_pile_option.png": {
+      "bytes": 19703,
+      "gitBlob": "56f68e8441d6a47863c3402ddc78bf08da678876",
+      "sha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+    },
+    "images/packed/card_portraits/token/karen_awake_potion_promise_pile_option.png": {
+      "bytes": 13820,
+      "gitBlob": "bcb680f93d3d0ed4939c34693ddf1aae142aa2ec",
+      "sha256": "2c77f110d1cb90c09c8e46d61af48005252018482455a7146b59a4605e6e75f8"
+    },
+    "images/packed/card_portraits/token/karen_banana.png": {
+      "bytes": 296890,
+      "gitBlob": "01a77af36556b47b5f9eb0cc99ca986c164cd1ab",
+      "sha256": "4533dbe752393c48195486f0e058072089e4d2a735f65207e05a6c7be62b0543"
+    },
+    "images/packed/card_portraits/token/karen_confront.png": {
+      "bytes": 373512,
+      "gitBlob": "614cda93464755a2345566a7c8046fae5a829798",
+      "sha256": "ff2fb9be01298c2a2eb31823cbadc41d800b9d8c4654a3394c42a5a99eed7788"
+    },
+    "images/packed/card_portraits/token/karen_continue.png": {
+      "bytes": 295155,
+      "gitBlob": "6fabdfeb39cb1b9cac79630175533d9410bbba7c",
+      "sha256": "84ae1b54fdf17e418f1d69325a4f0d9aa6435ad0697c3478957a49965ba0d1f3"
+    },
+    "images/packed/card_portraits/token/karen_counter.png": {
+      "bytes": 357307,
+      "gitBlob": "e7a8398975b63d587a7dcd03d5e86eae29165d58",
+      "sha256": "c61663f7dde8e51ce02e0cf4cfebea32a0c92553829d0d209087d0ece28d2b3c"
+    },
+    "images/packed/card_portraits/token/karen_empty_shell.png": {
+      "bytes": 275929,
+      "gitBlob": "032136008a2dc392f6c3931e4b6f9afff9851371",
+      "sha256": "61611a17347c13d335cad3c37316e038a360639afb127662378087bdd31afbbe"
+    },
+    "images/packed/card_portraits/token/karen_no_hesitate_discard_pile_option.png": {
+      "bytes": 17388,
+      "gitBlob": "dc6d2ec3182673464098627efef75b50b2da7874",
+      "sha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+    },
+    "images/packed/card_portraits/token/karen_no_hesitate_draw_pile_option.png": {
+      "bytes": 19703,
+      "gitBlob": "56f68e8441d6a47863c3402ddc78bf08da678876",
+      "sha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+    },
+    "images/packed/card_portraits/token/karen_no_hesitate_hand_option.png": {
+      "bytes": 11412,
+      "gitBlob": "990cc1b684ff3c635e0dcda1f3f8439e265d4df6",
+      "sha256": "29d431816b0d127a302c2f33b7e1025c76acfc8a2c8cb6bb220f079cd40514e3"
+    },
+    "images/packed/card_portraits/token/karen_old_place_retain_block_option.png": {
+      "bytes": 6802,
+      "gitBlob": "ef6b4221ffe6a7e4d3954cd3af5249bae08a1cfd",
+      "sha256": "cde10cbc24dc787e934dbd1bf1e5590154ed9922dc51e746c60dd6b93806899f"
+    },
+    "images/packed/card_portraits/token/karen_old_place_retain_energy_option.png": {
+      "bytes": 7363,
+      "gitBlob": "f6caaf3e287f465d7e2dbeac39da19f1362759b2",
+      "sha256": "3f4a774df95502e53c709505ac7d191aa5ac078d724bf89ac98747df05d67dd2"
+    },
+    "images/packed/card_portraits/token/karen_old_place_retain_hand_option.png": {
+      "bytes": 5044,
+      "gitBlob": "852a033db63be85762df5efe3ce4c3796881f859",
+      "sha256": "cdf9d0f4b9f4a3f29b9f4641ba7ffd9aed63c7a1eb2af0930e9b27c17d8e1384"
+    },
+    "images/packed/card_portraits/token/karen_old_place_retain_strength_option.png": {
+      "bytes": 9405,
+      "gitBlob": "81d6b50c5833bbb7aa132b59dfe30a6360a21789",
+      "sha256": "3f2652a7eb32eb88588f14a8d94ed437b5f6b4c03bf6a5c3b403ee93f9ec51eb"
+    },
+    "images/packed/card_portraits/token/karen_rapid_put_option.png": {
+      "bytes": 308006,
+      "gitBlob": "2ae100e5504298f77e9e7dae536843ae01c48e98",
+      "sha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+    },
+    "images/packed/card_portraits/token/karen_rapid_take_option.png": {
+      "bytes": 308006,
+      "gitBlob": "2ae100e5504298f77e9e7dae536843ae01c48e98",
+      "sha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+    },
+    "images/packed/card_portraits/token/karen_sandwitch.png": {
+      "bytes": 365655,
+      "gitBlob": "d3a0f1662e15e3982813c95bf5dffae978c76a93",
+      "sha256": "63347bad2521753ec81f2a75ac6b3b773c6d323fb6e284b0ce6d1f118f1d107a"
+    },
+    "images/packed/card_portraits/token/karen_shine_reproduce.png": {
+      "bytes": 247472,
+      "gitBlob": "8f7ce7e960cc3a05e23624975278c90d2cd9e311",
+      "sha256": "63a9c64d49806f9db0350ad1b7cae35370d3fa6fe00ba3c7dec5d13e42ee7ef4"
+    },
+    "images/packed/card_portraits/token/karen_sideways.png": {
+      "bytes": 306063,
+      "gitBlob": "a9ceca4c94c9303172763498c2431bee828a9830",
+      "sha256": "b8875e17b155f400e316d169215342bad106d1ebb5e1a589afd460ef42a844ae"
+    },
+    "images/packed/card_portraits/token/karen_tower_of_promise.png": {
+      "bytes": 451382,
+      "gitBlob": "6576ab681edbd0d15344b9f3b4bdef36d5dd5647",
+      "sha256": "2725201e48d248c724a1e3e65ab4768bd3c20ae56d97445aae4e66e16d31eb0f"
+    },
+    "images/packed/card_portraits/token/karen_wake_up_discard_pile_option.png": {
+      "bytes": 17388,
+      "gitBlob": "dc6d2ec3182673464098627efef75b50b2da7874",
+      "sha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+    },
+    "images/packed/card_portraits/token/karen_wake_up_draw_pile_option.png": {
+      "bytes": 19703,
+      "gitBlob": "56f68e8441d6a47863c3402ddc78bf08da678876",
+      "sha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+    },
+    "images/packed/card_portraits/token/karen_wake_up_promise_pile_option.png": {
+      "bytes": 13820,
+      "gitBlob": "bcb680f93d3d0ed4939c34693ddf1aae142aa2ec",
+      "sha256": "2c77f110d1cb90c09c8e46d61af48005252018482455a7146b59a4605e6e75f8"
+    },
+    "images/packed/card_portraits/token/karen_we_kown_token.png": {
+      "bytes": 255490,
+      "gitBlob": "32695ae336423a60b1eb142d56b54310949d293d",
+      "sha256": "dfb21aa2504fdbc375f9e8cb9a7d586fd4a23411d3cc70f9a7833e4692c243c4"
+    },
+    "images/packed/character_select/char_select_karen.png": {
+      "bytes": 48066,
+      "gitBlob": "4f97832f7a9dfa9712de0d8185e42da413730262",
+      "sha256": "7b343d9abb207fa3a809f552c7157d6505b00f10160556e7db3d31c8c16917da"
+    },
+    "images/potions/karen_awake_potion.png": {
+      "bytes": 55476,
+      "gitBlob": "cab7d997a296aa25124dc0ea36bb43276c6bff2a",
+      "sha256": "d58da9b6d23188ae9cc26912eedaacaaef089f52786259808d8168cd7a0a4478"
+    },
+    "images/potions/karen_awake_potion_outline.png": {
+      "bytes": 1496,
+      "gitBlob": "abdc6501bd20cae542783668bd666cd9475ab6ea",
+      "sha256": "c9ef2471a3c519d93fc152a5d81137f1ecca698e5742011f1e99270b3f20c813"
+    },
+    "images/potions/karen_shine_potion.png": {
+      "bytes": 49656,
+      "gitBlob": "b68483b28aca73da4186199bf31783b31a1e9778",
+      "sha256": "64774b16d95a3c909afb3e0af6a5797716d5b8b6aa6ac94ac56b110475115397"
+    },
+    "images/potions/karen_shine_potion_outline.png": {
+      "bytes": 1596,
+      "gitBlob": "651dccc008bd93c68534339f151501b92bf4deaf",
+      "sha256": "676a58f9af6715d8ea932bd5fb34bb496f88165ecca8e41282439825c671d091"
+    },
+    "images/potions/karen_tea_potion.png": {
+      "bytes": 69984,
+      "gitBlob": "80e1f84472220a943faa9541f6496e2d351287f4",
+      "sha256": "4aea90b3afe18d712ab5750674b8db5760d39fe93ffe47386c791eed8007a1f7"
+    },
+    "images/potions/karen_tea_potion_outline.png": {
+      "bytes": 1783,
+      "gitBlob": "11c6b3d4917494c8d099a746003144ab18dcc81c",
+      "sha256": "787743e1dd2ad72309bbed6a87f4346eda97a87a71496f74bb8da1a5aad1d89a"
+    },
+    "images/relics/karen_baseball_cat_relic.png": {
+      "bytes": 13080,
+      "gitBlob": "c439d770cf303202229139dbc05da73542694840",
+      "sha256": "8ba9452c1e2cdc34c7d5dbaa2ffa44483565a8a166b02185c826a938a8684439"
+    },
+    "images/relics/karen_baseball_cat_relic_big.png": {
+      "bytes": 82503,
+      "gitBlob": "04c2b50a48a994f0988429343649d3f725fb5319",
+      "sha256": "b87e214105116bc06e3851f7251774b99f7c3a06811868c1b07860777b746653"
+    },
+    "images/relics/karen_baseball_cat_relic_outline.png": {
+      "bytes": 2297,
+      "gitBlob": "793c1997075b38aafd1003f3aaffa48ee21dd243",
+      "sha256": "90c5b6f232186158d71a73538a3f558dad95addaf6099108712ff11c18789023"
+    },
+    "images/relics/karen_cookie_relic.png": {
+      "bytes": 7251,
+      "gitBlob": "471b2ea9d55c37571ccd9d9686875bc9250c2c9d",
+      "sha256": "3ad09b6843db0463481baf2ae85289dd03850c194b81ad9dec31aab34dee242f"
+    },
+    "images/relics/karen_cookie_relic_big.png": {
+      "bytes": 44652,
+      "gitBlob": "a52ab5c0d0016a46fb303bf45571d50393ef1726",
+      "sha256": "2a1de3e6d1409f6c9fb4db713a83d4cdb108cc79f6708004666ec7e936f7811d"
+    },
+    "images/relics/karen_cookie_relic_outline.png": {
+      "bytes": 1287,
+      "gitBlob": "26f0afd0cd0ab06e5fc422f6eee57562ca282c3d",
+      "sha256": "df2a24629b6f9242c8055b4d3ccc85ce4b5e1f4ccc9390bce7d94ff0c637e99e"
+    },
+    "images/relics/karen_hairpin2_relic.png": {
+      "bytes": 6091,
+      "gitBlob": "3c9316ab0b03165e792ba66ac6ae1d17833e6548",
+      "sha256": "a5a6de8a3b317f2f983e10a56e40a017d2c122f8fb530c349501a84301177d97"
+    },
+    "images/relics/karen_hairpin_relic.png": {
+      "bytes": 20701,
+      "gitBlob": "aea53d496662c2a5d92ff40b7b092dbe8537c728",
+      "sha256": "9d9db8afc5fd0b400d1fd9a7ad323dedbea0cbf7f02a919030464e3a86b4a2cd"
+    },
+    "images/relics/karen_little_star_relic.png": {
+      "bytes": 6818,
+      "gitBlob": "ebabc63c26cc5d5a99df5ef7b52fcab462a4bafd",
+      "sha256": "47b7257299b1298102cf979ce501f2cc32debd12d3db677081b1064f3a33507a"
+    },
+    "images/relics/karen_little_star_relic_big.png": {
+      "bytes": 41275,
+      "gitBlob": "c10cc8ef268ea5a8b4c7199b7e4768832bd36d61",
+      "sha256": "f0ceb3ad44e7030344f15642ef0384c56def40a2dcc9e14462f5e574dfe4f982"
+    },
+    "images/relics/karen_little_star_relic_outline.png": {
+      "bytes": 1878,
+      "gitBlob": "635ac8fe1b36ba259214a336eea3563aea82aaf9",
+      "sha256": "193988fb376fb1aa9c1795d945c4d8079f7f2353ba7aab1507886059c4ae3d85"
+    },
+    "images/relics/karen_lock_relic.png": {
+      "bytes": 4254,
+      "gitBlob": "4febec0cd20c874f77d5646a9aca8ed3e4522f5f",
+      "sha256": "f8a77e0674776bdc6b177c89eb2d071c65ad7165ed185999f7fddcbe9a3ef668"
+    },
+    "images/relics/karen_mr_white_relic.png": {
+      "bytes": 9094,
+      "gitBlob": "c65548acd7ba8e1015ee9b6221e53058e37ed02b",
+      "sha256": "191e5862e5cc30ffaf1237422ba26fd76f1d43b94daae572f741f414d15c4763"
+    },
+    "images/relics/karen_mr_white_relic_big.png": {
+      "bytes": 56307,
+      "gitBlob": "dfa26f9f65eb924b6438e2315a118b60181f0085",
+      "sha256": "cdf49a64027d439e0a15a664f9613f5702aad5ac6120402b486955aa864c3b91"
+    },
+    "images/relics/karen_mr_white_relic_outline.png": {
+      "bytes": 1670,
+      "gitBlob": "0cab394c96ad7db9faabcb7279e1ffe201ef8948",
+      "sha256": "9a75641e579adc942a7ac89b4f944c399861c8fcf0df37be0de418c60ea43623"
+    },
+    "images/relics/karen_star_hairclip_relic.png": {
+      "bytes": 7651,
+      "gitBlob": "308eb422244d969663906e3342792c535f3d8946",
+      "sha256": "ef62c9192e859da1f28e44a497a9b891ab9fff8da9e2c104889b0b182d065006"
+    },
+    "images/relics/karen_star_hairclip_relic_big.png": {
+      "bytes": 43248,
+      "gitBlob": "56ed98be3dbe62c05c2850d17dd377913a0c6fb7",
+      "sha256": "2fc8719d891aee84dfa373ce28b8a3e49736fc082bfb852c957002d8fb162808"
+    },
+    "images/relics/karen_star_hairclip_relic_outline.png": {
+      "bytes": 2075,
+      "gitBlob": "80430c5eac1b10d8d8c74b6d633476cdc0384a71",
+      "sha256": "baa70994bf5b81add89393fda2e4ce9e87d1463193114c34814ce73a2f429ea6"
+    },
+    "images/relics/karen_star_tiara_relic.png": {
+      "bytes": 9098,
+      "gitBlob": "9b96942e0f6a00fe6793ace31f2fe89ab90507e3",
+      "sha256": "a13757c5404c0175b9743c8c9ae490e4d578c67021624567c160e1cfa38721f0"
+    },
+    "images/relics/karen_star_tiara_relic_big.png": {
+      "bytes": 58038,
+      "gitBlob": "f55cd0ddf1a104e5a66f5b8ad72f19e432a9229e",
+      "sha256": "d93696d2aa0bcf36c05e69b9b8635538158cc0269b7e7be6a8c4bfe243aa9eba"
+    },
+    "images/relics/karen_star_tiara_relic_outline.png": {
+      "bytes": 2524,
+      "gitBlob": "dd68759bbe8ce00b5aaa6951a809ec2c126e33e9",
+      "sha256": "656ecdefd9598c0b23bc1d5356377d5adff5531a33b3428414aaf3b0efd7d0ca"
+    },
+    "images/relics/karen_water_bottle_relic.png": {
+      "bytes": 5242,
+      "gitBlob": "a3de703e6887e48e7d3f5352e18a0703a6ace40f",
+      "sha256": "771d5fc55b50332b782d1be6a75a2472c9739e768e80454cc4a9ae71191571d6"
+    },
+    "images/relics/karen_water_bottle_relic_big.png": {
+      "bytes": 32180,
+      "gitBlob": "a33855f1ec36af13867aac2996b0c8a4aa889825",
+      "sha256": "ef8ed400f30bf39e35a317faf856fc22639e7d4b7eb2472db2f78a280bc42522"
+    },
+    "images/relics/karen_water_bottle_relic_outline.png": {
+      "bytes": 1454,
+      "gitBlob": "fa9cd2da72bdfd24938045797bc59e38e43182b8",
+      "sha256": "6fb603d8e913999cfeec939f39ca9fae88f618cee90801991993786d333fc516"
+    },
+    "scenes/screens/char_select/karenPortrait.jpg": {
+      "bytes": 1070589,
+      "gitBlob": "b320d0642dad70967203d0c3d9f2ef2da3fa212f",
+      "sha256": "6179126e874393ea632231c773b3372a615b401d4cffc254217838991ee95dc9"
+    },
+    "src/Core/KarenCustomEnum.cs": {
+      "bytes": 1130,
+      "gitBlob": "9b61d5eb1a31d08c437879f70ae348b30a95c140",
+      "sha256": "6bf781084c619027d363edb33dfbb43fa19d41e956ff2e5c558cc13dafb5af7d"
+    },
+    "src/Core/Models/CardPools/KarenCardPool.cs": {
+      "bytes": 5702,
+      "gitBlob": "9cf661c2b308ba29f312a1fd68c0bb9c39de8575",
+      "sha256": "ac6e2c318d4b5521171ec97dfb526a1b239f4295a9f1e021cb319c2e9910eb76"
+    },
+    "src/Core/Models/Cards/CardModelEx.cs": {
+      "bytes": 4181,
+      "gitBlob": "cda69f55abd77e5b709883c58b4a6f98b761604f",
+      "sha256": "ae5288dfdf8daa3d3939f9a1d7b0f70bd80d5636387f499da901e441759ef084"
+    },
+    "src/Core/Models/Cards/KarenBaseCardModel.cs": {
+      "bytes": 5103,
+      "gitBlob": "9d48a8c6edaf7a3aa4773ad189a4680c32998077",
+      "sha256": "c5acfef74f9d9a16a8024a5d6f6df072ab052eb94d90bae6e9aae8aa1ffa3633"
+    },
+    "src/Core/Models/Cards/KarenDisableRelicBaseCardModel.cs": {
+      "bytes": 939,
+      "gitBlob": "095620f3d9d730d74872b64f254c978c348e67cb",
+      "sha256": "96df6cfdd86ed7bfc755b0f5c1d034236760a8ab9cca21e392b6810c53ecbadf"
+    },
+    "src/Core/Models/Cards/ancient/KarenWhy.cs": {
+      "bytes": 1528,
+      "gitBlob": "32b90d48b06118d322f77ae3c77ede5f1bf16b59",
+      "sha256": "c8dbd9e1352a7ea29f17f4ec52bbe05a0b90eeb2dc785ec25ac9260ef6556777"
+    },
+    "src/Core/Models/Cards/basic/KarenDefend.cs": {
+      "bytes": 1038,
+      "gitBlob": "29ce37eb42eb264972b22912a94d465ccf885d0a",
+      "sha256": "bcea3cbf7622f73901b0bb8a389b72573cd82368ace382d5c8f213906cf287f9"
+    },
+    "src/Core/Models/Cards/basic/KarenFall.cs": {
+      "bytes": 1540,
+      "gitBlob": "528dc0456f254e27d7648f1191214ceb2739a235",
+      "sha256": "7434f43a27a855ee4ad91f7db346126ba196ae986b1ff29c19ee704e49529567"
+    },
+    "src/Core/Models/Cards/basic/KarenPromiseDraw.cs": {
+      "bytes": 1670,
+      "gitBlob": "2437d8d0b045d36613507b1f30249e46bf3d123a",
+      "sha256": "692f77a524f9ddbfa9a819d358b111a9e6ee1d532be5453925a417064b712493"
+    },
+    "src/Core/Models/Cards/basic/KarenShineStrike.cs": {
+      "bytes": 1639,
+      "gitBlob": "66d54b1be0d44251f732273776fc7b7cad620f70",
+      "sha256": "2aa4afca7fe3c784366bb7f0918140eb9b47b2f0fddf3c0520ba5973ca3153da"
+    },
+    "src/Core/Models/Cards/basic/KarenStrike.cs": {
+      "bytes": 1148,
+      "gitBlob": "385effdcb9c74a2472f7c1f1f09c713b382476a8",
+      "sha256": "376c4c76d5c718fa1f1b2d4104ac8b019acbd2244b9644186b19fbc5cf33cf83"
+    },
+    "src/Core/Models/Cards/curses/KarenSleepy.cs": {
+      "bytes": 1001,
+      "gitBlob": "0c99cae928e509ce8d1932d3c871a8ec47d0a5bb",
+      "sha256": "b3dfab3583456f38f16b788ad69b077d176d76ac41bc0798ecce4987fbba31ce"
+    },
+    "src/Core/Models/Cards/curses/KarenStageReason.cs": {
+      "bytes": 1023,
+      "gitBlob": "fdfeab77328c9f57505fca98caa6dbc7171dfd4d",
+      "sha256": "47131c1533a8ded27414cc70f5e71a28e0ceea6543e3d96e5cbd27da0d6f1da1"
+    },
+    "src/Core/Models/Cards/globalMove/KarenNextStage.cs": {
+      "bytes": 1642,
+      "gitBlob": "86a0392f093c00a3d2578b6c3acc91bdb9157f7a",
+      "sha256": "0d9f183aad675ebe9f6e65efe57e383b5f5d79bc2b1699e94573d57d0d0c1237"
+    },
+    "src/Core/Models/Cards/globalMove/KarenSpin.cs": {
+      "bytes": 2389,
+      "gitBlob": "e60c19fcc87634dabc4786bd5c4187fd42833a25",
+      "sha256": "82f9e99166ee8fbd90ece35fa488c06d0d3a39d3ec4bc851fd019029fde5df28"
+    },
+    "src/Core/Models/Cards/globalMove/KarenWakeUp.cs": {
+      "bytes": 2202,
+      "gitBlob": "c49db8e554d6f72b03cc8ee7824de49b4a2f52e9",
+      "sha256": "f04f9ba1a3cfe7da7c963ddf4fb787fbc3378f5122e1735a701eca5f4a19287e"
+    },
+    "src/Core/Models/Cards/neutral/KarenBananaCake.cs": {
+      "bytes": 1829,
+      "gitBlob": "e810945013f043ed6c40fd5c3a78abe56af43e0b",
+      "sha256": "975db5bf37ef636de440a6cd83e26afbd895ecd2d4b96762094ea9f764033157"
+    },
+    "src/Core/Models/Cards/neutral/KarenBurn.cs": {
+      "bytes": 1187,
+      "gitBlob": "a054040307cbb17a2de8266aa204676141534e06",
+      "sha256": "cb841022ada0b59cf48e24aed498f59fcf2f6aaff808755c7df8e440f2e4f72c"
+    },
+    "src/Core/Models/Cards/neutral/KarenConsciousness.cs": {
+      "bytes": 1820,
+      "gitBlob": "e9396cb9bf1c04e68b01ae5abb236e1de6fde2c8",
+      "sha256": "4517489045f5f286a41e76135d11c6ab3a4e83fbaa9d93d6958d09c6f92638b9"
+    },
+    "src/Core/Models/Cards/neutral/KarenCry.cs": {
+      "bytes": 1298,
+      "gitBlob": "75ec93a7e77d1446daaf7c9a575c9e4abe1fe0c9",
+      "sha256": "54a00130b64cfe78391cc29eac3898de638137d18327c4847ba342b0d827e9e2"
+    },
+    "src/Core/Models/Cards/neutral/KarenForm.cs": {
+      "bytes": 1117,
+      "gitBlob": "e89db3e66dc8d752db02dda88ac006eeeda3e37f",
+      "sha256": "fb5ea9ddbfe520bf76c910b57920a3432f03a3f6c9e479d5c5714d332bafe43b"
+    },
+    "src/Core/Models/Cards/neutral/KarenGeer.cs": {
+      "bytes": 1243,
+      "gitBlob": "9793f440edc42237ff8a3acea48715c69f5e9028",
+      "sha256": "e1cc44c30ecb9e7307fb24b0fbb13decedd54392bf89d202e59ec2fa1e1cd47c"
+    },
+    "src/Core/Models/Cards/neutral/KarenLastWord.cs": {
+      "bytes": 3823,
+      "gitBlob": "54d36010190118b54777145afe4d8b1d4505bdf2",
+      "sha256": "606822c6d3307725589b0448d7e200117b4ca38c6e654b47748a9cb80b9040fa"
+    },
+    "src/Core/Models/Cards/neutral/KarenOldPlace.cs": {
+      "bytes": 1794,
+      "gitBlob": "ca7a645ca9f44b2703bda5cfea3ea04c6c8e294f",
+      "sha256": "dba50d96b6c4a70729453b68d9a18ebaa4ee7dbad0fb2408ca5d2e2b52dbaacd"
+    },
+    "src/Core/Models/Cards/neutral/KarenParry.cs": {
+      "bytes": 3380,
+      "gitBlob": "447b714e977d1fdca3dc494bd5da49671218d5f8",
+      "sha256": "f72bb2e819272dc15b6c415ce8233a2a411096b172d23c808793257ab85cdaed"
+    },
+    "src/Core/Models/Cards/neutral/KarenPizza.cs": {
+      "bytes": 1677,
+      "gitBlob": "e1fcaffc44b96ac54a69b599e69815b294eeef99",
+      "sha256": "4543575fb212a6988ee7296ec29f3a72c42f9294a8b2f7b49aefce6afbb76f14"
+    },
+    "src/Core/Models/Cards/neutral/KarenPosition0.cs": {
+      "bytes": 1100,
+      "gitBlob": "11915754bf415c3c7c11e4d03dab65185a9ed644",
+      "sha256": "876db89ce4cbdd07cbe75fe01203d1f912e411f7d338f116106d2df824d492aa"
+    },
+    "src/Core/Models/Cards/promisePile/KarenAquariumCard.cs": {
+      "bytes": 1540,
+      "gitBlob": "4d2b7665e4f5cb4aaa0cedc6e6214cf30d64d537",
+      "sha256": "a325166032601c04d7c2e33d77c7527828aaaf91b46f56c976e3d60f18aebac2"
+    },
+    "src/Core/Models/Cards/promisePile/KarenBackToBackCard.cs": {
+      "bytes": 2151,
+      "gitBlob": "4e23d5c2bb571d7e523fb3e04cf28af14b4d5b82",
+      "sha256": "9fdb2d35c38d6cd559c1bf8864974a2646ef27b6e40fb6b22424763a70b76742"
+    },
+    "src/Core/Models/Cards/promisePile/KarenBananaLunch.cs": {
+      "bytes": 1348,
+      "gitBlob": "754f01057a0bb3c4991c8540a2cbdcc893dfadd3",
+      "sha256": "b40ac5936a0e599053fd5ea754153a064212ccc18a8f51a8d6d507c9a22c9a4e"
+    },
+    "src/Core/Models/Cards/promisePile/KarenBaseball.cs": {
+      "bytes": 2385,
+      "gitBlob": "745841355040045d4e860eed4dffd1f4cf0fe50f",
+      "sha256": "f2c3cf2fd08c3ff2721bcdb8aed16f33f5a974452e94a6060af89a99b9652ed8"
+    },
+    "src/Core/Models/Cards/promisePile/KarenBridge.cs": {
+      "bytes": 2550,
+      "gitBlob": "260a73c44a75c5dd9d2a65e6205105807d30ff16",
+      "sha256": "9faf2da5efa76452a00ee24d02eba04ee566b35af1eb78e59c397956ba349799"
+    },
+    "src/Core/Models/Cards/promisePile/KarenCourageStrike.cs": {
+      "bytes": 1855,
+      "gitBlob": "f57b147dc55afc4d78b67fde5d8cb4d3d1f58602",
+      "sha256": "5406a9d61f467be41d00019c19859a6dfd0c6733880f4be9d0f79df800030227"
+    },
+    "src/Core/Models/Cards/promisePile/KarenDance.cs": {
+      "bytes": 1727,
+      "gitBlob": "7b80023cd96966280ad8beb166b09becd4160d13",
+      "sha256": "49660aaec1b424c36cd9bce7af91f4534b329aafbfc14d45302b23cbc484aa7e"
+    },
+    "src/Core/Models/Cards/promisePile/KarenDodge.cs": {
+      "bytes": 1700,
+      "gitBlob": "6de5995f4f8ac71ea74f3b8cbe5a3425f860da28",
+      "sha256": "3e5743cd9442a98f1a9903ae684bc325ede7373a483892d36ebc2b67da48935b"
+    },
+    "src/Core/Models/Cards/promisePile/KarenExchangeFate.cs": {
+      "bytes": 1827,
+      "gitBlob": "43436f8320a6ed1318a036014b2bb052975dc13a",
+      "sha256": "7c477e4a77de2c2cdb7f6d42a362caa8725691a581032083f39f9e6727773db3"
+    },
+    "src/Core/Models/Cards/promisePile/KarenHolyStar.cs": {
+      "bytes": 1852,
+      "gitBlob": "5b220e31ff6b0513f32637f130b4db7724e0c898",
+      "sha256": "2d1ad9c36c99c759d3697402f7555ce301489f2f8b4e12d5a5547832513b1af2"
+    },
+    "src/Core/Models/Cards/promisePile/KarenLanding.cs": {
+      "bytes": 1691,
+      "gitBlob": "d4f1a4ab5186df5f1343aba26d1450e802818a70",
+      "sha256": "9e6257fadd6b00702496bbc9a4acea6909923e92e16d5c58a5aba770fc88cd89"
+    },
+    "src/Core/Models/Cards/promisePile/KarenLetterCard.cs": {
+      "bytes": 1473,
+      "gitBlob": "0b8055b7bfc47eb704ff167e3100644b8270ff55",
+      "sha256": "0ac4603c680573b7941da199dff684c8873402fbbb692e46ad2f52cf6283d62e"
+    },
+    "src/Core/Models/Cards/promisePile/KarenMeetAgain.cs": {
+      "bytes": 1552,
+      "gitBlob": "17f70187b815ff6613c67f258a7f278243def39b",
+      "sha256": "f17e2622fa3caede42075c0e47a8cc9ad80c8b96c859a5b84d8353eafca89257"
+    },
+    "src/Core/Models/Cards/promisePile/KarenNewDay.cs": {
+      "bytes": 1645,
+      "gitBlob": "1ff0a15bc2937e70f46ec52b2a9b6e9a463973c2",
+      "sha256": "5df56ee97495edb1dee086c068364497a6436aff92bc5d2a3272619f0e133b8d"
+    },
+    "src/Core/Models/Cards/promisePile/KarenNewSituation.cs": {
+      "bytes": 1725,
+      "gitBlob": "46c61704269eae08029ea863df6eaf6a23545642",
+      "sha256": "28aafe7b1b0009f68f2072546e0cfc02d92740aac909d0e3fbaed735271dacb3"
+    },
+    "src/Core/Models/Cards/promisePile/KarenNoHesitate.cs": {
+      "bytes": 2088,
+      "gitBlob": "15262b76eca0315491e8b5cb43136768e53a19e6",
+      "sha256": "1210567ea3bae5116750d2713532a333a05500b11638db05b57c14ea60c1186f"
+    },
+    "src/Core/Models/Cards/promisePile/KarenOnStage.cs": {
+      "bytes": 2145,
+      "gitBlob": "f0a458c380461e56f8c8ba17a80813e0ea2f6af5",
+      "sha256": "387d0172c7cbba36691e1ff22ed6590636871c90a644579591076b8a367e98c8"
+    },
+    "src/Core/Models/Cards/promisePile/KarenOpenUpStars.cs": {
+      "bytes": 1807,
+      "gitBlob": "239cb25d8e1a3cef94bb698de2278c16bc94daf2",
+      "sha256": "cb14d7620bb60f7b4bd914840b71e0af74e8ad913da65493bd52611381a06a55"
+    },
+    "src/Core/Models/Cards/promisePile/KarenOurPromise.cs": {
+      "bytes": 1469,
+      "gitBlob": "c1ce841d0cbfd91e1b9f50bf64bbb5073ce3d781",
+      "sha256": "6d36ce605b5dbf1b8cfecad07963682adafdcfc148e3e36a7d8b6fa3e0d6f732"
+    },
+    "src/Core/Models/Cards/promisePile/KarenPastAndFuture.cs": {
+      "bytes": 1484,
+      "gitBlob": "adf1752b01dd3b05825d740ed637a5e8b9da0489",
+      "sha256": "b7d419c9c9820f626d647c152e2d1d214ca97ddc221087a8ee4040e1db037988"
+    },
+    "src/Core/Models/Cards/promisePile/KarenRapid.cs": {
+      "bytes": 1725,
+      "gitBlob": "a03be4750299c782db5d2d46a28ee212edf47069",
+      "sha256": "d7b6e16b6c53c0f2306358276063edd717dd3e9129f84903ecff506c1008e0f6"
+    },
+    "src/Core/Models/Cards/promisePile/KarenRevueDuet.cs": {
+      "bytes": 1649,
+      "gitBlob": "06a43817e0925bafd9fe7db8ec23452519bd507d",
+      "sha256": "32a353d3ac80650927d00b1aebe54c39a235dc67d70691cbcdf548bd1d3422ad"
+    },
+    "src/Core/Models/Cards/promisePile/KarenRun.cs": {
+      "bytes": 1389,
+      "gitBlob": "8ceb1020179f6b47366cd4fa3b45427c5199ee50",
+      "sha256": "ca527057b826cfcb338d9f06188bbdd86b60807fe532a36866f6347ab4ccc311"
+    },
+    "src/Core/Models/Cards/promisePile/KarenSmallSnack.cs": {
+      "bytes": 2743,
+      "gitBlob": "fbdac7bd94538672a50d0157366d0d7a9da9a8ca",
+      "sha256": "c1f62a157e8f0766591a5858d729ba3a060031f313e14b5b6be08b4159777b5d"
+    },
+    "src/Core/Models/Cards/promisePile/KarenStageIsWaiting.cs": {
+      "bytes": 1134,
+      "gitBlob": "a20e797aff1ab348b4c00dff8d718d11874e9847",
+      "sha256": "0c95bf8f4724c4e1692d3d2956b7d403a172ca2b08cc3050e837be53dad0006e"
+    },
+    "src/Core/Models/Cards/promisePile/KarenStageReproduce.cs": {
+      "bytes": 1477,
+      "gitBlob": "2b1a619c450d33749ff9a7fdf98a17b1f2b03ec8",
+      "sha256": "fe22398c5efd531234af6ed28196bae60c5bb62a635df7c13f91350a962a4f13"
+    },
+    "src/Core/Models/Cards/promisePile/KarenStretching.cs": {
+      "bytes": 1470,
+      "gitBlob": "be6d3821d21be346a11165dfce40918a076c082c",
+      "sha256": "4b094293a896c489e0540670c93820c55cd940203b8dd741975fc2a36c562c37"
+    },
+    "src/Core/Models/Cards/promisePile/KarenTicket.cs": {
+      "bytes": 1479,
+      "gitBlob": "6d218aac6a5971bbb24df355d3e51c781e7261af",
+      "sha256": "fbebaa3da94f9206c17c664718b8a3f20b8f192068a0049c1b261ba4b2e7a452"
+    },
+    "src/Core/Models/Cards/promisePile/KarenUnderTower.cs": {
+      "bytes": 1978,
+      "gitBlob": "22a03ca6253929704619f56a61d692e461d0919e",
+      "sha256": "fa674c655a32dd2f4e8996399406363369b80903d3f8211517d028929e6f3393"
+    },
+    "src/Core/Models/Cards/promisePile/KarenVoid.cs": {
+      "bytes": 3353,
+      "gitBlob": "fafebc0381e9277924d68a0ebe4e0a631b61d98d",
+      "sha256": "1e6ee5c53c2dfc8adcb34ca98e0ff614955dc6f24b795dc5c41ca0251d4abad4"
+    },
+    "src/Core/Models/Cards/promisePile/KarenWeKnow.cs": {
+      "bytes": 1558,
+      "gitBlob": "61acdbf6acdd53b6ccf768351d725f9d5efbaf02",
+      "sha256": "0cf43395a701a1db2c4352bcede7fb866782d6c79d29124e4c1183f1930da6ac"
+    },
+    "src/Core/Models/Cards/promisePile/KarenWhosPromise.cs": {
+      "bytes": 1791,
+      "gitBlob": "89c17f5a64bab0183deb72586aed65874cadb30d",
+      "sha256": "dde421a5f8800c536127f9f815de8b6f377aef77674b54b04acbb4ada3523936"
+    },
+    "src/Core/Models/Cards/promisePile/KarenYesterglow.cs": {
+      "bytes": 1736,
+      "gitBlob": "8d31e7048713fd538ef779ad61f38740c911b2bd",
+      "sha256": "56ebdd1d90b208978c606bee8167d3df45c645b743ae6f8f7e7c666fc9b2e2be"
+    },
+    "src/Core/Models/Cards/relic/KarenArrogant.cs": {
+      "bytes": 2182,
+      "gitBlob": "d814779e73f4ec42477f644309c6622d243599c7",
+      "sha256": "2566a8eea752ae25b808af7e658b8c15bde29415eda421114d03ddd2486e0c22"
+    },
+    "src/Core/Models/Cards/relic/KarenFinancier.cs": {
+      "bytes": 1645,
+      "gitBlob": "69a5a16e601cfc5e06bc0e942630c1ba24181e58",
+      "sha256": "67c0029fa62867da1eda3bc3dbc135ecd8c4cec3faa985a3ba59d519e47e426c"
+    },
+    "src/Core/Models/Cards/relic/KarenForgive.cs": {
+      "bytes": 1634,
+      "gitBlob": "e672a06e534871c8dfcfa09ea1481ffcd0b5a957",
+      "sha256": "1e9a1256881c9c17980d04599fef134a7a84c67d99f834b85589e7014c9e3fe9"
+    },
+    "src/Core/Models/Cards/relic/KarenJealousy.cs": {
+      "bytes": 2148,
+      "gitBlob": "f0d8cca1272785d493e26c223deb5365d50bba7b",
+      "sha256": "a398a5b00583dd218f916558f048b93527908f1c377ca9847c39df4c760e6991"
+    },
+    "src/Core/Models/Cards/relic/KarenPassion.cs": {
+      "bytes": 1256,
+      "gitBlob": "913054daef7419540befa9a192be4a94b256f293",
+      "sha256": "45ea2a9f610b1654b605c34dbeaee335e4f95847278962b36f3fce5e41122707"
+    },
+    "src/Core/Models/Cards/relic/KarenPickStar.cs": {
+      "bytes": 1251,
+      "gitBlob": "813bb86af878c72617c01aad62d0d0b82bce4488",
+      "sha256": "ad651d2f44cbb955f59b0ffe44084d83e693e7e50b33125931b019c2b3763ca1"
+    },
+    "src/Core/Models/Cards/relic/KarenStarCrime.cs": {
+      "bytes": 1256,
+      "gitBlob": "36d03df7ad01bb89534a7b9e744fa09664a5d99d",
+      "sha256": "2113305fdfeb7e7e67da33c1fee11114423fe0920f0519f3f269f5d1419eae00"
+    },
+    "src/Core/Models/Cards/shine/KarenCarryingGuilt.cs": {
+      "bytes": 3769,
+      "gitBlob": "f05d1b58ab78a874176707a9d0055b8e0c5210ac",
+      "sha256": "01d7fdc92f24f845cea8c5e7e72b95e90ce4302d670d1869117f5f6698081fed"
+    },
+    "src/Core/Models/Cards/shine/KarenChargeStrike.cs": {
+      "bytes": 2031,
+      "gitBlob": "b25f8ac68bf1a24100bde0a08a0c9b43f4d138c0",
+      "sha256": "16a6c51df1ebeead4cf0fdfe138fe65a66723d2004f833251fcc4605c25dd452"
+    },
+    "src/Core/Models/Cards/shine/KarenContinue02.cs": {
+      "bytes": 2383,
+      "gitBlob": "b65ee83ac8b39cf22f2b81d205b843ed2d6f6a90",
+      "sha256": "286a656bbebd1b4e2269fc6b7da6bc677c24293da66f2730329bb2352e242548"
+    },
+    "src/Core/Models/Cards/shine/KarenDebut.cs": {
+      "bytes": 1501,
+      "gitBlob": "c84033900f9e3152de94d2d23276be72d1b3533b",
+      "sha256": "44a74818b489380d1c45fd9b9c66690bdc9432a130c73c8c1aa6913d64162db5"
+    },
+    "src/Core/Models/Cards/shine/KarenDrinkWater.cs": {
+      "bytes": 1165,
+      "gitBlob": "e391bb5c2838cc5d058cf6e6014d3e95eff8aec2",
+      "sha256": "e5dd0114200c9ed5f21432f18b118346b5fc2e5d50073bc92b458922cf0225d5"
+    },
+    "src/Core/Models/Cards/shine/KarenDropFuel.cs": {
+      "bytes": 2001,
+      "gitBlob": "c93e5109332cbe27c62bf2b1e21766e34494f57a",
+      "sha256": "a9e33a5dd0d2bd25e98443ee4980cac92b30f3a05d4ae5e4c39929daa57e991b"
+    },
+    "src/Core/Models/Cards/shine/KarenFightRelay.cs": {
+      "bytes": 6107,
+      "gitBlob": "cebeb338924ab52c8ebeead9de95d46648612a4e",
+      "sha256": "e2e515fc7bf9b725dacda87995c4ebc3af86bb7de32039d87f6c1b71053804a6"
+    },
+    "src/Core/Models/Cards/shine/KarenNonon.cs": {
+      "bytes": 2122,
+      "gitBlob": "8b6372ebe44523bbfdd76f74caacfa7c68322bc9",
+      "sha256": "4105e0e0b2bd4a50b0cb25e71821870477441040e3edf2046b326c08a025b3fc"
+    },
+    "src/Core/Models/Cards/shine/KarenPotato.cs": {
+      "bytes": 1166,
+      "gitBlob": "1b486166427a837d78588d03166f446fe44930b6",
+      "sha256": "93ba2675ce05ada0dbfa6462c563c571e8145b5aacc1d6544219ab669ba16e4c"
+    },
+    "src/Core/Models/Cards/shine/KarenPractice.cs": {
+      "bytes": 1702,
+      "gitBlob": "9d5e62ef1c66dbe0e9f4a68f5d50cb56db5a3659",
+      "sha256": "12fd07283658f9f9649e049f04f6d70834fac2809e19467d07ea1cc7eea61407"
+    },
+    "src/Core/Models/Cards/shine/KarenPractice2.cs": {
+      "bytes": 1526,
+      "gitBlob": "39e6deb8f2b88b74d94be3c7c5d49cf0e17d7cc3",
+      "sha256": "ba1850181695f01a56976b712ef933e07e6ff617c21d245f3c3b1127aa2e0207"
+    },
+    "src/Core/Models/Cards/shine/KarenPractice3.cs": {
+      "bytes": 1194,
+      "gitBlob": "17390c68fbbf0263c63204290a5c762df9c93cf0",
+      "sha256": "d7dc84b9546f8e05eb3c29bfab613d7d83dce6c3dea0114a14e3ce951ef157a5"
+    },
+    "src/Core/Models/Cards/shine/KarenReady.cs": {
+      "bytes": 1604,
+      "gitBlob": "6b924cd538750d0b903c3817ad7561f1dc25022b",
+      "sha256": "337340b3e778c350e2c6b1d5e4e822dd0e8b1a53e2d3411a110013f5a6396759"
+    },
+    "src/Core/Models/Cards/shine/KarenRewrite.cs": {
+      "bytes": 3923,
+      "gitBlob": "5b0007b4515311b1461ce2810ec695cfc6babf6c",
+      "sha256": "d7fabb71afac1e079d8672e82e88a505c00f9aeb07f6393c63d1be3eb538d112"
+    },
+    "src/Core/Models/Cards/shine/KarenShineStrikeBarrage.cs": {
+      "bytes": 2264,
+      "gitBlob": "c1ba64b2c06d79802bce4addfb4cac8031df1ca2",
+      "sha256": "cc2f4840530d6c487ecfda9c7ec6d82a587b0bcbfb4364adde21339ce2b34847"
+    },
+    "src/Core/Models/Cards/shine/KarenShineTogether.cs": {
+      "bytes": 2466,
+      "gitBlob": "087931cca9f24deea92a9ee47e1da7e9b9ebbfbf",
+      "sha256": "1a2c68632e7b554340084d4e861b7d8bbc2829ef13ae79aa9224d1e922695ef4"
+    },
+    "src/Core/Models/Cards/shine/KarenShineTogetherAll.cs": {
+      "bytes": 1950,
+      "gitBlob": "2f6fa7ef396d273a85b8170a28b07e437a3add35",
+      "sha256": "bf71ff33b017c582d0db56381c78542ca176b908caf897c9c0dd73a307b131e4"
+    },
+    "src/Core/Models/Cards/shine/KarenStar.cs": {
+      "bytes": 4121,
+      "gitBlob": "6f198c8db5dd8efcfb6aa4aff53d643345c2c725",
+      "sha256": "d3545776057717ffb728870394705dd3c13868884d6008d7e8ff1599a909bc9a"
+    },
+    "src/Core/Models/Cards/shine/KarenStarFriend.cs": {
+      "bytes": 2294,
+      "gitBlob": "fcb81fd8dbfd1d2c84abf6f2d78831a0e92953f9",
+      "sha256": "5bcd0ff04dafd0f81d8013d444169338dd0e667f583617b91abca37bac09672e"
+    },
+    "src/Core/Models/Cards/shine/KarenStarGuide.cs": {
+      "bytes": 1786,
+      "gitBlob": "7ebef6491dbc126dfbd37dc7567a8a55525210c2",
+      "sha256": "912e60cb6363f9394aa002696d44efa17981a53b93e83b83cfd3f48576d751bd"
+    },
+    "src/Core/Models/Cards/shine/KarenStarlight02Card.cs": {
+      "bytes": 1840,
+      "gitBlob": "bc3698f9c8f1632841a13f4c632d49fd574b3f1e",
+      "sha256": "1b971fa5c9dc731713aa742a726a2312b273c72c1edc4952aa60ec9c2deb370e"
+    },
+    "src/Core/Models/Cards/shine/KarenStarlight03Card.cs": {
+      "bytes": 1264,
+      "gitBlob": "90de45f349bb5e8d1a6377d9a92f2784df84b508",
+      "sha256": "aa47ff0eef68bffd16c5c7f49bd522024aae9d22e6d55aee39a20651025950db"
+    },
+    "src/Core/Models/Cards/shine/KarenStarlightCard.cs": {
+      "bytes": 1887,
+      "gitBlob": "059a06cbc4d843149f220c7a891d711ba4bb3cae",
+      "sha256": "cdae80ca012e167481d07a4b68da66a779038007c85833ea95980df2bd1d5ecf"
+    },
+    "src/Core/Models/Cards/shine/KarenSunlight.cs": {
+      "bytes": 7557,
+      "gitBlob": "84763918873e20f6e07355ef5d9615e39308560b",
+      "sha256": "48db77e2f708c78b8122d135c33b161d2793c334ba5e8a8abd27c1926f135064"
+    },
+    "src/Core/Models/Cards/shine/KarenSwordUp.cs": {
+      "bytes": 2105,
+      "gitBlob": "27c8bdddb2c6e1c2f261c7275904b9e9ec6768cc",
+      "sha256": "347d1546b62834fa081cd81e1996efa9c8e449a139c3523d4ae85621d20791ce"
+    },
+    "src/Core/Models/Cards/shine/KarenToTheStage.cs": {
+      "bytes": 1187,
+      "gitBlob": "08f19c256e91a0d0179c9ebcc136f45286c1cb7b",
+      "sha256": "0587b126cbeeed4f86447655b81cf35fa0c9eda17c1f1880fd0c2171f06613ba"
+    },
+    "src/Core/Models/Cards/strength/KarenBananaMuffin.cs": {
+      "bytes": 1399,
+      "gitBlob": "00e0dd48bfc298f392812f51860c8896cac6f7ef",
+      "sha256": "1f41455d416246e41f15f2606aa1f7cb029e3b0f3524c57c03caf648685c9599"
+    },
+    "src/Core/Models/Cards/strength/KarenEatTogether.cs": {
+      "bytes": 1931,
+      "gitBlob": "1ac735b9582413cae4cb96cced681976e6f21f73",
+      "sha256": "13fc46883d93dff5f3541c4735fbfd1f51a5b2ca4923a02f860b59f4e03c3741"
+    },
+    "src/Core/Models/Cards/token/KarenBanana.cs": {
+      "bytes": 1749,
+      "gitBlob": "b3168564412a4857d491551c76727ac32aa1c326",
+      "sha256": "c1560c83c1b214c021d74514a9dca3db6295d7b3083cbc625dcc5b01484809a1"
+    },
+    "src/Core/Models/Cards/token/KarenConfront.cs": {
+      "bytes": 1452,
+      "gitBlob": "ca686b0324717f156eae3faf4bff3fad5903aba7",
+      "sha256": "d6f08011ff9399eb3c88cdadb96cc07ca37db4ba48c7261eef8e53dfde6c0762"
+    },
+    "src/Core/Models/Cards/token/KarenContinue.cs": {
+      "bytes": 1445,
+      "gitBlob": "b15687ece6914816f3e28b8dc453ca371816a4f5",
+      "sha256": "0c39714d8592a6e2bc324e2c340c4ece95b6d935c3590c95fdc384acc467e5eb"
+    },
+    "src/Core/Models/Cards/token/KarenCounter.cs": {
+      "bytes": 1460,
+      "gitBlob": "09fa74fcd44bf21110bfc070d44635238fd284ea",
+      "sha256": "e7ee231c4f6941a7c3967f2a36f191f2bd172c34b292621c9843c3e68265e6d0"
+    },
+    "src/Core/Models/Cards/token/KarenEmptyShell.cs": {
+      "bytes": 1220,
+      "gitBlob": "ded34e9356b30b58bc4ee8f8435e7ed7d5a487b3",
+      "sha256": "33e9ac6da1bde3e78b95fc80f5c4fd5caeb05d63278885d5d24e4f58c2d2c45c"
+    },
+    "src/Core/Models/Cards/token/KarenSandwitch.cs": {
+      "bytes": 1489,
+      "gitBlob": "20ab531ae9fa8928342e7076242baf0a04d0d25a",
+      "sha256": "280174d6def4efb93b88cab8ebcfed719224e4e5a5e48478b27687712f74b07d"
+    },
+    "src/Core/Models/Cards/token/KarenShineReproduce.cs": {
+      "bytes": 2936,
+      "gitBlob": "b8011616aaf5145041c65ea296e1b35c1067fbe3",
+      "sha256": "c60da9a44913e76271e0926fb01ce1900d903dbf72d6683abe1bae400be5bb89"
+    },
+    "src/Core/Models/Cards/token/KarenSideways.cs": {
+      "bytes": 1242,
+      "gitBlob": "5936674718274e984b485b916c0139e7673f5082",
+      "sha256": "74c5a0e8580f7b062af1c5313236729cc2f801513bf36b030e0f4e50b8f084b3"
+    },
+    "src/Core/Models/Cards/token/KarenTowerOfPromise.cs": {
+      "bytes": 1797,
+      "gitBlob": "da2f02dd5e32e868084b875dcebf315433789d97",
+      "sha256": "a93acc90899319fca1a5449a6364f9fd6d1a6f2deb73350010ce0456839cd8be"
+    },
+    "src/Core/Models/Cards/token/KarenWeKonwToken.cs": {
+      "bytes": 1478,
+      "gitBlob": "850a74a3fbb062dfc84ed5891106bf2e24a60d73",
+      "sha256": "02d23bb92ba9dd49608a83cb2cc71f04e5e5386486b917f059973d184f822d37"
+    },
+    "src/Core/Models/Cards/token/options/KarenAwakePotionDiscardPileOption.cs": {
+      "bytes": 631,
+      "gitBlob": "30916929483d90ea92bd8536189b8658267a23a5",
+      "sha256": "23f4206cc524b70eb817a871e934235313c792312635f4fbd2755c29ce490bdc"
+    },
+    "src/Core/Models/Cards/token/options/KarenAwakePotionDrawPileOption.cs": {
+      "bytes": 622,
+      "gitBlob": "1b67fe5bbfddcf80a87624e756f383980dd07145",
+      "sha256": "a2148ee00f31eb6d052e8a7c425b35bbc336980afc9651471e1da96af461a2fb"
+    },
+    "src/Core/Models/Cards/token/options/KarenAwakePotionPromisePileOption.cs": {
+      "bytes": 761,
+      "gitBlob": "8fcf6c3f8d2e8a5b3d19d33a9cf0f3a446f89649",
+      "sha256": "0a5fd3177b08a742575f38e581339f0ecc8342cee6745d86ff19c22ee381c770"
+    },
+    "src/Core/Models/Cards/token/options/KarenNoHesitateDiscardPileOption.cs": {
+      "bytes": 1013,
+      "gitBlob": "5d41354d5256ff1407f8c2dc75b0e4bbd71bb9dc",
+      "sha256": "441f96395c4c39dd061e09f8daaba720733a15e6ae155f2f5ddcd3fea9cd502d"
+    },
+    "src/Core/Models/Cards/token/options/KarenNoHesitateDrawPileOption.cs": {
+      "bytes": 1004,
+      "gitBlob": "5868111e86d4bd234e119b38c7e079a78e3a6a22",
+      "sha256": "a7b22fb75c34fce4d76925f690750aacfa6109db217ac9be0774d461b4b3696f"
+    },
+    "src/Core/Models/Cards/token/options/KarenNoHesitateHandOption.cs": {
+      "bytes": 1002,
+      "gitBlob": "f379ccba7cd059a3825fce2843aa3b43bfbd51fe",
+      "sha256": "c3d4c20637dd5461cfe503bb2c78ab1f9586a85ed747bb383e77d67be35d7d41"
+    },
+    "src/Core/Models/Cards/token/options/KarenOldPlaceRetainBlockOption.cs": {
+      "bytes": 1193,
+      "gitBlob": "89a355531f27ec5d52e4189143f20389d1c4e199",
+      "sha256": "4bed9143e0de36478c8655f92a9be88e4cd522cd4f5de3964565fe9b48a2d527"
+    },
+    "src/Core/Models/Cards/token/options/KarenOldPlaceRetainEnergyOption.cs": {
+      "bytes": 1166,
+      "gitBlob": "d13416092930634876e54b77e9500c297aa021cf",
+      "sha256": "2bd918dfec03b73aded1cb2e14e7f5477ffe2b320837a5ed08bb680433512ca3"
+    },
+    "src/Core/Models/Cards/token/options/KarenOldPlaceRetainHandOption.cs": {
+      "bytes": 1195,
+      "gitBlob": "1c78638ed1d2fd569d0f05e5d839f8160e19758a",
+      "sha256": "02f04cd59a38dc49542b291b61946246c1f58e536ee2c390d7bbb2cd972561e5"
+    },
+    "src/Core/Models/Cards/token/options/KarenOldPlaceRetainStrengthOption.cs": {
+      "bytes": 1355,
+      "gitBlob": "dd60d5103024c6b96afaa21ad84271c18b870890",
+      "sha256": "79a149141d22e206ad5001a59f6937d591033c164e52a1f3baa4bbbb174cab72"
+    },
+    "src/Core/Models/Cards/token/options/KarenRapidPutOption.cs": {
+      "bytes": 941,
+      "gitBlob": "d07063b28d47fa18ca14de601a8e4cbbfd59750f",
+      "sha256": "7b2342074c70bdae0a713238eea54721363a17c16db6687d5c3b65aaf53657c4"
+    },
+    "src/Core/Models/Cards/token/options/KarenRapidTakeOption.cs": {
+      "bytes": 940,
+      "gitBlob": "d0985c9268dfda21b5939950e1cd38ecff319c6d",
+      "sha256": "66c73166f1acdf54417f5a417e360568a7dd75c1822b26f08b7519743094ec36"
+    },
+    "src/Core/Models/Cards/token/options/KarenWakeUpDiscardPileOption.cs": {
+      "bytes": 812,
+      "gitBlob": "29e1764c0fc676a6a3b88b9aac2d147e3cb36b20",
+      "sha256": "40dd6180de4fb07476223990a7202fd7ff2fe430558d7ef223d214170124fa3c"
+    },
+    "src/Core/Models/Cards/token/options/KarenWakeUpDrawPileOption.cs": {
+      "bytes": 998,
+      "gitBlob": "8e233fc9c94619f5557e600a31b20f7d4233d580",
+      "sha256": "d467c5a6dcb3b7f315f491c39745e690c5786c3938964c25a6ec1859f2efadd7"
+    },
+    "src/Core/Models/Cards/token/options/KarenWakeUpPromisePileOption.cs": {
+      "bytes": 800,
+      "gitBlob": "019f1ace62fa336a03c93b356ee1ebafeeae2b66",
+      "sha256": "e0768dc0a7c9774aeb2b709b53fe324cfafb0e15d9893a0c5ade472bb468a905"
+    },
+    "src/Core/Models/Characters/Karen.cs": {
+      "bytes": 3563,
+      "gitBlob": "46efd11bd430094c34a5d3c89e1b3cda7fc69582",
+      "sha256": "762bc0315a314aba4c906aaee595a3f5556ec6e461164aa1e7d781909cfab9b2"
+    },
+    "src/Core/Models/PotionPools/KarenPotionPool.cs": {
+      "bytes": 821,
+      "gitBlob": "cb48d284f0a1f02ce33f5578b0ea2e77c8c13cc2",
+      "sha256": "b20a20f3778267afb413e2405be577cf39c618714e60ca925f12f4abbd90fd83"
+    },
+    "src/Core/Models/Potions/KarenAwakePotion.cs": {
+      "bytes": 734,
+      "gitBlob": "075464eff166f0e80927b8cc6055f0897b88a3c1",
+      "sha256": "bba447234ee4e01c07a298f477597605e16bb6cae1d9819b2acf697cb78812c2"
+    },
+    "src/Core/Models/Potions/KarenBasePotion.cs": {
+      "bytes": 380,
+      "gitBlob": "60cdbe371782da946b6eb4ae68c48d3764134e5d",
+      "sha256": "630c2d40be69da202f8c83d80d6f8185975f621f687d689b60cc7e00ef637814"
+    },
+    "src/Core/Models/Potions/KarenShinePotion.cs": {
+      "bytes": 2883,
+      "gitBlob": "5617278ecf5120110ae4664c20e1801cc76ba57b",
+      "sha256": "4744ca051bd74537269fe42a223015513ca78cbb306ef4e315d9c4ee09e9346b"
+    },
+    "src/Core/Models/Potions/KarenTeaPotion.cs": {
+      "bytes": 1594,
+      "gitBlob": "67dfae9c7268ace1fbf6e0154ad6438ac883d8ce",
+      "sha256": "66a74dda6ed6b80cc385b597c25cd1e1b2da5a1fe324739379efbac4fa72119d"
+    },
+    "src/Core/Models/RelicPools/KarenRelicPool.cs": {
+      "bytes": 1147,
+      "gitBlob": "c181618bc7df25cf789082ce9792e42b09a9c895",
+      "sha256": "de9add2687bc87e5e6814c89f4b07112bb3b5ecb165f7f1e30e46a62fde007d8"
+    },
+    "src/Core/Models/Relics/KarenBaseRelic.cs": {
+      "bytes": 774,
+      "gitBlob": "17a52f50ac505cb663189b920f4439c6b045aac0",
+      "sha256": "2cb0e2d64c598c1bb08f4487f4cc2ab76d1867564bb3b63182e518b8b9ee43ca"
+    },
+    "src/Core/Models/Relics/KarenBaseballCatRelic.cs": {
+      "bytes": 1438,
+      "gitBlob": "b3eef69ba518191e0eb1d9000e338ae59e78bd1f",
+      "sha256": "f00158557da498bd476cef85709b32a5781910a85298d32495e8b11edbd4eb0a"
+    },
+    "src/Core/Models/Relics/KarenCookieRelic.cs": {
+      "bytes": 1233,
+      "gitBlob": "73443b5389c017856bba331ce25e96d71a0c4dff",
+      "sha256": "92da904bc3b5d534dab4ae30df64a84ab4e6cc729aeef2e012c37b92d399d2b8"
+    },
+    "src/Core/Models/Relics/KarenHairpin2Relic.cs": {
+      "bytes": 1542,
+      "gitBlob": "d56f0fe20014115f9495965c3899bfc460c2a480",
+      "sha256": "12e87fd7d6b7297fa285d608dcc81314b12dc114fbbc6d8881cd16b527d63737"
+    },
+    "src/Core/Models/Relics/KarenHairpinRelic.cs": {
+      "bytes": 1449,
+      "gitBlob": "e5d05405150e2a6dd7ed91cba145726eb0cff553",
+      "sha256": "f07c8101e690ca6c11ff4e50b9c830c89416f5b9930265c558eaf0218405b6de"
+    },
+    "src/Core/Models/Relics/KarenLittleStarRelic.cs": {
+      "bytes": 1311,
+      "gitBlob": "27654b90f104811361120f0ad71d61b7ebaf9235",
+      "sha256": "a7d154ce3d7e096231d0bd17e55d3b878f4f44655d179f10f9831400419e309d"
+    },
+    "src/Core/Models/Relics/KarenMrWhiteRelic.cs": {
+      "bytes": 1405,
+      "gitBlob": "82d988eaa0b2cbb48b396510b94d69e06e276304",
+      "sha256": "70a206c10aa7abd072f8d9f229f4d40c5b54b57fe31382d565888dd755d5bc5e"
+    },
+    "src/Core/Models/Relics/KarenStarHairclipRelic.cs": {
+      "bytes": 764,
+      "gitBlob": "5a2583f80489bdce9a4bab6c9adfedfd12d9bd3b",
+      "sha256": "ceff6e789e0a0229f068abb4dfc3ea4fbe5c88c89439d80ecac7da5f303a096c"
+    },
+    "src/Core/Models/Relics/KarenStarTiaraRelic.cs": {
+      "bytes": 1307,
+      "gitBlob": "ea3969f77a3fb8ee96a3018cb00aa0373de43c08",
+      "sha256": "b71fbe86d4a79df2483eb4a7029e025a65d1859586d24cf6f4100bfa6df966d0"
+    },
+    "src/Core/Models/Relics/KarenWaterBottleRelic.cs": {
+      "bytes": 1682,
+      "gitBlob": "5b28aed71ad38d66c74213dd5fa5161320aa6f99",
+      "sha256": "00851d7f52628069ca45fb14e2610521e1a86b36afbc6f5dcfba05460f4c0fef"
+    },
+    "src/Core/Patches/CardHoverTipsPatch.cs": {
+      "bytes": 2588,
+      "gitBlob": "0ae7ba7eaf08aa07454a316e5cf3803569498d62",
+      "sha256": "640bdbd63cfeb8a8c2bb4bbe84f798b093ea4663d945569e7366c7c9011df91a"
+    },
+    "src/Core/Patches/CardPoolPatches.cs": {
+      "bytes": 3211,
+      "gitBlob": "06c4a44824a13c8b714a5c900cd3ce6ea932807a",
+      "sha256": "443024a6f971ee6d0ef05716034b9395428d1dbe1a7481155359f9fff57db80f"
+    },
+    "src/Core/Utils/Tips.cs": {
+      "bytes": 6139,
+      "gitBlob": "d7fc9915c03dd8da8dbd0de78d5ad7883a192f49",
+      "sha256": "542f66205f2301dfae4cc35d284516b97dfcdcd5c225cbec099b313c84325ee0"
+    }
+  }
+}

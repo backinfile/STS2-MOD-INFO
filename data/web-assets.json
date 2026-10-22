@@ -1,0 +1,1885 @@
+{
+  "assets/game-ui/ancient-banner.png": {
+    "bytes": 39902,
+    "path": "assets/web/game-ui/ancient-banner.png.webp",
+    "sha256": "5900d7093de56a6c09b9460ea4aac686098d449c2819ea72462cabf086793427",
+    "sourceBytes": 60474,
+    "sourceSha256": "0bec423de948678df19f44c9f5c650c01520137e8fbecf19000867d76d431440"
+  },
+  "assets/game-ui/ancient-card-border.png": {
+    "bytes": 21684,
+    "path": "assets/web/game-ui/ancient-card-border.png.webp",
+    "sha256": "446d369dd1f573f05b0626e80937557fdfc153fa0e9e71a41d12171d82a393e0",
+    "sourceBytes": 39537,
+    "sourceSha256": "f977b238ff413e56e5cc3623066bf92c86b87371a0b21dd3687a0979d1bada9c"
+  },
+  "assets/game-ui/ancient-card-text-bg-attack.png": {
+    "bytes": 2754,
+    "path": "assets/web/game-ui/ancient-card-text-bg-attack.png.webp",
+    "sha256": "d78ee7953c7be1c35b26bb693d07d946cd008bae17a8caa7417b61cf4d623e44",
+    "sourceBytes": 7283,
+    "sourceSha256": "95abf248ff118be098cd66d046fb7a19f5cb08afa353cdd1db867e8d38a34c1b"
+  },
+  "assets/game-ui/ancient-card-text-bg-power.png": {
+    "bytes": 2292,
+    "path": "assets/web/game-ui/ancient-card-text-bg-power.png.webp",
+    "sha256": "67d899edfe795596c30f5030511101a2e7777b858ee0135669f4f3056c5ffae7",
+    "sourceBytes": 6329,
+    "sourceSha256": "c098502bbbab55d9092f7ac3a3239b8c832d26146cd9879bf5376f5dd587850a"
+  },
+  "assets/game-ui/ancient-card-text-bg-skill.png": {
+    "bytes": 300,
+    "path": "assets/web/game-ui/ancient-card-text-bg-skill.png.webp",
+    "sha256": "8791a0c90ac5f45bfd61239545234d2c854d48cd97a6ee532f498fdce50336c0",
+    "sourceBytes": 2283,
+    "sourceSha256": "9f3c6767d74a9730379151e135d8cdb4eb3d0476d4126e51449e40dd514815e4"
+  },
+  "assets/game-ui/ancient-flame-0.png": {
+    "bytes": 2196,
+    "path": "assets/web/game-ui/ancient-flame-0.png.webp",
+    "sha256": "af8af619df892755565fbf9c675a01d05d67492c4f51c7070fe565bfb20a7725",
+    "sourceBytes": 2746,
+    "sourceSha256": "d268416f5031da3fb6b46263a9c88eec9181552bdf94cf22e9c1fa9c82fd15e9"
+  },
+  "assets/game-ui/ancient-flame-1.png": {
+    "bytes": 2140,
+    "path": "assets/web/game-ui/ancient-flame-1.png.webp",
+    "sha256": "93d0acf3a97ad008bac6e83b8cb4632e8d70f6027d7453455db81087f0339d56",
+    "sourceBytes": 2703,
+    "sourceSha256": "c3414a15fbcf297a0d8a5471a6147280bd1c7e7a36233b7898f6e46d7a1a2388"
+  },
+  "assets/game-ui/ancient-flame-2.png": {
+    "bytes": 1834,
+    "path": "assets/web/game-ui/ancient-flame-2.png.webp",
+    "sha256": "c6ede1aa5b2b9720f738d49c6bcf204392133e0a967c37ec947020f818872824",
+    "sourceBytes": 2542,
+    "sourceSha256": "6a79e01890a6661b5704ad40a85f109aee6ed0e504e2df876372ad319925fe57"
+  },
+  "assets/game-ui/ancient-flame-3.png": {
+    "bytes": 2298,
+    "path": "assets/web/game-ui/ancient-flame-3.png.webp",
+    "sha256": "6e95c9cb26bf4d2fed017129bdf223a48b0b953b41e642fff9eeaad3bc18c1e0",
+    "sourceBytes": 2784,
+    "sourceSha256": "427ea8316eb475f565e49b30bd100d3442f7dc26a22263e4729170374bf786e6"
+  },
+  "assets/game-ui/ancient-flame-4.png": {
+    "bytes": 2342,
+    "path": "assets/web/game-ui/ancient-flame-4.png.webp",
+    "sha256": "d8a54866cac25c4c4071ce532da73aa0599a93c6f54e1e704ed1d3e9138797ee",
+    "sourceBytes": 2744,
+    "sourceSha256": "de596350b52f406643249b1c917aac639987d8533c9be9c951a5e190065d2a19"
+  },
+  "assets/game-ui/ancient-flame-5.png": {
+    "bytes": 2506,
+    "path": "assets/web/game-ui/ancient-flame-5.png.webp",
+    "sha256": "417e092c51bca90c2150920566c97930b0e35e424179e45d0ac0e399d8e04063",
+    "sourceBytes": 3137,
+    "sourceSha256": "a632cbad5e227c0c138be7b9f09bf6f853b82b4de91cf54571b9ae303cbfbf6d"
+  },
+  "assets/game-ui/ancient-flame-6.png": {
+    "bytes": 2346,
+    "path": "assets/web/game-ui/ancient-flame-6.png.webp",
+    "sha256": "71f10bd3ddbf79377d7324fe589c506cd4f88f40088f70f5113884735d707775",
+    "sourceBytes": 2910,
+    "sourceSha256": "eef6102b8b90755d2a7cb7f8ad327af346c265871623231bb2092b981b01f9e2"
+  },
+  "assets/game-ui/ancient-flame-7.png": {
+    "bytes": 2204,
+    "path": "assets/web/game-ui/ancient-flame-7.png.webp",
+    "sha256": "d3d764a925dec7890248559b9b3162808c4cd4f93f48f79b5bbe69d1d62dbeb6",
+    "sourceBytes": 2765,
+    "sourceSha256": "70352e02e7f67c89980c8ed5652adbd33acf209b829ac71b477beebbc5a46254"
+  },
+  "assets/game-ui/ancient-flame-8.png": {
+    "bytes": 2254,
+    "path": "assets/web/game-ui/ancient-flame-8.png.webp",
+    "sha256": "6acbdccf1ad70ea0b65d811a0defce4408763cb82edadcfd3b2bec91e04de6bf",
+    "sourceBytes": 2717,
+    "sourceSha256": "bee6443976247e4d7635ff9306a713e8aa661f3ed4b5b99fee1b029cb88ecd89"
+  },
+  "assets/game-ui/ancient-flame-9.png": {
+    "bytes": 2394,
+    "path": "assets/web/game-ui/ancient-flame-9.png.webp",
+    "sha256": "488b42ab2b94a5d445f4a9a2fe888f02d9fc73462774ef53755af2a36bd376f3",
+    "sourceBytes": 2816,
+    "sourceSha256": "900fd226b77227a225099d70e8f31ac28000add090f9ad5c70999a5673f3e766"
+  },
+  "assets/game-ui/ancient-portrait-mask-large.png": {
+    "bytes": 2300,
+    "path": "assets/web/game-ui/ancient-portrait-mask-large.png.webp",
+    "sha256": "bde7667b0899b46ab9f4165ab0eddf77092ebe9a9f2cfe4368c819abd9cacea1",
+    "sourceBytes": 7706,
+    "sourceSha256": "91374eea42d976b8f7131d56e69ed5f8689c8d74ac4812b1e55b1005d524055f"
+  },
+  "assets/game-ui/banner-ancient.png": {
+    "bytes": 22162,
+    "path": "assets/web/game-ui/banner-ancient.png.webp",
+    "sha256": "517d87be7079897360312163cba8396f20200727e556df7920bce098f7611c1e",
+    "sourceBytes": 36960,
+    "sourceSha256": "0643115d520f862af75df7661cd88a8e90f0ff1b2b50af2af97a93659b0bfdb3"
+  },
+  "assets/game-ui/banner-common.png": {
+    "bytes": 21176,
+    "path": "assets/web/game-ui/banner-common.png.webp",
+    "sha256": "6b47d21317524ee62b26b12e06bb55b17c8bd8bd0b8324d4128b8bd39bae2815",
+    "sourceBytes": 36032,
+    "sourceSha256": "f100ef8258f3017adf590214eb2fb596d228673ce082ca20382b63dd63f573a5"
+  },
+  "assets/game-ui/banner-curse.png": {
+    "bytes": 24958,
+    "path": "assets/web/game-ui/banner-curse.png.webp",
+    "sha256": "ca7ab285f4d5b4b9bda497c5d7a0671350c00e464eeb721bbe2b7ffa78152a8d",
+    "sourceBytes": 35637,
+    "sourceSha256": "b93fa2bd7c1858a9ba5b532abaf7fbeaf81af9983b35e5d27452d0ded7056890"
+  },
+  "assets/game-ui/banner-event.png": {
+    "bytes": 27220,
+    "path": "assets/web/game-ui/banner-event.png.webp",
+    "sha256": "df9ebecc1f486036a96d535bed0cdbfd21ec8a83021070f951a7e210c1fe768a",
+    "sourceBytes": 40329,
+    "sourceSha256": "bba54737b5ec4bff93462452007404d3618be099820d771d986e40689060660b"
+  },
+  "assets/game-ui/banner-rare.png": {
+    "bytes": 28286,
+    "path": "assets/web/game-ui/banner-rare.png.webp",
+    "sha256": "e499e8cee4e4a34477a163d276594ba9b68eb04e359e4ae05741d773472818bc",
+    "sourceBytes": 38296,
+    "sourceSha256": "4ed608b17ae61a94102d79e2fdcb9a73cf5228df04d347c7fc18f2427712b290"
+  },
+  "assets/game-ui/banner-status.png": {
+    "bytes": 23382,
+    "path": "assets/web/game-ui/banner-status.png.webp",
+    "sha256": "0ecd7d6444a211373056bd178edea45db0f07c69a463ec8820f3623dffdf1593",
+    "sourceBytes": 37263,
+    "sourceSha256": "82fc863a75769e80ede06f4de65bd9b8f76a8e082821e249acb957bcb52b9b57"
+  },
+  "assets/game-ui/banner-uncommon.png": {
+    "bytes": 27450,
+    "path": "assets/web/game-ui/banner-uncommon.png.webp",
+    "sha256": "938481cc0e9c962bd96cc6d7fe7d1a3b0b9343ced8e3e56ea4ab35074bfdcaf3",
+    "sourceBytes": 40446,
+    "sourceSha256": "25409e808b4967e4e601aca6967d574c6d45d462dd53aa7efbacb3530ea0d724"
+  },
+  "assets/game-ui/card-highlight-ancient.png": {
+    "bytes": 28090,
+    "path": "assets/web/game-ui/card-highlight-ancient.png.webp",
+    "sha256": "9af9bf742f2f75dd3ee343d37f170da40903887c6a370a2bc979ae4bee2ee0d3",
+    "sourceBytes": 50658,
+    "sourceSha256": "f40dfbe4bdd8ae7c7cee935631df76e1bb395292d308f0a0c25282786edb5d41"
+  },
+  "assets/game-ui/card-icon.png": {
+    "bytes": 188,
+    "path": "assets/web/game-ui/card-icon.png.webp",
+    "sha256": "ffe9e6a2426296cc8b785b9a390142e8e28889ccdac2917e9dec68468eb132a9",
+    "sourceBytes": 326,
+    "sourceSha256": "f4bf86c68f6353892e94b38c66bd5329547e9c2bb19b8ed284e50fc8de63485d"
+  },
+  "assets/game-ui/cost-tickbox-outline.png": {
+    "bytes": 1836,
+    "path": "assets/web/game-ui/cost-tickbox-outline.png.webp",
+    "sha256": "b997234efe0451ddcae4dba050de9fe86e5ebcd02689e8f8bf279054c3bb27f4",
+    "sourceBytes": 3121,
+    "sourceSha256": "97b6c3075651bc16f22d02bd2636712edce7647dcfd1c4abffe8ce64e0643bfb"
+  },
+  "assets/game-ui/cost-tickbox.png": {
+    "bytes": 534,
+    "path": "assets/web/game-ui/cost-tickbox.png.webp",
+    "sha256": "91aa750f5ac295e9147ccdad7c6bbccbca183b90683a0e204c3de8e9f2cff488",
+    "sourceBytes": 928,
+    "sourceSha256": "4ed2dd900d811a039420d0e574e5bc4e90f8e23e0125575934f6645559cc6d4b"
+  },
+  "assets/game-ui/energy-colorless.png": {
+    "bytes": 3554,
+    "path": "assets/web/game-ui/energy-colorless.png.webp",
+    "sha256": "5ce89a971b04e500c79a1cadf4c29dbadaf6a1dfa6c83e12524f2fcb17263d47",
+    "sourceBytes": 6042,
+    "sourceSha256": "53d91a85046f86d202404f2c5e5aa4465f58574d48642f979723af95bdc3ab43"
+  },
+  "assets/game-ui/energy-inline.png": {
+    "bytes": 676274,
+    "path": "assets/web/game-ui/energy-inline.png.webp",
+    "sha256": "5c5fdc6182661e0d262c656be450913a691871bc6dfa43877fe9098ff3d4fbcc",
+    "sourceBytes": 924171,
+    "sourceSha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad"
+  },
+  "assets/game-ui/energy-karen.png": {
+    "bytes": 672858,
+    "path": "assets/web/game-ui/energy-karen.png.webp",
+    "sha256": "fd60656e14944d294daac50a3a5527f7b30cda9f8c9aeb3fb19d49d64f0a010c",
+    "sourceBytes": 910022,
+    "sourceSha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115"
+  },
+  "assets/game-ui/frame-attack.png": {
+    "bytes": 116032,
+    "path": "assets/web/game-ui/frame-attack.png.webp",
+    "sha256": "97983712da256ae633321abcc95dde4d1b4da80ec867c8734addcb4206bd83eb",
+    "sourceBytes": 175787,
+    "sourceSha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf"
+  },
+  "assets/game-ui/frame-colorless-attack.png": {
+    "bytes": 101230,
+    "path": "assets/web/game-ui/frame-colorless-attack.png.webp",
+    "sha256": "a770ff2a969e429ecf3f09e88dffcb3ab87e7eb41145476684854013b971efc2",
+    "sourceBytes": 173724,
+    "sourceSha256": "1a53cf12530887b0f4c112b33e735b12b3b1002477c308dbede5c83c0de965ad"
+  },
+  "assets/game-ui/frame-colorless-power.png": {
+    "bytes": 98994,
+    "path": "assets/web/game-ui/frame-colorless-power.png.webp",
+    "sha256": "576ccdc5c57ab38c226948f630160554a9613d88cd7de624c0472b608fd415b4",
+    "sourceBytes": 170078,
+    "sourceSha256": "735baadd42a4fbdbd72d15bf5ffa9e59f7839d990fa4e8808ea72e67fbe5a01e"
+  },
+  "assets/game-ui/frame-colorless-skill.png": {
+    "bytes": 97498,
+    "path": "assets/web/game-ui/frame-colorless-skill.png.webp",
+    "sha256": "f8cbc961393e3481747e27095d1eeea8441a37cf20582a681716b7d389854ce8",
+    "sourceBytes": 167333,
+    "sourceSha256": "328c6e98fb8d5c1f3b5ea50d9adc8997a84691c06719c0d209c5235ccb8ab5b0"
+  },
+  "assets/game-ui/frame-curse-attack.png": {
+    "bytes": 84578,
+    "path": "assets/web/game-ui/frame-curse-attack.png.webp",
+    "sha256": "b245c91afaed3ad0a6f6f3cb60de1991a3af01db3b69049699e8d7cb5c7de7ce",
+    "sourceBytes": 140832,
+    "sourceSha256": "61cae6edc1499bdf6b95088848947ee08f336509b6a3f88454320c0d63b058fc"
+  },
+  "assets/game-ui/frame-curse-power.png": {
+    "bytes": 82842,
+    "path": "assets/web/game-ui/frame-curse-power.png.webp",
+    "sha256": "cad9c5171be93beac07aba02ac5990d731622f2712913954d00ce0c9660d74be",
+    "sourceBytes": 138172,
+    "sourceSha256": "27e9cf6fedaca49e194b3a28f6bb7e37f928a24d8cc58669c20dca3f3dd5653d"
+  },
+  "assets/game-ui/frame-curse-skill.png": {
+    "bytes": 81302,
+    "path": "assets/web/game-ui/frame-curse-skill.png.webp",
+    "sha256": "2ccb87e9ce06ada8c543d74b32a74ccab1368ea2a56bcbc928e705cbdc9c0ff5",
+    "sourceBytes": 135392,
+    "sourceSha256": "f260cd8eaf019d7545ff13510574dc4510f2a8037c8bc42a59845dd418ba6fdb"
+  },
+  "assets/game-ui/frame-power.png": {
+    "bytes": 112120,
+    "path": "assets/web/game-ui/frame-power.png.webp",
+    "sha256": "2373aaff662f5e7b57f0e9b6892b60b40a4d1b16b5cc181fbe3d85c18328e06d",
+    "sourceBytes": 171920,
+    "sourceSha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca"
+  },
+  "assets/game-ui/frame-skill.png": {
+    "bytes": 111432,
+    "path": "assets/web/game-ui/frame-skill.png.webp",
+    "sha256": "de6f8ce8565ee361c0fcb3d04e6f93ea1087a3f501d58ad960e53d59d6942eab",
+    "sourceBytes": 169709,
+    "sourceSha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8"
+  },
+  "assets/game-ui/gold-icon.png": {
+    "bytes": 268,
+    "path": "assets/web/game-ui/gold-icon.png.webp",
+    "sha256": "272e8251bc0fd3f4c9f9cc8b86a448c6dac6a0ddbc0e645658b00324f2edcefc",
+    "sourceBytes": 467,
+    "sourceSha256": "51281b13302de29ecc728cccb1174460b698f37cb5d92bf6c221cb38148f485b"
+  },
+  "assets/game-ui/health-icon.png": {
+    "bytes": 5152,
+    "path": "assets/web/game-ui/health-icon.png.webp",
+    "sha256": "407ed9aca9c9d7a6720359d8ae4e3fe8e9b89401e1ea8c62d50c0fa861395f2e",
+    "sourceBytes": 7263,
+    "sourceSha256": "d9f667ed3fe8ffe07dbe4617edf19a63b9e3027b9b4df8f4ebab43615b70c770"
+  },
+  "assets/game-ui/hover-tip.png": {
+    "bytes": 3528,
+    "path": "assets/web/game-ui/hover-tip.png.webp",
+    "sha256": "732c0c8e971a71231daf31368558ef0156f991e0cfdc7fd9bafbc2dcf2042de1",
+    "sourceBytes": 9208,
+    "sourceSha256": "12751c1a78bd3af040d802c89ccca1c97caabc91f2d54f25bcabed15cefdfacd"
+  },
+  "assets/game-ui/inspect-arrow-left.png": {
+    "bytes": 8844,
+    "path": "assets/web/game-ui/inspect-arrow-left.png.webp",
+    "sha256": "6a91bbf776655f4c4fa5d32a8b743b17f025a9265843ccec0c6c7b229d563e63",
+    "sourceBytes": 12464,
+    "sourceSha256": "ba971774a8fde0eae07a346d6886aa8d68976891ee75ea797466065942d44e44"
+  },
+  "assets/game-ui/inspect-arrow-right.png": {
+    "bytes": 9204,
+    "path": "assets/web/game-ui/inspect-arrow-right.png.webp",
+    "sha256": "e3c856f67dcb035cfd78d55351c5efb1eb0f7ca577c8822e34975bf59016024f",
+    "sourceBytes": 13148,
+    "sourceSha256": "19bb47a5b73a3f2ea630db769b3d272b1aa73e564a907531633145a8dc52879c"
+  },
+  "assets/game-ui/inspect-frame-ancient.png": {
+    "bytes": 10710,
+    "path": "assets/web/game-ui/inspect-frame-ancient.png.webp",
+    "sha256": "57aacb404cbbe0bbedaba0fbc1617d1732ef09e57c3a00c10131a5c7af0af7c7",
+    "sourceBytes": 18720,
+    "sourceSha256": "d712cd9352d16fe9a1c505dff61a0ff2472c1cb97229bbc5ad31163f254e497e"
+  },
+  "assets/game-ui/inspect-frame-bg.png": {
+    "bytes": 538402,
+    "path": "assets/web/game-ui/inspect-frame-bg.png.webp",
+    "sha256": "45fe6e2f9a1ed1ecb03d7e978a9e8d94b68ee62d46f47f3030a2106b8f187a11",
+    "sourceBytes": 1042527,
+    "sourceSha256": "af4bd5aa3db9474a378bff2fb2b2ba39c8b8ddcb649d9d4efd9c402866a6bf45"
+  },
+  "assets/game-ui/inspect-frame-common.png": {
+    "bytes": 10710,
+    "path": "assets/web/game-ui/inspect-frame-common.png.webp",
+    "sha256": "08ce0fb93e9122f69a437d43730420a0a72260b82f918a06707e8138094106d0",
+    "sourceBytes": 18739,
+    "sourceSha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1"
+  },
+  "assets/game-ui/inspect-frame-event.png": {
+    "bytes": 10710,
+    "path": "assets/web/game-ui/inspect-frame-event.png.webp",
+    "sha256": "30f5a838d0a5c94aaaab3be8d56674eece074570fd15e28717272568ba6c1820",
+    "sourceBytes": 18736,
+    "sourceSha256": "f98b287e6f024217381599743d1d76a32a40dd6284acec9a007aeaece55cfc6d"
+  },
+  "assets/game-ui/inspect-frame-rare.png": {
+    "bytes": 10734,
+    "path": "assets/web/game-ui/inspect-frame-rare.png.webp",
+    "sha256": "c0e1cbc2e47cf2a69554087f4c1d5a710162d2995773918912dc593c637d9ecb",
+    "sourceBytes": 18723,
+    "sourceSha256": "03019c5328a78bcc1040ceb670649edcb8255d506fce5199a090f9def9e548c6"
+  },
+  "assets/game-ui/inspect-frame-shop.png": {
+    "bytes": 10708,
+    "path": "assets/web/game-ui/inspect-frame-shop.png.webp",
+    "sha256": "36895e457bcfc96c32393378fea5856f14388251f75864dbda9b38b4dd2828c8",
+    "sourceBytes": 18732,
+    "sourceSha256": "1c76da4d378b67ae4e3f9307c44fd59dd948e62fcd186453eb5177e87458dd20"
+  },
+  "assets/game-ui/inspect-frame-starter.png": {
+    "bytes": 10710,
+    "path": "assets/web/game-ui/inspect-frame-starter.png.webp",
+    "sha256": "08ce0fb93e9122f69a437d43730420a0a72260b82f918a06707e8138094106d0",
+    "sourceBytes": 18739,
+    "sourceSha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1"
+  },
+  "assets/game-ui/inspect-frame-uncommon.png": {
+    "bytes": 10736,
+    "path": "assets/web/game-ui/inspect-frame-uncommon.png.webp",
+    "sha256": "081438787079451634fbfca19556fbff11d0a7ebd78257097c5eac6fdba84c7f",
+    "sourceBytes": 18728,
+    "sourceSha256": "0abfbe20cc2f226292cb5b23da0d0018d7706cb80079ef82f215379ff8730987"
+  },
+  "assets/game-ui/inspect-panel.png": {
+    "bytes": 872712,
+    "path": "assets/web/game-ui/inspect-panel.png.webp",
+    "sha256": "efea8bebb65fb50c1e013ff9add899c626ef16feab24d390d113ac604cf3685f",
+    "sourceBytes": 1802202,
+    "sourceSha256": "960d371188474b93d3f379bd060a2d43bd1c2b983b3c2631f965a3ef270b0791"
+  },
+  "assets/game-ui/karen-energy.png": {
+    "bytes": 672858,
+    "path": "assets/web/game-ui/karen-energy.png.webp",
+    "sha256": "fd60656e14944d294daac50a3a5527f7b30cda9f8c9aeb3fb19d49d64f0a010c",
+    "sourceBytes": 910022,
+    "sourceSha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115"
+  },
+  "assets/game-ui/karen-frame-attack.png": {
+    "bytes": 116032,
+    "path": "assets/web/game-ui/karen-frame-attack.png.webp",
+    "sha256": "97983712da256ae633321abcc95dde4d1b4da80ec867c8734addcb4206bd83eb",
+    "sourceBytes": 175787,
+    "sourceSha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf"
+  },
+  "assets/game-ui/karen-frame-power.png": {
+    "bytes": 112120,
+    "path": "assets/web/game-ui/karen-frame-power.png.webp",
+    "sha256": "2373aaff662f5e7b57f0e9b6892b60b40a4d1b16b5cc181fbe3d85c18328e06d",
+    "sourceBytes": 171920,
+    "sourceSha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca"
+  },
+  "assets/game-ui/karen-frame-skill.png": {
+    "bytes": 111432,
+    "path": "assets/web/game-ui/karen-frame-skill.png.webp",
+    "sha256": "de6f8ce8565ee361c0fcb3d04e6f93ea1087a3f501d58ad960e53d59d6942eab",
+    "sourceBytes": 169709,
+    "sourceSha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8"
+  },
+  "assets/game-ui/karen-inline-energy.png": {
+    "bytes": 676274,
+    "path": "assets/web/game-ui/karen-inline-energy.png.webp",
+    "sha256": "5c5fdc6182661e0d262c656be450913a691871bc6dfa43877fe9098ff3d4fbcc",
+    "sourceBytes": 924171,
+    "sourceSha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad"
+  },
+  "assets/game-ui/karen-karen_awake_potion-outline.png": {
+    "bytes": 620,
+    "path": "assets/web/game-ui/karen-karen_awake_potion-outline.png.webp",
+    "sha256": "ebddd6ad89fcfae0a6b8ab9b5a936d7b4d35019996857708c86b346ed6181fd4",
+    "sourceBytes": 1309,
+    "sourceSha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538"
+  },
+  "assets/game-ui/karen-karen_baseball_cat_relic-outline.png": {
+    "bytes": 1096,
+    "path": "assets/web/game-ui/karen-karen_baseball_cat_relic-outline.png.webp",
+    "sha256": "b847350572e8e0cde94e7fa4b8122510297777db8788ef3522a2c6fe6d5df013",
+    "sourceBytes": 1975,
+    "sourceSha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3"
+  },
+  "assets/game-ui/karen-karen_cookie_relic-outline.png": {
+    "bytes": 600,
+    "path": "assets/web/game-ui/karen-karen_cookie_relic-outline.png.webp",
+    "sha256": "d9ee72ce2806bf8bc908c5821a2a538cb4b67b631bb187d5c889aa8ed745d1da",
+    "sourceBytes": 1152,
+    "sourceSha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3"
+  },
+  "assets/game-ui/karen-karen_little_star_relic-outline.png": {
+    "bytes": 936,
+    "path": "assets/web/game-ui/karen-karen_little_star_relic-outline.png.webp",
+    "sha256": "d9eb4bb9c730c5ef35639835e72919668033ea0460641564a469ae6bf0a31c50",
+    "sourceBytes": 1708,
+    "sourceSha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9"
+  },
+  "assets/game-ui/karen-karen_mr_white_relic-outline.png": {
+    "bytes": 824,
+    "path": "assets/web/game-ui/karen-karen_mr_white_relic-outline.png.webp",
+    "sha256": "b58b4c263b26b99f52bd10ae227cea4e300836dfe3753339e70ad5cc5268eba1",
+    "sourceBytes": 1519,
+    "sourceSha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9"
+  },
+  "assets/game-ui/karen-karen_shine_potion-outline.png": {
+    "bytes": 864,
+    "path": "assets/web/game-ui/karen-karen_shine_potion-outline.png.webp",
+    "sha256": "208e09d609932c5776a966fa3bb55d9a9f9db8e4934adac4cdef6ec435d8713b",
+    "sourceBytes": 1500,
+    "sourceSha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c"
+  },
+  "assets/game-ui/karen-karen_star_hairclip_relic-outline.png": {
+    "bytes": 994,
+    "path": "assets/web/game-ui/karen-karen_star_hairclip_relic-outline.png.webp",
+    "sha256": "28a56737ef8e1f8f2ddb7411d63feec68248183eb48ff1b08405e6d4c6e40aac",
+    "sourceBytes": 1829,
+    "sourceSha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384"
+  },
+  "assets/game-ui/karen-karen_star_tiara_relic-outline.png": {
+    "bytes": 1182,
+    "path": "assets/web/game-ui/karen-karen_star_tiara_relic-outline.png.webp",
+    "sha256": "49fc8a2745627b3ca549971ead5523e555d58e307bca31cde22c1d75c8d0a70a",
+    "sourceBytes": 2278,
+    "sourceSha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983"
+  },
+  "assets/game-ui/karen-karen_tea_potion-outline.png": {
+    "bytes": 798,
+    "path": "assets/web/game-ui/karen-karen_tea_potion-outline.png.webp",
+    "sha256": "d4f3f4c01ae35fcb0887aeab1c376135401a570ef8a712440824ac2572b731c6",
+    "sourceBytes": 1478,
+    "sourceSha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6"
+  },
+  "assets/game-ui/karen-karen_water_bottle_relic-outline.png": {
+    "bytes": 774,
+    "path": "assets/web/game-ui/karen-karen_water_bottle_relic-outline.png.webp",
+    "sha256": "3661f7b55e5f6e78a1fcbb6e952f8b54ee82ac329d589fea9d7510d04b347578",
+    "sourceBytes": 1275,
+    "sourceSha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825"
+  },
+  "assets/game-ui/karen_awake_potion-collection-outline.png": {
+    "bytes": 620,
+    "path": "assets/web/game-ui/karen_awake_potion-collection-outline.png.webp",
+    "sha256": "ebddd6ad89fcfae0a6b8ab9b5a936d7b4d35019996857708c86b346ed6181fd4",
+    "sourceBytes": 1309,
+    "sourceSha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538"
+  },
+  "assets/game-ui/karen_baseball_cat_relic-collection-outline.png": {
+    "bytes": 1096,
+    "path": "assets/web/game-ui/karen_baseball_cat_relic-collection-outline.png.webp",
+    "sha256": "b847350572e8e0cde94e7fa4b8122510297777db8788ef3522a2c6fe6d5df013",
+    "sourceBytes": 1975,
+    "sourceSha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3"
+  },
+  "assets/game-ui/karen_cookie_relic-collection-outline.png": {
+    "bytes": 600,
+    "path": "assets/web/game-ui/karen_cookie_relic-collection-outline.png.webp",
+    "sha256": "d9ee72ce2806bf8bc908c5821a2a538cb4b67b631bb187d5c889aa8ed745d1da",
+    "sourceBytes": 1152,
+    "sourceSha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3"
+  },
+  "assets/game-ui/karen_little_star_relic-collection-outline.png": {
+    "bytes": 936,
+    "path": "assets/web/game-ui/karen_little_star_relic-collection-outline.png.webp",
+    "sha256": "d9eb4bb9c730c5ef35639835e72919668033ea0460641564a469ae6bf0a31c50",
+    "sourceBytes": 1708,
+    "sourceSha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9"
+  },
+  "assets/game-ui/karen_mr_white_relic-collection-outline.png": {
+    "bytes": 824,
+    "path": "assets/web/game-ui/karen_mr_white_relic-collection-outline.png.webp",
+    "sha256": "b58b4c263b26b99f52bd10ae227cea4e300836dfe3753339e70ad5cc5268eba1",
+    "sourceBytes": 1519,
+    "sourceSha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9"
+  },
+  "assets/game-ui/karen_shine_potion-collection-outline.png": {
+    "bytes": 864,
+    "path": "assets/web/game-ui/karen_shine_potion-collection-outline.png.webp",
+    "sha256": "208e09d609932c5776a966fa3bb55d9a9f9db8e4934adac4cdef6ec435d8713b",
+    "sourceBytes": 1500,
+    "sourceSha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c"
+  },
+  "assets/game-ui/karen_star_hairclip_relic-collection-outline.png": {
+    "bytes": 994,
+    "path": "assets/web/game-ui/karen_star_hairclip_relic-collection-outline.png.webp",
+    "sha256": "28a56737ef8e1f8f2ddb7411d63feec68248183eb48ff1b08405e6d4c6e40aac",
+    "sourceBytes": 1829,
+    "sourceSha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384"
+  },
+  "assets/game-ui/karen_star_tiara_relic-collection-outline.png": {
+    "bytes": 1182,
+    "path": "assets/web/game-ui/karen_star_tiara_relic-collection-outline.png.webp",
+    "sha256": "49fc8a2745627b3ca549971ead5523e555d58e307bca31cde22c1d75c8d0a70a",
+    "sourceBytes": 2278,
+    "sourceSha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983"
+  },
+  "assets/game-ui/karen_tea_potion-collection-outline.png": {
+    "bytes": 798,
+    "path": "assets/web/game-ui/karen_tea_potion-collection-outline.png.webp",
+    "sha256": "d4f3f4c01ae35fcb0887aeab1c376135401a570ef8a712440824ac2572b731c6",
+    "sourceBytes": 1478,
+    "sourceSha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6"
+  },
+  "assets/game-ui/karen_water_bottle_relic-collection-outline.png": {
+    "bytes": 774,
+    "path": "assets/web/game-ui/karen_water_bottle_relic-collection-outline.png.webp",
+    "sha256": "3661f7b55e5f6e78a1fcbb6e952f8b54ee82ac329d589fea9d7510d04b347578",
+    "sourceBytes": 1275,
+    "sourceSha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825"
+  },
+  "assets/game-ui/plaque-ancient.png": {
+    "bytes": 1100,
+    "path": "assets/web/game-ui/plaque-ancient.png.webp",
+    "sha256": "cb8b0ed2e3b57957d1a6cabbd872c7b02ddbc0e22d2e39326760ba6456d2a13c",
+    "sourceBytes": 1541,
+    "sourceSha256": "1b70bf265c04bc414e551247e3a027723fd2c8c3b0a3025bb08b75a33407af93"
+  },
+  "assets/game-ui/plaque-common.png": {
+    "bytes": 1134,
+    "path": "assets/web/game-ui/plaque-common.png.webp",
+    "sha256": "b17907d05c5eca0ccd345a72c178c24da4f9ea5e3aeb6ef05e11861697a7ea4e",
+    "sourceBytes": 1524,
+    "sourceSha256": "755915e9097f9d570b2ddaba9f74b40bfe6f5fe0bd45d9471ba7fe1c68e7cc27"
+  },
+  "assets/game-ui/plaque-curse.png": {
+    "bytes": 1332,
+    "path": "assets/web/game-ui/plaque-curse.png.webp",
+    "sha256": "cca578922649c3300b09c4e457cb756bc21ca964924cd1d983df9cbebc3ffa24",
+    "sourceBytes": 1545,
+    "sourceSha256": "5dc47c4e20c3f6f9b58d1c527615325b978fcd500e6d97525feb579215a5f5d0"
+  },
+  "assets/game-ui/plaque-event.png": {
+    "bytes": 1262,
+    "path": "assets/web/game-ui/plaque-event.png.webp",
+    "sha256": "db802f80d17d35049d1bd4fec09c0d5eb67688b9b3d38aec4d39837f66764616",
+    "sourceBytes": 1531,
+    "sourceSha256": "e93b7d260180417d82b986cf934623e933bd6fb781ddbd5fb376b8db87a481d6"
+  },
+  "assets/game-ui/plaque-rare.png": {
+    "bytes": 1416,
+    "path": "assets/web/game-ui/plaque-rare.png.webp",
+    "sha256": "84cec3a554e3283bbc6ca06d67748cca39566542ffd372ba6b9032b25795d32d",
+    "sourceBytes": 1546,
+    "sourceSha256": "50f0b0e91560bc4bbc4ff88a05eb6a0071eff2b8be107f7cbdd5b273f984a616"
+  },
+  "assets/game-ui/plaque-status.png": {
+    "bytes": 1176,
+    "path": "assets/web/game-ui/plaque-status.png.webp",
+    "sha256": "33292f4e195ed6ffa0cde405f2d90d3782ebb001d28f9b5d5f9e5e4b4412f845",
+    "sourceBytes": 1521,
+    "sourceSha256": "01b003bd7ef6b36333f77776a5dfc3c64bb6f3f1b18ecd42bf5e15d44ab6535e"
+  },
+  "assets/game-ui/plaque-uncommon.png": {
+    "bytes": 1208,
+    "path": "assets/web/game-ui/plaque-uncommon.png.webp",
+    "sha256": "3b06bfd2c12ba41c33ea680207f7208099946e84852ccec2ade2c80be4cca3bb",
+    "sourceBytes": 1572,
+    "sourceSha256": "27774f726dec0a0c9c21d40585706994841db2c458408e46fc15d952155a8e2a"
+  },
+  "assets/game-ui/pool-ancient.png": {
+    "bytes": 6270,
+    "path": "assets/web/game-ui/pool-ancient.png.webp",
+    "sha256": "dad93d061bd09b0d0e1cc92836311e996aa1d3b48a72ccccce6b09c9d884d683",
+    "sourceBytes": 8106,
+    "sourceSha256": "9de1776a181361c382d45306039a16959bf282d25d61dd83029441591050bb6c"
+  },
+  "assets/game-ui/pool-other.png": {
+    "bytes": 6408,
+    "path": "assets/web/game-ui/pool-other.png.webp",
+    "sha256": "6208970c89a23eaa74ba7d22997c3fefbab9f77aa878aa678c1559478c1746fd",
+    "sourceBytes": 7529,
+    "sourceSha256": "b409ed03edb1671f9ea84f35cd9c03704c312e1c53316d195067fcc41c27297a"
+  },
+  "assets/game-ui/portrait-attack-ancient.png": {
+    "bytes": 39990,
+    "path": "assets/web/game-ui/portrait-attack-ancient.png.webp",
+    "sha256": "3f2530598c6dd476ffb08ccc9939202a1863dd2be863a9558238ce90d60ea192",
+    "sourceBytes": 67984,
+    "sourceSha256": "41cae9604af3bb7d51c04b8f7cc0c4c6e811e251f985c0125557749a024d72d0"
+  },
+  "assets/game-ui/portrait-attack-common.png": {
+    "bytes": 38776,
+    "path": "assets/web/game-ui/portrait-attack-common.png.webp",
+    "sha256": "2a851bc9641264ab06f7fa88688da6557353b831b5b6ce797497576b8a6a26ca",
+    "sourceBytes": 67907,
+    "sourceSha256": "b40f287c69788910783a5ced6a0d7d69255254cce19d227458e4e35a140dbaf1"
+  },
+  "assets/game-ui/portrait-attack-curse.png": {
+    "bytes": 48378,
+    "path": "assets/web/game-ui/portrait-attack-curse.png.webp",
+    "sha256": "e8b9e3c5a91211bee5082cab4043fb45fc87c8f14be8fd1aca4c9c6985e0ec71",
+    "sourceBytes": 68176,
+    "sourceSha256": "723dbc74fed123ca140a81103603d15761db61184cd59aac7429d89ec5b54dfb"
+  },
+  "assets/game-ui/portrait-attack-event.png": {
+    "bytes": 45806,
+    "path": "assets/web/game-ui/portrait-attack-event.png.webp",
+    "sha256": "7e746c4363573e330691353a868e01321521744aa416b1699319750bc72e19ee",
+    "sourceBytes": 70271,
+    "sourceSha256": "0296297b39eb0f2ad47712f39835225f88f08a5377475d202c20f63caaedf727"
+  },
+  "assets/game-ui/portrait-attack-rare.png": {
+    "bytes": 50408,
+    "path": "assets/web/game-ui/portrait-attack-rare.png.webp",
+    "sha256": "ce814b85b601769b25ac5d38bb81cac3a763e7e4442527212d8069dca9138a9c",
+    "sourceBytes": 69500,
+    "sourceSha256": "920a3e1105ce7aa783ce1d79140e85370c1e53afbcab0baa625a30c59200c60f"
+  },
+  "assets/game-ui/portrait-attack-status.png": {
+    "bytes": 41972,
+    "path": "assets/web/game-ui/portrait-attack-status.png.webp",
+    "sha256": "b7763591e42bbbf9ebd530d6b7a5d03944b1753cebcfd6d6f2908d9d53b92e3a",
+    "sourceBytes": 68077,
+    "sourceSha256": "ec9d42e4261eee9c126b70c4d253882dfd9bb64d957a2e10957636922064a386"
+  },
+  "assets/game-ui/portrait-attack-uncommon.png": {
+    "bytes": 44900,
+    "path": "assets/web/game-ui/portrait-attack-uncommon.png.webp",
+    "sha256": "8457545cdc5db35c3e5ec9f31072f3342578d067169ceedc6b537e242be29546",
+    "sourceBytes": 70520,
+    "sourceSha256": "6d9aa0e4d12be388518dabce208e869cd3db868f78f220c033c916451c3298e4"
+  },
+  "assets/game-ui/portrait-power-ancient.png": {
+    "bytes": 37210,
+    "path": "assets/web/game-ui/portrait-power-ancient.png.webp",
+    "sha256": "c49679d262bfc3787b5fe49ed692bc46b6677b21edef7a7d07f4a97bc3ee4617",
+    "sourceBytes": 61038,
+    "sourceSha256": "e3ecd25925897e4fc4cacd03250b02c296320a8b148f2c655d1c962372d95dd2"
+  },
+  "assets/game-ui/portrait-power-common.png": {
+    "bytes": 36388,
+    "path": "assets/web/game-ui/portrait-power-common.png.webp",
+    "sha256": "ba25d155a80bc57257977c8a7b981a3d58a4241f759265406cdcd0369b00f3b3",
+    "sourceBytes": 61395,
+    "sourceSha256": "76ad895941e8fed0570ffb0687a8208643a84f5391e6198ff24a4c05dbb65192"
+  },
+  "assets/game-ui/portrait-power-curse.png": {
+    "bytes": 43844,
+    "path": "assets/web/game-ui/portrait-power-curse.png.webp",
+    "sha256": "90544f0db6d1cf60c1839e87e3d143c6007cce9220050ca143d85c4cd8a44ad8",
+    "sourceBytes": 62890,
+    "sourceSha256": "4f07b778110567f9595735c71823b21c1f73b543b47b155eea36b9f5298aaf99"
+  },
+  "assets/game-ui/portrait-power-event.png": {
+    "bytes": 41464,
+    "path": "assets/web/game-ui/portrait-power-event.png.webp",
+    "sha256": "2bdc35153274a2175e657af7046b624786ef96a28cb8a237d67d35eb96cf3146",
+    "sourceBytes": 63170,
+    "sourceSha256": "ee80dcb8d616a64c411ad95214a303b80b4deb6af966183d03e4823068b99c2d"
+  },
+  "assets/game-ui/portrait-power-rare.png": {
+    "bytes": 45232,
+    "path": "assets/web/game-ui/portrait-power-rare.png.webp",
+    "sha256": "c853c7733ba76b329d459f1441c803e4864a0cdcc8dd4117ef9dd3ca0f133dcd",
+    "sourceBytes": 63923,
+    "sourceSha256": "6707890afc8d5d89a809dce62bd421a298263f919118f14f2ea037b91266b7fd"
+  },
+  "assets/game-ui/portrait-power-status.png": {
+    "bytes": 38440,
+    "path": "assets/web/game-ui/portrait-power-status.png.webp",
+    "sha256": "b4ebd6f41cd919476be1bf7f9ed2c45ebf110ff5e15e61ef44a0f5007098b958",
+    "sourceBytes": 61238,
+    "sourceSha256": "05bc31cecbb92267c6068577df8824ae652682daded9ed34b3c5064a5d9cf4b0"
+  },
+  "assets/game-ui/portrait-power-uncommon.png": {
+    "bytes": 41018,
+    "path": "assets/web/game-ui/portrait-power-uncommon.png.webp",
+    "sha256": "ab2d1e4f0a0e3150bb09b71778a1d390122b2400698540783f170a79d6e636da",
+    "sourceBytes": 63372,
+    "sourceSha256": "75b8e8cf8eb0ecdbf9ee7e61274c35e75e792b76e93753ba2cd972e7a47f9179"
+  },
+  "assets/game-ui/portrait-skill-ancient.png": {
+    "bytes": 42032,
+    "path": "assets/web/game-ui/portrait-skill-ancient.png.webp",
+    "sha256": "79af14d7658c642e67a2076a282808df5e98c9704eb19a06cad108301708474e",
+    "sourceBytes": 70429,
+    "sourceSha256": "d159b117f8b80779100f85fe3f9f1dc437f4a352bb33d40d140899708fbe60a3"
+  },
+  "assets/game-ui/portrait-skill-common.png": {
+    "bytes": 40518,
+    "path": "assets/web/game-ui/portrait-skill-common.png.webp",
+    "sha256": "b4c0d4149f5ea10a0b357325175603c638d56225314ff5fa7b2d0b17d403982d",
+    "sourceBytes": 70633,
+    "sourceSha256": "93c620a6bf677437ccaea5f489c935139f82a81fb6eacf5ecd220cff47257d5b"
+  },
+  "assets/game-ui/portrait-skill-curse.png": {
+    "bytes": 49988,
+    "path": "assets/web/game-ui/portrait-skill-curse.png.webp",
+    "sha256": "7a69b82d6030938baa66c2cfe8bd0c556beeef005aa46b1bb78a84c3693b51f7",
+    "sourceBytes": 70415,
+    "sourceSha256": "9a74cf6d95439977643a77a61c4447bb547d395bc54e11bac30dac3c66d8f3b7"
+  },
+  "assets/game-ui/portrait-skill-event.png": {
+    "bytes": 47082,
+    "path": "assets/web/game-ui/portrait-skill-event.png.webp",
+    "sha256": "089f29d9bf2e4ff6c27b8ad2f156877cad079f6fd47a0787f71ba71c943a677f",
+    "sourceBytes": 73200,
+    "sourceSha256": "48343bc326a2d915a149cdc40cd8991f28f66d8208e628f1fd8c29d0ed5daba6"
+  },
+  "assets/game-ui/portrait-skill-rare.png": {
+    "bytes": 51318,
+    "path": "assets/web/game-ui/portrait-skill-rare.png.webp",
+    "sha256": "5f370033aff7c617464ace1f2ad8109a27a89b638e83128aeb3a6f595142207f",
+    "sourceBytes": 72181,
+    "sourceSha256": "359dafaa788d9c3dcd5c0937e922a0f83486999e4a69ff9a5f32ca94bcca54ac"
+  },
+  "assets/game-ui/portrait-skill-status.png": {
+    "bytes": 43324,
+    "path": "assets/web/game-ui/portrait-skill-status.png.webp",
+    "sha256": "180504384ae6e276f0ca2a6217ed14190ea6c2eb2b3cd7c72e3ee7e584a8c9e5",
+    "sourceBytes": 70749,
+    "sourceSha256": "aa77c5c48dfa9772babd57f215b82972318aa2e11d513cb6397db3b3855c5c7c"
+  },
+  "assets/game-ui/portrait-skill-uncommon.png": {
+    "bytes": 46106,
+    "path": "assets/web/game-ui/portrait-skill-uncommon.png.webp",
+    "sha256": "564418a873a29dd68da6336c984d68e36cb1e954dc49918f0feae30dc01e28b4",
+    "sourceBytes": 73125,
+    "sourceSha256": "a860aa44dd5956410e2e936efddb73d05e6f93b0ce1cd2ab67a47cfea2a48c9d"
+  },
+  "assets/game-ui/potion-icon.png": {
+    "bytes": 294,
+    "path": "assets/web/game-ui/potion-icon.png.webp",
+    "sha256": "f61afa3e1475d6696e705bc8b44baa0a90a556247cc23c97f4269be4549263ea",
+    "sourceBytes": 558,
+    "sourceSha256": "b7f1f58e58b812abaffb7ecb87f2c4342c1617c0a4ba4d521a8f5615a66518b0"
+  },
+  "assets/game-ui/submenu-card-library.png": {
+    "bytes": 81430,
+    "path": "assets/web/game-ui/submenu-card-library.png.webp",
+    "sha256": "55b2a892e8b7f09819939da427f843640144a7a76cc5ee6f473626511c5bac3f",
+    "sourceBytes": 121177,
+    "sourceSha256": "29dfc60841b94b5a78c96ca2923a81f6c58d49fb45821c96d9c5cc0900f91e3d"
+  },
+  "assets/game-ui/submenu-potion-lab.png": {
+    "bytes": 74128,
+    "path": "assets/web/game-ui/submenu-potion-lab.png.webp",
+    "sha256": "14f0e8e8ceb648e18ec5d55201f6d2e36cd5c19726d1d4bf85a292920c1b06f8",
+    "sourceBytes": 111116,
+    "sourceSha256": "9e254b5579c5d0b820ef2a58d96c63cfd9ea8cd6910d279c770163df8ca18dca"
+  },
+  "assets/game-ui/submenu-relic-collection.png": {
+    "bytes": 49812,
+    "path": "assets/web/game-ui/submenu-relic-collection.png.webp",
+    "sha256": "2b02bc601de00844a9afcc8655571a7d367d8fd0d497e4fa2c171b823fc60407",
+    "sourceBytes": 74230,
+    "sourceSha256": "698293f6762cc5b3a67e5cf91cd062d20adcd5f1418ac5c834c1b31f0f5050dc"
+  },
+  "assets/game-ui/submenu-standard.png": {
+    "bytes": 99134,
+    "path": "assets/web/game-ui/submenu-standard.png.webp",
+    "sha256": "6f17b5f67cda0ba4fe4e8079fa4c1317ed15eb42564b44ebfda126603fd5292d",
+    "sourceBytes": 146847,
+    "sourceSha256": "edbe18a68d58e76629352809ab13d142d6ec93fbb605fdc929974a5ddd7bc9f4"
+  },
+  "assets/game-ui/submenu-unknown.png": {
+    "bytes": 37732,
+    "path": "assets/web/game-ui/submenu-unknown.png.webp",
+    "sha256": "9af80250bb4ecd08a6c84553339ae7f73c385534f80ff3ad8afb3b5b7c833865",
+    "sourceBytes": 58793,
+    "sourceSha256": "07482a262e25fde9a4cc6a8ca156cbee51494b70f768e88b5651280bf1c45aee"
+  },
+  "assets/game-ui/top-bar.png": {
+    "bytes": 61564,
+    "path": "assets/web/game-ui/top-bar.png.webp",
+    "sha256": "192a483497f224dac13897f6c7fa9d23d6c43a2c5fbcc055224795c72411ef2e",
+    "sourceBytes": 86804,
+    "sourceSha256": "e242d978c0c488981e5121ea4eab62ac6234848c67ac9e41a8f20d437902d769"
+  },
+  "assets/game-ui/type-sort-attack.png": {
+    "bytes": 3220,
+    "path": "assets/web/game-ui/type-sort-attack.png.webp",
+    "sha256": "3c1b965eda44e4d67fee33f28789efc5e41121c769ee15e9a8da33d32ec69a10",
+    "sourceBytes": 4094,
+    "sourceSha256": "12cbdeaaaeb313be9b82dde2b53a82e59f9ecc996ee5e0bb492d084125ace893"
+  },
+  "assets/game-ui/type-sort-other.png": {
+    "bytes": 3174,
+    "path": "assets/web/game-ui/type-sort-other.png.webp",
+    "sha256": "5357ebc325ad0090219eb65ba3a5c90aa6a42b5b523f90d816400c59e1e08d86",
+    "sourceBytes": 4194,
+    "sourceSha256": "9cad08e830b45bf3d466107a1614e77a02c60b73be9098bbb6936bd54df49560"
+  },
+  "assets/game-ui/type-sort-outline2.png": {
+    "bytes": 1368,
+    "path": "assets/web/game-ui/type-sort-outline2.png.webp",
+    "sha256": "82c4b76e6a3d6c5845f1602715325505e36c0b2911570db2b743c69c9151ac12",
+    "sourceBytes": 2156,
+    "sourceSha256": "4a590e986ce8bcc7068d61b4adcfae2e220b0d4557aa0ae5ac3234cd0f7e06d1"
+  },
+  "assets/game-ui/type-sort-power.png": {
+    "bytes": 3190,
+    "path": "assets/web/game-ui/type-sort-power.png.webp",
+    "sha256": "f5b47c0f44ec79827ae5fcb27dc925d30d4227adf4981c8d2c498d458e8d0c00",
+    "sourceBytes": 4067,
+    "sourceSha256": "cf279a3734ac37da391a783c3cbd2d4306ba0637045fea2f18ee2248b32e8b89"
+  },
+  "assets/game-ui/type-sort-skill.png": {
+    "bytes": 3084,
+    "path": "assets/web/game-ui/type-sort-skill.png.webp",
+    "sha256": "fb5b43681830ddc90e5ed378264a5a698a0b6df9a4461a4dfd1c8e27b9d0beba",
+    "sourceBytes": 3853,
+    "sourceSha256": "c3a1950ea2a77e0b1dee7eca1eba02edae28d44a9f6256643824512cb3449d92"
+  },
+  "assets/karen/images/packed/card_portraits/curse/karen_sleepy.png": {
+    "bytes": 143922,
+    "path": "assets/web/karen/images/packed/card_portraits/curse/karen_sleepy.png.webp",
+    "sha256": "82712e86cc2d01632b25561854807e1275101a3bb7bc49a67659b332249a75ff",
+    "sourceBytes": 271459,
+    "sourceSha256": "8dc7d6ea81f20cf8588ef2ac7905eff63df846fa299d607daefc835e35e35e6d"
+  },
+  "assets/karen/images/packed/card_portraits/curse/karen_stage_reason.png": {
+    "bytes": 138164,
+    "path": "assets/web/karen/images/packed/card_portraits/curse/karen_stage_reason.png.webp",
+    "sha256": "0c1d8102dbe4e095dbf30d7bb6eff1953d34336bb80d8fa59b64de2ad9e6fd12",
+    "sourceBytes": 312865,
+    "sourceSha256": "a160f0303150fa2903001acd924d4aa09c8ba71931423de921e35ecd766fe51e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_aquarium_card.png": {
+    "bytes": 194888,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_aquarium_card.png.webp",
+    "sha256": "ff983f5143454a38005f243936059aa8a5fbba0df1e1c0bcc6b2ae6bb58bd34a",
+    "sourceBytes": 295069,
+    "sourceSha256": "108bc21778c483124a8dfbe5e982e2d493872eda0c44e18888ad99e1277caa3c"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_arrogant.png": {
+    "bytes": 164580,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_arrogant.png.webp",
+    "sha256": "c6c0fd8a0dcc22bd6903df7ca97f32377f6c6e39862c3f7ceaa84d86fad37247",
+    "sourceBytes": 254921,
+    "sourceSha256": "b3078e3271e4383e696199ad3e5e359e8792ae1ea6fbfd640bbf10b49e2fe2b8"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_back_to_back_card.png": {
+    "bytes": 162330,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_back_to_back_card.png.webp",
+    "sha256": "1075677da0f62cdee3a8e583e32b77478bbe13ea92a24459c0c6bce8ef367789",
+    "sourceBytes": 315208,
+    "sourceSha256": "63d9f40bc6c8a7a3fc31d0108da1377e7b24a8ef73b2894863290e2ce7071a33"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_banana_cake.png": {
+    "bytes": 197042,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_banana_cake.png.webp",
+    "sha256": "be8a53c5187208e956003f51a775311c8008f8714a5993ccf69a3f9f7532cfb1",
+    "sourceBytes": 331217,
+    "sourceSha256": "051233be362355a5ec217ac16c38440b5214ec58c72d1bebd2ce6520c4e3635d"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_banana_lunch.png": {
+    "bytes": 240416,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_banana_lunch.png.webp",
+    "sha256": "936aba4d3a1de47c96979d3be07c2cff3e4e43e674af68ff02b72c5eafa93544",
+    "sourceBytes": 344077,
+    "sourceSha256": "4cab25eb80c5173657ad37112145b963d4a2fa4c7b33a1c579cd24d4aae2bfa7"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_banana_muffin.png": {
+    "bytes": 191082,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_banana_muffin.png.webp",
+    "sha256": "e3c57b70a7d24d53ffc00ac9c64572c7574bd2f0e61139ec35610e8633561b43",
+    "sourceBytes": 365262,
+    "sourceSha256": "bb82f9211e27c6082669cec52f0f46043f8f61d13971fd27994891017182c7b1"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_baseball.png": {
+    "bytes": 164352,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_baseball.png.webp",
+    "sha256": "53fad95d720f16d3eb3708cbe8d80acd2b390e3acba1f7420cd46e66d3b2fe51",
+    "sourceBytes": 265166,
+    "sourceSha256": "608688b32779c18a9d5ab0be32feb198aa2f3f891054adc1de72c48a871924f8"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_bridge.png": {
+    "bytes": 120436,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_bridge.png.webp",
+    "sha256": "fd3b7e5bc8020c9b9c3fc90e4d057549fbe0ffbfb705cff92907881507c2bf6c",
+    "sourceBytes": 236105,
+    "sourceSha256": "0de15f5344db6354076112439d1caab88b0f16cba2702992eb84de9296f47a3f"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_burn.png": {
+    "bytes": 201560,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_burn.png.webp",
+    "sha256": "ce7c0a14dd92a8fadc6166958d48e3e5d191ca3b18615332c7a77b752c9a0130",
+    "sourceBytes": 284047,
+    "sourceSha256": "b911cf575733030a04580001626550c533f953242810f42c6e91be600e5ff9fe"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_carrying_guilt.png": {
+    "bytes": 39396,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_carrying_guilt.png.webp",
+    "sha256": "1dbfb4645f8d80b21c28bcebe69a21c9ce220b05d85862206f30bcd62c07bbc5",
+    "sourceBytes": 88189,
+    "sourceSha256": "eb000086bf8cbb8a62f233f2896c0501d27248b4142eba7a455f38da06d333be"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_chain.png": {
+    "bytes": 146264,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_chain.png.webp",
+    "sha256": "3056de6b6f76db758f27c07131c6f1cfe3ecd7da959bb15944267f5f122fa01a",
+    "sourceBytes": 225948,
+    "sourceSha256": "a84eb74277ea6bbb95711bb33cb0f7a3d4a415ac432b83194ca0e006a2cef5cd"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_charge_strike.png": {
+    "bytes": 162718,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_charge_strike.png.webp",
+    "sha256": "e83fa036ba3a4f34403f235d964a0435b446be096988562f7bcc84b96ced4b65",
+    "sourceBytes": 352339,
+    "sourceSha256": "7c0c8ba9e1cb2f7ec8adcb5bbf53beed4ef6e75817a0e308057cea93baa04d76"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_consciousness.png": {
+    "bytes": 165612,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_consciousness.png.webp",
+    "sha256": "f5600d3a4997045e5637255ec24cd1eb7b13e168392e3661a229b527886226a8",
+    "sourceBytes": 321883,
+    "sourceSha256": "661e5b03282bd94cb149a6dbb8b9c9cd44999fd3051e99bf906d62feab1d9891"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_continue02.png": {
+    "bytes": 103960,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_continue02.png.webp",
+    "sha256": "acbb51704572dd30d49e7e3761b0feec796dca09d16c958cf84e32af63d206af",
+    "sourceBytes": 218198,
+    "sourceSha256": "67828c30f070131cad18134fb0f4bcbc2fb17a0ab9574291eebf31f37c0f7b24"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_courage_strike.png": {
+    "bytes": 148002,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_courage_strike.png.webp",
+    "sha256": "0cfc31af64c44e590980993ba39e32852d2868c4c2336a7c791717dd1bd1dcd5",
+    "sourceBytes": 303613,
+    "sourceSha256": "d82f9658f535b2139be9ff46aed648f1448a8bd0454e850ac61f74edb52fd737"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_cry.png": {
+    "bytes": 177508,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_cry.png.webp",
+    "sha256": "f59b89c56de94b5907dc33f9dc25660e6a1857dc999164cad948272384c4635c",
+    "sourceBytes": 272107,
+    "sourceSha256": "d2c5d06cb4fe6f3877ed46c0196460483b3f06050189128939b5253de3382a69"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_dance.png": {
+    "bytes": 133416,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_dance.png.webp",
+    "sha256": "85a53f40fb4a75aed9c3bdf7727fe47997926ed6c4030a0f00172fbc44ed0082",
+    "sourceBytes": 300612,
+    "sourceSha256": "28a421f8d4cc0973237fbd14b0ddd453a69b33ba190784190cb85a81eee952cc"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_debut.png": {
+    "bytes": 123662,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_debut.png.webp",
+    "sha256": "080bffe7bfde4c7ef1a37701a18fdec5426fd6086475d9798c6ceb5296ea8d2b",
+    "sourceBytes": 331960,
+    "sourceSha256": "0d8907af922fb6480af422f6571f35a2cc390c4785f72fe19cd518f5c8027a08"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_defend.png": {
+    "bytes": 178630,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_defend.png.webp",
+    "sha256": "69c9bd600716c482a5439d06c85a13653b0037ea90444ae5082027b910582bf4",
+    "sourceBytes": 388171,
+    "sourceSha256": "afa7557fec2cd3d8215ee8d1615d674ebe5022a1b75f2e57173948227652c5a3"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_dodge.png": {
+    "bytes": 189604,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_dodge.png.webp",
+    "sha256": "ad532b9be2a346bfabbb57c8ecf5d278f818f758d4b69ee10d50e18344f1f42c",
+    "sourceBytes": 387475,
+    "sourceSha256": "5ecbc00db598c9b3ff019d1deee716f4214c6f6de6413d46a8313ff6f311d8be"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_drink_water.png": {
+    "bytes": 155632,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_drink_water.png.webp",
+    "sha256": "0662ad286334bab0b8039fba2a59750ced7bdf90698c6a5c8ba4fe2006e28273",
+    "sourceBytes": 286111,
+    "sourceSha256": "6a14f8b865be4a77d1464220c5476c26a49865fb8497baed2df9cae06b4099d9"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_drop_fuel.png": {
+    "bytes": 157258,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_drop_fuel.png.webp",
+    "sha256": "a4d28badbfac39e646325bc707fde1098e913c07c7980b78ca29ea4456398124",
+    "sourceBytes": 353391,
+    "sourceSha256": "8c911b0b10179a145ce85193fc69cec226e8ec1f979832b4ece29a658e8c6538"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_eat_together.png": {
+    "bytes": 223628,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_eat_together.png.webp",
+    "sha256": "1d9d6606001f2d271e660207299cf67c3ac098166c7f92b888b947899549b63a",
+    "sourceBytes": 411533,
+    "sourceSha256": "e01a4acddb24f8eb2b9a4aabb2248ec472fb0f50793df1e584d05df587e36988"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_exchange_fate.png": {
+    "bytes": 182636,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_exchange_fate.png.webp",
+    "sha256": "36675eb1d5ecef211ba0a262d415375028626df3fca0d845175bea5642d9f9f7",
+    "sourceBytes": 421155,
+    "sourceSha256": "5d26fe860a32c1042c77b4dc76ea9b64f865f3feedaab6671bb89dafeb8ed818"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_fall.png": {
+    "bytes": 152634,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_fall.png.webp",
+    "sha256": "00e4b086189ce1c48a68c466fb8cb826a6962deb230bb35a3ce6f27d64bb9692",
+    "sourceBytes": 387988,
+    "sourceSha256": "7dbd3b05076a919efeaaf7d6abaec57480131661266a0e2b1e1d3712ade69be3"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_fight_relay.png": {
+    "bytes": 178520,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_fight_relay.png.webp",
+    "sha256": "8caaa63ffb4a1092e2943532b067983a013de0167d341be544c53f7c338ccfbb",
+    "sourceBytes": 268205,
+    "sourceSha256": "3de0bc7b3f1019e02b6444461da9c68bd4c616bf3cfcbad8ecf14c9f83e3415d"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_financier.png": {
+    "bytes": 229266,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_financier.png.webp",
+    "sha256": "068251440ed6dfa07d6897a4d5211519550a4000c94ccbc39222d9bece73c87a",
+    "sourceBytes": 333765,
+    "sourceSha256": "655cb5c1da52f6adc3f83f9b45446c70b65e8890b314a9c9c0a94bee4607eb00"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_forgive.png": {
+    "bytes": 171258,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_forgive.png.webp",
+    "sha256": "6d4cf4b34c00b9e7b18cd6f954a19acf9f3b2e6a1eb47b62fb1093a2b9c690bd",
+    "sourceBytes": 345385,
+    "sourceSha256": "8ea3b9c3f15f848d352c0978d09c56346234b46128781ae76214dc0ad8f4d0fe"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_form.png": {
+    "bytes": 181370,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_form.png.webp",
+    "sha256": "ce07556076f03f621f8c81765331d5c9d7c6116076bc319c0760c70244a47ac6",
+    "sourceBytes": 282542,
+    "sourceSha256": "be07819eca020fe2de1a0b388999a8ae811ede926c9aa9d77c08887bced951af"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_geer.png": {
+    "bytes": 98740,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_geer.png.webp",
+    "sha256": "66fb8d225ea9b5959ec126b62c8303a7cfce64098682595650a00b0e20341db3",
+    "sourceBytes": 141393,
+    "sourceSha256": "24c82dc35d5f078739661d037e47221804ae2b915301fde53728fe92b073625d"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_holy_star.png": {
+    "bytes": 176012,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_holy_star.png.webp",
+    "sha256": "2599d8776d8f22ab8a4035e60ecf8fd49ded9dde8e8ee36bf6667d838c9e05dd",
+    "sourceBytes": 352787,
+    "sourceSha256": "6d6f82678ce041b4401e29857f1394e44af36a6d4866f3ed3fccace472575f11"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_jealousy.png": {
+    "bytes": 109838,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_jealousy.png.webp",
+    "sha256": "06e448044648e7b3e913dbf0939b6ec09486d059bdc034c4c6038d9f696421d7",
+    "sourceBytes": 252923,
+    "sourceSha256": "7690096caa8a87b3f4ac02328c1bb7221f2d7b1da55a7a453604aa49bbce296e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_landing.png": {
+    "bytes": 165434,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_landing.png.webp",
+    "sha256": "33f72bb1609e614920d399cd97ba4264a7a21228f1d3db1e0b243210da45dabc",
+    "sourceBytes": 329251,
+    "sourceSha256": "588775f7e54d02b312e03e8bd475be679b1619df10b456fb97fa577f2a9a4698"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_last_word.png": {
+    "bytes": 178336,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_last_word.png.webp",
+    "sha256": "6d3544fb1fa4eb085adb52c219de401d945b081cd004b5c508a98ef0790b13f1",
+    "sourceBytes": 377826,
+    "sourceSha256": "4154154955bd1af7c65023e284798b5049275e3aece389902b03ad75b6686644"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_letter_card.png": {
+    "bytes": 130292,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_letter_card.png.webp",
+    "sha256": "2347f89e1700b59a97705ed560c3ce82d97d0fcc82912e5b000e221a3d914f82",
+    "sourceBytes": 189992,
+    "sourceSha256": "a53a4a46606c018208594f39599254d1a7c1b306661af7aa917a67bdb9a37d07"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_meet_again.png": {
+    "bytes": 181996,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_meet_again.png.webp",
+    "sha256": "cbe0216bc46e2f6217f197daf03af377157309c3fce514c5804bb25cee4f4af7",
+    "sourceBytes": 472303,
+    "sourceSha256": "8ac3c93660cd1096fb57b03395b004ad8435d495c84a75531efa731fbc803dde"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_new_day.png": {
+    "bytes": 146572,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_new_day.png.webp",
+    "sha256": "80be3d5de5feb275bc17041c41bec712924b2d0e9f860aa42ed2b13885f5f72e",
+    "sourceBytes": 279727,
+    "sourceSha256": "3e7ab831903323c1ed8f6ef41337a5f76e26cf721c5fe2e83b0b446bfaaa0684"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_new_situation.png": {
+    "bytes": 162096,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_new_situation.png.webp",
+    "sha256": "6b868d0ff76b49a897c03d2357a29dea31b3804dd200c14cab3f2ac131a74c97",
+    "sourceBytes": 327109,
+    "sourceSha256": "5609ddb6b63e1895b6c1afa36f242948091b7234202670238bf650896be2cdae"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_next_stage.png": {
+    "bytes": 185268,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_next_stage.png.webp",
+    "sha256": "57381eaee449f009391aecc99a027d2b62f901dc390e4a992c2e4b28a4bf10b3",
+    "sourceBytes": 403144,
+    "sourceSha256": "ddabb7f9725c18e59261b2c936ea376419f8a4788058120a1f99d8c8f5c8ba76"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_no_hesitate.png": {
+    "bytes": 154848,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_no_hesitate.png.webp",
+    "sha256": "4fb3cee3b25a5888bfe2a8c43efed3101a4a62a10935cadb7f151100a82d4fd9",
+    "sourceBytes": 301899,
+    "sourceSha256": "0149007cae2e506e468d1d8efcdc3ad2da3ee71cfa6c7a16f16984681c17a811"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_nonon.png": {
+    "bytes": 164750,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_nonon.png.webp",
+    "sha256": "83485663de0c73552bd07b2cd8230f4b9d6116cf7f8d0391e20bd3c0f26fc2cd",
+    "sourceBytes": 359882,
+    "sourceSha256": "e60aae154d420e5ffedbf19b033d80c5897479c221d4e79b752066ef20082f5b"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_old_place.png": {
+    "bytes": 172570,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_old_place.png.webp",
+    "sha256": "f7c202cd2ba8b01837f81f4b9fbfe9ea6a915d01d3595046718ed8f12cba572c",
+    "sourceBytes": 383920,
+    "sourceSha256": "120483af5607114486569678dfa38d3b986555946a4f68b2efd8ddba3c856650"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_on_stage.png": {
+    "bytes": 137970,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_on_stage.png.webp",
+    "sha256": "8c91bdca35e3a08244addeb73305a6f134aabbfcafb8cc837ad0c0a48a05cf96",
+    "sourceBytes": 344737,
+    "sourceSha256": "446460b67f5beb2a059ea4ea54d0bcb57e265799b51d40616518cec9c37a67fb"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_open_up_stars.png": {
+    "bytes": 206730,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_open_up_stars.png.webp",
+    "sha256": "dad0c03e7ba335a6386750cc2763460000f08801239931dcd560b585438afdb7",
+    "sourceBytes": 307269,
+    "sourceSha256": "58fc6799d9e4bb07d689ac183fad347ec5bbe41927e02f27401c03a7b9a0f22b"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_our_promise.png": {
+    "bytes": 171056,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_our_promise.png.webp",
+    "sha256": "d8dc069887d4f4a472cb96bcd1c4593d5b82566d7cf61991f6f4aac6eb855c4b",
+    "sourceBytes": 260741,
+    "sourceSha256": "f988a41d9a90f7738471f367563a4cbcc4fea0c5db77c433419ce868c02f1c9c"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_parry.png": {
+    "bytes": 182392,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_parry.png.webp",
+    "sha256": "a3db15c6657008c7efe495d8aa54e154eb5ef8bb56fd531f8929984703915be9",
+    "sourceBytes": 364493,
+    "sourceSha256": "d3aa78c4afc2ee0cf534ea9e79b840c739227013beb6e061c543baa783e15273"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_passion.png": {
+    "bytes": 177476,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_passion.png.webp",
+    "sha256": "bd1f934de2996b7add95e81f8f20250b5320230475d9c361868c186f7ea7f0bc",
+    "sourceBytes": 411122,
+    "sourceSha256": "269ae417b49d1bebe5d73bd515d7a52bd89f220d211dcebc353bb1d8d302e354"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_past_and_future.png": {
+    "bytes": 156384,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_past_and_future.png.webp",
+    "sha256": "5de08e774f746f9e653a7c1c0b43266c8a5f5897ef3fb19437289d21e4b65e8b",
+    "sourceBytes": 243297,
+    "sourceSha256": "a8e98ba9b73b90a59445f51eb24feeb368db2893b098e3a30ef1b7038037f121"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_pick_star.png": {
+    "bytes": 125864,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_pick_star.png.webp",
+    "sha256": "83548664ba57dcf9f5aae28d0d6ec70b1e35e7243c2bb58626ae056916a786c5",
+    "sourceBytes": 267632,
+    "sourceSha256": "b7c15768df58ddaf74d6ca49453a1de1311a5d2097447628d8bb15e280ef8170"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_pizza.png": {
+    "bytes": 175524,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_pizza.png.webp",
+    "sha256": "633b5beb3a58b0b96259fac0cf742a9762a36f97bff0e76cabcbeae6d1a32319",
+    "sourceBytes": 336628,
+    "sourceSha256": "49f3d3d96ac967fa0679376538875bb5508aecadec42cdff9e031ac54a66902f"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_position0.png": {
+    "bytes": 1396198,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_position0.png.webp",
+    "sha256": "22dc9d06b98f7dae672eeb04fa52e6a075f017b0c53eeff82da3962d97e435c7",
+    "sourceBytes": 2262642,
+    "sourceSha256": "507fb14dc38d7be178ab2df6f4051af412accb43f4948024c51829de83ee1f67"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_potato.png": {
+    "bytes": 157818,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_potato.png.webp",
+    "sha256": "a435763ad52349810f96c801d9da9cd6d62ab077342b65ee92fadcbadb552412",
+    "sourceBytes": 293954,
+    "sourceSha256": "297f12e4dac2f2331a5516e1c4057774aaaf461db5359bd3452e932e11604b0a"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_practice.png": {
+    "bytes": 157984,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_practice.png.webp",
+    "sha256": "bd7276f4e730df9c18aac18db6fa827cf7ebd61642735619f76d5b1f4e7ad945",
+    "sourceBytes": 291208,
+    "sourceSha256": "133125f5514ba5a68a97fc4303c38d7e738de45d6068d1a5872f75e016da339c"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_practice2.png": {
+    "bytes": 158528,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_practice2.png.webp",
+    "sha256": "fdcc6c0e869ecd0c49a535b0e1df2689e5954d0011cdc46e47d23c2e426bcc56",
+    "sourceBytes": 322733,
+    "sourceSha256": "f0f927def31b1245ad34d8d6ac0d0d497f798b869e9086092bbfc2fd60b4d379"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_practice3.png": {
+    "bytes": 158990,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_practice3.png.webp",
+    "sha256": "d947739a7797f50bde88ad1137c847dce3be3a3ef6995c6ce8715c5c85628753",
+    "sourceBytes": 242911,
+    "sourceSha256": "b3d4ab30d3f1111de63afd1861eee5605b5fd969a67137c049fa9bc530f67599"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_promise_draw.png": {
+    "bytes": 187450,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_promise_draw.png.webp",
+    "sha256": "70ec76f195329e2d891fde42bf21044c7098b46795e627f8ccb2c090171f6306",
+    "sourceBytes": 400522,
+    "sourceSha256": "3a95de8ae9e5d4f20f6b2539948c95d44809a94cb65460897df471457c529c26"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_rapid.png": {
+    "bytes": 154884,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_rapid.png.webp",
+    "sha256": "379239bf1767a388fcfff34b564a1c92df7e2603fcbe146791f0955e02111fd2",
+    "sourceBytes": 308006,
+    "sourceSha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_ready.png": {
+    "bytes": 174822,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_ready.png.webp",
+    "sha256": "55aa64229bfba87e1d61fb6f99cc23aa27fe81db8d4ed923013fe6fd45123bde",
+    "sourceBytes": 444935,
+    "sourceSha256": "b367d9ddfe73aaef98b9ce4ad11479917b9402387cd021c69cdd268f9a5d84ee"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_reborn.png": {
+    "bytes": 144336,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_reborn.png.webp",
+    "sha256": "06d32a082dfe1f359e75be9a4e2d65855c90297e06bc6285516f5d46ea8de8f4",
+    "sourceBytes": 218059,
+    "sourceSha256": "b4634d5b9e51a6683b6742a8731ff61815c6cea52dd396f7df609f996846e9b5"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_revue_duet.png": {
+    "bytes": 191356,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_revue_duet.png.webp",
+    "sha256": "0fbc8acaf261614ec9468ca6ef1a3ade2df43cfeab34da4ebaa5338aea7525ff",
+    "sourceBytes": 364230,
+    "sourceSha256": "7740634874c0b58040f093a5dfa4f907fa42f5426e73d8db67819a0387742ff4"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_rewrite.png": {
+    "bytes": 148040,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_rewrite.png.webp",
+    "sha256": "de15cf425ab855a32a0330ab5c5e40b963e0d74df870f75a90c42042dc076c2a",
+    "sourceBytes": 219541,
+    "sourceSha256": "77101abeab801a877177a3ad65639d5a67a6dce9fb3d0b16ac6ea458c3192bb7"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_run.png": {
+    "bytes": 169032,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_run.png.webp",
+    "sha256": "9f705bfc0537ed5baaf6524c5c2c20ce7d0e9940f77945bb8979d427ef47f63b",
+    "sourceBytes": 351719,
+    "sourceSha256": "4a276ab5a3ceb029a619daa0e808d4a6653c7e926ac2f9230d0cc49f90e50a11"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_shine_strike.png": {
+    "bytes": 162484,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_shine_strike.png.webp",
+    "sha256": "0325c02c1188812d753d07443dca03b341d00add87de7dbfd48cc63149383a71",
+    "sourceBytes": 381515,
+    "sourceSha256": "66aa2d1f13cc5da5a86ef05dafbbb139a483ecec7aba631c0b0377da1e66305e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_shine_strike_barrage.png": {
+    "bytes": 166570,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_shine_strike_barrage.png.webp",
+    "sha256": "b7030ab7b865816cb8a12d2b06241ad4c283954bd56a6adbf5f55358a9a64451",
+    "sourceBytes": 355443,
+    "sourceSha256": "a66e4490a503a2291caf01855cc2c81b06e0e547423e1ea45a70090d8f460a75"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_shine_together.png": {
+    "bytes": 172648,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_shine_together.png.webp",
+    "sha256": "0d07053c7c8986ab786894a7c48c44d623a427fdabbd83e689dfcea89e1af156",
+    "sourceBytes": 267993,
+    "sourceSha256": "de31c990334365b0ba80f4b276bd572317a3a3d2c7a20b07a399ea82cafc2472"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_shine_together_all.png": {
+    "bytes": 182064,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_shine_together_all.png.webp",
+    "sha256": "c1db37303b095994d9df801e24df57de9fd6d035ea996e8a4e8e706d48d37510",
+    "sourceBytes": 279609,
+    "sourceSha256": "a1ce7d2c66ae38ebd1edec0e461846b51c814cfb620268c35ce4089bd613a5ab"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_small_snack.png": {
+    "bytes": 200934,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_small_snack.png.webp",
+    "sha256": "b0a9b87b137e796c66beb80b1c88441f27b520fe27a33fac8f3521d1b7fa932b",
+    "sourceBytes": 320770,
+    "sourceSha256": "0962344d8d78155787c9f586d3efabaa20410c22b7bcadb640b1d4c697c04ff1"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_spin.png": {
+    "bytes": 122524,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_spin.png.webp",
+    "sha256": "4bca72bc3d9b1df276335f8212ef8cd3ddbda7f89c84c2ee6ba6a48766cb170f",
+    "sourceBytes": 243472,
+    "sourceSha256": "06d3e9ac5354e29a7d55504d257f807900276a55342f80117c88c07240b190d7"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_stage_is_waiting.png": {
+    "bytes": 94092,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_stage_is_waiting.png.webp",
+    "sha256": "75322c14ef21c715a6f3cd348166ad671b7bf13020f892851f3d48b1cc5df2f2",
+    "sourceBytes": 151719,
+    "sourceSha256": "95ec8b196aa22f540f0a46514a565285388f39a59b75ab63653dbd3a5f4475cd"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_stage_reproduce.png": {
+    "bytes": 186960,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_stage_reproduce.png.webp",
+    "sha256": "74a02392c89393f105c194fee829657411b5faf3781ed2744d60a5de40dd833b",
+    "sourceBytes": 272461,
+    "sourceSha256": "4030bfd0683f26e854ec0721a407ef95f1c77bd551a3a8f8fe221b914f0e3348"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_star.png": {
+    "bytes": 151562,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_star.png.webp",
+    "sha256": "f625489c2f4b605dff90abb855409c1020c785de1a0bd9bd474bbb56613c9a6b",
+    "sourceBytes": 335762,
+    "sourceSha256": "608f45977c4d10c6127ceb1a9cdc3cc9ac2ea2eeb12f255ed4df1a71cf12165b"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_star_crime.png": {
+    "bytes": 164244,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_star_crime.png.webp",
+    "sha256": "fff0f68b1aa0a60811039d97d72677de6be203ad989e1717f93a6832a5cdc819",
+    "sourceBytes": 332894,
+    "sourceSha256": "10b57ade5b22849a59b6638931201e1bb6413da619652a85f20c2b8e1b840052"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_star_friend.png": {
+    "bytes": 155368,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_star_friend.png.webp",
+    "sha256": "cd9db219758ccc0b83258d2957e80b116061edda49621f5d80d7f99e8aa3bab7",
+    "sourceBytes": 313151,
+    "sourceSha256": "27907b22a8fe6d6082b29c9d322b9119c02fb333d645cc3a2c1839cf7195cee5"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_star_guide.png": {
+    "bytes": 39890,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_star_guide.png.webp",
+    "sha256": "56a50ebb558ee1b8ae6c916292f93d7b42c79e5ae01b626842a7c63b186ef611",
+    "sourceBytes": 88185,
+    "sourceSha256": "15f3431fa4017352ed79278c6bdbcf6c4ac84bc21d5832ea7928fb193f81f7cb"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_starlight02_card.png": {
+    "bytes": 199714,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_starlight02_card.png.webp",
+    "sha256": "5b928bc86d154a739bae77327ce7bd0bff12bb88aa7170b7ed961a2436f4237c",
+    "sourceBytes": 309376,
+    "sourceSha256": "97a75fd81114c7f28ed2b9f3d4c0a327269392c2902577f6003fc53f20ee646e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_starlight03_card.png": {
+    "bytes": 146334,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_starlight03_card.png.webp",
+    "sha256": "136c9cebb1851d920fdf1aeedab33d1ee9429417552e9654f765d9c2ddda8796",
+    "sourceBytes": 217701,
+    "sourceSha256": "5c1f607d85a5bdecc120645b039503f45103729678d62a4a9fdee5b471967281"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_starlight_card.png": {
+    "bytes": 149794,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_starlight_card.png.webp",
+    "sha256": "81e2961ac194fcd426891e2c8ff183e6fd8a050a633797b49c24ea0679e8da05",
+    "sourceBytes": 228907,
+    "sourceSha256": "5a4ecab34084ad30b3b8cd52a93001376a7213cd4fcabda125675f141ba7482a"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_stretching.png": {
+    "bytes": 131536,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_stretching.png.webp",
+    "sha256": "13bbeb28e0050bd446b3cf8d20a8727dd4b0c4bde6db57e82747ee33cc8fb7b3",
+    "sourceBytes": 258210,
+    "sourceSha256": "e8a1e79be5904a6f7687efd8b77c332a9dc372ca4efb7e51df2f960b04e0e8e7"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_strike.png": {
+    "bytes": 141286,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_strike.png.webp",
+    "sha256": "edd1ed44d6003ec74d355b4f2ba06d228195d3790e13698a2ee157ab3c8a3923",
+    "sourceBytes": 319354,
+    "sourceSha256": "f2e3f70aea93d8b09ac9a267ca7f8d5b678ca250c5fb59a3d522da07b5cc2818"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_sunlight.png": {
+    "bytes": 150842,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_sunlight.png.webp",
+    "sha256": "4dac13cac6a3a12bbf56085c65e0005f9ea21f5416f02ed43d59c536cfc6f9ce",
+    "sourceBytes": 299769,
+    "sourceSha256": "3437c3f02b048760dd4dc12acdc86b8703b28c43af587f525f0b37607213e1dc"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_sword_up.png": {
+    "bytes": 158860,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_sword_up.png.webp",
+    "sha256": "1c355a2f45646632a95e61502ca951bcd6ff5e61748f726612fb7a33148b0b2b",
+    "sourceBytes": 345722,
+    "sourceSha256": "6a1a740ba828d8dd1ea8c204195f6b08e890e5e334763cbc5b0b3f5f9b63148a"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_ticket.png": {
+    "bytes": 120328,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_ticket.png.webp",
+    "sha256": "463b790816ceac0593bca51e405749c752962a89928a15af71a3905d43c2cd48",
+    "sourceBytes": 184081,
+    "sourceSha256": "5ef3bf30b8427d4c5d0913f06345d7e29191b34107b24f24f78a0de6d5e93772"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_to_the_stage.png": {
+    "bytes": 132006,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_to_the_stage.png.webp",
+    "sha256": "d60cb40b15bf9b2194ef4b51e42c5098df6451ac4037d8345bb3e18a1ccf41e0",
+    "sourceBytes": 291700,
+    "sourceSha256": "82306b116fabb5833a71158519d604ea22428aa6c52be29ed614a6775d4fb23e"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_under_tower.png": {
+    "bytes": 166754,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_under_tower.png.webp",
+    "sha256": "37df3c0c6b32f00148d65d54a8f02cd3f60448063d5d119e80a06011024b2dd3",
+    "sourceBytes": 373047,
+    "sourceSha256": "b887a5c53a039bf71829b0df054d2cce5ca8ca4f4403bf494a12ed5617df0d01"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_void.png": {
+    "bytes": 153626,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_void.png.webp",
+    "sha256": "c7bdbaab3a0ddbe3b2f52811d1452b64fbd75ac793d8da629a34efc8cde9ed80",
+    "sourceBytes": 238844,
+    "sourceSha256": "d1b5743146e83fbae3fe4f99dc9c5d7649836d85f7e6db802f84177f8b1f6d7f"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_wake_up.png": {
+    "bytes": 173710,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_wake_up.png.webp",
+    "sha256": "91fcd77e835ccebcf6b6c139e1b41cab5cdb315d4f615c2315a00cdb4c34bf16",
+    "sourceBytes": 364587,
+    "sourceSha256": "d2f47754f56d9ed91408f44bfbb85088357194e8d618006472c9ce66ea183af8"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_we_kown.png": {
+    "bytes": 178384,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_we_kown.png.webp",
+    "sha256": "0d8c8929fca3bdf7873b90b9863f00ae12e0d725ee97ba983086d26f1757bd34",
+    "sourceBytes": 367965,
+    "sourceSha256": "69e02187a3c6caffbf32c5d25ebbe2bcb819795c9f71777c4d5e8742f2e39f31"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_whos_promise.png": {
+    "bytes": 156532,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_whos_promise.png.webp",
+    "sha256": "cd883c32ac61fa0c15e43cb968c7adffe3b9883e8ed8e611aece6052ab9ff7df",
+    "sourceBytes": 348782,
+    "sourceSha256": "340e17cf43f27b57e9bc1b771b3d976d7fe2ce23ddebc8033e23ae338561b4e3"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_why.png": {
+    "bytes": 968156,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_why.png.webp",
+    "sha256": "2de1973a639b14b4be50c2e5ccd3ad975dafea8bae7b0f7264c3efbaa2bffa90",
+    "sourceBytes": 1635421,
+    "sourceSha256": "e211f0b70ef99994c1008bedea3336c136f9f4c415af190e6ad5407271ccc8fa"
+  },
+  "assets/karen/images/packed/card_portraits/karen/karen_yesterglow.png": {
+    "bytes": 177220,
+    "path": "assets/web/karen/images/packed/card_portraits/karen/karen_yesterglow.png.webp",
+    "sha256": "98604e9b60f886989227629bc0b54497c9376e75e22e0b2e434949c0dab5928f",
+    "sourceBytes": 362364,
+    "sourceSha256": "2679e1aafb4a0ed2af1d640c50bcc1301c1d4986e652495bda0065e3316931ee"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_awake_potion_discard_pile_option.png": {
+    "bytes": 6376,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_awake_potion_discard_pile_option.png.webp",
+    "sha256": "3d0e7781b6ce84898a5f76945c1fea3851f2610030dec04d48a28151e7b4a5c7",
+    "sourceBytes": 17388,
+    "sourceSha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_awake_potion_draw_pile_option.png": {
+    "bytes": 6202,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_awake_potion_draw_pile_option.png.webp",
+    "sha256": "01860c68a1deae9ef2bbcc22635e5f3115f3d118113ab301d5e430dcc278e166",
+    "sourceBytes": 19703,
+    "sourceSha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_awake_potion_promise_pile_option.png": {
+    "bytes": 4772,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_awake_potion_promise_pile_option.png.webp",
+    "sha256": "e498e05ce3aa9335ff8aa5b0330be3c564daf36efc42bae8a9c75c924e70979c",
+    "sourceBytes": 13820,
+    "sourceSha256": "2c77f110d1cb90c09c8e46d61af48005252018482455a7146b59a4605e6e75f8"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_banana.png": {
+    "bytes": 199752,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_banana.png.webp",
+    "sha256": "9660fe81da728506baac6df14e92fe8fbd7f9bb01973ae086da6cc945eb9a93f",
+    "sourceBytes": 296890,
+    "sourceSha256": "4533dbe752393c48195486f0e058072089e4d2a735f65207e05a6c7be62b0543"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_confront.png": {
+    "bytes": 177736,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_confront.png.webp",
+    "sha256": "e3b4366bacde44c5353da3893b07da7fa675d575fa4558cec4d78cecb5c954c5",
+    "sourceBytes": 373512,
+    "sourceSha256": "ff2fb9be01298c2a2eb31823cbadc41d800b9d8c4654a3394c42a5a99eed7788"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_continue.png": {
+    "bytes": 139274,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_continue.png.webp",
+    "sha256": "0f4f4d63f600893f479418b1e7e273cc71246ff383c58e960fbd893a787b86ce",
+    "sourceBytes": 295155,
+    "sourceSha256": "84ae1b54fdf17e418f1d69325a4f0d9aa6435ad0697c3478957a49965ba0d1f3"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_counter.png": {
+    "bytes": 165914,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_counter.png.webp",
+    "sha256": "3dbdc5bf3afaeb546c61a95369c6dc24cbf58b844d6f276ab924650718866244",
+    "sourceBytes": 357307,
+    "sourceSha256": "c61663f7dde8e51ce02e0cf4cfebea32a0c92553829d0d209087d0ece28d2b3c"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_empty_shell.png": {
+    "bytes": 176734,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_empty_shell.png.webp",
+    "sha256": "37799aa00c6dc90d89eb3f0de6529048ca2cddd212272d0007a0a00ef74632bb",
+    "sourceBytes": 275929,
+    "sourceSha256": "61611a17347c13d335cad3c37316e038a360639afb127662378087bdd31afbbe"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_no_hesitate_discard_pile_option.png": {
+    "bytes": 6376,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_no_hesitate_discard_pile_option.png.webp",
+    "sha256": "3d0e7781b6ce84898a5f76945c1fea3851f2610030dec04d48a28151e7b4a5c7",
+    "sourceBytes": 17388,
+    "sourceSha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_no_hesitate_draw_pile_option.png": {
+    "bytes": 6202,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_no_hesitate_draw_pile_option.png.webp",
+    "sha256": "01860c68a1deae9ef2bbcc22635e5f3115f3d118113ab301d5e430dcc278e166",
+    "sourceBytes": 19703,
+    "sourceSha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_no_hesitate_hand_option.png": {
+    "bytes": 6292,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_no_hesitate_hand_option.png.webp",
+    "sha256": "ec6999ded18a51f083ff6252caf67dc6d29062441e95f072cfa13833e94d0d34",
+    "sourceBytes": 11412,
+    "sourceSha256": "29d431816b0d127a302c2f33b7e1025c76acfc8a2c8cb6bb220f079cd40514e3"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_old_place_retain_block_option.png": {
+    "bytes": 2336,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_old_place_retain_block_option.png.webp",
+    "sha256": "9a67ff2c5086923d68a31c3e8a8b320f4dde50ba55b3e48a87afd68ab759a8ea",
+    "sourceBytes": 6802,
+    "sourceSha256": "cde10cbc24dc787e934dbd1bf1e5590154ed9922dc51e746c60dd6b93806899f"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_old_place_retain_energy_option.png": {
+    "bytes": 3356,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_old_place_retain_energy_option.png.webp",
+    "sha256": "e2787bb29d70522696f89985f25bef74bae6e81d003145ee519c8ea863d3574c",
+    "sourceBytes": 7363,
+    "sourceSha256": "3f4a774df95502e53c709505ac7d191aa5ac078d724bf89ac98747df05d67dd2"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_old_place_retain_hand_option.png": {
+    "bytes": 1268,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_old_place_retain_hand_option.png.webp",
+    "sha256": "ca9eef91ecfe83e2a18b453c661ae02df98e9716f16a98b15d1946cead9e604f",
+    "sourceBytes": 5044,
+    "sourceSha256": "cdf9d0f4b9f4a3f29b9f4641ba7ffd9aed63c7a1eb2af0930e9b27c17d8e1384"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_old_place_retain_strength_option.png": {
+    "bytes": 4756,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_old_place_retain_strength_option.png.webp",
+    "sha256": "7cae16686fd037700a29888c156712eabe96d4cd0c341703d5a261f1f964712f",
+    "sourceBytes": 9405,
+    "sourceSha256": "3f2652a7eb32eb88588f14a8d94ed437b5f6b4c03bf6a5c3b403ee93f9ec51eb"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_rapid_put_option.png": {
+    "bytes": 154884,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_rapid_put_option.png.webp",
+    "sha256": "379239bf1767a388fcfff34b564a1c92df7e2603fcbe146791f0955e02111fd2",
+    "sourceBytes": 308006,
+    "sourceSha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_rapid_take_option.png": {
+    "bytes": 154884,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_rapid_take_option.png.webp",
+    "sha256": "379239bf1767a388fcfff34b564a1c92df7e2603fcbe146791f0955e02111fd2",
+    "sourceBytes": 308006,
+    "sourceSha256": "2ed63dcf6a1d0e92fc63c7d6a292bd1344b1d19850247f286de4445033ee265e"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_sandwitch.png": {
+    "bytes": 185420,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_sandwitch.png.webp",
+    "sha256": "691a103d69b7e001e3d4558561be7ee65e3d1ad10d3c5ae6eba791241818aa4f",
+    "sourceBytes": 365655,
+    "sourceSha256": "63347bad2521753ec81f2a75ac6b3b773c6d323fb6e284b0ce6d1f118f1d107a"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_shine_reproduce.png": {
+    "bytes": 164850,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_shine_reproduce.png.webp",
+    "sha256": "580de40af67ac8d356f92049f3e237b4ce5e5382315a9cc3df8598407b03cebb",
+    "sourceBytes": 247472,
+    "sourceSha256": "63a9c64d49806f9db0350ad1b7cae35370d3fa6fe00ba3c7dec5d13e42ee7ef4"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_sideways.png": {
+    "bytes": 150368,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_sideways.png.webp",
+    "sha256": "54d923751c41760cb348e4f1e8d7830b106d5b4f6bbc7bec9a4088ddcd43b2ce",
+    "sourceBytes": 306063,
+    "sourceSha256": "b8875e17b155f400e316d169215342bad106d1ebb5e1a589afd460ef42a844ae"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_tower_of_promise.png": {
+    "bytes": 212768,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_tower_of_promise.png.webp",
+    "sha256": "4420e10913fbaa839392ff2c24f55ba8785af918ff1ec16df2ead986ff47c399",
+    "sourceBytes": 451382,
+    "sourceSha256": "2725201e48d248c724a1e3e65ab4768bd3c20ae56d97445aae4e66e16d31eb0f"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_wake_up_discard_pile_option.png": {
+    "bytes": 6376,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_wake_up_discard_pile_option.png.webp",
+    "sha256": "3d0e7781b6ce84898a5f76945c1fea3851f2610030dec04d48a28151e7b4a5c7",
+    "sourceBytes": 17388,
+    "sourceSha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_wake_up_draw_pile_option.png": {
+    "bytes": 6202,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_wake_up_draw_pile_option.png.webp",
+    "sha256": "01860c68a1deae9ef2bbcc22635e5f3115f3d118113ab301d5e430dcc278e166",
+    "sourceBytes": 19703,
+    "sourceSha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_wake_up_promise_pile_option.png": {
+    "bytes": 4772,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_wake_up_promise_pile_option.png.webp",
+    "sha256": "e498e05ce3aa9335ff8aa5b0330be3c564daf36efc42bae8a9c75c924e70979c",
+    "sourceBytes": 13820,
+    "sourceSha256": "2c77f110d1cb90c09c8e46d61af48005252018482455a7146b59a4605e6e75f8"
+  },
+  "assets/karen/images/packed/card_portraits/token/karen_we_kown_token.png": {
+    "bytes": 167716,
+    "path": "assets/web/karen/images/packed/card_portraits/token/karen_we_kown_token.png.webp",
+    "sha256": "7423792bdfae8f3c14bf806c9f6fbacd0e36e495208b61b976c95e807ad737fe",
+    "sourceBytes": 255490,
+    "sourceSha256": "dfb21aa2504fdbc375f9e8cb9a7d586fd4a23411d3cc70f9a7833e4692c243c4"
+  },
+  "assets/karen/images/packed/character_select/char_select_karen.png": {
+    "bytes": 37750,
+    "path": "assets/web/karen/images/packed/character_select/char_select_karen.png.webp",
+    "sha256": "39d56feb9de1a49f878b27327fbadf8350d77f01cb144833cb12a277d3be4177",
+    "sourceBytes": 48066,
+    "sourceSha256": "7b343d9abb207fa3a809f552c7157d6505b00f10160556e7db3d31c8c16917da"
+  },
+  "assets/karen/images/potions/karen_awake_potion.png": {
+    "bytes": 36644,
+    "path": "assets/web/karen/images/potions/karen_awake_potion.png.webp",
+    "sha256": "bc06ab50f4305c4ae85b8c48fa1c9c56974ad7d457f44e55649da2845d4e6bd6",
+    "sourceBytes": 55476,
+    "sourceSha256": "d58da9b6d23188ae9cc26912eedaacaaef089f52786259808d8168cd7a0a4478"
+  },
+  "assets/karen/images/potions/karen_awake_potion_outline.png": {
+    "bytes": 676,
+    "path": "assets/web/karen/images/potions/karen_awake_potion_outline.png.webp",
+    "sha256": "89487a5da92845c3126fa66174f48cd439c861c4fd4798682faf741b23463d99",
+    "sourceBytes": 1496,
+    "sourceSha256": "c9ef2471a3c519d93fc152a5d81137f1ecca698e5742011f1e99270b3f20c813"
+  },
+  "assets/karen/images/potions/karen_shine_potion.png": {
+    "bytes": 32452,
+    "path": "assets/web/karen/images/potions/karen_shine_potion.png.webp",
+    "sha256": "6890c3af930eb9f0c7bf7f6e85ee00cc583609492ac7f148d89cf8f7e4710b08",
+    "sourceBytes": 49656,
+    "sourceSha256": "64774b16d95a3c909afb3e0af6a5797716d5b8b6aa6ac94ac56b110475115397"
+  },
+  "assets/karen/images/potions/karen_shine_potion_outline.png": {
+    "bytes": 812,
+    "path": "assets/web/karen/images/potions/karen_shine_potion_outline.png.webp",
+    "sha256": "5460a3b5519ede39b1519344507c6108e6291e2378a31f522e96158902a9d44b",
+    "sourceBytes": 1596,
+    "sourceSha256": "676a58f9af6715d8ea932bd5fb34bb496f88165ecca8e41282439825c671d091"
+  },
+  "assets/karen/images/potions/karen_tea_potion.png": {
+    "bytes": 46554,
+    "path": "assets/web/karen/images/potions/karen_tea_potion.png.webp",
+    "sha256": "93d8553a6bb31cd020b218cd247228dd93a0a3ed381ba5d786f3c53bb3c89e64",
+    "sourceBytes": 69984,
+    "sourceSha256": "4aea90b3afe18d712ab5750674b8db5760d39fe93ffe47386c791eed8007a1f7"
+  },
+  "assets/karen/images/potions/karen_tea_potion_outline.png": {
+    "bytes": 884,
+    "path": "assets/web/karen/images/potions/karen_tea_potion_outline.png.webp",
+    "sha256": "4b7df9633bd58ed947589ffc26a592b541d14240e3f581655ce875cf459af97e",
+    "sourceBytes": 1783,
+    "sourceSha256": "787743e1dd2ad72309bbed6a87f4346eda97a87a71496f74bb8da1a5aad1d89a"
+  },
+  "assets/karen/images/relics/karen_baseball_cat_relic.png": {
+    "bytes": 9798,
+    "path": "assets/web/karen/images/relics/karen_baseball_cat_relic.png.webp",
+    "sha256": "dfe85cf4e3f54e64352f3b6dbd57c64223eb6bd6031450884665f1ba6a87d901",
+    "sourceBytes": 13080,
+    "sourceSha256": "8ba9452c1e2cdc34c7d5dbaa2ffa44483565a8a166b02185c826a938a8684439"
+  },
+  "assets/karen/images/relics/karen_baseball_cat_relic_big.png": {
+    "bytes": 55352,
+    "path": "assets/web/karen/images/relics/karen_baseball_cat_relic_big.png.webp",
+    "sha256": "ec5b4ab2099447dd8c3dcdb7fd406258d6aa39b93c708595882766bbf2a3f9ec",
+    "sourceBytes": 82503,
+    "sourceSha256": "b87e214105116bc06e3851f7251774b99f7c3a06811868c1b07860777b746653"
+  },
+  "assets/karen/images/relics/karen_baseball_cat_relic_outline.png": {
+    "bytes": 1192,
+    "path": "assets/web/karen/images/relics/karen_baseball_cat_relic_outline.png.webp",
+    "sha256": "ee423beb443f3df67fdaf18e5aa659951e59cd1fcafbf0653ac8df9833381c1d",
+    "sourceBytes": 2297,
+    "sourceSha256": "90c5b6f232186158d71a73538a3f558dad95addaf6099108712ff11c18789023"
+  },
+  "assets/karen/images/relics/karen_cookie_relic.png": {
+    "bytes": 5494,
+    "path": "assets/web/karen/images/relics/karen_cookie_relic.png.webp",
+    "sha256": "4dab3b02c7025da99e10cbda942f95d36e05631ec90ab3ca40b36a68e5548024",
+    "sourceBytes": 7251,
+    "sourceSha256": "3ad09b6843db0463481baf2ae85289dd03850c194b81ad9dec31aab34dee242f"
+  },
+  "assets/karen/images/relics/karen_cookie_relic_big.png": {
+    "bytes": 32070,
+    "path": "assets/web/karen/images/relics/karen_cookie_relic_big.png.webp",
+    "sha256": "9917594c8c4a052293b0a68c71076556b15db605585fb742bbe4b812dfe31ac3",
+    "sourceBytes": 44652,
+    "sourceSha256": "2a1de3e6d1409f6c9fb4db713a83d4cdb108cc79f6708004666ec7e936f7811d"
+  },
+  "assets/karen/images/relics/karen_cookie_relic_outline.png": {
+    "bytes": 636,
+    "path": "assets/web/karen/images/relics/karen_cookie_relic_outline.png.webp",
+    "sha256": "dbc7e4f82577d8d00ea55a5ec2b4b77b0d2274edf93f3f228aec2ad9e4d41993",
+    "sourceBytes": 1287,
+    "sourceSha256": "df2a24629b6f9242c8055b4d3ccc85ce4b5e1f4ccc9390bce7d94ff0c637e99e"
+  },
+  "assets/karen/images/relics/karen_hairpin2_relic.png": {
+    "bytes": 4152,
+    "path": "assets/web/karen/images/relics/karen_hairpin2_relic.png.webp",
+    "sha256": "d710d79de707bbec7664252ad775fa532810f8c671f0e6e056172b6137a1db9a",
+    "sourceBytes": 6091,
+    "sourceSha256": "a5a6de8a3b317f2f983e10a56e40a017d2c122f8fb530c349501a84301177d97"
+  },
+  "assets/karen/images/relics/karen_hairpin_relic.png": {
+    "bytes": 15880,
+    "path": "assets/web/karen/images/relics/karen_hairpin_relic.png.webp",
+    "sha256": "8ac0d874042f803d10bfa1401c2ba4e57a790bb19912f4073861486f1a19cffd",
+    "sourceBytes": 20701,
+    "sourceSha256": "9d9db8afc5fd0b400d1fd9a7ad323dedbea0cbf7f02a919030464e3a86b4a2cd"
+  },
+  "assets/karen/images/relics/karen_little_star_relic.png": {
+    "bytes": 5510,
+    "path": "assets/web/karen/images/relics/karen_little_star_relic.png.webp",
+    "sha256": "3fc953eaa01555319cf86674f6fe93439bad55fd41eb16437b59c4cc96c3c54d",
+    "sourceBytes": 6818,
+    "sourceSha256": "47b7257299b1298102cf979ce501f2cc32debd12d3db677081b1064f3a33507a"
+  },
+  "assets/karen/images/relics/karen_little_star_relic_big.png": {
+    "bytes": 29096,
+    "path": "assets/web/karen/images/relics/karen_little_star_relic_big.png.webp",
+    "sha256": "5823b38a8f441fbaa60f0eb87a59feb2d3f924cca9a6d26069aa8a670adc2daf",
+    "sourceBytes": 41275,
+    "sourceSha256": "f0ceb3ad44e7030344f15642ef0384c56def40a2dcc9e14462f5e574dfe4f982"
+  },
+  "assets/karen/images/relics/karen_little_star_relic_outline.png": {
+    "bytes": 1030,
+    "path": "assets/web/karen/images/relics/karen_little_star_relic_outline.png.webp",
+    "sha256": "18ee173cc11ff6bd2d1a624697a413db0ae7373baf4e4f96c0ef6f1bf3c717a4",
+    "sourceBytes": 1878,
+    "sourceSha256": "193988fb376fb1aa9c1795d945c4d8079f7f2353ba7aab1507886059c4ae3d85"
+  },
+  "assets/karen/images/relics/karen_lock_relic.png": {
+    "bytes": 3236,
+    "path": "assets/web/karen/images/relics/karen_lock_relic.png.webp",
+    "sha256": "2d577fb87ee02faa36797ab13adcf84492b609be0097b78b3e51b6733b6771e5",
+    "sourceBytes": 4254,
+    "sourceSha256": "f8a77e0674776bdc6b177c89eb2d071c65ad7165ed185999f7fddcbe9a3ef668"
+  },
+  "assets/karen/images/relics/karen_mr_white_relic.png": {
+    "bytes": 5994,
+    "path": "assets/web/karen/images/relics/karen_mr_white_relic.png.webp",
+    "sha256": "eba9b139d34e758e180f9720e8b3361264cc5816b0b198056d85efa7ec769f4e",
+    "sourceBytes": 9094,
+    "sourceSha256": "191e5862e5cc30ffaf1237422ba26fd76f1d43b94daae572f741f414d15c4763"
+  },
+  "assets/karen/images/relics/karen_mr_white_relic_big.png": {
+    "bytes": 35594,
+    "path": "assets/web/karen/images/relics/karen_mr_white_relic_big.png.webp",
+    "sha256": "082efe41634d6ab4ed36650e656ddc678e7372cdca1991e735dd5bf2ed5a1a73",
+    "sourceBytes": 56307,
+    "sourceSha256": "cdf49a64027d439e0a15a664f9613f5702aad5ac6120402b486955aa864c3b91"
+  },
+  "assets/karen/images/relics/karen_mr_white_relic_outline.png": {
+    "bytes": 844,
+    "path": "assets/web/karen/images/relics/karen_mr_white_relic_outline.png.webp",
+    "sha256": "cbcb3bc38d049765e18383cd30e4a9953cf7493f9511104b41fe38f1c7bfbe86",
+    "sourceBytes": 1670,
+    "sourceSha256": "9a75641e579adc942a7ac89b4f944c399861c8fcf0df37be0de418c60ea43623"
+  },
+  "assets/karen/images/relics/karen_star_hairclip_relic.png": {
+    "bytes": 5350,
+    "path": "assets/web/karen/images/relics/karen_star_hairclip_relic.png.webp",
+    "sha256": "f00978ff0f40e139badaccbe55acdf2f83b71d89abedd7fd0bb4f4a76c85b996",
+    "sourceBytes": 7651,
+    "sourceSha256": "ef62c9192e859da1f28e44a497a9b891ab9fff8da9e2c104889b0b182d065006"
+  },
+  "assets/karen/images/relics/karen_star_hairclip_relic_big.png": {
+    "bytes": 29384,
+    "path": "assets/web/karen/images/relics/karen_star_hairclip_relic_big.png.webp",
+    "sha256": "80d34b66b8d63fa216cf03cdb800363ffbb77244c59052b874897cf6debfa56d",
+    "sourceBytes": 43248,
+    "sourceSha256": "2fc8719d891aee84dfa373ce28b8a3e49736fc082bfb852c957002d8fb162808"
+  },
+  "assets/karen/images/relics/karen_star_hairclip_relic_outline.png": {
+    "bytes": 1118,
+    "path": "assets/web/karen/images/relics/karen_star_hairclip_relic_outline.png.webp",
+    "sha256": "361ae4cacab179359d6e16c5135c0fb63d14e3a9edf20a8adf841efe3d45e973",
+    "sourceBytes": 2075,
+    "sourceSha256": "baa70994bf5b81add89393fda2e4ce9e87d1463193114c34814ce73a2f429ea6"
+  },
+  "assets/karen/images/relics/karen_star_tiara_relic.png": {
+    "bytes": 7784,
+    "path": "assets/web/karen/images/relics/karen_star_tiara_relic.png.webp",
+    "sha256": "57b883c72d32443a97c912ee72752234bd5f039738a4ee70c4f4b8309fab1ef0",
+    "sourceBytes": 9098,
+    "sourceSha256": "a13757c5404c0175b9743c8c9ae490e4d578c67021624567c160e1cfa38721f0"
+  },
+  "assets/karen/images/relics/karen_star_tiara_relic_big.png": {
+    "bytes": 40674,
+    "path": "assets/web/karen/images/relics/karen_star_tiara_relic_big.png.webp",
+    "sha256": "567fa7e28d51f2cb59192b8e02c432a673a71454802247bc9b140303d70b8621",
+    "sourceBytes": 58038,
+    "sourceSha256": "d93696d2aa0bcf36c05e69b9b8635538158cc0269b7e7be6a8c4bfe243aa9eba"
+  },
+  "assets/karen/images/relics/karen_star_tiara_relic_outline.png": {
+    "bytes": 1316,
+    "path": "assets/web/karen/images/relics/karen_star_tiara_relic_outline.png.webp",
+    "sha256": "49dcf78313fb14e5efd2662029e7fadd372ebdf1ed618f900c3e93e749b2bd26",
+    "sourceBytes": 2524,
+    "sourceSha256": "656ecdefd9598c0b23bc1d5356377d5adff5531a33b3428414aaf3b0efd7d0ca"
+  },
+  "assets/karen/images/relics/karen_water_bottle_relic.png": {
+    "bytes": 3718,
+    "path": "assets/web/karen/images/relics/karen_water_bottle_relic.png.webp",
+    "sha256": "4d403a2bd0792e5679ebce129a08c2ae6acde879b5dcb5ed958ff9d9a3fab948",
+    "sourceBytes": 5242,
+    "sourceSha256": "771d5fc55b50332b782d1be6a75a2472c9739e768e80454cc4a9ae71191571d6"
+  },
+  "assets/karen/images/relics/karen_water_bottle_relic_big.png": {
+    "bytes": 21568,
+    "path": "assets/web/karen/images/relics/karen_water_bottle_relic_big.png.webp",
+    "sha256": "4ab2cda163d035d499057daa446bf18f34a4e4deb05b3c06f37f69792f808ea2",
+    "sourceBytes": 32180,
+    "sourceSha256": "ef8ed400f30bf39e35a317faf856fc22639e7d4b7eb2472db2f78a280bc42522"
+  },
+  "assets/karen/images/relics/karen_water_bottle_relic_outline.png": {
+    "bytes": 838,
+    "path": "assets/web/karen/images/relics/karen_water_bottle_relic_outline.png.webp",
+    "sha256": "610bc373ec10010904ee4be21df2a719dd9151869f6a01802fe4c2a67d4f4562",
+    "sourceBytes": 1454,
+    "sourceSha256": "6fb603d8e913999cfeec939f39ca9fae88f618cee90801991993786d333fc516"
+  },
+  "assets/karen/scenes/screens/char_select/karenPortrait.jpg": {
+    "bytes": 1426312,
+    "path": "assets/web/karen/scenes/screens/char_select/karenPortrait.jpg.webp",
+    "sha256": "02ee365df7e1c0e76c197f648e43da2c7a7f0f130127e222e1bb484327549fe1",
+    "sourceBytes": 1070589,
+    "sourceSha256": "6179126e874393ea632231c773b3372a615b401d4cffc254217838991ee95dc9"
+  }
+}

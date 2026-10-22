@@ -1,0 +1,81 @@
+name: Sync Mods and deploy GitHub Pages
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mod-snapshots-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install static UI build dependencies
+        if: github.event_name != 'push'
+        run: python -m pip install -r scripts/requirements-ui.txt
+      - uses: actions/cache@v4
+        if: github.event_name != 'push'
+        with:
+          path: .sync-staging/cache
+          key: native-ui-${{ runner.os }}-${{ hashFiles('scripts/import_game_ui.py') }}
+          restore-keys: native-ui-${{ runner.os }}-
+      - name: Detect upstream commits and rebuild changed snapshots
+        if: github.event_name != 'push'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_site.py
+      - name: Validate the complete static catalog
+        run: python scripts/validate_catalog.py
+      - name: Commit changed snapshots
+        if: github.event_name != 'push'
+        shell: bash
+        run: |
+          git add data assets
+          if git diff --cached --quiet; then
+            echo "No upstream changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: sync upstream Mod snapshots"
+          git push
+
+  pages:
+    needs: sync
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Package only static browser files
+        run: python scripts/package_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Publish updated snapshot
+        id: deployment
+        uses: actions/deploy-pages@v4

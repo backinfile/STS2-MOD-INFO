@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17232a">
+  <meta name="description" content="杀戮尖塔 2 Mod 图鉴">
+  <title>Mod 图鉴 · 爱城华恋</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="collections.css">
+  <link rel="preload" href="assets/game-ui/game-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <script src="data/web-assets.js" defer></script>
+  <script src="data/catalog.js" defer></script>
+  <script src="data/game-ui.js" defer></script>
+  <script src="card-renderer.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">跳至图鉴</a>
+  <header class="topbar">
+    <a class="brand" href="index.html">Mod 图鉴</a>
+    <nav class="category-nav" aria-label="内容分类">
+      <a href="#characters" data-category="characters"><img src="assets/game-ui/submenu-standard.png" alt="">角色<span id="count-characters">1</span></a>
+      <a href="#cards" data-category="cards" class="active" aria-current="page"><img src="assets/game-ui/submenu-card-library.png" alt="">卡牌<span id="count-cards">0</span></a>
+      <a href="#relics" data-category="relics"><img src="assets/game-ui/submenu-relic-collection.png" alt="">遗物<span id="count-relics">0</span></a>
+      <a href="#potions" data-category="potions"><img src="assets/game-ui/submenu-potion-lab.png" alt="">药水<span id="count-potions">0</span></a>
+      <a href="#events" data-category="events"><img src="assets/game-ui/submenu-unknown.png" alt="">事件<span id="count-events">0</span></a>
+      <a href="#keywords" data-category="keywords"><img src="assets/game-ui/submenu-card-library.png" alt="">关键词<span id="count-keywords">0</span></a>
+    </nav>
+    <a class="source-link" id="top-source" href="https://github.com/backinfile/STS2_ShoujoKagekiAijoKaren" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+  </header>
+  <div class="app-layout">
+    <aside class="sidebar" aria-label="图鉴筛选">
+      <div class="mod-picker"><img id="mod-icon" src="assets/karen/images/packed/character_select/char_select_karen.png" alt=""><label class="sr-only" for="mod-select">切换 Mod</label><select id="mod-select"></select></div>
+      <div id="toolbar" class="search-field"><input id="search" type="search" aria-label="搜索名称、说明或关键词" placeholder="搜索…" autocomplete="off"></div>
+      <button id="toggle-filters" aria-controls="card-filters" aria-expanded="false">筛选</button>
+      <div id="card-filters">
+        <fieldset class="filter-section pool-section"><legend>卡池</legend><div class="pool-filters" role="group" aria-label="卡池"></div></fieldset>
+        <fieldset class="filter-section type-section"><legend>类型</legend><div class="type-filters" role="group" aria-label="卡牌类型"></div></fieldset>
+        <fieldset class="filter-section"><legend>稀有度</legend><label class="sr-only" for="rarity">稀有度</label><select id="rarity"><option value="all">全部</option><option value="Basic">基础</option><option value="Common">普通</option><option value="Uncommon">罕见</option><option value="Rare">稀有</option><option value="Ancient">先古</option><option value="Curse">诅咒</option><option value="Status">状态</option><option value="Token">衍生牌</option></select></fieldset>
+        <fieldset class="filter-section cost-section"><legend>费用</legend><div class="cost-filters" role="group" aria-label="费用筛选"></div></fieldset>
+        <label class="check-control pool-filter"><input id="include-extra" type="checkbox"><span>包括未注册 <span id="unregistered-count"></span></span></label>
+      </div>
+      <button id="reset-filters" class="subtle-button" hidden>重置筛选</button>
+      <div class="sidebar-bottom"><button id="sync-button" class="subtle-button">来源 <span id="sidebar-commit">0</span></button></div>
+    </aside>
+    <main id="collection" aria-labelledby="collection-title" tabindex="-1">
+      <div class="collection-heading"><h1 id="collection-title">卡牌图鉴</h1><div class="collection-actions"><label class="check-control" id="upgrade-control"><input type="checkbox" id="upgrade-toggle"><span>升级</span></label><label class="sort-control"><span class="sr-only">排序方式</span><select id="sort"><option value="default">默认排序</option><option value="cost">费用</option><option value="name">名称</option><option value="rarity">稀有度</option></select></label></div></div>
+      <div class="results-bar"><span id="result-count" role="status" aria-live="polite"></span></div>
+      <div id="results" class="card-grid"></div>
+      <div class="pagination" id="pagination" hidden><button id="page-prev" aria-label="上一页">‹</button><span id="page-info" role="status" aria-live="polite"></span><button id="page-next" aria-label="下一页">›</button></div>
+    </main>
+  </div>
+  <aside class="hover-tips" id="hover-tips" role="tooltip" aria-label="详情" hidden></aside>
+  <dialog id="detail-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" aria-label="关闭详情">×</button><div id="dialog-content"></div></dialog>
+  <div id="load-error" role="alert" hidden><span>图鉴数据未加载</span><button id="load-retry">重新加载</button></div>
+</body>
+</html>

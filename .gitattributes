@@ -1,0 +1,4 @@
+# Preserve downloaded snapshot bytes for provenance hashes.
+* text=auto eol=lf
+data/** -text
+assets/** -text

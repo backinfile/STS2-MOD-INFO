@@ -1,0 +1,2298 @@
+{
+  "signature": {
+    "version": 10,
+    "builderHash": "5025939747803fb90a752bb1f00f5e8ee66ecc3d8f590fdaf1840ef62fc28078",
+    "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
+    "mods": {
+      "karen": {
+        "commit": "dc919b95c4ae7fe7a83a8ca02c44820437d88454",
+        "adapterHash": "0517d6707e676d08e2dcfe9f8e95cc80c92e0f2a36ab6cd7a04890d3629ed1da",
+        "rendering": {
+          "frameMaterialSource": "materials/cards/frames/card_frame_purple_mat.tres",
+          "energySource": "images/atlases/ui_atlas.sprites/card/energy_karen.tres",
+          "inlineEnergySource": "images/packed/sprite_fonts/karen_energy_icon.png",
+          "gameplayPath": "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json",
+          "shineLabelKey": "KAREN_SHINE_LABEL",
+          "shineSuffixKey": "KAREN_SHINE_SUFFIX",
+          "outlineColors": {
+            "relics": [
+              0.9333333333333333,
+              0.5098039215686274,
+              0.9333333333333333,
+              0.66
+            ],
+            "potions": [
+              0.984313725490196,
+              0.32941176470588235,
+              0.34509803921568627,
+              0.66
+            ]
+          }
+        }
+      }
+    },
+    "characters": "\n !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×…‹›↗⌃⌄✓、。〔〕キスズダットャル一三上下不与且世东两个中串临为久么义之也习买了予争事二于互交产京亮人什仅仍从付代以们件价任会伤伸低体余你使侧保信倍候值傲充先光入全关其具内册再写冠况准减出击分切则初到制前剧剩力加务动励勇包化匹升午华南卡即去及友双反发取受变口古只可台右吃各合同名后向否吧含命和咒哒哟唤唯唱商喝回困固图土圣在地场坠型城基堆塔增壳壶备复外多夜大天失夹奖女好如妒始嫉存完定害家容宽察对封将小少尖尝尽局层峙巧已币幕干并序店度延开弃式引张弱强当形待得御心忘态恋恒恕悟情想意戏成我或战戮所手才打找技把投披抽拉拓招择括拾指挑挡损换据排提搜摘摧操收攻放效敌数斗料斩新方旋族无日时明易星昨是晚普暂替最有朋未本术机杀束来松极枚果架查标样格桥梦棒次歌止正此步武殊毁每气水永池没治法注泪消添清游源满演激灵点烦烧然照燃爱版牌物特犯状犹猫玩现球理瓶生用由界留登的皇目直相看眼着础示神票禁离称移稀空穿立第等筛类精糕索红约级练组终结给续罕罪置耀耗肉肌背能自至舞色茶药获萨落蓄虚蛋行衍补被西要见观视觉角认让记诅词试详说谊豆豫贯费起路跳蹈身转轮载辉辰达过迈运近这进远选通速造逢遗遥避那部配醒重量金鉴锦键长门闪闭间队防阳阻附降限除随隙雪非靠页顶颗额餐饭饰饼馆骄麻默齿！（），：；？"
+  },
+  "gameRepository": "Hexpion/Slay-the-spire-2",
+  "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
+  "modRepository": "backinfile/STS2_ShoujoKagekiAijoKaren",
+  "modCommit": "dc919b95c4ae7fe7a83a8ca02c44820437d88454",
+  "frameMaterial": {
+    "h": 0.99,
+    "s": 0.67,
+    "v": 0.98
+  },
+  "bannerMaterials": {
+    "common": [
+      1.0,
+      0.0,
+      0.85
+    ],
+    "uncommon": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rare": [
+      0.563,
+      1.198,
+      1.14
+    ],
+    "curse": [
+      0.27,
+      1.1,
+      0.9
+    ],
+    "status": [
+      0.634,
+      0.35,
+      0.8
+    ],
+    "event": [
+      0.875,
+      0.85,
+      0.9
+    ],
+    "ancient": [
+      0.0,
+      0.2,
+      0.9
+    ]
+  },
+  "fontVariations": {
+    "game-regular.woff2": {
+      "outlineScale": 0.95,
+      "baselineOffset": -0.05,
+      "advanceScale": 1
+    },
+    "game-bold.woff2": {
+      "outlineScale": 0.95,
+      "baselineOffset": -0.05,
+      "advanceScale": 1
+    },
+    "game-medium.woff2": {
+      "outlineScale": 0.95,
+      "baselineOffset": -0.05,
+      "advanceScale": 1
+    }
+  },
+  "sources": {
+    "game": {
+      "src/Core/Nodes/Cards/NCard.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Cards/NCard.cs",
+        "gitBlob": "fac0eb3f768980060139049497b0dd1b50cdbe2e",
+        "sha256": "6ba702a7b997e3150f9a985e9f0652254b2aba4ee094b341d1e24e5a21942118",
+        "bytes": 28871
+      },
+      "src/Core/Nodes/Cards/Holders/NCardHolder.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Cards/Holders/NCardHolder.cs",
+        "gitBlob": "b62cd8e7755b8cd01202061e7f0842d15e0b835c",
+        "sha256": "4740e0f8c1dcd9fd35d056dd7f8eacc19a48c0ed8602a98db62107c98a023bcf",
+        "bytes": 6221
+      },
+      "src/Core/Nodes/Cards/NCardGrid.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Cards/NCardGrid.cs",
+        "gitBlob": "aaaa48480f448d9a748e65aaab56a6ea3ebe9603",
+        "sha256": "19f08ea08a2e1252af553dd76618479bd4ef99baff04a21793e50ac0019db54b",
+        "bytes": 23026
+      },
+      "project.godot": {
+        "path": "Slay the Spire 2/project.godot",
+        "gitBlob": "3d7f42569a084a6c34dacbc135ec1b9e7a639cf2",
+        "sha256": "68cb9589852c67e832f7e349238275779a9c13574da92a4c78ae58a9905ccf3b",
+        "bytes": 15972
+      },
+      "src/Core/Nodes/Screens/CardLibrary/NCardLibraryGrid.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Screens/CardLibrary/NCardLibraryGrid.cs",
+        "gitBlob": "3acb16e406bd0addc78f0e0d7f1998d74f71790b",
+        "sha256": "4227c183ee512d4d07dc17ee05edc22e48edc1739db6589c3e33489ef4976f2f",
+        "bytes": 5135
+      },
+      "src/Core/Nodes/Cards/Holders/NGridCardHolder.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Cards/Holders/NGridCardHolder.cs",
+        "gitBlob": "0f66fdff36605ab421aa28944baad62575a6b55e",
+        "sha256": "79a5d2a442e6ff55d9a8d46e126a60127e35ab633b972e458ddc9cd04108f8fa",
+        "bytes": 3985
+      },
+      "scenes/cards/holders/grid_card_holder.tscn": {
+        "path": "Slay the Spire 2/scenes/cards/holders/grid_card_holder.tscn",
+        "gitBlob": "7c7c980727350aeb9add05603c1db605603b050c",
+        "sha256": "0c539694449908a75107485b70e7c5e537360debd2bc2176e191b4bbb1f430fd",
+        "bytes": 707
+      },
+      "images/atlases/ui_atlas_0.png": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas_0.png",
+        "gitBlob": "1a41675e902452757c66d3fe360a6d0c02f93648",
+        "sha256": "6312a37b8fe8ca7eba94d03056aa5910a1f0fa2d6096e27f7a1b2691460ecef1",
+        "bytes": 1601168
+      },
+      "images/atlases/ui_atlas_1.png": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas_1.png",
+        "gitBlob": "d23c1d4c833fa7a2a07b4f5eaa1b66eb8d01a4a9",
+        "sha256": "515cd7143dc6cbb257a7a3b37300b6cfee2691951a2358dfb64bc14fd31b0d50",
+        "bytes": 1218686
+      },
+      "fonts/zhs/NotoSansMonoCJKsc-Regular.otf": {
+        "path": "Slay the Spire 2/fonts/zhs/NotoSansMonoCJKsc-Regular.otf",
+        "gitBlob": "999c45aa01e6d08c1fda977c0fc6d306f6595bd2",
+        "sha256": "2b1dbdc50df666a00c50ecd77377e2394c6babd35a71e37505ab411ff55c7906",
+        "bytes": 16412712
+      },
+      "fonts/zhs/SourceHanSerifSC-Medium.otf": {
+        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Medium.otf",
+        "gitBlob": "9e10784f79dbca55cc2b5103b61cca0acfb70200",
+        "sha256": "210dc788c6cc15ed693c8ecde93ee83bf7714b759befa6aead042d6f6e1b878a",
+        "bytes": 23889376
+      },
+      "fonts/zhs/SourceHanSerifSC-Bold.otf": {
+        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Bold.otf",
+        "gitBlob": "10c35232ec4826c615343466c9389387810ad55a",
+        "sha256": "4564e8fb84d572e0b8b4e2980f3e23efc0c9956e64c84affce715a6de77cee27",
+        "bytes": 24683616
+      },
+      "materials/cards/banners/card_banner_common_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_common_mat.tres",
+        "gitBlob": "812fb97228641bd50f03914bbb8783be97f3de46",
+        "sha256": "b57c47cc2b166921712536b4c92de790da6c234773ae77512974f463b83aa60b",
+        "bytes": 338
+      },
+      "materials/cards/banners/card_banner_uncommon_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_uncommon_mat.tres",
+        "gitBlob": "f9c23ec41d5db8833974b5da601e16498d50f841",
+        "sha256": "1553efa3e7e2578fce5371f4b26af3202cd2f712252b8b45897bcd76dde16543",
+        "bytes": 279
+      },
+      "materials/cards/banners/card_banner_rare_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_rare_mat.tres",
+        "gitBlob": "d6d94a907f38136273612eacdeccd310f070e0bd",
+        "sha256": "6b3c6bf2ef1e3e85e01725c99d1c75ad7e7da61e70d4bb3217eec5f8aa348948",
+        "bytes": 316
+      },
+      "materials/cards/banners/card_banner_curse_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_curse_mat.tres",
+        "gitBlob": "d74bdab591d207327bca24d5d865b209d3268da4",
+        "sha256": "89ba1ada2f94b6b003155e4d190f50959b926dac487959b4c343b8d02de15be8",
+        "bytes": 311
+      },
+      "materials/cards/banners/card_banner_status_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_status_mat.tres",
+        "gitBlob": "a4a2cd8cddb8ad019f7e83a932af3b3534b89dcb",
+        "sha256": "ce652fe04bb44137707565182fb86d35ba7e20c7326218137fad24bdb85fa2ae",
+        "bytes": 314
+      },
+      "materials/cards/banners/card_banner_event_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_event_mat.tres",
+        "gitBlob": "47922a5069f5a61d22e0c25e15fdbbb4107022dd",
+        "sha256": "8793c088c56d46484193ffea41188320f4e414bc34e8a78390abf4d40cf8a8d6",
+        "bytes": 314
+      },
+      "materials/cards/banners/card_banner_ancient_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/banners/card_banner_ancient_mat.tres",
+        "gitBlob": "7d857def7efb15e3e4e559468d46ea6d6eb71988",
+        "sha256": "3fbdca135f1b4f2120c28759c661b4e98aab0871bbeff79e6ed21cbec7f6adbc",
+        "bytes": 306
+      },
+      "images/atlases/ui_atlas.sprites/card/card_frame_attack_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_frame_attack_s.tres",
+        "gitBlob": "156d7e5e502d27b9748a360cf818f74b192df2ba",
+        "sha256": "dd8a36ee59b4baba08f170d2fef05cc66c51507413d33471ad33fd5d630d4f20",
+        "bytes": 231
+      },
+      "materials/cards/frames/card_frame_colorless_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/frames/card_frame_colorless_mat.tres",
+        "gitBlob": "2910cad740c7c91600ca537fd1886ab543c49639",
+        "sha256": "4e24317c2795d9a751709e79f04fff38db2214a383a55a6b27015a3e10c70330",
+        "bytes": 311
+      },
+      "materials/cards/frames/card_frame_curse_mat.tres": {
+        "path": "Slay the Spire 2/materials/cards/frames/card_frame_curse_mat.tres",
+        "gitBlob": "996bc028588f5b5933d4454558c712fb24cd31a1",
+        "sha256": "73f28ca50557a8f4f9f97fe2da9528592ca73d436bc52c8f1c766d1c5b78ac91",
+        "bytes": 314
+      },
+      "images/atlases/ui_atlas.sprites/card/card_portrait_border_attack_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_portrait_border_attack_s.tres",
+        "gitBlob": "7c303e7f0d95df7f83c92e94389094294bd08e5d",
+        "sha256": "14b5ee5d5f57d890082fb4a3d31548102fcfbcc3c9ea7db34d932bdd14afd7d6",
+        "bytes": 229
+      },
+      "images/atlases/ui_atlas.sprites/card/card_frame_skill_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_frame_skill_s.tres",
+        "gitBlob": "3ed7544ad57651cec2357028dbf910e2ab468cd8",
+        "sha256": "5ca0d61312b02541a4692f0a7233bd93e99cc823dde6226a8556906a65fe8b2f",
+        "bytes": 232
+      },
+      "images/atlases/ui_atlas.sprites/card/card_portrait_border_skill_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_portrait_border_skill_s.tres",
+        "gitBlob": "2d5d24aea1103d2e6a07025a5bf4c63d8008d3bd",
+        "sha256": "18df07bae4175f6b20e5b772dd2f13266f3d9ba57b8ca9082f68b3911b79789d",
+        "bytes": 231
+      },
+      "images/atlases/ui_atlas.sprites/card/card_frame_power_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_frame_power_s.tres",
+        "gitBlob": "9138be5482f056fde08232c2427aafaaf9b77944",
+        "sha256": "b3db2668038e25bf60101624de549c13590d86312d2719fdc2dedd38bb6d8472",
+        "bytes": 230
+      },
+      "images/atlases/ui_atlas.sprites/card/card_portrait_border_power_s.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_portrait_border_power_s.tres",
+        "gitBlob": "e8977979f3fc61ac410443c493ff5af665fec9ac",
+        "sha256": "b62b2823a29e004bfbb1dbef4ed56329d26a11b0869c432e940e7a9957102c42",
+        "bytes": 230
+      },
+      "images/atlases/ui_atlas.sprites/card/card_banner.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/card_banner.tres",
+        "gitBlob": "887f893dd1874da9efff2bf76e17205d740e26c3",
+        "sha256": "f93e51595b8b894522a10751503b523c2d1e9b91e2157188b7dbdcfccc120b72",
+        "bytes": 257
+      },
+      "images/ui/cards/card_portrait_border_plaque2.png": {
+        "path": "Slay the Spire 2/images/ui/cards/card_portrait_border_plaque2.png",
+        "gitBlob": "7d1617c048cef83b1fe45e1d4027444b1b411934",
+        "sha256": "5ce15f6b255baaaa7eecb152c65cb47531f22b4fad43e1704a7cb1e0be6ad1c3",
+        "bytes": 1615
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_card_border.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_card_border.tres",
+        "gitBlob": "8455fdd6aa5dd5da6d6fcbd8499c757bc11e28f3",
+        "sha256": "9208cd7686cc9bd5f60f26ca3d1723d9002e0a0f0d33f40f54b199b46f05c015",
+        "bytes": 229
+      },
+      "images/atlases/compressed_0.png": {
+        "path": "Slay the Spire 2/images/atlases/compressed_0.png",
+        "gitBlob": "64e197fcf13d69f03e45b02657a15bfb026f0e51",
+        "sha256": "c5bc592f29eb8b4422aed77fe6d0e6cef3647b45f0a1bcaa4a62827db4d16858",
+        "bytes": 293649
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_card_text_bg_attack.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_card_text_bg_attack.tres",
+        "gitBlob": "bace583f8f7b6f5df75d4a6cf91d3fb42c7a1a29",
+        "sha256": "53fa95a381b7186b7d08509dc5cbfbeff326d0bf4f66b498da790f14cc16c283",
+        "bytes": 263
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_card_text_bg_skill.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_card_text_bg_skill.tres",
+        "gitBlob": "76914f58deb7301ff1fbd0c833020a9acc5b3e44",
+        "sha256": "86ee6494a363aa7af3bfc347962ada1586c3a1d4019e1931df267474613a0e9d",
+        "bytes": 267
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_card_text_bg_power.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_card_text_bg_power.tres",
+        "gitBlob": "2c799709355b2ebea06ef8295cc6d06e343d3414",
+        "sha256": "8c0bfea36e2afb1c7ff3ba8d65a0bd7534abb25c3ed90107d8d3fa5b98f39e00",
+        "bytes": 260
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_portrait_mask_large.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_portrait_mask_large.tres",
+        "gitBlob": "15ad2e1b700e8835f8d24711c70b53c15da31b43",
+        "sha256": "0818fb45260d7a1ab50a32fd4423e54525464d3bbc965f0a13817fa9eb093a06",
+        "bytes": 261
+      },
+      "images/atlases/compressed.sprites/card_template/card_highlight_ancient.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/card_highlight_ancient.tres",
+        "gitBlob": "3fe665a263f002f42e624b2b7af487308df1e2f1",
+        "sha256": "d1b81539bc607850434a5457075e4e0a4fe6424753f25f9a6a2025bdd45691ae",
+        "bytes": 259
+      },
+      "images/atlases/ui_atlas.sprites/card/ancient_banner.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/ancient_banner.tres",
+        "gitBlob": "e4b99b9eb3854e548e29693aa7aec33bce356788",
+        "sha256": "5068964bdb86671d6be7d1b640207c4b111184ca569241a07d637f623797a487",
+        "bytes": 227
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_0.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_0.tres",
+        "gitBlob": "52937ece2efbf682f2d2c83bd0502d2862a0205d",
+        "sha256": "fd924acac916b8316ae19b0b0f0224b5e0e73baaab25e35e7778cb6c4dc1434c",
+        "bytes": 257
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_1.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_1.tres",
+        "gitBlob": "f25436a40efd8431c3a1f52e571221c7cf83db5d",
+        "sha256": "25375f2c66582f1ab964623d9e9a2fac6b8ae8dedec645adff4fc0c7e54ebcc1",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_2.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_2.tres",
+        "gitBlob": "935791bbcdfbfd6776f3c4cd33edd561c9ec544a",
+        "sha256": "0bbc501fdea6f67a7334ec9ed22c126a6dee91c366d3dea9cef63f866e8c3e44",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_3.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_3.tres",
+        "gitBlob": "364a9ffa0146ea225641f2aef1b69738c4b6ef52",
+        "sha256": "4f6d275988b9b4c86a7d2930c476983eca557714f8918b364a1d173e815a5e6e",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_4.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_4.tres",
+        "gitBlob": "e31382ac26eb23d71de66b6ed1a1e73c790b7129",
+        "sha256": "3dcdae5eb9b30881b2daa48ce47f7a8c2309235f43bab892685233a39c47bdcd",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_5.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_5.tres",
+        "gitBlob": "4084468ac6d34da0bb2903a1a7097b795963e3aa",
+        "sha256": "2bcb9491ad5d16f6eaf328c904259916513412d765608c400b9dca3d8d600938",
+        "bytes": 258
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_6.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_6.tres",
+        "gitBlob": "1e826e30b5a72802e2fdafe50d130afe80827a8e",
+        "sha256": "81958ddb2220325c6ed5e690348ffa3b1e8a1d7978530647a086debb08d7a60b",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_7.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_7.tres",
+        "gitBlob": "9a6f6d1aacb7c0133851c0b78a7288d3666380c0",
+        "sha256": "02bcf44ea17fa400add4f75f8b992f326880731d62fbf20cc7348e9415ed3931",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_8.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_8.tres",
+        "gitBlob": "a991cc7ccb14df2e20614ac15ac5a1152bff5715",
+        "sha256": "b6c06a447ee735bd7a74ef53ecea79176311991684ec55f4d3c1c9c4b0972fd0",
+        "bytes": 259
+      },
+      "images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_9.tres": {
+        "path": "Slay the Spire 2/images/atlases/compressed.sprites/card_template/ancient_flame/ancient_card_flame_9.tres",
+        "gitBlob": "ebf1824c7f5188c83bc7364f6e88937df3ef61dc",
+        "sha256": "712e584548aca7ded76c410917de27aeddbe09b64bd3d2866cd0068bdc3d164f",
+        "bytes": 259
+      },
+      "images/atlases/ui_atlas.sprites/card/energy_colorless.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/card/energy_colorless.tres",
+        "gitBlob": "923701a7ea8da3b84fe0bb8f3ccb9aee84ee1634",
+        "sha256": "16f88e21c6630ad62ffb1db6b73a04f1c44ef2d4c614ec4cff05f81ef5191147",
+        "bytes": 255
+      },
+      "images/packed/card_library/pool_filter_other.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/pool_filter_other.png",
+        "gitBlob": "d9d644081b53dea717c301809fd916fc90cf1dab",
+        "sha256": "f3fcf7b79aadb8567aa259c92e28ed598187ff354d162deb7639645a1d1b011d",
+        "bytes": 7709
+      },
+      "images/ui/run_history/neow.png": {
+        "path": "Slay the Spire 2/images/ui/run_history/neow.png",
+        "gitBlob": "9cacd9e00b1a0024e7ad68e868162a7713e444a9",
+        "sha256": "b8dcc0c868b5597ee0d71badf7f01c80d52b37caad22cb2ceef9e106c17fb22d",
+        "bytes": 8384
+      },
+      "src/Core/Models/CardPools/TokenCardPool.cs": {
+        "path": "Slay the Spire 2/src/Core/Models/CardPools/TokenCardPool.cs",
+        "gitBlob": "e1c3c5f7d1eb6894367aeb5a8d2d956c6a3d1585",
+        "sha256": "02b5d0421aec743c4b691b1d466bf56c335b59d8b793304b2a1eb2b48ea43963",
+        "bytes": 951
+      },
+      "src/Core/Models/CardPools/CurseCardPool.cs": {
+        "path": "Slay the Spire 2/src/Core/Models/CardPools/CurseCardPool.cs",
+        "gitBlob": "a412eec43f52010388d5157ac6bd807eca26b3ea",
+        "sha256": "88d4ec635a79b86980e7d8f273b19e3c04ab7b00157ff98c898ac8aeed5034a6",
+        "bytes": 1039
+      },
+      "src/Core/Models/CardPools/StatusCardPool.cs": {
+        "path": "Slay the Spire 2/src/Core/Models/CardPools/StatusCardPool.cs",
+        "gitBlob": "550f663ae6c196cac99fdd372da2734a30570bb9",
+        "sha256": "232002041009714eed4d7a79954f3cc80ea55418e97f50cbf5a013bca8ec78d1",
+        "bytes": 826
+      },
+      "src/Core/Models/CardPools/ColorlessCardPool.cs": {
+        "path": "Slay the Spire 2/src/Core/Models/CardPools/ColorlessCardPool.cs",
+        "gitBlob": "547c88d0e676fd21fdb9c784055dd7f92213b3c6",
+        "sha256": "01865e9eaeccd2a1b45ad6feae2688c23389d53870fb168dda0ee1b1c2ba27ba",
+        "bytes": 3659
+      },
+      "src/Core/Nodes/Screens/CardLibrary/NCardLibrary.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Screens/CardLibrary/NCardLibrary.cs",
+        "gitBlob": "111e0f7d16684a85aaec76a3db338b26f6208d74",
+        "sha256": "8aa7ead0fd9332be04c98a2d2dbfe6dd6827f92ae39da929c48994154f10cff3",
+        "bytes": 26931
+      },
+      "images/atlases/ui_atlas.sprites/top_bar/top_bar_heart.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/top_bar/top_bar_heart.tres",
+        "gitBlob": "096abdbf769bf0fadea520caa770df21157eaec1",
+        "sha256": "a0b786008ac48bb41a0ae86c434434d5aa99b8e1cc86e0831ce336a3232a9617",
+        "bytes": 258
+      },
+      "images/ui/hover_tip.png": {
+        "path": "Slay the Spire 2/images/ui/hover_tip.png",
+        "gitBlob": "db5a57631bf8a48d348ab1677a467fad71409c3c",
+        "sha256": "26acba6a0f42399877900b7770688da40ba6dd8a630de267b59937008ed09f64",
+        "bytes": 10520
+      },
+      "images/atlases/ui_atlas.sprites/top_bar/top_bar.tres": {
+        "path": "Slay the Spire 2/images/atlases/ui_atlas.sprites/top_bar/top_bar.tres",
+        "gitBlob": "3d2aef177d89d25e97ef59406460b3914ddf72c6",
+        "sha256": "01c233b37d8e18fc3333dc7f63a46ce9b997dc5ca8cf210af83fd9233310e794",
+        "bytes": 226
+      },
+      "images/packed/card_library/type_sort_attack.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/type_sort_attack.png",
+        "gitBlob": "4edf5e2116ef9dd07a17af2699947b06db4a411a",
+        "sha256": "2debfac6042fc0fe773697be507c43c2359ecb226dbdbe96d05e1d54f0f255ea",
+        "bytes": 4218
+      },
+      "images/packed/card_library/type_sort_skill.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/type_sort_skill.png",
+        "gitBlob": "1736813b2d5fc230e0e2080d3b4e86ad41fc1e38",
+        "sha256": "90a8db86f95243a556d723bfc44ebe0907e9e1e404afa413c0b4f5cacfb606ce",
+        "bytes": 3984
+      },
+      "images/packed/card_library/type_sort_power.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/type_sort_power.png",
+        "gitBlob": "de58da2bf415c5bba9a3b32cc1c15c0aca3ceb5a",
+        "sha256": "3bb817f15b33f9df6316fe34b670d62b3157a35390260e663e06fa8aa50f8865",
+        "bytes": 4205
+      },
+      "images/packed/card_library/type_sort_other.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/type_sort_other.png",
+        "gitBlob": "3225fa342d1161f25417b15653d5408f3151bc03",
+        "sha256": "9325998c97f4b9c03c2e3bd65f9e25c56e14cff3fd01c03c268d565f45ccac2c",
+        "bytes": 4305
+      },
+      "images/packed/card_library/type_sort_outline2.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/type_sort_outline2.png",
+        "gitBlob": "387464720e52afe061d29b85e1e9778b367f5f34",
+        "sha256": "724185ff5f6478e0ef318f67d9d0af1cd3bcd4ee844643cabdba13716e951feb",
+        "bytes": 2298
+      },
+      "images/packed/card_library/cost_tickbox.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/cost_tickbox.png",
+        "gitBlob": "a22d2ee91584c7d1f6f2f85c3a1c441e8d80a5cd",
+        "sha256": "75827ece745b9bd743278ded345a6b0722d5538accb6e5455f7f75114a922517",
+        "bytes": 1070
+      },
+      "images/packed/card_library/cost_tickbox_outline.png": {
+        "path": "Slay the Spire 2/images/packed/card_library/cost_tickbox_outline.png",
+        "gitBlob": "1aa0cd03c8132ecb44f253e29c01f54c295d1fdc",
+        "sha256": "c3d7c3bb3b31410c24d12feb9b8c6387900412695cef71ef61836d28b17a9c1e",
+        "bytes": 3365
+      },
+      "images/ui/main_menu/submenu_card_library.png": {
+        "path": "Slay the Spire 2/images/ui/main_menu/submenu_card_library.png",
+        "gitBlob": "03415b8344a37dc46e1802d90a83dbb20172184b",
+        "sha256": "136620f0f217d9c2a42ee636cec9635c60b5bcb49a089d5b67f531eb09553444",
+        "bytes": 124419
+      },
+      "images/ui/main_menu/submenu_relic_collection.png": {
+        "path": "Slay the Spire 2/images/ui/main_menu/submenu_relic_collection.png",
+        "gitBlob": "bb32acad3afc5c59241dc225824eec6e6afec95f",
+        "sha256": "2dded43381e2b196b9be786eb4308332674a283315339b125212a11dfc00fff4",
+        "bytes": 76242
+      },
+      "images/ui/main_menu/submenu_potion_lab.png": {
+        "path": "Slay the Spire 2/images/ui/main_menu/submenu_potion_lab.png",
+        "gitBlob": "07fe3646dffca616a1833bf2f48eda6221351b14",
+        "sha256": "f850c3552f11c480fa2cbbaad1f413132d687357d2a59906f6ade537c27a245a",
+        "bytes": 115202
+      },
+      "images/ui/main_menu/submenu_unknown.png": {
+        "path": "Slay the Spire 2/images/ui/main_menu/submenu_unknown.png",
+        "gitBlob": "5958145e8835adfeb687fc0d10f7caf91208fd8d",
+        "sha256": "77d5a8c7b3862c89aa076f1245c1494f4a624b47ac1636572eb2772867a6c20b",
+        "bytes": 60910
+      },
+      "images/ui/main_menu/submenu_standard.png": {
+        "path": "Slay the Spire 2/images/ui/main_menu/submenu_standard.png",
+        "gitBlob": "0e983f0ae738bbc748e89981dee6d2d62122915a",
+        "sha256": "a1c200b76c8f0e18bbee2ff1d9ffd8d7f7da01033c8f7a3000dbae35c43523d9",
+        "bytes": 151354
+      },
+      "images/packed/sprite_fonts/card_icon.png": {
+        "path": "Slay the Spire 2/images/packed/sprite_fonts/card_icon.png",
+        "gitBlob": "e1b138169b7c55025c9209c21067a59a10ba1d57",
+        "sha256": "24f961e1eb504461bf62a49fdd16a5c04adfbbb50ba952323fc64139b63fd782",
+        "bytes": 353
+      },
+      "images/packed/sprite_fonts/gold_icon.png": {
+        "path": "Slay the Spire 2/images/packed/sprite_fonts/gold_icon.png",
+        "gitBlob": "e325396ed6e10a641d712a1c8187f324c74d4f2a",
+        "sha256": "3cfb5a4b5687022ba89fd996e1f9e651577421033e383b329bef2a32a77c54a1",
+        "bytes": 485
+      },
+      "images/packed/sprite_fonts/potion_icon.png": {
+        "path": "Slay the Spire 2/images/packed/sprite_fonts/potion_icon.png",
+        "gitBlob": "46398b0a237e808a26e2e3438e02b03905f9f51e",
+        "sha256": "3f1266abf4986c19f15b3de4d17bfd80f1f800bc24be2cd2d763fae627bd7aa1",
+        "bytes": 585
+      },
+      "images/ui/reward_screen/reward_panel.png": {
+        "path": "Slay the Spire 2/images/ui/reward_screen/reward_panel.png",
+        "gitBlob": "c570cf61cb30396f307da5735c7294c4b055ffb9",
+        "sha256": "c22cac000950b9818c9037491771a46b2e175a9937111408429d94935f269aae",
+        "bytes": 1866338
+      },
+      "images/packed/inspect_relic_screen/relic_inspect_frame.png": {
+        "path": "Slay the Spire 2/images/packed/inspect_relic_screen/relic_inspect_frame.png",
+        "gitBlob": "b66111c825523cf546a2b2057021e59983fe954e",
+        "sha256": "3e494053015d475c3855d0e87aef4ac281c020c5cc0b0278f63cdc6dc32adbb3",
+        "bytes": 20152
+      },
+      "images/packed/common_ui/settings_tiny_left_arrow.png": {
+        "path": "Slay the Spire 2/images/packed/common_ui/settings_tiny_left_arrow.png",
+        "gitBlob": "f5ed21b9ead80d272b0a8aa711f83de5ade6875f",
+        "sha256": "81913b939e6cb7265f493c47dfcfecba3097a693903f1a23ab06a0796017a21c",
+        "bytes": 12913
+      },
+      "images/packed/common_ui/settings_tiny_right_arrow.png": {
+        "path": "Slay the Spire 2/images/packed/common_ui/settings_tiny_right_arrow.png",
+        "gitBlob": "47870c9e36b30ac96eb25c864a23e4339fd46dea",
+        "sha256": "272ca134081070f5f38b676c851a66d1ac3079a847a2f34d3088dac692f37abb",
+        "bytes": 13767
+      },
+      "src/Core/Helpers/StsColors.cs": {
+        "path": "Slay the Spire 2/src/Core/Helpers/StsColors.cs",
+        "gitBlob": "89e60921415599e847155aad4a1d6845210d6dab",
+        "sha256": "83fda24aa2939856fcdeefdaf32e0ae5617579a0bbb1e5c29cb1daf04c75ded9",
+        "bytes": 3844
+      },
+      "localization/zhs/card_library.json": {
+        "path": "Slay the Spire 2/localization/zhs/card_library.json",
+        "gitBlob": "a7f12d9ab85a84055a198b3dd25b456728941e4e",
+        "sha256": "26e34995c51dc234726358e7e2e465b51866d1d9c27abe9ae45794426bd827c2",
+        "bytes": 1544
+      },
+      "localization/zhs/static_hover_tips.json": {
+        "path": "Slay the Spire 2/localization/zhs/static_hover_tips.json",
+        "gitBlob": "be7d5846f4bdfe2472bb6694adea7e658a306e2f",
+        "sha256": "45163ab7962d2fbb3ba6d62b4caf0bf202cf1ff8cd6ce23a40dde6e997a2f9cc",
+        "bytes": 7302
+      },
+      "localization/zhs/card_keywords.json": {
+        "path": "Slay the Spire 2/localization/zhs/card_keywords.json",
+        "gitBlob": "817d7b9becfb77f118dc03ae85bea2fd474f2148",
+        "sha256": "697a5680f24ab8d0acb821ee4442f596f79d875bd9605ab743f64ca42ebb32c3",
+        "bytes": 885
+      },
+      "localization/zhs/gameplay_ui.json": {
+        "path": "Slay the Spire 2/localization/zhs/gameplay_ui.json",
+        "gitBlob": "4e9515a38825764ba8b145bc1fb790d977240165",
+        "sha256": "0555b71578e13ff0fd77befd0f6feacce1eeb361105aaf6d333d1d61cb6f9e3b",
+        "bytes": 4809
+      },
+      "localization/zhs/powers.json": {
+        "path": "Slay the Spire 2/localization/zhs/powers.json",
+        "gitBlob": "c6771203814c88a2acc67a97dfd4001b937597db",
+        "sha256": "433c4969d381992b9ea4e9fa6527947c4e1fc7d4363e169d3b33c93da27ee688",
+        "bytes": 78657
+      },
+      "localization/zhs/potions.json": {
+        "path": "Slay the Spire 2/localization/zhs/potions.json",
+        "gitBlob": "142bba8409bec91df936aa43b4e0bc71482c8821",
+        "sha256": "f7909d5f983a5522a8bfe161315374da907f001d031bb69902476a7ad8335973",
+        "bytes": 10498
+      },
+      "localization/zhs/relic_collection.json": {
+        "path": "Slay the Spire 2/localization/zhs/relic_collection.json",
+        "gitBlob": "a59a2effc48c22b05a200fd142985808fafbf53b",
+        "sha256": "1711ca535d91c22ef12960003e14956cb3b6ee231f2043a419333153b6f2880a",
+        "bytes": 905
+      },
+      "localization/zhs/potion_lab.json": {
+        "path": "Slay the Spire 2/localization/zhs/potion_lab.json",
+        "gitBlob": "37cec7fa2393354c3c8c901f53306bac9869a5ae",
+        "sha256": "049d978195b8c5f3e7b87532fff640521668e14c99beae685faf5e58c3c7cb2a",
+        "bytes": 459
+      },
+      "localization/zhs/inspect_relic_screen.json": {
+        "path": "Slay the Spire 2/localization/zhs/inspect_relic_screen.json",
+        "gitBlob": "e6ed4e9c894b94642fbc9e7c58783436fad7d85a",
+        "sha256": "42d0dd4074c392cc8d3c081264c4e521223134003589cf5ad77c6a602e215eef",
+        "bytes": 241
+      },
+      "scenes/cards/card.tscn": {
+        "path": "Slay the Spire 2/scenes/cards/card.tscn",
+        "gitBlob": "fd315be81d0c45f21c20d94d8d791479293ad11a",
+        "sha256": "a1fa62d21c0d8aa07304ad24739b0b28f4c220d1454ee3adb2a71ae2f342c745",
+        "bytes": 21042
+      },
+      "scenes/ui/hover_tip.tscn": {
+        "path": "Slay the Spire 2/scenes/ui/hover_tip.tscn",
+        "gitBlob": "2604fc6ff6539ccb5ec1f160141aea57ee70ac42",
+        "sha256": "29bd4122395c441d7f1db328657abe872823b1147df866b681a1b5e44471495b",
+        "bytes": 3664
+      },
+      "scenes/screens/card_library/card_library.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/card_library/card_library.tscn",
+        "gitBlob": "2d4eeaa912d5d28f94d36bf97cbdfdb8ac599daa",
+        "sha256": "b7ad3049f4edced0e61b5277b86315e3516a2abd5c510cf0da0e75dc3c1e4610",
+        "bytes": 30428
+      },
+      "scenes/screens/relic_collection/relic_collection.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/relic_collection/relic_collection.tscn",
+        "gitBlob": "b5d59eb0b88fd49fd61a98074d6e52c2ddeb69b2",
+        "sha256": "0eb44f23625dbb381d73c57d3d3c4a2983b20403e25155f688a2db512d1732da",
+        "bytes": 3923
+      },
+      "scenes/screens/relic_collection/relic_collection_category.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/relic_collection/relic_collection_category.tscn",
+        "gitBlob": "f9b3cb86e7e8df526cd0f17f759315f21c401d3a",
+        "sha256": "397abbe7d882484e2eae71db2b0fa7e14adbaba8d4a42a112e3456c3f436dffa",
+        "bytes": 2682
+      },
+      "scenes/screens/relic_collection/relic_collection_subcategory.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/relic_collection/relic_collection_subcategory.tscn",
+        "gitBlob": "62922c1bcd2189b09972f095727ec0a688c0284f",
+        "sha256": "65b13db776eb8ceba396fc3cbda6e5612019cb35703b41c0b4cacfceab09f1ca",
+        "bytes": 2745
+      },
+      "scenes/screens/relic_collection/relic_collection_entry.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/relic_collection/relic_collection_entry.tscn",
+        "gitBlob": "66bef7020bf58ae51e865056e642f4cddbcf85e2",
+        "sha256": "46b6254f3fbd8c4295b3021f64db49844b65b5fd4287bc86b7fdf946073880d2",
+        "bytes": 984
+      },
+      "scenes/screens/potion_lab/potion_lab.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/potion_lab/potion_lab.tscn",
+        "gitBlob": "8d78ab3edc5196cb19eda5a84e78f09dde56e63b",
+        "sha256": "35c3439d7185071fcb3c04e553ea8c00a8e22f74346bb625123fb6af02f5a460",
+        "bytes": 3358
+      },
+      "scenes/screens/potion_lab/potion_category.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/potion_lab/potion_category.tscn",
+        "gitBlob": "a6d12f41738bcdeffab3f0cc6e19baae18a7e15c",
+        "sha256": "0afc2f8247c6753cccb380034cbc5a25771a69394bf30897a999064230fcc6b3",
+        "bytes": 2349
+      },
+      "scenes/screens/potion_lab/lab_potion_holder.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/potion_lab/lab_potion_holder.tscn",
+        "gitBlob": "dafb36a7f78d82af12a8044afe2254d30f2b717d",
+        "sha256": "d4c7bc3de8f6558b6667ec5dc9cae3bde5c2f7fd84e89b753369dfcd77f4c101",
+        "bytes": 772
+      },
+      "scenes/screens/inspect_relic_screen/inspect_relic_screen.tscn": {
+        "path": "Slay the Spire 2/scenes/screens/inspect_relic_screen/inspect_relic_screen.tscn",
+        "gitBlob": "1bd1bbd79b2cf8075304987a4b854dad7ab4e559",
+        "sha256": "ec60bd28af278704130e338e9413ccd2f67bd26118fc6234e75e10556c5c7715",
+        "bytes": 12550
+      },
+      "scenes/relics/relic.tscn": {
+        "path": "Slay the Spire 2/scenes/relics/relic.tscn",
+        "gitBlob": "ff8915cd2860ba8b113f93483dc976cb0261f2a9",
+        "sha256": "0c91fdc76d3432a908dbba7f37cf1f678069b956e8ead58a9dcfbb37ff24dbf9",
+        "bytes": 1612
+      },
+      "scenes/potions/potion.tscn": {
+        "path": "Slay the Spire 2/scenes/potions/potion.tscn",
+        "gitBlob": "82d7e134e84eb65cf3ee538b59335cf7fa8c8451",
+        "sha256": "f464d365013f87a31c18bd7d494a13577bf5353c651599334d5c3d400bd8a94d",
+        "bytes": 2508
+      },
+      "src/Core/Nodes/Screens/RelicCollection/NRelicCollectionEntry.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Screens/RelicCollection/NRelicCollectionEntry.cs",
+        "gitBlob": "b0d7eb10b2a2e8dce73447a7f5ba3001daa28c96",
+        "sha256": "bbd085c69b6babec03cb25668b5f9ca2d775e4e8dcc031913b5dc999f0825172",
+        "bytes": 5281
+      },
+      "src/Core/Nodes/Screens/PotionLab/NLabPotionHolder.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Screens/PotionLab/NLabPotionHolder.cs",
+        "gitBlob": "fb421601d137c8f8dffa4168ae1684f952db171e",
+        "sha256": "fb7e04b2b7834274f0f0591923e09510cddad8e414aed43fdd270984c142585a",
+        "bytes": 4763
+      },
+      "src/Core/Nodes/Screens/InspectScreens/NInspectRelicScreen.cs": {
+        "path": "Slay the Spire 2/src/Core/Nodes/Screens/InspectScreens/NInspectRelicScreen.cs",
+        "gitBlob": "ff54c7849bb47f844ba380170e916b7120d1bbcf",
+        "sha256": "f5f15cd6a8888830183b7c43d061d46e6d9346c2a4146774f4411902c930ad76",
+        "bytes": 11344
+      },
+      "shaders/hsv.gdshader": {
+        "path": "Slay the Spire 2/shaders/hsv.gdshader",
+        "gitBlob": "bce9791e6312d1838682c2d39a8e73b5dd29d38a",
+        "sha256": "097584114fe0e90b42f2c966062490775bd1df77fbff472e31e7f05571291f32",
+        "bytes": 1225
+      },
+      "src/Core/Models/Potions/FlexPotion.cs": {
+        "path": "Slay the Spire 2/src/Core/Models/Potions/FlexPotion.cs",
+        "gitBlob": "136a71073b5170b4f61c070b1123a603620a37f0",
+        "sha256": "7ff76880b4c6a6dea1695f89969ce09cf039c321166d2cbf58b420dd9aa7e45e",
+        "bytes": 1310
+      },
+      "src/Core/Localization/Fonts/FontPathSets/ZhsFontPathSet.cs": {
+        "path": "Slay the Spire 2/src/Core/Localization/Fonts/FontPathSets/ZhsFontPathSet.cs",
+        "gitBlob": "bb13056e78ef49af3d38ba546806c67c901d679d",
+        "sha256": "877cec56ec95531924bdc90c0695e281e90464e0c8f8cfc415f5d71e7a3ec439",
+        "bytes": 831
+      },
+      "src/Core/Localization/Fonts/FontControlUtils.cs": {
+        "path": "Slay the Spire 2/src/Core/Localization/Fonts/FontControlUtils.cs",
+        "gitBlob": "c10f0a2987af8b624f0ccdb5fadba698109e3fa8",
+        "sha256": "cf9d42c06bacab9e811e50ab9eeba491c8701a994e76ff3fe2c4cedc3c7f6937",
+        "bytes": 589
+      },
+      "addons/mega_text/MegaLabel.cs": {
+        "path": "Slay the Spire 2/addons/mega_text/MegaLabel.cs",
+        "gitBlob": "22f677abdbf638e5c2b8adc64cf7d1699911eea1",
+        "sha256": "7be989da7eb11918f4538f8788b51c0615215a903d77648b0d828bd88e8a0e98",
+        "bytes": 3227
+      },
+      "addons/mega_text/MegaRichTextLabel.cs": {
+        "path": "Slay the Spire 2/addons/mega_text/MegaRichTextLabel.cs",
+        "gitBlob": "f0128223943d786425c49b7557aec7126d39b55c",
+        "sha256": "a7122ce37efd15023327c1292860f8108f41c550d39cd8c5bca16ae70e97782a",
+        "bytes": 6469
+      },
+      "themes/fonts/zhs/noto_sans_mono_cjksc_regular_shared.tres": {
+        "path": "Slay the Spire 2/themes/fonts/zhs/noto_sans_mono_cjksc_regular_shared.tres",
+        "gitBlob": "783230db16f45ec38b07db8d1b2cfa12dac210ab",
+        "sha256": "fd3b35ab43539aa097d8d94528c81d4f8f412c53fa704362ee5ce1907ac1cea3",
+        "bytes": 336
+      },
+      "themes/fonts/zhs/source_han_serif_sc_bold_shared.tres": {
+        "path": "Slay the Spire 2/themes/fonts/zhs/source_han_serif_sc_bold_shared.tres",
+        "gitBlob": "eaef78586d36ed3dfc8a4cf94e251feec5cdfc02",
+        "sha256": "158ec047797545776ac195380e0646de34b7656b613a9dbce8dbc730215a96d9",
+        "bytes": 331
+      },
+      "themes/fonts/zhs/source_han_serif_sc_medium_shared.tres": {
+        "path": "Slay the Spire 2/themes/fonts/zhs/source_han_serif_sc_medium_shared.tres",
+        "gitBlob": "5acf78cc3f5d35379104de82c1d21eb7a6d7bee8",
+        "sha256": "2a8f6c4753106015d0dadfcbd108c558109cfb97e24d8a318afad5974ffa1ded",
+        "bytes": 333
+      },
+      "fonts/kreon_regular.ttf": {
+        "path": "Slay the Spire 2/fonts/kreon_regular.ttf",
+        "gitBlob": "14207bfab064d9d9189a2328f3c1129dfedfaea6",
+        "sha256": "8974f79cb50e543aa96d115356752b5ad81bdf1e23aa43dbe7fe6a07551cc53f",
+        "bytes": 48324
+      },
+      "fonts/kreon_bold.ttf": {
+        "path": "Slay the Spire 2/fonts/kreon_bold.ttf",
+        "gitBlob": "40f1130989805463374241a3ef71f87c3bdb9c39",
+        "sha256": "3c37ceea51cc36b9a955a040a8261c827f364b0b443e5ebddf7d84300cb01fc2",
+        "bytes": 56588
+      }
+    },
+    "mod": {
+      "materials/cards/frames/card_frame_purple_mat.tres": {
+        "path": "materials/cards/frames/card_frame_purple_mat.tres",
+        "gitBlob": "9b8c12dffe5b90fc4de8f49b826aa66ad3ca84a6",
+        "sha256": "959a86fcc5b0b448009b9426b025484853e26b978d80ef14b2eaa33df3d1585f",
+        "bytes": 339
+      },
+      "images/atlases/ui_atlas.sprites/card/energy_karen.tres": {
+        "path": "images/atlases/ui_atlas.sprites/card/energy_karen.tres",
+        "gitBlob": "5be7a1152fee55069f7e3f4e078d2b98d1eb4650",
+        "sha256": "da8f918b566265bc7924b1358785f90238f22e66473c9b1cb58198c0f576a23f",
+        "bytes": 340
+      },
+      "images/ui/combat/energy_counters/karen/karen_energy_nonagon.png": {
+        "path": "images/ui/combat/energy_counters/karen/karen_energy_nonagon.png",
+        "gitBlob": "ca27282c6dce54d4ef944e28db4741c778eafe27",
+        "sha256": "d1b6d7c2b20fae028ed13a7a2157fb487585d14d472a2364a8a6890d70cb23f1",
+        "bytes": 1089123
+      },
+      "images/packed/sprite_fonts/karen_energy_icon.png": {
+        "path": "images/packed/sprite_fonts/karen_energy_icon.png",
+        "gitBlob": "ca27282c6dce54d4ef944e28db4741c778eafe27",
+        "sha256": "d1b6d7c2b20fae028ed13a7a2157fb487585d14d472a2364a8a6890d70cb23f1",
+        "bytes": 1089123
+      },
+      "images/relics/karen_baseball_cat_relic_outline.png": {
+        "path": "images/relics/karen_baseball_cat_relic_outline.png",
+        "gitBlob": "793c1997075b38aafd1003f3aaffa48ee21dd243",
+        "sha256": "90c5b6f232186158d71a73538a3f558dad95addaf6099108712ff11c18789023",
+        "bytes": 2297
+      },
+      "images/relics/karen_cookie_relic_outline.png": {
+        "path": "images/relics/karen_cookie_relic_outline.png",
+        "gitBlob": "26f0afd0cd0ab06e5fc422f6eee57562ca282c3d",
+        "sha256": "df2a24629b6f9242c8055b4d3ccc85ce4b5e1f4ccc9390bce7d94ff0c637e99e",
+        "bytes": 1287
+      },
+      "images/relics/karen_little_star_relic_outline.png": {
+        "path": "images/relics/karen_little_star_relic_outline.png",
+        "gitBlob": "635ac8fe1b36ba259214a336eea3563aea82aaf9",
+        "sha256": "193988fb376fb1aa9c1795d945c4d8079f7f2353ba7aab1507886059c4ae3d85",
+        "bytes": 1878
+      },
+      "images/relics/karen_mr_white_relic_outline.png": {
+        "path": "images/relics/karen_mr_white_relic_outline.png",
+        "gitBlob": "0cab394c96ad7db9faabcb7279e1ffe201ef8948",
+        "sha256": "9a75641e579adc942a7ac89b4f944c399861c8fcf0df37be0de418c60ea43623",
+        "bytes": 1670
+      },
+      "images/relics/karen_star_hairclip_relic_outline.png": {
+        "path": "images/relics/karen_star_hairclip_relic_outline.png",
+        "gitBlob": "80430c5eac1b10d8d8c74b6d633476cdc0384a71",
+        "sha256": "baa70994bf5b81add89393fda2e4ce9e87d1463193114c34814ce73a2f429ea6",
+        "bytes": 2075
+      },
+      "images/relics/karen_star_tiara_relic_outline.png": {
+        "path": "images/relics/karen_star_tiara_relic_outline.png",
+        "gitBlob": "dd68759bbe8ce00b5aaa6951a809ec2c126e33e9",
+        "sha256": "656ecdefd9598c0b23bc1d5356377d5adff5531a33b3428414aaf3b0efd7d0ca",
+        "bytes": 2524
+      },
+      "images/relics/karen_water_bottle_relic_outline.png": {
+        "path": "images/relics/karen_water_bottle_relic_outline.png",
+        "gitBlob": "fa9cd2da72bdfd24938045797bc59e38e43182b8",
+        "sha256": "6fb603d8e913999cfeec939f39ca9fae88f618cee90801991993786d333fc516",
+        "bytes": 1454
+      },
+      "images/potions/karen_awake_potion_outline.png": {
+        "path": "images/potions/karen_awake_potion_outline.png",
+        "gitBlob": "abdc6501bd20cae542783668bd666cd9475ab6ea",
+        "sha256": "c9ef2471a3c519d93fc152a5d81137f1ecca698e5742011f1e99270b3f20c813",
+        "bytes": 1496
+      },
+      "images/potions/karen_shine_potion_outline.png": {
+        "path": "images/potions/karen_shine_potion_outline.png",
+        "gitBlob": "651dccc008bd93c68534339f151501b92bf4deaf",
+        "sha256": "676a58f9af6715d8ea932bd5fb34bb496f88165ecca8e41282439825c671d091",
+        "bytes": 1596
+      },
+      "images/potions/karen_tea_potion_outline.png": {
+        "path": "images/potions/karen_tea_potion_outline.png",
+        "gitBlob": "11c6b3d4917494c8d099a746003144ab18dcc81c",
+        "sha256": "787743e1dd2ad72309bbed6a87f4346eda97a87a71496f74bb8da1a5aad1d89a",
+        "bytes": 1783
+      }
+    }
+  },
+  "outputs": {
+    "assets/game-ui/frame-attack.png": {
+      "sha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-colorless-attack.png": {
+      "sha256": "1a53cf12530887b0f4c112b33e735b12b3b1002477c308dbede5c83c0de965ad",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-curse-attack.png": {
+      "sha256": "61cae6edc1499bdf6b95088848947ee08f336509b6a3f88454320c0d63b058fc",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/portrait-attack-common.png": {
+      "sha256": "b40f287c69788910783a5ced6a0d7d69255254cce19d227458e4e35a140dbaf1",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-uncommon.png": {
+      "sha256": "6d9aa0e4d12be388518dabce208e869cd3db868f78f220c033c916451c3298e4",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-rare.png": {
+      "sha256": "920a3e1105ce7aa783ce1d79140e85370c1e53afbcab0baa625a30c59200c60f",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-curse.png": {
+      "sha256": "723dbc74fed123ca140a81103603d15761db61184cd59aac7429d89ec5b54dfb",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-status.png": {
+      "sha256": "ec9d42e4261eee9c126b70c4d253882dfd9bb64d957a2e10957636922064a386",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-event.png": {
+      "sha256": "0296297b39eb0f2ad47712f39835225f88f08a5377475d202c20f63caaedf727",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-attack-ancient.png": {
+      "sha256": "41cae9604af3bb7d51c04b8f7cc0c4c6e811e251f985c0125557749a024d72d0",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/frame-skill.png": {
+      "sha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-colorless-skill.png": {
+      "sha256": "328c6e98fb8d5c1f3b5ea50d9adc8997a84691c06719c0d209c5235ccb8ab5b0",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-curse-skill.png": {
+      "sha256": "f260cd8eaf019d7545ff13510574dc4510f2a8037c8bc42a59845dd418ba6fdb",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/portrait-skill-common.png": {
+      "sha256": "93c620a6bf677437ccaea5f489c935139f82a81fb6eacf5ecd220cff47257d5b",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-uncommon.png": {
+      "sha256": "a860aa44dd5956410e2e936efddb73d05e6f93b0ce1cd2ab67a47cfea2a48c9d",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-rare.png": {
+      "sha256": "359dafaa788d9c3dcd5c0937e922a0f83486999e4a69ff9a5f32ca94bcca54ac",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-curse.png": {
+      "sha256": "9a74cf6d95439977643a77a61c4447bb547d395bc54e11bac30dac3c66d8f3b7",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-status.png": {
+      "sha256": "aa77c5c48dfa9772babd57f215b82972318aa2e11d513cb6397db3b3855c5c7c",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-event.png": {
+      "sha256": "48343bc326a2d915a149cdc40cd8991f28f66d8208e628f1fd8c29d0ed5daba6",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-skill-ancient.png": {
+      "sha256": "d159b117f8b80779100f85fe3f9f1dc437f4a352bb33d40d140899708fbe60a3",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/frame-power.png": {
+      "sha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-colorless-power.png": {
+      "sha256": "735baadd42a4fbdbd72d15bf5ffa9e59f7839d990fa4e8808ea72e67fbe5a01e",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/frame-curse-power.png": {
+      "sha256": "27e9cf6fedaca49e194b3a28f6bb7e37f928a24d8cc58669c20dca3f3dd5653d",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/portrait-power-common.png": {
+      "sha256": "76ad895941e8fed0570ffb0687a8208643a84f5391e6198ff24a4c05dbb65192",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-uncommon.png": {
+      "sha256": "75b8e8cf8eb0ecdbf9ee7e61274c35e75e792b76e93753ba2cd972e7a47f9179",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-rare.png": {
+      "sha256": "6707890afc8d5d89a809dce62bd421a298263f919118f14f2ea037b91266b7fd",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-curse.png": {
+      "sha256": "4f07b778110567f9595735c71823b21c1f73b543b47b155eea36b9f5298aaf99",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-status.png": {
+      "sha256": "05bc31cecbb92267c6068577df8824ae652682daded9ed34b3c5064a5d9cf4b0",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-event.png": {
+      "sha256": "ee80dcb8d616a64c411ad95214a303b80b4deb6af966183d03e4823068b99c2d",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/portrait-power-ancient.png": {
+      "sha256": "e3ecd25925897e4fc4cacd03250b02c296320a8b148f2c655d1c962372d95dd2",
+      "size": [
+        551,
+        420
+      ]
+    },
+    "assets/game-ui/banner-common.png": {
+      "sha256": "f100ef8258f3017adf590214eb2fb596d228673ce082ca20382b63dd63f573a5",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-common.png": {
+      "sha256": "755915e9097f9d570b2ddaba9f74b40bfe6f5fe0bd45d9471ba7fe1c68e7cc27",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-uncommon.png": {
+      "sha256": "25409e808b4967e4e601aca6967d574c6d45d462dd53aa7efbacb3530ea0d724",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-uncommon.png": {
+      "sha256": "27774f726dec0a0c9c21d40585706994841db2c458408e46fc15d952155a8e2a",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-rare.png": {
+      "sha256": "4ed608b17ae61a94102d79e2fdcb9a73cf5228df04d347c7fc18f2427712b290",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-rare.png": {
+      "sha256": "50f0b0e91560bc4bbc4ff88a05eb6a0071eff2b8be107f7cbdd5b273f984a616",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-curse.png": {
+      "sha256": "b93fa2bd7c1858a9ba5b532abaf7fbeaf81af9983b35e5d27452d0ded7056890",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-curse.png": {
+      "sha256": "5dc47c4e20c3f6f9b58d1c527615325b978fcd500e6d97525feb579215a5f5d0",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-status.png": {
+      "sha256": "82fc863a75769e80ede06f4de65bd9b8f76a8e082821e249acb957bcb52b9b57",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-status.png": {
+      "sha256": "01b003bd7ef6b36333f77776a5dfc3c64bb6f3f1b18ecd42bf5e15d44ab6535e",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-event.png": {
+      "sha256": "bba54737b5ec4bff93462452007404d3618be099820d771d986e40689060660b",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-event.png": {
+      "sha256": "e93b7d260180417d82b986cf934623e933bd6fb781ddbd5fb376b8db87a481d6",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/banner-ancient.png": {
+      "sha256": "0643115d520f862af75df7661cd88a8e90f0ff1b2b50af2af97a93659b0bfdb3",
+      "size": [
+        655,
+        170
+      ]
+    },
+    "assets/game-ui/plaque-ancient.png": {
+      "sha256": "1b70bf265c04bc414e551247e3a027723fd2c8c3b0a3025bb08b75a33407af93",
+      "size": [
+        61,
+        37
+      ]
+    },
+    "assets/game-ui/ancient-card-border.png": {
+      "sha256": "f977b238ff413e56e5cc3623066bf92c86b87371a0b21dd3687a0979d1bada9c",
+      "size": [
+        821,
+        1148
+      ]
+    },
+    "assets/game-ui/ancient-card-text-bg-attack.png": {
+      "sha256": "95abf248ff118be098cd66d046fb7a19f5cb08afa353cdd1db867e8d38a34c1b",
+      "size": [
+        693,
+        533
+      ]
+    },
+    "assets/game-ui/ancient-card-text-bg-skill.png": {
+      "sha256": "9f3c6767d74a9730379151e135d8cdb4eb3d0476d4126e51449e40dd514815e4",
+      "size": [
+        693,
+        533
+      ]
+    },
+    "assets/game-ui/ancient-card-text-bg-power.png": {
+      "sha256": "c098502bbbab55d9092f7ac3a3239b8c832d26146cd9879bf5376f5dd587850a",
+      "size": [
+        693,
+        533
+      ]
+    },
+    "assets/game-ui/ancient-portrait-mask-large.png": {
+      "sha256": "91374eea42d976b8f7131d56e69ed5f8689c8d74ac4812b1e55b1005d524055f",
+      "size": [
+        606,
+        852
+      ]
+    },
+    "assets/game-ui/card-highlight-ancient.png": {
+      "sha256": "f40dfbe4bdd8ae7c7cee935631df76e1bb395292d308f0a0c25282786edb5d41",
+      "size": [
+        619,
+        866
+      ]
+    },
+    "assets/game-ui/ancient-banner.png": {
+      "sha256": "0bec423de948678df19f44c9f5c650c01520137e8fbecf19000867d76d431440",
+      "size": [
+        671,
+        182
+      ]
+    },
+    "assets/game-ui/ancient-flame-0.png": {
+      "sha256": "d268416f5031da3fb6b46263a9c88eec9181552bdf94cf22e9c1fa9c82fd15e9",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-1.png": {
+      "sha256": "c3414a15fbcf297a0d8a5471a6147280bd1c7e7a36233b7898f6e46d7a1a2388",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-2.png": {
+      "sha256": "6a79e01890a6661b5704ad40a85f109aee6ed0e504e2df876372ad319925fe57",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-3.png": {
+      "sha256": "427ea8316eb475f565e49b30bd100d3442f7dc26a22263e4729170374bf786e6",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-4.png": {
+      "sha256": "de596350b52f406643249b1c917aac639987d8533c9be9c951a5e190065d2a19",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-5.png": {
+      "sha256": "a632cbad5e227c0c138be7b9f09bf6f853b82b4de91cf54571b9ae303cbfbf6d",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-6.png": {
+      "sha256": "eef6102b8b90755d2a7cb7f8ad327af346c265871623231bb2092b981b01f9e2",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-7.png": {
+      "sha256": "70352e02e7f67c89980c8ed5652adbd33acf209b829ac71b477beebbc5a46254",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-8.png": {
+      "sha256": "bee6443976247e4d7635ff9306a713e8aa661f3ed4b5b99fee1b029cb88ecd89",
+      "size": [
+        49,
+        68
+      ]
+    },
+    "assets/game-ui/ancient-flame-9.png": {
+      "sha256": "900fd226b77227a225099d70e8f31ac28000add090f9ad5c70999a5673f3e766",
+      "size": [
+        49,
+        69
+      ]
+    },
+    "assets/game-ui/energy-karen.png": {
+      "sha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115",
+      "size": [
+        1109,
+        1109
+      ]
+    },
+    "assets/game-ui/energy-colorless.png": {
+      "sha256": "53d91a85046f86d202404f2c5e5aa4465f58574d48642f979723af95bdc3ab43",
+      "size": [
+        74,
+        74
+      ]
+    },
+    "assets/game-ui/pool-other.png": {
+      "sha256": "b409ed03edb1671f9ea84f35cd9c03704c312e1c53316d195067fcc41c27297a",
+      "size": [
+        74,
+        74
+      ]
+    },
+    "assets/game-ui/pool-ancient.png": {
+      "sha256": "9de1776a181361c382d45306039a16959bf282d25d61dd83029441591050bb6c",
+      "size": [
+        88,
+        88
+      ]
+    },
+    "assets/game-ui/energy-inline.png": {
+      "sha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "assets/game-ui/health-icon.png": {
+      "sha256": "d9f667ed3fe8ffe07dbe4617edf19a63b9e3027b9b4df8f4ebab43615b70c770",
+      "size": [
+        100,
+        80
+      ]
+    },
+    "assets/game-ui/hover-tip.png": {
+      "sha256": "12751c1a78bd3af040d802c89ccca1c97caabc91f2d54f25bcabed15cefdfacd",
+      "size": [
+        320,
+        96
+      ]
+    },
+    "assets/game-ui/top-bar.png": {
+      "sha256": "e242d978c0c488981e5121ea4eab62ac6234848c67ac9e41a8f20d437902d769",
+      "size": [
+        2046,
+        80
+      ]
+    },
+    "assets/game-ui/type-sort-attack.png": {
+      "sha256": "12cbdeaaaeb313be9b82dde2b53a82e59f9ecc996ee5e0bb492d084125ace893",
+      "size": [
+        54,
+        64
+      ]
+    },
+    "assets/game-ui/type-sort-skill.png": {
+      "sha256": "c3a1950ea2a77e0b1dee7eca1eba02edae28d44a9f6256643824512cb3449d92",
+      "size": [
+        54,
+        64
+      ]
+    },
+    "assets/game-ui/type-sort-power.png": {
+      "sha256": "cf279a3734ac37da391a783c3cbd2d4306ba0637045fea2f18ee2248b32e8b89",
+      "size": [
+        54,
+        64
+      ]
+    },
+    "assets/game-ui/type-sort-other.png": {
+      "sha256": "9cad08e830b45bf3d466107a1614e77a02c60b73be9098bbb6936bd54df49560",
+      "size": [
+        54,
+        64
+      ]
+    },
+    "assets/game-ui/type-sort-outline2.png": {
+      "sha256": "4a590e986ce8bcc7068d61b4adcfae2e220b0d4557aa0ae5ac3234cd0f7e06d1",
+      "size": [
+        54,
+        64
+      ]
+    },
+    "assets/game-ui/cost-tickbox.png": {
+      "sha256": "4ed2dd900d811a039420d0e574e5bc4e90f8e23e0125575934f6645559cc6d4b",
+      "size": [
+        72,
+        72
+      ]
+    },
+    "assets/game-ui/cost-tickbox-outline.png": {
+      "sha256": "97b6c3075651bc16f22d02bd2636712edce7647dcfd1c4abffe8ce64e0643bfb",
+      "size": [
+        72,
+        72
+      ]
+    },
+    "assets/game-ui/submenu-card-library.png": {
+      "sha256": "29dfc60841b94b5a78c96ca2923a81f6c58d49fb45821c96d9c5cc0900f91e3d",
+      "size": [
+        380,
+        288
+      ]
+    },
+    "assets/game-ui/submenu-relic-collection.png": {
+      "sha256": "698293f6762cc5b3a67e5cf91cd062d20adcd5f1418ac5c834c1b31f0f5050dc",
+      "size": [
+        380,
+        288
+      ]
+    },
+    "assets/game-ui/submenu-potion-lab.png": {
+      "sha256": "9e254b5579c5d0b820ef2a58d96c63cfd9ea8cd6910d279c770163df8ca18dca",
+      "size": [
+        380,
+        288
+      ]
+    },
+    "assets/game-ui/submenu-unknown.png": {
+      "sha256": "07482a262e25fde9a4cc6a8ca156cbee51494b70f768e88b5651280bf1c45aee",
+      "size": [
+        380,
+        288
+      ]
+    },
+    "assets/game-ui/submenu-standard.png": {
+      "sha256": "edbe18a68d58e76629352809ab13d142d6ec93fbb605fdc929974a5ddd7bc9f4",
+      "size": [
+        380,
+        288
+      ]
+    },
+    "assets/game-ui/card-icon.png": {
+      "sha256": "f4bf86c68f6353892e94b38c66bd5329547e9c2bb19b8ed284e50fc8de63485d",
+      "size": [
+        24,
+        24
+      ]
+    },
+    "assets/game-ui/gold-icon.png": {
+      "sha256": "51281b13302de29ecc728cccb1174460b698f37cb5d92bf6c221cb38148f485b",
+      "size": [
+        24,
+        24
+      ]
+    },
+    "assets/game-ui/potion-icon.png": {
+      "sha256": "b7f1f58e58b812abaffb7ecb87f2c4342c1617c0a4ba4d521a8f5615a66518b0",
+      "size": [
+        24,
+        24
+      ]
+    },
+    "assets/game-ui/inspect-panel.png": {
+      "sha256": "960d371188474b93d3f379bd060a2d43bd1c2b983b3c2631f965a3ef270b0791",
+      "size": [
+        1128,
+        1436
+      ]
+    },
+    "assets/game-ui/inspect-frame-bg.png": {
+      "sha256": "af4bd5aa3db9474a378bff2fb2b2ba39c8b8ddcb649d9d4efd9c402866a6bf45",
+      "size": [
+        1128,
+        1436
+      ]
+    },
+    "assets/game-ui/inspect-frame-starter.png": {
+      "sha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-common.png": {
+      "sha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-uncommon.png": {
+      "sha256": "0abfbe20cc2f226292cb5b23da0d0018d7706cb80079ef82f215379ff8730987",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-rare.png": {
+      "sha256": "03019c5328a78bcc1040ceb670649edcb8255d506fce5199a090f9def9e548c6",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-shop.png": {
+      "sha256": "1c76da4d378b67ae4e3f9307c44fd59dd948e62fcd186453eb5177e87458dd20",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-event.png": {
+      "sha256": "f98b287e6f024217381599743d1d76a32a40dd6284acec9a007aeaece55cfc6d",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-frame-ancient.png": {
+      "sha256": "d712cd9352d16fe9a1c505dff61a0ff2472c1cb97229bbc5ad31163f254e497e",
+      "size": [
+        408,
+        408
+      ]
+    },
+    "assets/game-ui/inspect-arrow-left.png": {
+      "sha256": "ba971774a8fde0eae07a346d6886aa8d68976891ee75ea797466065942d44e44",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "assets/game-ui/inspect-arrow-right.png": {
+      "sha256": "19bb47a5b73a3f2ea630db769b3d272b1aa73e564a907531633145a8dc52879c",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "assets/game-ui/karen_baseball_cat_relic-collection-outline.png": {
+      "sha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_cookie_relic-collection-outline.png": {
+      "sha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_little_star_relic-collection-outline.png": {
+      "sha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_mr_white_relic-collection-outline.png": {
+      "sha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_star_hairclip_relic-collection-outline.png": {
+      "sha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_star_tiara_relic-collection-outline.png": {
+      "sha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_water_bottle_relic-collection-outline.png": {
+      "sha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen_awake_potion-collection-outline.png": {
+      "sha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/karen_shine_potion-collection-outline.png": {
+      "sha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/karen_tea_potion-collection-outline.png": {
+      "sha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/karen-frame-attack.png": {
+      "sha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/karen-frame-skill.png": {
+      "sha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/karen-frame-power.png": {
+      "sha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/karen-energy.png": {
+      "sha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115",
+      "size": [
+        1109,
+        1109
+      ]
+    },
+    "assets/game-ui/karen-inline-energy.png": {
+      "sha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "assets/game-ui/karen-karen_baseball_cat_relic-outline.png": {
+      "sha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_cookie_relic-outline.png": {
+      "sha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_little_star_relic-outline.png": {
+      "sha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_mr_white_relic-outline.png": {
+      "sha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_star_hairclip_relic-outline.png": {
+      "sha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_star_tiara_relic-outline.png": {
+      "sha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_water_bottle_relic-outline.png": {
+      "sha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/karen-karen_awake_potion-outline.png": {
+      "sha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/karen-karen_shine_potion-outline.png": {
+      "sha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/karen-karen_tea_potion-outline.png": {
+      "sha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6",
+      "size": [
+        80,
+        80
+      ]
+    },
+    "assets/game-ui/game-regular.woff2": {
+      "sha256": "6498ada4da4def3f004a2d1d9540d8dbba1fe13a115f1e642c2b348be19bb6e4",
+      "bytes": 261416
+    },
+    "assets/game-ui/game-bold.woff2": {
+      "sha256": "08d3d3ec37dc2714a5bd136da2c8e6edb080348a0f5ba91a5f1fbd7556b3b129",
+      "bytes": 30636
+    },
+    "assets/game-ui/game-medium.woff2": {
+      "sha256": "e2570ed5c52343c50231bfded830975820574a3aaf3898a814fc49448a3b0b1a",
+      "bytes": 18632
+    },
+    "assets/game-ui/kreon-regular.ttf": {
+      "sha256": "8974f79cb50e543aa96d115356752b5ad81bdf1e23aa43dbe7fe6a07551cc53f",
+      "bytes": 48324
+    },
+    "assets/game-ui/kreon-bold.ttf": {
+      "sha256": "3c37ceea51cc36b9a955a040a8261c827f364b0b443e5ebddf7d84300cb01fc2",
+      "bytes": 56588
+    }
+  },
+  "localization": {
+    "card_library": {
+      "CARD_COUNT": "{Amount}张牌",
+      "COST_ONE_TIP": "筛选[blue]1[/blue]费牌。",
+      "COST_THREE_TIP": "筛选[blue]3+[/blue]费牌。",
+      "COST_TWO_TIP": "筛选[blue]2[/blue]费牌。",
+      "COST_X_TIP": "筛选[blue]X[/blue]费牌。",
+      "COST_ZERO_TIP": "筛选[blue]0[/blue]费牌和[gold]不能被打出[/gold]的牌。",
+      "LOCKED.description": "？？？",
+      "LOCKED.title": "锁定",
+      "NO_RESULTS": "没有找到牌",
+      "POOL_ANCIENT_TIP": "[gold]先古之民[/gold]给予的牌。",
+      "POOL_COLORLESS_TIP": "无色牌。",
+      "POOL_MISC_TIP": "状态、[purple]诅咒[/purple]、[green]事件[/green]、[orange]任务[/orange]和衍生牌。",
+      "RARITY_COMMON": "普通",
+      "RARITY_COMMON_TIP": "筛选普通牌。",
+      "RARITY_OTHER": "其他",
+      "RARITY_OTHER_TIP": "筛选所有其他稀有度的牌。",
+      "RARITY_RARE": "稀有",
+      "RARITY_RARE_TIP": "筛选[gold]稀有[/gold]牌。",
+      "RARITY_UNCOMMON": "罕见",
+      "RARITY_UNCOMMON_TIP": "筛选[blue]罕见[/blue]牌。",
+      "SEARCH_PLACEHOLDER": "搜索",
+      "TYPE_ATTACK_TIP": "筛选[gold]攻击[/gold]牌。",
+      "TYPE_OTHER_TIP": "筛选[gold]状态[/gold]、[purple]诅咒[/purple]以及[orange]任务[/orange]牌。",
+      "TYPE_POWER_TIP": "筛选[gold]能力[/gold]牌。",
+      "TYPE_SKILL_TIP": "筛选[gold]技能[/gold]牌。",
+      "UNKNOWN.description": "？？？",
+      "UNKNOWN.title": "未知",
+      "VICTORIES": "[gold]胜场：[/gold]{Victories}局",
+      "VIEW_MULTIPLAYER_CARDS": "多人模式卡牌",
+      "VIEW_STATS": "查看数据",
+      "VIEW_UPGRADES": "查看升级"
+    },
+    "static_hover_tips": {
+      "BLOCK.description": "在下个回合前，阻挡伤害。",
+      "BLOCK.title": "格挡",
+      "BOSS.description": "在这个阶段的终点，你将和[gold]{BossName}[/gold]战斗。",
+      "BOSS.title": "{BossName}",
+      "CARD_REWARD.description": "[blue]3[/blue]张随机牌的卡牌包，你可以从中选择[blue]1[/blue]张加入你的[gold]牌组[/gold]。",
+      "CARD_REWARD.title": "卡牌奖励",
+      "CHANNELING.description": "生成充能球会将其放入你的第一个空着的充能球栏位。如果栏位已满，则你的第一个充能球将会被自动[gold]激发[/gold]，腾出栏位。",
+      "CHANNELING.title": "生成",
+      "COMPENDIUM.description": "查看你在高塔中遇到过的所有卡牌、药水和遗物。",
+      "COMPENDIUM.title": "百科大全",
+      "COOK.description": "在[gold]休息处[/gold]从你的[gold]牌组[/gold]中[gold]移除[/gold][blue]2[/blue]张牌并获得[green]9[/green]点最大生命。",
+      "COOK.title": "烹饪",
+      "DECK.description": "查看你牌组中的所有卡牌。",
+      "DECK.title": "牌组（B）",
+      "DISCARD_PILE.description": "如果你的抽牌堆为空，则弃牌堆会被洗入抽牌堆。\n\n点击查看你弃牌堆中的卡牌。",
+      "DISCARD_PILE.title": "弃牌堆（S）",
+      "DOUBLE_BOSS.description": "在这个阶段的终点，将会和[gold]{BossName1}[/gold]与[gold]{BossName2}[/gold]战斗。",
+      "DOUBLE_BOSS.title": "{BossName1} & {BossName2}",
+      "DRAW_PILE.description": "在每回合开始时，\n你会从这里抽取[blue]5[/blue]张卡牌。\n\n点击这里查看你抽牌堆中的卡牌（顺序打乱）。",
+      "DRAW_PILE.title": "抽牌堆（D）",
+      "END_TURN.description": "按下这个按钮将会结束你的回合。\n\n你会丢弃你的手牌、然后敌人进行他们的回合，接着你会再次抽取[blue]5[/blue]张牌、开始你的下一个回合。",
+      "END_TURN.title": "结束回合（E）",
+      "ENERGY.description": "能量用于打出你[gold]手牌[/gold]中的卡牌。",
+      "ENERGY.title": "能量",
+      "ENERGY_COUNT.description": "你当前的能量（{energyPrefix:energyIcons(1)}）数。卡牌需要{energyPrefix:energyIcons(1)}才能打出，耗能显示在牌的左上角。",
+      "ENERGY_COUNT.title": "能量",
+      "EVOKE.description": "消耗你最右侧的充能球并使用其激发效果。",
+      "EVOKE.title": "激发",
+      "EXHAUST_PILE.description": "点击查看在本场战斗中被消耗的卡牌。",
+      "EXHAUST_PILE.title": "消耗牌堆（X）",
+      "FATAL.description": "当这张牌杀死一名非爪牙敌人时触发。",
+      "FATAL.title": "斩杀",
+      "FLOOR.description": "你攀爬了多高。",
+      "FLOOR.title": "楼层",
+      "FORGE.description": "每场战斗你第一次[gold]铸造[/gold]时，将[gold]君王之剑[/gold]加入你的[gold]手牌[/gold]。为[gold]君王之剑[/gold]增加额外伤害。",
+      "FORGE.title": "铸造",
+      "HIT_POINTS.description": "当你耗尽生命时，你就会死亡。",
+      "HIT_POINTS.title": "生命值（HP）",
+      "LINKED_REWARDS.description": "同组重你只能选择[blue]1[/blue]项奖励。",
+      "LINKED_REWARDS.title": "相连奖励",
+      "MAP.description": "检视当前阶段的地图。",
+      "MAP.title": "地图（M）",
+      "MONEY_POUCH.description": "你所拥有的金币数。它是高塔中的货币。",
+      "MONEY_POUCH.title": "金币",
+      "NETWORK_PROBLEM_CLIENT.description": "你和房主（[gold]{Player}[/gold]）的连接状态不佳。\n可能是你或对方的网络存在问题。",
+      "NETWORK_PROBLEM_CLIENT.title": "连接不佳！",
+      "NETWORK_PROBLEM_HOST.description": "你和[gold]{Player}[/gold]的连接状态不佳。\n可能是你或对方的网络存在问题。",
+      "NETWORK_PROBLEM_HOST.title": "连接不佳！",
+      "POTION_SLOT.description": "在战斗中使用药水可以获得[green]强化[/green]或[red]阻碍[/red]敌人。",
+      "POTION_SLOT.title": "药水栏位",
+      "REPLAY.extraText": "[gold]重放[/gold]{Times}。",
+      "REPLAY_DYNAMIC.description": "将这张牌额外打出[blue]{Times}[/blue]次。",
+      "REPLAY_DYNAMIC.title": "重放",
+      "REPLAY_STATIC.description": "将这张牌额外打出一次。",
+      "REPLAY_STATIC.title": "重放",
+      "ROOM_ANCIENT.description": "先古之民居住在这些房间中。\n\n他们会赐予你惊人的奖励、财宝与知识。",
+      "ROOM_ANCIENT.title": "先古之民",
+      "ROOM_BOSS.description": "整个地区最强大的敌人。\n\n将其击败就可以进入下一阶段。",
+      "ROOM_BOSS.title": "Boss",
+      "ROOM_ELITE.description": "这些房间中有强大的敌人。\n\n击败他们将会获得[gold]遗物[/gold]奖励。",
+      "ROOM_ELITE.title": "精英",
+      "ROOM_ENEMY.description": "这些房间里有好战的敌人们。",
+      "ROOM_ENEMY.title": "敌人",
+      "ROOM_EVENT.description": "这些房间里会发生不同寻常的事情……",
+      "ROOM_EVENT.title": "事件",
+      "ROOM_MAP.description": "你可以在这里规划你的下一步。",
+      "ROOM_MAP.title": "前厅",
+      "ROOM_MERCHANT.description": "神秘的商人会在这些房间中出售他的货物。\n\n辛苦赚到的[gold]金币[/gold]就用在这里吧！",
+      "ROOM_MERCHANT.title": "商店",
+      "ROOM_REST.description": "在这些房间可以[green]回复[/green]一些生命或是[gold]升级[/gold]一张卡牌。",
+      "ROOM_REST.title": "休息处",
+      "ROOM_TREASURE.description": "这些房间中有着众人觊觎的[gold]遗物[/gold]与[gold]金币[/gold]。",
+      "ROOM_TREASURE.title": "宝箱房",
+      "ROOM_UNKNOWN_ELITE.description": "之前未知的房间，里面有强大的敌人。",
+      "ROOM_UNKNOWN_ELITE.title": "未知 - 精英",
+      "ROOM_UNKNOWN_ENEMY.description": "之前未知的房间，里面有好战的敌人。",
+      "ROOM_UNKNOWN_ENEMY.title": "未知 - 敌人",
+      "ROOM_UNKNOWN_EVENT.description": "之前未知的房间，里面有个事件。\n\n这些房间里会发生不同寻常的事情……",
+      "ROOM_UNKNOWN_EVENT.title": "未知 - 事件",
+      "ROOM_UNKNOWN_MERCHANT.description": "之前未知的房间，里面有神秘的商人。\n\n辛苦赚来的[gold]金币[/gold]就花在这里吧！",
+      "ROOM_UNKNOWN_MERCHANT.title": "未知 - 商人",
+      "ROOM_UNKNOWN_TREASURE.description": "之前未知的房间，里面有众人觊觎的财宝。",
+      "ROOM_UNKNOWN_TREASURE.title": "未知 - 财宝",
+      "SETTINGS.description": "打开游戏菜单。\n\n可以在这里调整或更新你的视频、声音、和游玩方面的偏好。",
+      "SETTINGS.title": "设置（ESC）",
+      "STAR_COUNT.description": "你当前的辉星（{singleStarIcon}）数。储君的部分卡牌可能会需要{singleStarIcon}才能打出。",
+      "STAR_COUNT.title": "辉星",
+      "STUN.description": "这个敌人在其下一回合无法行动。",
+      "STUN.title": "击晕",
+      "SUMMON_DYNAMIC.description": "以[blue]{Summon}[/blue]生命值召唤[gold]奥斯提[/gold]。\n如果已经召唤，则在本场战斗中将其最大生命值提升[blue]{Summon}[/blue]点。",
+      "SUMMON_DYNAMIC.title": "召唤{Summon}",
+      "SUMMON_STATIC.description": "召唤[gold]奥斯提[/gold]。\n如果已经召唤，则在本场战斗提升其最大生命值。",
+      "SUMMON_STATIC.title": "召唤",
+      "TRANSFORM.description": "卡牌被变化时会变成任意稀有度的随机牌。",
+      "TRANSFORM.title": "变化",
+      "TURN_NUMBER.description": "这场战斗的回合数。"
+    },
+    "card_keywords": {
+      "ETERNAL.description": "无法从你的[gold]牌组[/gold]中移除或变化。",
+      "ETERNAL.title": "永恒",
+      "ETHEREAL.description": "如果这张牌在这个回合结束时留在你的[gold]手牌[/gold]中，则将其[gold]消耗[/gold]。",
+      "ETHEREAL.title": "虚无",
+      "EXHAUST.description": "在战斗结束前移除。",
+      "EXHAUST.title": "消耗",
+      "INNATE.description": "每场战斗开始时这张牌会出现在你的[gold]手牌[/gold]。",
+      "INNATE.title": "固有",
+      "PERIOD": "。",
+      "RETAIN.description": "保留的牌不会在回合结束时被弃掉。",
+      "RETAIN.title": "保留",
+      "SLY.description": "如果这张牌在你的回合结束前从你的[gold]手牌[/gold]中被丢弃，则免费将其打出。",
+      "SLY.title": "奇巧",
+      "UNPLAYABLE.description": "不能被打出的牌无法被打出。",
+      "UNPLAYABLE.title": "不能被打出"
+    },
+    "gameplay_ui": {
+      "ACHIEVEMENTS_LOCKED": "[red]本局游戏无法解锁成就与历史节点。[/red]",
+      "ACT_NUMBER": "阶段{actNumber}",
+      "ASCENSION_LEVEL": "进阶{ascension}",
+      "BATTLE_START": "战斗开始",
+      "CARD_RARITY.ANCIENT": "先古",
+      "CARD_RARITY.BASIC": "基础",
+      "CARD_RARITY.COMMON": "普通",
+      "CARD_RARITY.CURSE": "诅咒",
+      "CARD_RARITY.EVENT": "事件",
+      "CARD_RARITY.QUEST": "任务",
+      "CARD_RARITY.RARE": "稀有",
+      "CARD_RARITY.STATUS": "状态",
+      "CARD_RARITY.TOKEN": "衍生",
+      "CARD_RARITY.UNCOMMON": "罕见",
+      "CARD_TYPE.ATTACK": "攻击",
+      "CARD_TYPE.CURSE": "诅咒",
+      "CARD_TYPE.POWER": "能力",
+      "CARD_TYPE.QUEST": "任务",
+      "CARD_TYPE.SKILL": "技能",
+      "CARD_TYPE.STATUS": "状态",
+      "CHOOSE_A_PACK": "选择一组",
+      "CHOOSE_CARD_HEADER": "选择一张牌",
+      "CHOOSE_CARD_SKIP_BUTTON": "跳过",
+      "CHOOSE_CARD_UPGRADE_HEADER": "确认要升级的牌",
+      "CHOOSE_RELIC_HEADER": "选择一件遗物",
+      "CHOOSE_SHARED_RELIC_HEADER": "选择你想要的遗物！",
+      "COMBAT_REWARD_ADD_CARD": "将一张牌添加到你的牌组。",
+      "COMBAT_REWARD_ADD_SPECIAL_CARD": "将{Card}加入你的牌组。",
+      "COMBAT_REWARD_CARD_REMOVAL": "从你的牌组中移除一张牌。",
+      "COMBAT_REWARD_CARD_REMOVAL.selectionScreenPrompt": "选择一张牌从你的牌组中移除。",
+      "COMBAT_REWARD_GOLD": "{gold}金币",
+      "COMBAT_REWARD_GOLD_STOLEN": "{gold}金币（偷回）",
+      "COMBAT_REWARD_HEADER_LOOT": "搜刮！",
+      "COMBAT_REWARD_HEADER_MUGGED": "被抢了……",
+      "COMBAT_REWARD_LINKED": "相连",
+      "CONFIRM_LOAD_SAVE.body": "原本在游戏中的{MissingCount}名玩家没有重新加入。是否就这样开始？",
+      "CONFIRM_LOAD_SAVE.cancel": "否",
+      "CONFIRM_LOAD_SAVE.confirm": "是",
+      "CONFIRM_LOAD_SAVE.header": "人没到齐！",
+      "DECK_PILE_INFO": "你在战斗中将会使用这里的所有卡牌。",
+      "DISCARD_PILE": "弃牌堆",
+      "DISCARD_PILE_INFO": "当抽牌堆耗尽时，这里的牌会被洗入抽牌堆。",
+      "DRAW_PILE": "抽牌堆",
+      "DRAW_PILE_INFO": "每回合开始时会从这里抽牌。\n[gold]（点击查看时卡牌会以稀有度排序）[/gold]",
+      "END_TURN_BUTTON": "结束第{turnNumber}回合",
+      "ENEMY_TURN": "敌方回合",
+      "EXHAUST_PILE_INFO": "这些是在这场战斗中被消耗的卡牌。",
+      "FORMAT_CARD_MOD_TITLE": "{modTitle}{displayCount:cond: {modAmount}|}",
+      "GAME_SAVED": "[sine]游戏已保存[/sine]",
+      "HEALTH_BAR.DEAD": "死亡",
+      "MULTIPLAYER_EXPANDED_STATE.cardHeader": "[gold]牌组[/gold]",
+      "MULTIPLAYER_EXPANDED_STATE.potionHeader": "[gold]药水[/gold]",
+      "MULTIPLAYER_EXPANDED_STATE.relicHeader": "[gold]遗物[/gold]",
+      "MULTIPLAYER_EXPANDED_STATE.title": "[center][blue]{PlayerName}[/blue] [gold]{Character}[/gold][/center]",
+      "MULTIPLAYER_WAITING": "等待其他玩家……",
+      "PAUSE_MENU.COMPENDIUM": "百科大全",
+      "PAUSE_MENU.DISCONNECT": "断开连接",
+      "PAUSE_MENU.GIVE_UP": "放弃",
+      "PAUSE_MENU.PAUSED": "已暂停",
+      "PAUSE_MENU.RESUME": "继续",
+      "PAUSE_MENU.SAVE_AND_QUIT": "保存并退出",
+      "PAUSE_MENU.SETTINGS": "设置",
+      "PING_BUTTON": "Ping",
+      "PLAYER_TURN": "玩家回合",
+      "PLAYER_TURN_EXTRA": "额外回合",
+      "POTION_POPUP.discard": "丢弃",
+      "POTION_POPUP.drink": "饮用",
+      "POTION_POPUP.throw": "扔出",
+      "POTION_RARITY.COMMON": "普通",
+      "POTION_RARITY.EVENT": "事件",
+      "POTION_RARITY.RARE": "稀有",
+      "POTION_RARITY.TOKEN": "衍生",
+      "POTION_RARITY.UNCOMMON": "罕见",
+      "PROCEED_BUTTON": "前进",
+      "QUIT_AND_JOIN_CONFIRMATION.body": "你是否想要加入[b]{host}[/b]组织的多人游戏？\n\n你当前的游戏进度将会被保存。",
+      "QUIT_AND_JOIN_CONFIRMATION.cancel": "否",
+      "QUIT_AND_JOIN_CONFIRMATION.confirm": "是",
+      "QUIT_AND_JOIN_CONFIRMATION.header": "正在加入多人游戏",
+      "RELIC_IS_MELTED": "[red]这个遗物已经融化。[/red]\n{description}",
+      "RELIC_RARITY.ANCIENT": "先古遗物",
+      "RELIC_RARITY.COMMON": "普通遗物",
+      "RELIC_RARITY.EVENT": "事件遗物",
+      "RELIC_RARITY.NONE": "遗物",
+      "RELIC_RARITY.RARE": "稀有遗物",
+      "RELIC_RARITY.SHOP": "商店遗物",
+      "RELIC_RARITY.STARTER": "初始遗物",
+      "RELIC_RARITY.UNCOMMON": "罕见遗物",
+      "RELIC_USED_UP": "[red]这件遗物已经用完。[/red]\n{description}",
+      "SHOW_UPGRADE": "显示升级",
+      "SKIP_MERCHANT_BUTTON": "跳过商人",
+      "SKIP_REWARDS_BUTTON": "跳过奖励",
+      "SORT_ALPHABET": "拼音顺序",
+      "SORT_COST": "费用",
+      "SORT_OBTAINED": "获得顺序",
+      "SORT_RARITY": "稀有度",
+      "SORT_TYPE": "类型",
+      "TO_INSPECT_PROMPT": "察看",
+      "TREASURE_BANNER": "里面有什么？",
+      "TREASURE_EMPTY": "空的",
+      "TREASURE_FIGHT_TEXT": "开抢！！！",
+      "TURN_COUNT": "第{turnNumber}回合",
+      "UNDO_END_TURN_BUTTON": "取消",
+      "VIEW_UPGRADES": "查看升级"
+    },
+    "powers": {
+      "STRENGTH_POWER.description": "力量会增加攻击牌造成的伤害。",
+      "STRENGTH_POWER.smartDescription": "{Amount:cond:<0?减少|增加}攻击牌造成的伤害值[blue]{Amount:abs()}[/blue]点。",
+      "STRENGTH_POWER.title": "力量",
+      "VULNERABLE_POWER.description": "易伤的生物从攻击中受到的伤害增加[blue]50%[/blue]。",
+      "VULNERABLE_POWER.smartDescription": "[blue]{Amount}[/blue]回合内，受到的攻击伤害增加[blue]{DamageIncrease:percentMore()}%[/blue]。",
+      "VULNERABLE_POWER.title": "易伤",
+      "WEAK_POWER.description": "虚弱的生物造成的攻击伤害减少[blue]25%[/blue]。",
+      "WEAK_POWER.smartDescription": "[blue]{Amount}[/blue]回合内，造成的攻击伤害减少[blue]25%[/blue]。",
+      "WEAK_POWER.title": "虚弱"
+    },
+    "potions": {
+      "FLEX_POTION.description": "获得[blue]5[/blue]点[gold]力量[/gold]。在你的这个回合结束时，失去[blue]5[/blue]点[gold]力量[/gold]。",
+      "FLEX_POTION.title": "肌肉药水"
+    },
+    "relic_collection": {
+      "ANCIENT": "[gold][font_size=28][b]先古：[/b][/font_size][/gold]先古之民赐予的遗物。",
+      "ANCIENT_SUBCATEGORY": "[blue][font_size=28][b]{Ancient}：[/b][/font_size][/blue]",
+      "COMMON": "[gold][font_size=28][b]普通：[/b][/font_size][/gold]随处可见的弱小遗物。",
+      "EVENT": "[gold][font_size=28][b]事件：[/b][/font_size][/gold]只能通过事件获得的遗物。",
+      "RARE": "[gold][font_size=28][b]稀有：[/b][/font_size][/gold]独特而强大的遗物，十分少见。",
+      "SHOP": "[gold][font_size=28][b]商店：[/b][/font_size][/gold]只能从商人处购买得到的遗物。",
+      "STARTER": "[gold][font_size=28][b]初始：[/b][/font_size][/gold]角色们开始游戏时自身携带的遗物。",
+      "UNCOMMON": "[gold][font_size=28][b]罕见：[/b][/font_size][/gold]比常见遗物要罕见一些的较为强大的遗物。",
+      "UNKNOWN_ANCIENT": "？？？"
+    },
+    "potion_lab": {
+      "COMMON": "[gold][font_size=28][b]普通：[/b][/font_size][/gold]高塔中最常见的药水。",
+      "RARE": "[gold][font_size=28][b]稀有：[/b][/font_size][/gold]独特而强大的药水，极少出现。",
+      "SPECIAL": "[gold][font_size=28][b]特殊：[/b][/font_size][/gold]通过事件或其他方式获得的药水。",
+      "UNCOMMON": "[gold][font_size=28][b]罕见：[/b][/font_size][/gold]更强力的药水，比普通药水出现得要少。"
+    },
+    "inspect_relic_screen": {
+      "LOCKED_DESCRIPTION": "这个遗物需要在时间线中解锁才会在未来的游戏中出现。",
+      "LOCKED_TITLE": "锁定",
+      "UNDISCOVERED_DESCRIPTION": "这个遗物你还没有见到过……",
+      "UNDISCOVERED_TITLE": "未知"
+    }
+  },
+  "artifactUi": {
+    "relics": {
+      "KAREN_BASEBALL_CAT_RELIC": {
+        "outline": "assets/game-ui/karen_baseball_cat_relic-collection-outline.png"
+      },
+      "KAREN_COOKIE_RELIC": {
+        "outline": "assets/game-ui/karen_cookie_relic-collection-outline.png"
+      },
+      "KAREN_LITTLE_STAR_RELIC": {
+        "outline": "assets/game-ui/karen_little_star_relic-collection-outline.png"
+      },
+      "KAREN_MR_WHITE_RELIC": {
+        "outline": "assets/game-ui/karen_mr_white_relic-collection-outline.png"
+      },
+      "KAREN_STAR_HAIRCLIP_RELIC": {
+        "outline": "assets/game-ui/karen_star_hairclip_relic-collection-outline.png"
+      },
+      "KAREN_STAR_TIARA_RELIC": {
+        "outline": "assets/game-ui/karen_star_tiara_relic-collection-outline.png"
+      },
+      "KAREN_WATER_BOTTLE_RELIC": {
+        "outline": "assets/game-ui/karen_water_bottle_relic-collection-outline.png"
+      }
+    },
+    "potions": {
+      "KAREN_AWAKE_POTION": {
+        "outline": "assets/game-ui/karen_awake_potion-collection-outline.png"
+      },
+      "KAREN_SHINE_POTION": {
+        "outline": "assets/game-ui/karen_shine_potion-collection-outline.png"
+      },
+      "KAREN_TEA_POTION": {
+        "outline": "assets/game-ui/karen_tea_potion-collection-outline.png"
+      }
+    }
+  },
+  "inspectMaterials": {
+    "starter": [
+      0.95,
+      0.25,
+      0.9
+    ],
+    "common": [
+      0.95,
+      0.25,
+      0.9
+    ],
+    "uncommon": [
+      0.426,
+      0.8,
+      1.1
+    ],
+    "rare": [
+      1,
+      0.8,
+      1.15
+    ],
+    "shop": [
+      0.525,
+      2.5,
+      0.85
+    ],
+    "event": [
+      0.23,
+      0.75,
+      0.9
+    ],
+    "ancient": [
+      0.875,
+      3,
+      0.9
+    ]
+  },
+  "mods": {
+    "karen": {
+      "id": "karen",
+      "framePrefix": "assets/game-ui/karen-frame-",
+      "energy": "assets/game-ui/karen-energy.png",
+      "inlineEnergy": "assets/game-ui/karen-inline-energy.png",
+      "gameplay": {
+        "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
+        "KAREN_SHINE_SUFFIX": "。",
+        "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",
+        "KAREN_PROMISE_PILE_INFO": "约定牌堆",
+        "KAREN_PROMISE_PILE_EMPTY": "约定牌堆是空的！",
+        "KAREN_PROMISE_PILE_TITLE": "约定牌堆",
+        "KAREN_PROMISE_PILE_DESCRIPTION": "约定牌堆中的卡牌会被优先抽取。",
+        "KAREN_PROMISE_PILE_SELECT_FROM_DISCARD": "选择卡牌放入约定牌堆",
+        "KAREN_PROMISE_PILE_SELECT_FROM_DRAW": "选择卡牌放入约定牌堆",
+        "KAREN_PROMISE_PILE_SELECT_FROM_HAND": "选择卡牌放入约定牌堆",
+        "KAREN_SUNLIGHT_OBTAIN_PROMPT": "是否将此牌加入抽牌堆？",
+        "KAREN_DISABLERELIC_LABEL": "（当前可禁用",
+        "KAREN_DISABLERELIC_SUFFIX": "个遗物）",
+        "KAREN_DERIVED_CARD_LABEL": "衍生牌",
+        "KAREN_SHINE_PILE_INFO": "闪耀耗尽牌堆",
+        "KAREN_DISPOSED_PILE_UNIQUE_COUNT.title": "已耗尽闪耀牌",
+        "KAREN_DISPOSED_PILE_UNIQUE_COUNT.description.part0": "本局游戏中已耗尽的不同闪耀牌：",
+        "KAREN_DISPOSED_PILE_UNIQUE_COUNT.description.part1": "张。",
+        "KAREN_RUN_HISTORY_SHINE_EXHAUST_HEADER": "[gold][b]耗尽（{Count}）：[/b][/gold]",
+        "KAREN_SHINE_PILE_BUTTON_TITLE": "闪耀牌堆",
+        "KAREN_SHINE_PILE_BUTTON_DESC": "查看已耗尽闪耀的卡牌。"
+      },
+      "shineLabel": "[gold]闪耀[/gold]",
+      "shineSuffix": "。",
+      "artifactUi": {
+        "relics": {
+          "KAREN_BASEBALL_CAT_RELIC": {
+            "outline": "assets/game-ui/karen-karen_baseball_cat_relic-outline.png"
+          },
+          "KAREN_COOKIE_RELIC": {
+            "outline": "assets/game-ui/karen-karen_cookie_relic-outline.png"
+          },
+          "KAREN_LITTLE_STAR_RELIC": {
+            "outline": "assets/game-ui/karen-karen_little_star_relic-outline.png"
+          },
+          "KAREN_MR_WHITE_RELIC": {
+            "outline": "assets/game-ui/karen-karen_mr_white_relic-outline.png"
+          },
+          "KAREN_STAR_HAIRCLIP_RELIC": {
+            "outline": "assets/game-ui/karen-karen_star_hairclip_relic-outline.png"
+          },
+          "KAREN_STAR_TIARA_RELIC": {
+            "outline": "assets/game-ui/karen-karen_star_tiara_relic-outline.png"
+          },
+          "KAREN_WATER_BOTTLE_RELIC": {
+            "outline": "assets/game-ui/karen-karen_water_bottle_relic-outline.png"
+          }
+        },
+        "potions": {
+          "KAREN_AWAKE_POTION": {
+            "outline": "assets/game-ui/karen-karen_awake_potion-outline.png"
+          },
+          "KAREN_SHINE_POTION": {
+            "outline": "assets/game-ui/karen-karen_shine_potion-outline.png"
+          },
+          "KAREN_TEA_POTION": {
+            "outline": "assets/game-ui/karen-karen_tea_potion-outline.png"
+          }
+        }
+      }
+    }
+  },
+  "modSources": {
+    "karen": {
+      "materials/cards/frames/card_frame_purple_mat.tres": {
+        "path": "materials/cards/frames/card_frame_purple_mat.tres",
+        "gitBlob": "9b8c12dffe5b90fc4de8f49b826aa66ad3ca84a6",
+        "sha256": "959a86fcc5b0b448009b9426b025484853e26b978d80ef14b2eaa33df3d1585f",
+        "bytes": 339
+      },
+      "images/atlases/ui_atlas.sprites/card/energy_karen.tres": {
+        "path": "images/atlases/ui_atlas.sprites/card/energy_karen.tres",
+        "gitBlob": "5be7a1152fee55069f7e3f4e078d2b98d1eb4650",
+        "sha256": "da8f918b566265bc7924b1358785f90238f22e66473c9b1cb58198c0f576a23f",
+        "bytes": 340
+      },
+      "images/ui/combat/energy_counters/karen/karen_energy_nonagon.png": {
+        "path": "images/ui/combat/energy_counters/karen/karen_energy_nonagon.png",
+        "gitBlob": "ca27282c6dce54d4ef944e28db4741c778eafe27",
+        "sha256": "d1b6d7c2b20fae028ed13a7a2157fb487585d14d472a2364a8a6890d70cb23f1",
+        "bytes": 1089123
+      },
+      "images/packed/sprite_fonts/karen_energy_icon.png": {
+        "path": "images/packed/sprite_fonts/karen_energy_icon.png",
+        "gitBlob": "ca27282c6dce54d4ef944e28db4741c778eafe27",
+        "sha256": "d1b6d7c2b20fae028ed13a7a2157fb487585d14d472a2364a8a6890d70cb23f1",
+        "bytes": 1089123
+      },
+      "images/relics/karen_baseball_cat_relic_outline.png": {
+        "path": "images/relics/karen_baseball_cat_relic_outline.png",
+        "gitBlob": "793c1997075b38aafd1003f3aaffa48ee21dd243",
+        "sha256": "90c5b6f232186158d71a73538a3f558dad95addaf6099108712ff11c18789023",
+        "bytes": 2297
+      },
+      "images/relics/karen_cookie_relic_outline.png": {
+        "path": "images/relics/karen_cookie_relic_outline.png",
+        "gitBlob": "26f0afd0cd0ab06e5fc422f6eee57562ca282c3d",
+        "sha256": "df2a24629b6f9242c8055b4d3ccc85ce4b5e1f4ccc9390bce7d94ff0c637e99e",
+        "bytes": 1287
+      },
+      "images/relics/karen_little_star_relic_outline.png": {
+        "path": "images/relics/karen_little_star_relic_outline.png",
+        "gitBlob": "635ac8fe1b36ba259214a336eea3563aea82aaf9",
+        "sha256": "193988fb376fb1aa9c1795d945c4d8079f7f2353ba7aab1507886059c4ae3d85",
+        "bytes": 1878
+      },
+      "images/relics/karen_mr_white_relic_outline.png": {
+        "path": "images/relics/karen_mr_white_relic_outline.png",
+        "gitBlob": "0cab394c96ad7db9faabcb7279e1ffe201ef8948",
+        "sha256": "9a75641e579adc942a7ac89b4f944c399861c8fcf0df37be0de418c60ea43623",
+        "bytes": 1670
+      },
+      "images/relics/karen_star_hairclip_relic_outline.png": {
+        "path": "images/relics/karen_star_hairclip_relic_outline.png",
+        "gitBlob": "80430c5eac1b10d8d8c74b6d633476cdc0384a71",
+        "sha256": "baa70994bf5b81add89393fda2e4ce9e87d1463193114c34814ce73a2f429ea6",
+        "bytes": 2075
+      },
+      "images/relics/karen_star_tiara_relic_outline.png": {
+        "path": "images/relics/karen_star_tiara_relic_outline.png",
+        "gitBlob": "dd68759bbe8ce00b5aaa6951a809ec2c126e33e9",
+        "sha256": "656ecdefd9598c0b23bc1d5356377d5adff5531a33b3428414aaf3b0efd7d0ca",
+        "bytes": 2524
+      },
+      "images/relics/karen_water_bottle_relic_outline.png": {
+        "path": "images/relics/karen_water_bottle_relic_outline.png",
+        "gitBlob": "fa9cd2da72bdfd24938045797bc59e38e43182b8",
+        "sha256": "6fb603d8e913999cfeec939f39ca9fae88f618cee90801991993786d333fc516",
+        "bytes": 1454
+      },
+      "images/potions/karen_awake_potion_outline.png": {
+        "path": "images/potions/karen_awake_potion_outline.png",
+        "gitBlob": "abdc6501bd20cae542783668bd666cd9475ab6ea",
+        "sha256": "c9ef2471a3c519d93fc152a5d81137f1ecca698e5742011f1e99270b3f20c813",
+        "bytes": 1496
+      },
+      "images/potions/karen_shine_potion_outline.png": {
+        "path": "images/potions/karen_shine_potion_outline.png",
+        "gitBlob": "651dccc008bd93c68534339f151501b92bf4deaf",
+        "sha256": "676a58f9af6715d8ea932bd5fb34bb496f88165ecca8e41282439825c671d091",
+        "bytes": 1596
+      },
+      "images/potions/karen_tea_potion_outline.png": {
+        "path": "images/potions/karen_tea_potion_outline.png",
+        "gitBlob": "11c6b3d4917494c8d099a746003144ab18dcc81c",
+        "sha256": "787743e1dd2ad72309bbed6a87f4346eda97a87a71496f74bb8da1a5aad1d89a",
+        "bytes": 1783
+      },
+      "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
+        "path": "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json",
+        "gitBlob": "083ef2e20769c388a35005644d77460b01adb3aa",
+        "sha256": "204588917b510331c268c3bd704dd5aac8d9c0a6b7e77eed1df85992f4ab97ad",
+        "bytes": 1306
+      }
+    }
+  },
+  "modGameplay": {
+    "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
+    "KAREN_SHINE_SUFFIX": "。",
+    "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",
+    "KAREN_PROMISE_PILE_INFO": "约定牌堆",
+    "KAREN_PROMISE_PILE_EMPTY": "约定牌堆是空的！",
+    "KAREN_PROMISE_PILE_TITLE": "约定牌堆",
+    "KAREN_PROMISE_PILE_DESCRIPTION": "约定牌堆中的卡牌会被优先抽取。",
+    "KAREN_PROMISE_PILE_SELECT_FROM_DISCARD": "选择卡牌放入约定牌堆",
+    "KAREN_PROMISE_PILE_SELECT_FROM_DRAW": "选择卡牌放入约定牌堆",
+    "KAREN_PROMISE_PILE_SELECT_FROM_HAND": "选择卡牌放入约定牌堆",
+    "KAREN_SUNLIGHT_OBTAIN_PROMPT": "是否将此牌加入抽牌堆？",
+    "KAREN_DISABLERELIC_LABEL": "（当前可禁用",
+    "KAREN_DISABLERELIC_SUFFIX": "个遗物）",
+    "KAREN_DERIVED_CARD_LABEL": "衍生牌",
+    "KAREN_SHINE_PILE_INFO": "闪耀耗尽牌堆",
+    "KAREN_DISPOSED_PILE_UNIQUE_COUNT.title": "已耗尽闪耀牌",
+    "KAREN_DISPOSED_PILE_UNIQUE_COUNT.description.part0": "本局游戏中已耗尽的不同闪耀牌：",
+    "KAREN_DISPOSED_PILE_UNIQUE_COUNT.description.part1": "张。",
+    "KAREN_RUN_HISTORY_SHINE_EXHAUST_HEADER": "[gold][b]耗尽（{Count}）：[/b][/gold]",
+    "KAREN_SHINE_PILE_BUTTON_TITLE": "闪耀牌堆",
+    "KAREN_SHINE_PILE_BUTTON_DESC": "查看已耗尽闪耀的卡牌。"
+  },
+  "cardLibrary": {
+    "baseWidth": 300.0,
+    "baseHeight": 422.0,
+    "smallScale": 0.8,
+    "cardWidth": 240.0,
+    "cardHeight": 337.6,
+    "gap": 40.0,
+    "hoverScale": 1.25,
+    "designWidth": 1920,
+    "designHeight": 1080
+  }
+}

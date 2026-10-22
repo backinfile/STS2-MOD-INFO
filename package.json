@@ -1,0 +1,13 @@
+{
+  "name": "sts2-mod-info",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent, offline-capable Slay the Spire 2 Mod archive",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "sync": "python scripts/update_site.py",
+    "validate": "python scripts/validate_catalog.py",
+    "test": "python -m unittest discover -s scripts -p test_*.py",
+    "build": "python scripts/package_site.py"
+  }
+}
