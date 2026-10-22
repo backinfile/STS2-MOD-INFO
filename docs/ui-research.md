@@ -52,7 +52,9 @@
 
 遗物和药水列表按 `relic_collection_category.tscn` / `potion_category.tscn` 的稀有度分组，图标尺寸分别为 68 / 60，网格间距为 32，组内左边距为 48。遗物 holder 的 1.25 基础缩放、聚焦时 1.25 缩放与药水聚焦 1.2 缩放均沿用源代码。使用 Mod 原始小图及 outline；按池定义分别调制紫色 / 红色，透明度 0.66。说明在悬停或键盘聚焦时出现。分组标题保留游戏原有名称，按产品约束去掉附带的解释句。
 
-遗物详情按 `inspect_relic_screen.tscn` 的 864×864 坐标布置，使用原始 reward panel、检查边框、左右箭头及原始大图；稀有度边框按 `NInspectRelicScreen.SetRarityVisuals` 的 YIQ 参数生成。可通过按钮或方向键切换。药水沿用原生 hover tip，点击后固定显示，适配触屏。关键词页独立展示 Mod `card_keywords.json` 的 8 组名称和描述。
+遗物详情按 `inspect_relic_screen.tscn` 的 864×864 坐标布置，使用原始 reward panel、检查边框、左右箭头及原始大图。背景原图为 1128×1436，`Popup/Bg.stretch_mode = 5`（KEEP_ASPECT_CENTERED），在方形坐标容器中保持比例居中显示，不拉伸成正方形；遮罩沿用 `NInspectRelicScreen.Open` 的 0.9 黑色透明度。稀有度边框按 `NInspectRelicScreen.SetRarityVisuals` 的 YIQ 参数生成。可通过按钮或方向键切换。药水沿用原生 hover tip，点击后固定显示，适配触屏。关键词页独立展示 Mod `card_keywords.json` 的 8 组名称和描述。
+
+窄屏遗物面板为可读正文保留流式高度：背景使用原图的 192px 九宫格切片，边角按原图宽度同比缩放，只延展中间纹理。这属于网页窄屏适配；游戏原场景的方形坐标与背景等比居中规则用于桌面布局。
 
 卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。当前 115 张定义中，角色池 86、CurseCardPool 2、TokenCardPool 25，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
 
