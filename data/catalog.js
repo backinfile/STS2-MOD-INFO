@@ -9,9 +9,9 @@ window.MOD_CATALOG = {
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "dc919b95c4ae7fe7a83a8ca02c44820437d88454",
-      "upstreamUpdatedAt": "2026-10-20T09:55:11Z",
-      "syncedAt": "2026-10-22T03:51:06+00:00",
+      "commit": "bf041ea57a4b06011e8c6821f43d86398c8e4d3f",
+      "upstreamUpdatedAt": "2026-10-22T15:41:48Z",
+      "syncedAt": "2026-10-22T17:18:20+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -2098,6 +2098,38 @@ window.MOD_CATALOG = {
           "isOption": false
         },
         {
+          "id": "KAREN_SHINE_PRICE",
+          "name": "双星",
+          "description": "[gold]禁用[/gold]X个遗物，然后造成5点伤害2X次。",
+          "rawDescription": "[gold]禁用[/gold]X个遗物，然后造成{Damage:diff()}点伤害{Repeat:diff()}X次。",
+          "image": "assets/karen/images/packed/card_portraits/karen/karen_shine_price.png",
+          "sourcePath": "src/Core/Models/Cards/relic/KarenShinePrice.cs",
+          "className": "KarenShinePrice",
+          "unresolved": [],
+          "flavor": "",
+          "tipRefs": [
+            {
+              "kind": "mod",
+              "key": "KAREN_DISABLE_RELIC"
+            }
+          ],
+          "cost": "X",
+          "type": "Attack",
+          "rarity": "Uncommon",
+          "upgradedDescription": "[gold]禁用[/gold]X个遗物，然后造成6点伤害2X次。",
+          "upgradedCost": null,
+          "inPool": true,
+          "group": "other",
+          "shine": null,
+          "keywords": [],
+          "upgradedKeywords": [],
+          "maxUpgradeLevel": 1,
+          "cardPool": "karen",
+          "visualPool": "karen",
+          "isRegistered": true,
+          "isOption": false
+        },
+        {
           "id": "KAREN_STAR_CRIME",
           "name": "星罪",
           "description": "[gold]禁用[/gold]2个遗物，然后抽3张牌。",
@@ -4087,6 +4119,21 @@ window.MOD_CATALOG = {
           "outline": "assets/karen/images/relics/karen_cookie_relic_outline.png"
         },
         {
+          "id": "KAREN_FLOWER_RELIC",
+          "name": "花朵",
+          "description": "战斗后的遗物奖励额外提供[blue]1[/blue]个同稀有度选项，只能选择其一。单人宝箱也额外提供[blue]1[/blue]个选项。",
+          "rawDescription": "战斗后的遗物奖励额外提供[blue]1[/blue]个同稀有度选项，只能选择其一。单人宝箱也额外提供[blue]1[/blue]个选项。",
+          "image": "assets/karen/images/relics/karen_flower_relic.png",
+          "sourcePath": "src/Core/Models/Relics/KarenFlowerRelic.cs",
+          "className": "KarenFlowerRelic",
+          "unresolved": [],
+          "flavor": "舞台落幕，仍有新的可能绽放。",
+          "tipRefs": [],
+          "rarity": "Rare",
+          "icon": "assets/karen/images/relics/karen_flower_relic.png",
+          "outline": null
+        },
+        {
           "id": "KAREN_HAIRPIN2_RELIC",
           "name": "发夹-立体版",
           "description": "在你的[blue]第1[/blue]回合开始时，将一张[gold]约定之塔+[/gold]加入手牌。",
@@ -4131,7 +4178,7 @@ window.MOD_CATALOG = {
         {
           "id": "KAREN_LITTLE_STAR_RELIC",
           "name": "小小星",
-          "description": "打出[gold]约定之塔[/gold]时，获得[blue]5[/blue]点[gold]临时力量[/gold]。",
+          "description": "打出[gold]约定之塔[/gold]时，获得[blue]3[/blue]点[gold]临时力量[/gold]。",
           "rawDescription": "打出[gold]约定之塔[/gold]时，获得[blue]{StrengthPower}[/blue]点[gold]临时力量[/gold]。",
           "image": "assets/karen/images/relics/karen_little_star_relic_big.png",
           "sourcePath": "src/Core/Models/Relics/KarenLittleStarRelic.cs",
@@ -4156,8 +4203,8 @@ window.MOD_CATALOG = {
         {
           "id": "KAREN_MR_WHITE_RELIC",
           "name": "Mr. White",
-          "description": "每场战斗的第一回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
-          "rawDescription": "每场战斗的第一回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+          "description": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+          "rawDescription": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
           "image": "assets/karen/images/relics/karen_mr_white_relic_big.png",
           "sourcePath": "src/Core/Models/Relics/KarenMrWhiteRelic.cs",
           "className": "KarenMrWhiteRelic",
@@ -4201,8 +4248,8 @@ window.MOD_CATALOG = {
         {
           "id": "KAREN_STAR_TIARA_RELIC",
           "name": "星之皇冠",
-          "description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得[blue]1[/blue]点能量。",
-          "rawDescription": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得[blue]{Energy}[/blue]点能量。",
+          "description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得[energy]。",
+          "rawDescription": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得{Energy:energyIcons()}。",
           "image": "assets/karen/images/relics/karen_star_tiara_relic_big.png",
           "sourcePath": "src/Core/Models/Relics/KarenStarTiaraRelic.cs",
           "className": "KarenStarTiaraRelic",
@@ -4318,7 +4365,7 @@ window.MOD_CATALOG = {
         "KAREN_SHINE_CARD_REWARD.title": "闪耀牌奖励",
         "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得仅包含1张闪耀牌的卡牌奖励。",
         "KAREN_DISABLE_RELIC.title": "禁用遗物",
-        "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n无可禁用遗物时，这张牌[red]无法被打出[/red]。",
+        "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n可禁用遗物数量不足时，这张牌[red]无法被打出[/red]。",
         "KAREN_TOKEN_CARD.title": "衍生牌",
         "KAREN_TOKEN_CARD.description": "战斗中生成的牌。"
       },

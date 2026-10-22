@@ -1,14 +1,14 @@
 {
   "karen": {
     "ShoujoKagekiAijoKaren/localization/zhs/card_keywords.json": {
-      "bytes": 1178,
-      "gitBlob": "0f3bdffe0a46b61f8fe64588d7a931888bd304d9",
-      "sha256": "c2c851e7f1948def1bc298e6a21834e8440e43c4788a44c80ff9f2459dda43d1"
+      "bytes": 1187,
+      "gitBlob": "09e4270e3486bfc7636645a4d5a91b45495b7d2b",
+      "sha256": "76dd61611b8c302b0da9a46df3bb7f16f83ace98d8ce40811aa08f8e0c3b842b"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/cards.json": {
-      "bytes": 20581,
-      "gitBlob": "a015aae4bf16935c3651ad551adfa082f44159cd",
-      "sha256": "b2f194e06db3db0011f82769f3fcb2a0a211176bce2abbe3d6eb34ff6354f304"
+      "bytes": 20750,
+      "gitBlob": "cdf2a4143e57240403f5a697095b4ddc5885bc2b",
+      "sha256": "f9d3fbaf8974c5162bc4873e7d14692709af7052275906f038e2f8113f3f30ca"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/characters.json": {
       "bytes": 834,
@@ -31,9 +31,9 @@
       "sha256": "9ec40982cb9ba8e5446e57fe37f022fdd9d8469ec4b6e62ff7208e959dab8bbd"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/relics.json": {
-      "bytes": 2836,
-      "gitBlob": "43973b8264c6a6d3783caf9db05d416085fc8cd9",
-      "sha256": "49af33a9ab4bd0c7b9abdf13b949f6cef8caafe55b87f8493d852affc1312a38"
+      "bytes": 3145,
+      "gitBlob": "29e12908ca6cfad9cef21ecd9dce31e325ffb120",
+      "sha256": "3b7786ff1270a0a27c615edab250393a101478e0720c8fde61029c35caaec9d4"
     },
     "images/packed/card_portraits/curse/karen_sleepy.png": {
       "bytes": 271459,
@@ -354,6 +354,11 @@
       "bytes": 351719,
       "gitBlob": "fa0194f02486bdfcdf3b44b03ef0600a67346c2a",
       "sha256": "4a276ab5a3ceb029a619daa0e808d4a6653c7e926ac2f9230d0cc49f90e50a11"
+    },
+    "images/packed/card_portraits/karen/karen_shine_price.png": {
+      "bytes": 131655,
+      "gitBlob": "921abdfe75920a6b04fb10d9d85fae3a971bf3e8",
+      "sha256": "eb30e2240649c2d0e2c428d0bbc052da87ef89231de46e5954c7572caeede951"
     },
     "images/packed/card_portraits/karen/karen_shine_strike.png": {
       "bytes": 381515,
@@ -685,6 +690,11 @@
       "gitBlob": "26f0afd0cd0ab06e5fc422f6eee57562ca282c3d",
       "sha256": "df2a24629b6f9242c8055b4d3ccc85ce4b5e1f4ccc9390bce7d94ff0c637e99e"
     },
+    "images/relics/karen_flower_relic.png": {
+      "bytes": 17106,
+      "gitBlob": "5812da26dea6e7c6188175b0e203bc042d49c05a",
+      "sha256": "6d151ffa4196de29cd62dfffa92dbd6e1ff7dd64b0cdba5da5ed0b29bffee49f"
+    },
     "images/relics/karen_hairpin2_relic.png": {
       "bytes": 6091,
       "gitBlob": "3c9316ab0b03165e792ba66ac6ae1d17833e6548",
@@ -786,9 +796,9 @@
       "sha256": "6bf781084c619027d363edb33dfbb43fa19d41e956ff2e5c558cc13dafb5af7d"
     },
     "src/Core/Models/CardPools/KarenCardPool.cs": {
-      "bytes": 5702,
-      "gitBlob": "9cf661c2b308ba29f312a1fd68c0bb9c39de8575",
-      "sha256": "ac6e2c318d4b5521171ec97dfb526a1b239f4295a9f1e021cb319c2e9910eb76"
+      "bytes": 5747,
+      "gitBlob": "3cd9848fe3c3cebe7771b83d885c4d5c4109f400",
+      "sha256": "b6d9e8af820a5c8742e8a406f9bcc090395aa9d70ec5e94e19ef209b55ea8aff"
     },
     "src/Core/Models/Cards/CardModelEx.cs": {
       "bytes": 4181,
@@ -801,9 +811,9 @@
       "sha256": "c5acfef74f9d9a16a8024a5d6f6df072ab052eb94d90bae6e9aae8aa1ffa3633"
     },
     "src/Core/Models/Cards/KarenDisableRelicBaseCardModel.cs": {
-      "bytes": 939,
-      "gitBlob": "095620f3d9d730d74872b64f254c978c348e67cb",
-      "sha256": "96df6cfdd86ed7bfc755b0f5c1d034236760a8ab9cca21e392b6810c53ecbadf"
+      "bytes": 1007,
+      "gitBlob": "47791e55c86a2ae79b73ca7c2a3f987c25aecc56",
+      "sha256": "61e0b07409f523e9c02c70a477044a12f89ccb0a2b318e7141dc1f53d8969c64"
     },
     "src/Core/Models/Cards/ancient/KarenWhy.cs": {
       "bytes": 1528,
@@ -1109,6 +1119,11 @@
       "bytes": 1251,
       "gitBlob": "813bb86af878c72617c01aad62d0d0b82bce4488",
       "sha256": "ad651d2f44cbb955f59b0ffe44084d83e693e7e50b33125931b019c2b3763ca1"
+    },
+    "src/Core/Models/Cards/relic/KarenShinePrice.cs": {
+      "bytes": 2916,
+      "gitBlob": "ac863058bf9cc522fc6d968bda3674d280819c8a",
+      "sha256": "e3faca483de5be04a050292bcfefb7ebe33747364f20ca14d85b857403adcb25"
     },
     "src/Core/Models/Cards/relic/KarenStarCrime.cs": {
       "bytes": 1256,
@@ -1430,6 +1445,11 @@
       "gitBlob": "73443b5389c017856bba331ce25e96d71a0c4dff",
       "sha256": "92da904bc3b5d534dab4ae30df64a84ab4e6cc729aeef2e012c37b92d399d2b8"
     },
+    "src/Core/Models/Relics/KarenFlowerRelic.cs": {
+      "bytes": 2391,
+      "gitBlob": "5511a977a9c1c28acead47ebaac7709d8b4e9aec",
+      "sha256": "1240effc09b0b9fd005db979a0b9050cab5fec4175a6e7d2a867f5912fe92df3"
+    },
     "src/Core/Models/Relics/KarenHairpin2Relic.cs": {
       "bytes": 1542,
       "gitBlob": "d56f0fe20014115f9495965c3899bfc460c2a480",
@@ -1442,13 +1462,13 @@
     },
     "src/Core/Models/Relics/KarenLittleStarRelic.cs": {
       "bytes": 1311,
-      "gitBlob": "27654b90f104811361120f0ad71d61b7ebaf9235",
-      "sha256": "a7d154ce3d7e096231d0bd17e55d3b878f4f44655d179f10f9831400419e309d"
+      "gitBlob": "961b7aab800454c00e8d4d8f355cbfaba03727b3",
+      "sha256": "d22d3c132d267347768c7f24b4328400c5e6c3980d617cc2b1547068a45b1510"
     },
     "src/Core/Models/Relics/KarenMrWhiteRelic.cs": {
-      "bytes": 1405,
-      "gitBlob": "82d988eaa0b2cbb48b396510b94d69e06e276304",
-      "sha256": "70a206c10aa7abd072f8d9f229f4d40c5b54b57fe31382d565888dd755d5bc5e"
+      "bytes": 1640,
+      "gitBlob": "116e1f59d9ccbcadb10deae6a7ba19e04977e903",
+      "sha256": "0c2c3fdac8e76a99aade9adfd0beaac96c40c53dcf449fbe6310e3b37e2331c0"
     },
     "src/Core/Models/Relics/KarenStarHairclipRelic.cs": {
       "bytes": 764,

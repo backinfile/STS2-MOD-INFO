@@ -13,7 +13,7 @@
     "KAREN_SHINE_CARD_REWARD.title": "闪耀牌奖励",
     "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得仅包含1张闪耀牌的卡牌奖励。",
     "KAREN_DISABLE_RELIC.title": "禁用遗物",
-    "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n无可禁用遗物时，这张牌[red]无法被打出[/red]。",
+    "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n可禁用遗物数量不足时，这张牌[red]无法被打出[/red]。",
     "KAREN_TOKEN_CARD.title": "衍生牌",
     "KAREN_TOKEN_CARD.description": "战斗中生成的牌。"
   },
@@ -138,6 +138,8 @@
     "KAREN_PICK_STAR.description": "[gold]禁用[/gold]{DisableRelic:diff()}个遗物，然后获得{Energy:energyIcons()}。",
     "KAREN_STAR_CRIME.title": "星罪",
     "KAREN_STAR_CRIME.description": "[gold]禁用[/gold]{DisableRelic:diff()}个遗物，然后抽{Cards:diff()}张牌。",
+    "KAREN_SHINE_PRICE.title": "双星",
+    "KAREN_SHINE_PRICE.description": "[gold]禁用[/gold]X个遗物，然后造成{Damage:diff()}点伤害{Repeat:diff()}X次。",
     "KAREN_FORGIVE.title": "\"宽恕\"",
     "KAREN_FORGIVE.description": "[gold]禁用[/gold]{DisableRelic:diff()}个遗物，然后对所有敌人造成{Damage:diff()}点伤害。",
     "KAREN_STAR_GUIDE.title": "星光指引",
@@ -397,13 +399,16 @@
     "KAREN_BASEBALL_CAT_RELIC.description": "每场战斗中，每耗尽一张非同名[gold]闪耀[/gold]牌，获得[blue]1[/blue]个[gold]闪耀牌奖励[/gold]。",
     "KAREN_BASEBALL_CAT_RELIC.flavor": "スズダルキャット，准备上场！",
     "KAREN_MR_WHITE_RELIC.title": "Mr. White",
-    "KAREN_MR_WHITE_RELIC.description": "每场战斗的第一回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+    "KAREN_MR_WHITE_RELIC.description": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
     "KAREN_MR_WHITE_RELIC.flavor": "把想要留到明天的东西，好好收起来。",
     "KAREN_LITTLE_STAR_RELIC.title": "小小星",
     "KAREN_LITTLE_STAR_RELIC.description": "打出[gold]约定之塔[/gold]时，获得[blue]{StrengthPower}[/blue]点[gold]临时力量[/gold]。",
     "KAREN_LITTLE_STAR_RELIC.flavor": "即使是小小的星，也能照亮回去的路。",
     "KAREN_STAR_TIARA_RELIC.title": "星之皇冠",
-    "KAREN_STAR_TIARA_RELIC.description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得[blue]{Energy}[/blue]点能量。",
-    "KAREN_STAR_TIARA_RELIC.flavor": "摘星之人，仍要为下一次登台付出代价。"
+    "KAREN_STAR_TIARA_RELIC.description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得{Energy:energyIcons()}。",
+    "KAREN_STAR_TIARA_RELIC.flavor": "摘星之人，仍要为下一次登台付出代价。",
+    "KAREN_FLOWER_RELIC.title": "花朵",
+    "KAREN_FLOWER_RELIC.description": "战斗后的遗物奖励额外提供[blue]1[/blue]个同稀有度选项，只能选择其一。单人宝箱也额外提供[blue]1[/blue]个选项。",
+    "KAREN_FLOWER_RELIC.flavor": "舞台落幕，仍有新的可能绽放。"
   }
 }
