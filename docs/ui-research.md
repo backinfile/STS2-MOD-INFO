@@ -58,7 +58,11 @@
 
 遗物底座是另一层 `Popup/RelicFrame/FrameBg`：原场景未指定 `stretch_mode`，使用默认 STRETCH_SCALE，将调色后的 reward panel 填充到居中的 300×300 区域；装饰框为 304×304，四边相差 2px。不能给整个遗物容器内的图片统一设置 `object-fit:contain`，否则竖版底座会缩窄，无法衬满装饰框。只有 `RelicImage` 按原场景的 KEEP_ASPECT_CENTERED 等比显示。
 
-卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。当前 115 张定义中，角色池 86、CurseCardPool 2、TokenCardPool 25，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
+卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。当前 116 张定义中，角色池 87、CurseCardPool 2、TokenCardPool 25，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
+
+`TokenCardPool` 与 `CardRarity.Token` 是模型数据；网页的独立“衍生牌”卡池筛选是为了展开这些数据的导航，不等同于本体的图鉴筛选布局。Mod 的 `NCardDerivedLabelPatch.GeneratedInCombat` 只在战斗生成钩子中设置，`CardHoverTipsPatch` 据此添加 `KAREN_TOKEN_CARD` 提示。静态图鉴使用规范卡牌定义，不把 Token 卡池身份当作这个运行时标记，也不补战斗生成标签或提示。
+
+卡牌列表不固定分页，所有筛选结果在内容容器中连续排列并滚动，沿用小卡固定比例和自动换列；旧链接中的 `page` 参数不再限制结果。排序等原生下拉框显式设置深色选项背景与文字颜色，避免系统浅色弹出菜单继承浅色文字。
 
 角色展示 Mod 的插画、原始说明、72 初始生命、99 金币、初始遗物与牌组。当前上游没有独立事件模型，保留简短空状态，不编造事件内容。
 

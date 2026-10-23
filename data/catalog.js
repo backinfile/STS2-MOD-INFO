@@ -11,7 +11,7 @@ window.MOD_CATALOG = {
       "enabled": true,
       "commit": "bf041ea57a4b06011e8c6821f43d86398c8e4d3f",
       "upstreamUpdatedAt": "2026-10-22T15:41:48Z",
-      "syncedAt": "2026-10-22T17:18:20+00:00",
+      "syncedAt": "2026-10-23T03:25:16+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -3216,12 +3216,7 @@ window.MOD_CATALOG = {
           "className": "KarenBanana",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 2,
           "type": "Power",
           "rarity": "Token",
@@ -3249,12 +3244,7 @@ window.MOD_CATALOG = {
           "className": "KarenConfront",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Token",
@@ -3285,12 +3275,7 @@ window.MOD_CATALOG = {
           "className": "KarenContinue",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Attack",
           "rarity": "Token",
@@ -3321,12 +3306,7 @@ window.MOD_CATALOG = {
           "className": "KarenCounter",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Token",
@@ -3362,10 +3342,6 @@ window.MOD_CATALOG = {
               "kind": "text",
               "name": "提示",
               "description": "当你尝试获得一张已耗尽的[gold]闪耀[/gold]牌的复制时，会获得这张牌。"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
             }
           ],
           "cost": 0,
@@ -3398,12 +3374,7 @@ window.MOD_CATALOG = {
           "className": "KarenSandwitch",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Token",
@@ -3448,10 +3419,6 @@ window.MOD_CATALOG = {
               "kind": "mod",
               "key": "KAREN_ETERNAL_SHINE",
               "ifKeyword": "Eternal"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
             }
           ],
           "cost": 1,
@@ -3485,10 +3452,6 @@ window.MOD_CATALOG = {
             {
               "kind": "static",
               "key": "BLOCK"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
             }
           ],
           "cost": 0,
@@ -3525,10 +3488,6 @@ window.MOD_CATALOG = {
             {
               "kind": "mod",
               "key": "KAREN_PROMISE_PILE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
             }
           ],
           "cost": 0,
@@ -3562,12 +3521,7 @@ window.MOD_CATALOG = {
           "className": "KarenWeKownToken",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Token",
@@ -3598,12 +3552,7 @@ window.MOD_CATALOG = {
           "className": "KarenAwakePotionDiscardPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3630,12 +3579,7 @@ window.MOD_CATALOG = {
           "className": "KarenAwakePotionDrawPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3666,10 +3610,6 @@ window.MOD_CATALOG = {
             {
               "kind": "mod",
               "key": "KAREN_PROMISE_PILE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
             }
           ],
           "cost": -1,
@@ -3698,12 +3638,7 @@ window.MOD_CATALOG = {
           "className": "KarenNoHesitateDiscardPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3730,12 +3665,7 @@ window.MOD_CATALOG = {
           "className": "KarenNoHesitateDrawPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3762,12 +3692,7 @@ window.MOD_CATALOG = {
           "className": "KarenNoHesitateHandOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3794,12 +3719,7 @@ window.MOD_CATALOG = {
           "className": "KarenOldPlaceRetainBlockOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3826,12 +3746,7 @@ window.MOD_CATALOG = {
           "className": "KarenOldPlaceRetainEnergyOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3858,12 +3773,7 @@ window.MOD_CATALOG = {
           "className": "KarenOldPlaceRetainHandOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3890,12 +3800,7 @@ window.MOD_CATALOG = {
           "className": "KarenOldPlaceRetainStrengthOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3922,12 +3827,7 @@ window.MOD_CATALOG = {
           "className": "KarenRapidPutOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3954,12 +3854,7 @@ window.MOD_CATALOG = {
           "className": "KarenRapidTakeOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -3986,12 +3881,7 @@ window.MOD_CATALOG = {
           "className": "KarenWakeUpDiscardPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -4018,12 +3908,7 @@ window.MOD_CATALOG = {
           "className": "KarenWakeUpDrawPileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -4050,12 +3935,7 @@ window.MOD_CATALOG = {
           "className": "KarenWakeUpPromisePileOption",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_TOKEN_CARD"
-            }
-          ],
+          "tipRefs": [],
           "cost": -1,
           "type": "Skill",
           "rarity": "Token",
@@ -4480,7 +4360,7 @@ window.MOD_CATALOG = {
           "KarenHairpinRelic"
         ]
       },
-      "adapterHash": "0517d6707e676d08e2dcfe9f8e95cc80c92e0f2a36ab6cd7a04890d3629ed1da"
+      "adapterHash": "774daaf70c0fb3fad9f4c1e56d3dfa9360650124e5ba600fd23c69f35a7ce165"
     }
   ]
 };

@@ -1495,6 +1495,11 @@
       "gitBlob": "06c4a44824a13c8b714a5c900cd3ce6ea932807a",
       "sha256": "443024a6f971ee6d0ef05716034b9395428d1dbe1a7481155359f9fff57db80f"
     },
+    "src/Core/Patches/NCardDerivedLabelPatch.cs": {
+      "bytes": 3340,
+      "gitBlob": "eaab1057e01287d73963f5c7904ba450a3ab26c9",
+      "sha256": "22b05b9231fabad2c6d1da23889b1d665b519b391232ffe317c8442bfd484607"
+    },
     "src/Core/Utils/Tips.cs": {
       "bytes": 6139,
       "gitBlob": "d7fc9915c03dd8da8dbd0de78d5ad7883a192f49",

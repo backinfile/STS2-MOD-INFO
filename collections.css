@@ -117,7 +117,8 @@ dialog[data-kind=relic]{width:min(1080px,calc(100vw - 24px));padding:10px 20px 2
 .native-event>.native-tip{margin-top:14px}
 #load-error{max-width:calc(100vw - 30px);min-width:250px;text-align:center}
 #load-retry{display:block;margin:12px auto 0;padding:8px 15px;color:var(--gold);border:1px solid #a6b8bd}
-.pagination button{min-width:44px;min-height:44px}
+select{color-scheme:dark}
+select option,select optgroup{color:var(--cream);background-color:var(--sidebar)}
 .category-nav a:focus-visible{outline-offset:-3px}
 @media(min-width:651px) and (max-width:1000px){
   .relic-detail-layout{grid-template-columns:1fr}

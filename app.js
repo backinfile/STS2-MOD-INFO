@@ -15,8 +15,7 @@
   const titles = {characters:'角色',cards:'卡牌图鉴',relics:'遗物图鉴',potions:'药水图鉴',events:'事件',keywords:'关键词'};
   const rarities = {None:'无',Basic:'基础',Common:'普通',Uncommon:'罕见',Rare:'稀有',Ancient:'先古',Event:'事件',Token:'衍生牌',Status:'状态',Curse:'诅咒',Quest:'任务',Starter:'初始',Shop:'商店',Unknown:'特殊'};
   const rarityOrder = Object.keys(rarities), typeNames = {Attack:'攻击',Skill:'技能',Power:'能力',Curse:'诅咒',Status:'状态',Quest:'任务'};
-  const PAGE_SIZE = 16;
-  const defaults = () => ({mod:catalog.mods[0].id,category:'cards',query:'',pool:[],type:[],rarity:'all',cost:[],extra:false,upgraded:false,sort:'default',page:1});
+  const defaults = () => ({mod:catalog.mods[0].id,category:'cards',query:'',pool:[],type:[],rarity:'all',cost:[],extra:false,upgraded:false,sort:'default'});
   const views = new Map();
   const searchCache = new Map();
   let state = defaults(), displayedArtifacts = [], inspectedArtifact, inspectedCard, lastFocus;
@@ -36,7 +35,6 @@
     if (entry.query) query.set('q',entry.query);
     if (entry.upgraded) query.set('upgrade','1');
     if (entry.extra) query.set('unregistered','1');
-    if (entry.page > 1) query.set('page',String(entry.page));
     return `#${entry.category}?${query}`;
   }
   function readLocation() {
@@ -48,7 +46,6 @@
     if (rarities[params.get('rarity')]) next.rarity = params.get('rarity');
     if (['cost','name','rarity'].includes(params.get('sort'))) next.sort = params.get('sort');
     next.upgraded = params.get('upgrade') === '1'; next.extra = params.get('unregistered') === '1';
-    next.page = Math.max(1,Math.min(100000,Number.parseInt(params.get('page'),10) || 1));
     return next;
   }
   function remember() { views.set(viewKey(state),structuredClone(state)); }
@@ -174,7 +171,7 @@
     $('#results').className = category==='cards'?'card-grid':category==='characters'?'character-grid':category==='keywords'?'keyword-grid':category==='events'?'event-grid':`native-collection ${category==='potions'?'potion-collection':'relic-collection'}`;
     if($('#search').value!==state.query)$('#search').value=state.query;
     $('#sort').value=state.sort; $('#include-extra').checked=state.extra; $('#upgrade-toggle').checked=state.upgraded;
-    $('#pagination').hidden=true; $('#reset-filters').hidden=!(state.query||state.pool.length||state.type.length||state.rarity!=='all'||state.cost.length||state.extra||state.sort!=='default');
+    $('#reset-filters').hidden=!(state.query||state.pool.length||state.type.length||state.rarity!=='all'||state.cost.length||state.extra||state.sort!=='default');
     if(category==='characters') { $('#results').innerHTML=renderCharacter(); $('#result-count').textContent=''; $('#reset-filters').hidden=true; cards.fit(); return; }
     if(category==='keywords') {
       const tips=dictionaryTips(mod().keywords).filter(tip=>(tip.name+' '+tip.description).toLowerCase().includes(state.query.trim().toLowerCase()));
@@ -194,10 +191,8 @@
       if(state.sort==='rarity') return rank(a)-rank(b)||compareId(a,b);
       return isCards?(poolOrder.indexOf(a.cardPool)-poolOrder.indexOf(b.cardPool)||rank(a)-rank(b)||compareId(a,b)):compareId(a,b);
     });
-    const pages=Math.max(1,Math.ceil(items.length/PAGE_SIZE)); state.page=Math.min(state.page,pages);
-    $('#results').innerHTML=items.length?(isCards?items.slice((state.page-1)*PAGE_SIZE,state.page*PAGE_SIZE).map(cardEntry).join(''):renderArtifacts(items)):`<div class="empty-state">${escape(isCards?(window.GAME_UI.localization.card_library?.NO_RESULTS||'没有找到牌'):'无匹配结果')}</div>`;
+    $('#results').innerHTML=items.length?(isCards?items.map(cardEntry).join(''):renderArtifacts(items)):`<div class="empty-state">${escape(isCards?(window.GAME_UI.localization.card_library?.NO_RESULTS||'没有找到牌'):'无匹配结果')}</div>`;
     $('#result-count').textContent=isCards?(window.GAME_UI.localization.card_library?.CARD_COUNT||'{Amount}张牌').replace('{Amount}',items.length):String(items.length);
-    $('#pagination').hidden=!isCards||pages<=1; $('#page-info').textContent=`${state.page} / ${pages}`; $('#page-prev').disabled=state.page<=1; $('#page-next').disabled=state.page>=pages;
     if(isCards) renderFilters(); cards.fit();
   }
   function activate() {
@@ -235,17 +230,16 @@
   $('#mod-select').addEventListener('change',event=>{ remember(); state=structuredClone(views.get(`${event.target.value}/${state.category}`)||{...defaults(),mod:event.target.value,category:state.category}); activate(); writeLocation(); });
   $('.category-nav').addEventListener('click',event=>{const link=event.target.closest('a[data-category]');if(!link||event.ctrlKey||event.metaKey||event.shiftKey||event.altKey||event.button)return;event.preventDefault();remember();state=structuredClone(views.get(`${state.mod}/${link.dataset.category}`)||{...defaults(),mod:state.mod,category:link.dataset.category});activate();writeLocation();});
   $('.skip-link').addEventListener('click',event=>{event.preventDefault();focusCollection();});
-  $('#search').addEventListener('input',event=>{state.query=event.target.value;state.page=1;cancelAnimationFrame(renderFrame);renderFrame=requestAnimationFrame(()=>{render();$('#collection').scrollTop=0;writeLocation(true);});});
-  $('#upgrade-toggle').addEventListener('change',event=>update({upgraded:event.target.checked,page:1}));
+  $('#search').addEventListener('input',event=>{state.query=event.target.value;cancelAnimationFrame(renderFrame);renderFrame=requestAnimationFrame(()=>{render();$('#collection').scrollTop=0;writeLocation(true);});});
+  $('#upgrade-toggle').addEventListener('change',event=>update({upgraded:event.target.checked}));
   $('#toggle-filters').addEventListener('click',event=>{const open=event.currentTarget.getAttribute('aria-expanded')!=='true';event.currentTarget.setAttribute('aria-expanded',String(open));$('.sidebar').classList.toggle('filters-open',open);});
   $('#card-filters').addEventListener('click',event=>{
     const button=event.target.closest('button');if(!button)return; const attribute=['pool','type','cost'].find(key=>key in button.dataset);if(!attribute)return;
-    const key=button.dataset[attribute], selected=state[attribute]; update({[attribute]:key==='all'?[]:selected.includes(key)?selected.filter(value=>value!==key):[...selected,key],page:1}); $(`[data-${attribute}="${key}"]`)?.focus({preventScroll:true});
+    const key=button.dataset[attribute], selected=state[attribute]; update({[attribute]:key==='all'?[]:selected.includes(key)?selected.filter(value=>value!==key):[...selected,key]}); $(`[data-${attribute}="${key}"]`)?.focus({preventScroll:true});
   });
-  for(const id of ['rarity','sort'])$('#'+id).addEventListener('change',event=>update({[id]:event.target.value,page:1}));
-  $('#include-extra').addEventListener('change',event=>update({extra:event.target.checked,page:1}));
+  for(const id of ['rarity','sort'])$('#'+id).addEventListener('change',event=>update({[id]:event.target.value}));
+  $('#include-extra').addEventListener('change',event=>update({extra:event.target.checked}));
   $('#reset-filters').addEventListener('click',()=>{const {mod:modId,category,upgraded}=state;state={...defaults(),mod:modId,category,upgraded};render();$('#collection').scrollTop=0;writeLocation();$('#search').focus({preventScroll:true});});
-  for(const [id,delta] of [['page-prev',-1],['page-next',1]])$('#'+id).addEventListener('click',()=>{update({page:state.page+delta});focusCollection();});
   $('#results').addEventListener('click',event=>{const button=event.target.closest('[data-item]');if(button)showItem(button.dataset.item,button.dataset.itemCategory||state.category);});
   $('#results').addEventListener('pointerover',event=>{const button=event.target.closest('[data-item]');if(button&&!button.contains(event.relatedTarget))showHover(button);});
   $('#results').addEventListener('pointerout',event=>{const button=event.target.closest('[data-item]');if(button&&!button.contains(event.relatedTarget))hideTimer=setTimeout(hideTips,180);});

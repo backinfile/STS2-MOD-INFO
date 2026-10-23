@@ -301,8 +301,8 @@ def build_karen(mod, commit, tree, blobs):
         card['visualPool'] = (mod['id'] if visual[1] == 'Karen' else visual[1].lower()) if visual else 'colorless' if card_pool in ['token', 'status', 'colorless'] else card_pool if card_pool != 'unregistered' else mod['id']
         card['isRegistered'] = card_pool != 'unregistered'
         card['isOption'] = '/options/' in card['sourcePath']
-        if card_pool == 'token':
-            card['tipRefs'].append({'kind': 'mod', 'key': 'KAREN_TOKEN_CARD'})
+        # Token pool membership does not mean GeneratedInCombat. The Mod's
+        # derived-card hint is runtime-only and absent on canonical library cards.
     # Resolve specialized power inheritance to the Mod's canonical mechanic text.
     for item in [*result['cards'], *result['relics'], *result['potions']]:
         for ref in item['tipRefs']:
@@ -335,7 +335,7 @@ def selected_paths(tree):
         or re.match(r"src/Core/Models/(Cards|Relics|Potions)/.+\.cs$", p)
         or p in {"src/Core/Models/Characters/Karen.cs", "src/Core/Models/CardPools/KarenCardPool.cs", "scenes/screens/char_select/karenPortrait.jpg", "images/packed/character_select/char_select_karen.png"}
         or p == 'src/Core/Patches/CardPoolPatches.cs'
-        or p in {'src/Core/Models/RelicPools/KarenRelicPool.cs', 'src/Core/Models/PotionPools/KarenPotionPool.cs', 'src/Core/Patches/CardHoverTipsPatch.cs', 'src/Core/KarenCustomEnum.cs', 'src/Core/Utils/Tips.cs'}
+        or p in {'src/Core/Models/RelicPools/KarenRelicPool.cs', 'src/Core/Models/PotionPools/KarenPotionPool.cs', 'src/Core/Patches/CardHoverTipsPatch.cs', 'src/Core/Patches/NCardDerivedLabelPatch.cs', 'src/Core/KarenCustomEnum.cs', 'src/Core/Utils/Tips.cs'}
         or re.match(r"images/packed/card_portraits/(karen|token|curse)/[^/]+\.png$", p) and "_backup" not in p
         or re.match(r"images/(relics|potions)/[^/]+\.png$", p)
     )]
