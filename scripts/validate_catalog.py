@@ -61,9 +61,13 @@ def validate():
     for path, record in web.items():
         assert hashlib.sha256((ROOT / path).read_bytes()).hexdigest() == record['sourceSha256'], 'Stale browser image: ' + path
         assert hashlib.sha256((ROOT / record['path']).read_bytes()).hexdigest() == record['sha256'], 'Browser image mismatch: ' + path
+    filter_ids = set(re.findall(r'<filter\b[^>]*\bid=[\'\"]([^\'\"]+)', (ROOT / 'index.html').read_text(encoding='utf-8')))
     for stylesheet in ['styles.css', 'collections.css']:
         for path in re.findall(r"url\(['\"]?([^)'\"]+)", (ROOT / stylesheet).read_text(encoding="utf-8")):
-            assert (ROOT / path).is_file(), "Missing CSS asset: " + path
+            if path.startswith('#'):
+                assert path[1:] in filter_ids, "Missing inline SVG filter: " + path
+            else:
+                assert (ROOT / path).is_file(), "Missing CSS asset: " + path
     for script in ["app.js", "card-renderer.js", "styles.css", "collections.css"]:
         text = (ROOT / script).read_text(encoding="utf-8")
         assert "fetch(" not in text and "WebSocket(" not in text, "Runtime network dependency introduced"

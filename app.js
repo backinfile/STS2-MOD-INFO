@@ -144,7 +144,7 @@
     return [{key:'all',name:'全部'},...options].map(option => {
       const count = option.key === 'all' ? available.length : available.filter(item => test(item,option.key)).length;
       const active = option.key === 'all' ? !state[attribute].length : state[attribute].includes(option.key);
-      return `<button data-${attribute}="${escape(option.key)}" class="${active?'active':''}" aria-pressed="${active}" ${!count&&!active?'disabled':''} aria-label="${escape(option.name)}，${count}张"><span class="filter-label">${option.image?`<img src="${asset(option.image)}" alt="">`:''}${escape(option.name)}</span><small>${count}</small></button>`;
+      return `<button data-${attribute}="${escape(option.key)}" class="${active?'active':''}" aria-pressed="${active}" ${!count&&!active?'disabled':''} aria-label="${escape(option.name)}，${count}张"><span class="filter-label${attribute==='cost'&&option.key!=='all'?' cost-value':''}">${option.image?`<img src="${asset(option.image)}" alt="">`:''}${escape(option.name)}</span><small>${count}</small></button>`;
     }).join('');
   }
   function renderFilters() {
