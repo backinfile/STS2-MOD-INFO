@@ -8,9 +8,9 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "bf041ea57a4b06011e8c6821f43d86398c8e4d3f",
-      "upstreamUpdatedAt": "2026-10-22T15:41:48Z",
-      "syncedAt": "2026-10-23T03:25:16+00:00",
+      "commit": "d217fcc75ab50b9c822ca3fb2ba7d39668f5bf74",
+      "upstreamUpdatedAt": "2026-10-23T01:57:48Z",
+      "syncedAt": "2026-10-23T05:01:39+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -3962,7 +3962,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenBaseballCatRelic.cs",
           "className": "KarenBaseballCatRelic",
           "unresolved": [],
-          "flavor": "スズダルキャット，准备上场！",
+          "flavor": "闪耀的你，我更喜欢。",
           "tipRefs": [
             {
               "kind": "mod",
@@ -3986,7 +3986,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenCookieRelic.cs",
           "className": "KarenCookieRelic",
           "unresolved": [],
-          "flavor": "分给大家的点心，也为下一场演出补充精神。",
+          "flavor": "认认真真的 Chantory Ma'am！",
           "tipRefs": [
             {
               "kind": "mod",
@@ -4000,13 +4000,13 @@
         {
           "id": "KAREN_FLOWER_RELIC",
           "name": "花朵",
-          "description": "战斗后的遗物奖励额外提供[blue]1[/blue]个同稀有度选项，只能选择其一。单人宝箱也额外提供[blue]1[/blue]个选项。",
-          "rawDescription": "战斗后的遗物奖励额外提供[blue]1[/blue]个同稀有度选项，只能选择其一。单人宝箱也额外提供[blue]1[/blue]个选项。",
+          "description": "遗物奖励拥有额外一个选项。",
+          "rawDescription": "遗物奖励拥有额外一个选项。",
           "image": "assets/karen/images/relics/karen_flower_relic.png",
           "sourcePath": "src/Core/Models/Relics/KarenFlowerRelic.cs",
           "className": "KarenFlowerRelic",
           "unresolved": [],
-          "flavor": "舞台落幕，仍有新的可能绽放。",
+          "flavor": "我在世界上最闪耀的样子，会第一个让你看到。",
           "tipRefs": [],
           "rarity": "Rare",
           "icon": "assets/karen/images/relics/karen_flower_relic.png",
@@ -4021,7 +4021,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenHairpin2Relic.cs",
           "className": "KarenHairpin2Relic",
           "unresolved": [],
-          "flavor": "小时候与小光两人在东京塔附近的商店中买到的一对发夹中皇冠样式的一枚。",
+          "flavor": "一起去吧，去那闪耀的舞台。",
           "tipRefs": [
             {
               "kind": "card",
@@ -4042,7 +4042,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenHairpinRelic.cs",
           "className": "KarenHairpinRelic",
           "unresolved": [],
-          "flavor": "小时候与小光两人在东京塔附近的商店中买到的一对发夹中皇冠样式的一枚。",
+          "flavor": "在舞台上再会吧。",
           "tipRefs": [
             {
               "kind": "card",
@@ -4063,7 +4063,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenLittleStarRelic.cs",
           "className": "KarenLittleStarRelic",
           "unresolved": [],
-          "flavor": "即使是小小的星，也能照亮回去的路。",
+          "flavor": "你将获得小小的幸福。",
           "tipRefs": [
             {
               "kind": "mod",
@@ -4088,7 +4088,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenMrWhiteRelic.cs",
           "className": "KarenMrWhiteRelic",
           "unresolved": [],
-          "flavor": "把想要留到明天的东西，好好收起来。",
+          "flavor": "软乎乎的……好可爱……！",
           "tipRefs": [
             {
               "kind": "mod",
@@ -4108,7 +4108,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenStarHairclipRelic.cs",
           "className": "KarenStarHairclipRelic",
           "unresolved": [],
-          "flavor": "一大一小的两颗星，记着同一个约定。",
+          "flavor": "还记得吗？那个约定。",
           "tipRefs": [
             {
               "kind": "mod",
@@ -4133,7 +4133,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenStarTiaraRelic.cs",
           "className": "KarenStarTiaraRelic",
           "unresolved": [],
-          "flavor": "摘星之人，仍要为下一次登台付出代价。",
+          "flavor": "这就是我的 Starlight。",
           "tipRefs": [
             {
               "kind": "mod",
@@ -4157,7 +4157,7 @@
           "sourcePath": "src/Core/Models/Relics/KarenWaterBottleRelic.cs",
           "className": "KarenWaterBottleRelic",
           "unresolved": [],
-          "flavor": "练习间隙，喝一口水，再回到舞台。",
+          "flavor": "好！再加把劲！",
           "tipRefs": [
             {
               "kind": "mod",
