@@ -9,9 +9,9 @@ window.MOD_CATALOG = {
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "5d878a0ba46c068a8996a1a82aeab5bc3c340dc9",
-      "upstreamUpdatedAt": "2026-10-23T08:58:53Z",
-      "syncedAt": "2026-10-23T11:49:07+00:00",
+      "commit": "0c53649e63fd95c31980bea5781f9d5307f3b756",
+      "upstreamUpdatedAt": "2026-10-24T07:18:19Z",
+      "syncedAt": "2026-10-24T11:14:15+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
