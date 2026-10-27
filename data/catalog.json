@@ -8,9 +8,9 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "77e03dc1b0f1e8d41d818261af7a34a7c7cd99b0",
-      "upstreamUpdatedAt": "2026-10-26T06:06:43Z",
-      "syncedAt": "2026-10-26T13:16:31+00:00",
+      "commit": "f8b9c38c3f09f7073b0df5c4e36fe1a001a1596d",
+      "upstreamUpdatedAt": "2026-10-27T09:05:46Z",
+      "syncedAt": "2026-10-27T12:24:49+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",

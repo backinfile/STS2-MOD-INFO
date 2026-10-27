@@ -1466,9 +1466,9 @@
       "sha256": "d22d3c132d267347768c7f24b4328400c5e6c3980d617cc2b1547068a45b1510"
     },
     "src/Core/Models/Relics/KarenMrWhiteRelic.cs": {
-      "bytes": 1640,
-      "gitBlob": "116e1f59d9ccbcadb10deae6a7ba19e04977e903",
-      "sha256": "0c2c3fdac8e76a99aade9adfd0beaac96c40c53dcf449fbe6310e3b37e2331c0"
+      "bytes": 1764,
+      "gitBlob": "2c2dd5dc52a118f2a6fcc33111ac1a1fc040a7a2",
+      "sha256": "92b9816e304303c70df18868804e781e800b5a1935caf18a466cd537d1503bf5"
     },
     "src/Core/Models/Relics/KarenStarHairclipRelic.cs": {
       "bytes": 764,
