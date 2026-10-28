@@ -9,9 +9,9 @@ window.MOD_CATALOG = {
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "f8b9c38c3f09f7073b0df5c4e36fe1a001a1596d",
-      "upstreamUpdatedAt": "2026-10-27T09:05:46Z",
-      "syncedAt": "2026-10-27T12:24:49+00:00",
+      "commit": "eccf67448ca538f27a99102654b3778fa00fffeb",
+      "upstreamUpdatedAt": "2026-10-28T05:34:47Z",
+      "syncedAt": "2026-10-28T05:53:56+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -4083,8 +4083,8 @@ window.MOD_CATALOG = {
         {
           "id": "KAREN_MR_WHITE_RELIC",
           "name": "Mr. White",
-          "description": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
-          "rawDescription": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+          "description": "每场战斗的前[blue]2[/blue]个回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+          "rawDescription": "每场战斗的前[blue]2[/blue]个回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
           "image": "assets/karen/images/relics/karen_mr_white_relic_big.png",
           "sourcePath": "src/Core/Models/Relics/KarenMrWhiteRelic.cs",
           "className": "KarenMrWhiteRelic",

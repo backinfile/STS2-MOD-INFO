@@ -31,9 +31,9 @@
       "sha256": "9ec40982cb9ba8e5446e57fe37f022fdd9d8469ec4b6e62ff7208e959dab8bbd"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/relics.json": {
-      "bytes": 2767,
-      "gitBlob": "97e44cacf791e8b633c40d2a5c9852d291d8a596",
-      "sha256": "3c45e1757dd068a26716c8648e8780e2f1e6f37cf3b9d853c8b13e4deab14dc6"
+      "bytes": 2770,
+      "gitBlob": "4e504b89fb8ac7e3f196cfec588efdd05e37bb4c",
+      "sha256": "460b3990543c595ec9aa09327658eec620504af2601acd68916a478ae170aaa0"
     },
     "images/packed/card_portraits/curse/karen_sleepy.png": {
       "bytes": 271459,
@@ -901,9 +901,9 @@
       "sha256": "e1cc44c30ecb9e7307fb24b0fbb13decedd54392bf89d202e59ec2fa1e1cd47c"
     },
     "src/Core/Models/Cards/neutral/KarenLastWord.cs": {
-      "bytes": 3823,
-      "gitBlob": "54d36010190118b54777145afe4d8b1d4505bdf2",
-      "sha256": "606822c6d3307725589b0448d7e200117b4ca38c6e654b47748a9cb80b9040fa"
+      "bytes": 3892,
+      "gitBlob": "bea0ab838e13dcaefc9aa8be716a03e898b92533",
+      "sha256": "0e01ee97e32eb021ffea3e9283e04027626e930a664729bb42aade440725b815"
     },
     "src/Core/Models/Cards/neutral/KarenOldPlace.cs": {
       "bytes": 1794,
@@ -1071,9 +1071,9 @@
       "sha256": "fa674c655a32dd2f4e8996399406363369b80903d3f8211517d028929e6f3393"
     },
     "src/Core/Models/Cards/promisePile/KarenVoid.cs": {
-      "bytes": 3353,
-      "gitBlob": "fafebc0381e9277924d68a0ebe4e0a631b61d98d",
-      "sha256": "1e6ee5c53c2dfc8adcb34ca98e0ff614955dc6f24b795dc5c41ca0251d4abad4"
+      "bytes": 3414,
+      "gitBlob": "9f65ada4895458045605e0c388fa5f366ee6ce6d",
+      "sha256": "5095f46b2e828327c6d1d7be43baad1f842d93fa685aafc35d3fd7eeaa37d5b2"
     },
     "src/Core/Models/Cards/promisePile/KarenWeKnow.cs": {
       "bytes": 1558,
@@ -1226,9 +1226,9 @@
       "sha256": "5bcd0ff04dafd0f81d8013d444169338dd0e667f583617b91abca37bac09672e"
     },
     "src/Core/Models/Cards/shine/KarenStarGuide.cs": {
-      "bytes": 1786,
-      "gitBlob": "7ebef6491dbc126dfbd37dc7567a8a55525210c2",
-      "sha256": "912e60cb6363f9394aa002696d44efa17981a53b93e83b83cfd3f48576d751bd"
+      "bytes": 1887,
+      "gitBlob": "34ce5dc1d30fd1c2afda1f66eb8d8a5350323ca1",
+      "sha256": "1481efe6018cbf97575a7f99414dd17658ec1ccda4d20d663c06ab3ca7d0fe38"
     },
     "src/Core/Models/Cards/shine/KarenStarlight02Card.cs": {
       "bytes": 1840,

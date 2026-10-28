@@ -399,7 +399,7 @@
     "KAREN_BASEBALL_CAT_RELIC.description": "每场战斗中，每耗尽一张非同名[gold]闪耀[/gold]牌，获得[blue]1[/blue]个[gold]闪耀牌奖励[/gold]。",
     "KAREN_BASEBALL_CAT_RELIC.flavor": "闪耀的你，我更喜欢。",
     "KAREN_MR_WHITE_RELIC.title": "Mr. White",
-    "KAREN_MR_WHITE_RELIC.description": "每场战斗的前[blue]2[/blue]回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
+    "KAREN_MR_WHITE_RELIC.description": "每场战斗的前[blue]2[/blue]个回合结束时，可选择任意数量的手牌放入[gold]约定牌堆[/gold]。",
     "KAREN_MR_WHITE_RELIC.flavor": "软乎乎的……好可爱……！",
     "KAREN_LITTLE_STAR_RELIC.title": "小小星",
     "KAREN_LITTLE_STAR_RELIC.description": "打出[gold]约定之塔[/gold]时，获得[blue]{StrengthPower}[/blue]点[gold]临时力量[/gold]。",
