@@ -5,7 +5,7 @@
     "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
     "mods": {
       "karen": {
-        "commit": "eccf67448ca538f27a99102654b3778fa00fffeb",
+        "commit": "23aa1380c5833312f95aa12c1ee5d634a7262a0f",
         "adapterHash": "774daaf70c0fb3fad9f4c1e56d3dfa9360650124e5ba600fd23c69f35a7ce165",
         "rendering": {
           "frameMaterialSource": "materials/cards/frames/card_frame_purple_mat.tres",
@@ -36,7 +36,7 @@
   "gameRepository": "Hexpion/Slay-the-spire-2",
   "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
   "modRepository": "backinfile/STS2_ShoujoKagekiAijoKaren",
-  "modCommit": "eccf67448ca538f27a99102654b3778fa00fffeb",
+  "modCommit": "23aa1380c5833312f95aa12c1ee5d634a7262a0f",
   "frameMaterial": {
     "h": 0.99,
     "s": 0.67,
@@ -152,17 +152,17 @@
         "sha256": "515cd7143dc6cbb257a7a3b37300b6cfee2691951a2358dfb64bc14fd31b0d50",
         "bytes": 1218686
       },
-      "fonts/zhs/SourceHanSerifSC-Bold.otf": {
-        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Bold.otf",
-        "gitBlob": "10c35232ec4826c615343466c9389387810ad55a",
-        "sha256": "4564e8fb84d572e0b8b4e2980f3e23efc0c9956e64c84affce715a6de77cee27",
-        "bytes": 24683616
-      },
       "fonts/zhs/NotoSansMonoCJKsc-Regular.otf": {
         "path": "Slay the Spire 2/fonts/zhs/NotoSansMonoCJKsc-Regular.otf",
         "gitBlob": "999c45aa01e6d08c1fda977c0fc6d306f6595bd2",
         "sha256": "2b1dbdc50df666a00c50ecd77377e2394c6babd35a71e37505ab411ff55c7906",
         "bytes": 16412712
+      },
+      "fonts/zhs/SourceHanSerifSC-Bold.otf": {
+        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Bold.otf",
+        "gitBlob": "10c35232ec4826c615343466c9389387810ad55a",
+        "sha256": "4564e8fb84d572e0b8b4e2980f3e23efc0c9956e64c84affce715a6de77cee27",
+        "bytes": 24683616
       },
       "fonts/zhs/SourceHanSerifSC-Medium.otf": {
         "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Medium.otf",
