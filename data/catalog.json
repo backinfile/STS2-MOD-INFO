@@ -8,9 +8,9 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "23aa1380c5833312f95aa12c1ee5d634a7262a0f",
-      "upstreamUpdatedAt": "2026-10-29T01:23:52Z",
-      "syncedAt": "2026-10-29T05:58:22+00:00",
+      "commit": "95d4e6bdaf67cb141afec2cfd260da8c4a861979",
+      "upstreamUpdatedAt": "2026-11-01T11:04:56Z",
+      "syncedAt": "2026-11-01T17:58:23+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -4242,7 +4242,7 @@
         "KAREN_RETAIN_TMP_STRENGTH.title": "保留力量",
         "KAREN_RETAIN_TMP_STRENGTH.description": "延长临时力量存在的回合。",
         "KAREN_SHINE_CARD_REWARD.title": "闪耀牌奖励",
-        "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得仅包含1张闪耀牌的卡牌奖励。",
+        "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得1张闪耀牌奖励。",
         "KAREN_DISABLE_RELIC.title": "禁用遗物",
         "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n可禁用遗物数量不足时，这张牌[red]无法被打出[/red]。",
         "KAREN_TOKEN_CARD.title": "衍生牌",

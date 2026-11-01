@@ -1,9 +1,9 @@
 {
   "karen": {
     "ShoujoKagekiAijoKaren/localization/zhs/card_keywords.json": {
-      "bytes": 1187,
-      "gitBlob": "09e4270e3486bfc7636645a4d5a91b45495b7d2b",
-      "sha256": "76dd61611b8c302b0da9a46df3bb7f16f83ace98d8ce40811aa08f8e0c3b842b"
+      "bytes": 1169,
+      "gitBlob": "09c0d9b0a1eab9f9c8e406d5f6ff4eacf8ef99cc",
+      "sha256": "b12be856675f658b8ab16e624f3d1b187ee5adc4db66133c0ab28e412e27900b"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/cards.json": {
       "bytes": 20750,
@@ -16,9 +16,9 @@
       "sha256": "8b5dfcdb18b5626533e57618e8b51c930162218dc4aab98be636fb36c60c7b16"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
-      "bytes": 1306,
-      "gitBlob": "083ef2e20769c388a35005644d77460b01adb3aa",
-      "sha256": "204588917b510331c268c3bd704dd5aac8d9c0a6b7e77eed1df85992f4ab97ad"
+      "bytes": 1430,
+      "gitBlob": "0a2c4e54774a24e51f1bedae8600d881d5de6240",
+      "sha256": "1a6d1007be57f4b66ddef3dcae8d62e20f814d2eac86d5e341f70b61c5a98d58"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/potions.json": {
       "bytes": 723,
@@ -821,29 +821,29 @@
       "sha256": "c8dbd9e1352a7ea29f17f4ec52bbe05a0b90eeb2dc785ec25ac9260ef6556777"
     },
     "src/Core/Models/Cards/basic/KarenDefend.cs": {
-      "bytes": 1038,
-      "gitBlob": "29ce37eb42eb264972b22912a94d465ccf885d0a",
-      "sha256": "bcea3cbf7622f73901b0bb8a389b72573cd82368ace382d5c8f213906cf287f9"
+      "bytes": 1145,
+      "gitBlob": "f4acd99fb554bb2a07415b1029b0749948178b77",
+      "sha256": "fb3f62f77d28e54601316f14a031f0df4936fec7b671ac3513d93f64447a022f"
     },
     "src/Core/Models/Cards/basic/KarenFall.cs": {
-      "bytes": 1540,
-      "gitBlob": "528dc0456f254e27d7648f1191214ceb2739a235",
-      "sha256": "7434f43a27a855ee4ad91f7db346126ba196ae986b1ff29c19ee704e49529567"
+      "bytes": 1631,
+      "gitBlob": "4bde9033d5b21d90fc13019adb3f7f3e1b62f8bb",
+      "sha256": "c6a3f921ed02260059cb9a2e7ec50963a45ec3c81f085c7716dd4c578cd90201"
     },
     "src/Core/Models/Cards/basic/KarenPromiseDraw.cs": {
-      "bytes": 1670,
-      "gitBlob": "2437d8d0b045d36613507b1f30249e46bf3d123a",
-      "sha256": "692f77a524f9ddbfa9a819d358b111a9e6ee1d532be5453925a417064b712493"
+      "bytes": 1795,
+      "gitBlob": "c6a1acf94a361bccdc93a249952b7f1f72823d20",
+      "sha256": "42f8035ea8950d27f2f7a24f9535827dcfe016815377df35cb90a4beda032111"
     },
     "src/Core/Models/Cards/basic/KarenShineStrike.cs": {
-      "bytes": 1639,
-      "gitBlob": "66d54b1be0d44251f732273776fc7b7cad620f70",
-      "sha256": "2aa4afca7fe3c784366bb7f0918140eb9b47b2f0fddf3c0520ba5973ca3153da"
+      "bytes": 1764,
+      "gitBlob": "aa5bc0d9c0f509793d4e896cf93091aecd0c8ebc",
+      "sha256": "664a97935ec429fbdb5811cfba935b6017c826fec498ba024d8aacc361302778"
     },
     "src/Core/Models/Cards/basic/KarenStrike.cs": {
-      "bytes": 1148,
-      "gitBlob": "385effdcb9c74a2472f7c1f1f09c713b382476a8",
-      "sha256": "376c4c76d5c718fa1f1b2d4104ac8b019acbd2244b9644186b19fbc5cf33cf83"
+      "bytes": 1268,
+      "gitBlob": "494d41a37d0b89969c22d059cffe1bfcf6bf31d4",
+      "sha256": "9e9ededd0ea281ce5e6b19392ac6dd2fa0ab0c9a94c3573b627bbc3c10f5322e"
     },
     "src/Core/Models/Cards/curses/KarenSleepy.cs": {
       "bytes": 1001,
@@ -901,9 +901,9 @@
       "sha256": "e1cc44c30ecb9e7307fb24b0fbb13decedd54392bf89d202e59ec2fa1e1cd47c"
     },
     "src/Core/Models/Cards/neutral/KarenLastWord.cs": {
-      "bytes": 3892,
-      "gitBlob": "bea0ab838e13dcaefc9aa8be716a03e898b92533",
-      "sha256": "0e01ee97e32eb021ffea3e9283e04027626e930a664729bb42aade440725b815"
+      "bytes": 4193,
+      "gitBlob": "83a1bfbc2b08cdc6a525fe6059b6c755afbf2527",
+      "sha256": "af9680512184ef7371bcb66736337dd0d174596902e3549a489baceee90af707"
     },
     "src/Core/Models/Cards/neutral/KarenOldPlace.cs": {
       "bytes": 1794,
@@ -1076,9 +1076,9 @@
       "sha256": "5095f46b2e828327c6d1d7be43baad1f842d93fa685aafc35d3fd7eeaa37d5b2"
     },
     "src/Core/Models/Cards/promisePile/KarenWeKnow.cs": {
-      "bytes": 1558,
-      "gitBlob": "61acdbf6acdd53b6ccf768351d725f9d5efbaf02",
-      "sha256": "0cf43395a701a1db2c4352bcede7fb866782d6c79d29124e4c1183f1930da6ac"
+      "bytes": 1467,
+      "gitBlob": "2e003d78160cab7cbc4fc9f771f28aff12b23fcd",
+      "sha256": "a30815951c1693193f4e4a24894cee088d5b4cfe6af0969173ac215b8c48125c"
     },
     "src/Core/Models/Cards/promisePile/KarenWhosPromise.cs": {
       "bytes": 1791,
@@ -1216,9 +1216,9 @@
       "sha256": "bf71ff33b017c582d0db56381c78542ca176b908caf897c9c0dd73a307b131e4"
     },
     "src/Core/Models/Cards/shine/KarenStar.cs": {
-      "bytes": 4121,
-      "gitBlob": "6f198c8db5dd8efcfb6aa4aff53d643345c2c725",
-      "sha256": "d3545776057717ffb728870394705dd3c13868884d6008d7e8ff1599a909bc9a"
+      "bytes": 4131,
+      "gitBlob": "fd27c9299a7bac4420ce161f667e3bb6c9031d55",
+      "sha256": "99a3a00a194107d2e8580ab641cc7d6806f437d2a6470ad9ed26ff5e39636ee6"
     },
     "src/Core/Models/Cards/shine/KarenStarFriend.cs": {
       "bytes": 2294,
@@ -1246,9 +1246,9 @@
       "sha256": "cdae80ca012e167481d07a4b68da66a779038007c85833ea95980df2bd1d5ecf"
     },
     "src/Core/Models/Cards/shine/KarenSunlight.cs": {
-      "bytes": 7557,
-      "gitBlob": "84763918873e20f6e07355ef5d9615e39308560b",
-      "sha256": "48db77e2f708c78b8122d135c33b161d2793c334ba5e8a8abd27c1926f135064"
+      "bytes": 7606,
+      "gitBlob": "23aa8003cfeea87c070538fad17d0816ed1df2a0",
+      "sha256": "7149c4c726d550bf4586e0b1f0edc6604f3a8318d96acc662ba04ab97218cf93"
     },
     "src/Core/Models/Cards/shine/KarenSwordUp.cs": {
       "bytes": 2105,

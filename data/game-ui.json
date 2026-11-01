@@ -5,7 +5,7 @@
     "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
     "mods": {
       "karen": {
-        "commit": "23aa1380c5833312f95aa12c1ee5d634a7262a0f",
+        "commit": "95d4e6bdaf67cb141afec2cfd260da8c4a861979",
         "adapterHash": "774daaf70c0fb3fad9f4c1e56d3dfa9360650124e5ba600fd23c69f35a7ce165",
         "rendering": {
           "frameMaterialSource": "materials/cards/frames/card_frame_purple_mat.tres",
@@ -31,12 +31,12 @@
         }
       }
     },
-    "characters": "\n !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×…↗⌃⌄✓、。〔〕一三上下不与且世东两个中串临为久么义之乎习了予争事二于互交产京人什仅从代以们件任会伤伸低体余你使侧保信倍值傲充先光入全关其具内册再写冠况准减出击分切则初到制前剧剩力加务动励劲勇包化匹升午华南卡即去及友双反发取受变古只可台右吃各合同名后向吗否吧含命和咒哒哟唤唯唱商喜回困固图土圣在地场坠型城基堆塔增壳壶备复外多夜天失夹奖女好如妒始嫉子存完定害家容宽察对封将小少尖尝就尽局层峙巧已币幕干并幸序店度延开弃式引张弱强当形待得御忘态恋恒恕悟情想意戏成我或战戮所手才打找技把投披抽拉拓招拥择括拾指挑挡损换据排提搜摘摧操攻放效敌数斗料斩新方旋族无日时明易星昨是晚普暂更替最有朋未本术朵机杀束来松极果架查标样格桥梦棒次欢歌止正此步武殊毁每气水永池没治法注泪消添清游源满演激灵点烦烧然燃爱版牌物特犯状犹猫玩现球理瓶生用由界留的皇目直相看真眼着础示神票禁福离称移稀空穿立第等筛类糕索红约级练组终结给续罕罪置耀耗肉肌背能自至舞色花茶药获萨落蓄虚蛋行衍补被要见观视觉角认让记诅词试详说谊豆豫贯费起足跳蹈身转轮软载辉辰达过迈运还这进远选通速造逢遗遥避那部配醒重量金鉴锦键长门闪闭间队防阳阻降限除随雪非靠顶项额餐饭饰饼馆骄麻默齿！（），：；？"
+    "characters": "\n !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×…↗⌃⌄✓、。〔〕一三上下不与且世东两个中串临为久么义之乎习了予争事二于互交产京人什从代以们件任会伤伸低体余你使侧保信倍值傲充先光入全关其具内册再写冠况准减出击分切则初到制前剧剩力加务动励劲勇包化匹升午华南卡即去及友双反发取受变古只可台右吃各合同名后向吗否吧命和咒哒哟唤唯唱商喜回困固图土圣在地场坠型城基堆塔增壳壶备复外多夜天失夹奖女好如妒始嫉子存完定害家容宽察对封将小少尖尝就尽局层峙巧已币幕干并幸序店度延开弃式引张弱强当形待得御忘态恋恒恕悟情想意戏成我或战戮所手才打找技把投披抽拉拓招拥择括拾指挑挡损换据排提搜摘摧操攻放效敌数斗料斩新方旋族无日时明易星昨是晚普暂更替最有朋未本术朵机杀束来松极果架查标样格桥梦棒次欢歌止正此步武殊毁每气水永池没治法注泪消添清游源满演激灵点烦烧然燃爱版牌物特犯状犹猫玩现球理瓶生用由界留的皇目直相看真眼着础示神票禁福离称移稀空穿立第等筛类糕索红约级练组终结给续罕罪置耀耗肉肌背能自至舞色花茶药获萨落蓄虚蛋行衍补被要见观视觉角认让记诅词试详说谊豆豫贯费起足跳蹈身转轮软载辉辰达过迈运还这进远选通速造逢遗遥避那部配醒重量金鉴锦键长门闪闭间队防阳阻降限除随雪非靠顶项额餐饭饰饼馆骄麻默齿！（），：；？"
   },
   "gameRepository": "Hexpion/Slay-the-spire-2",
   "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
   "modRepository": "backinfile/STS2_ShoujoKagekiAijoKaren",
-  "modCommit": "23aa1380c5833312f95aa12c1ee5d634a7262a0f",
+  "modCommit": "95d4e6bdaf67cb141afec2cfd260da8c4a861979",
   "frameMaterial": {
     "h": 0.99,
     "s": 0.67,
@@ -158,17 +158,17 @@
         "sha256": "2b1dbdc50df666a00c50ecd77377e2394c6babd35a71e37505ab411ff55c7906",
         "bytes": 16412712
       },
-      "fonts/zhs/SourceHanSerifSC-Bold.otf": {
-        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Bold.otf",
-        "gitBlob": "10c35232ec4826c615343466c9389387810ad55a",
-        "sha256": "4564e8fb84d572e0b8b4e2980f3e23efc0c9956e64c84affce715a6de77cee27",
-        "bytes": 24683616
-      },
       "fonts/zhs/SourceHanSerifSC-Medium.otf": {
         "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Medium.otf",
         "gitBlob": "9e10784f79dbca55cc2b5103b61cca0acfb70200",
         "sha256": "210dc788c6cc15ed693c8ecde93ee83bf7714b759befa6aead042d6f6e1b878a",
         "bytes": 23889376
+      },
+      "fonts/zhs/SourceHanSerifSC-Bold.otf": {
+        "path": "Slay the Spire 2/fonts/zhs/SourceHanSerifSC-Bold.otf",
+        "gitBlob": "10c35232ec4826c615343466c9389387810ad55a",
+        "sha256": "4564e8fb84d572e0b8b4e2980f3e23efc0c9956e64c84affce715a6de77cee27",
+        "bytes": 24683616
       },
       "materials/cards/banners/card_banner_common_mat.tres": {
         "path": "Slay the Spire 2/materials/cards/banners/card_banner_common_mat.tres",
@@ -1712,8 +1712,8 @@
       ]
     },
     "assets/game-ui/game-regular.woff2": {
-      "sha256": "b225b680b03246736bf0797b5469f405172914b18e579ad20da73fb551f4e394",
-      "bytes": 254568
+      "sha256": "e5509fb1b32caeee866d040dcc9812c87f03d26ac30ab1c818dbe6b061c9f7bc",
+      "bytes": 253432
     },
     "assets/game-ui/game-bold.woff2": {
       "sha256": "08d3d3ec37dc2714a5bd136da2c8e6edb080348a0f5ba91a5f1fbd7556b3b129",
@@ -2105,6 +2105,8 @@
       "energy": "assets/game-ui/karen-energy.png",
       "inlineEnergy": "assets/game-ui/karen-inline-energy.png",
       "gameplay": {
+        "KAREN_SHINE_CARD_REWARD": "闪耀牌奖励×{Count}",
+        "KAREN_SHINE_CARD_REWARD_SELECT": "闪耀牌奖励×{MaxCount}",
         "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
         "KAREN_SHINE_SUFFIX": "。",
         "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",
@@ -2255,13 +2257,15 @@
       },
       "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
         "path": "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json",
-        "gitBlob": "083ef2e20769c388a35005644d77460b01adb3aa",
-        "sha256": "204588917b510331c268c3bd704dd5aac8d9c0a6b7e77eed1df85992f4ab97ad",
-        "bytes": 1306
+        "gitBlob": "0a2c4e54774a24e51f1bedae8600d881d5de6240",
+        "sha256": "1a6d1007be57f4b66ddef3dcae8d62e20f814d2eac86d5e341f70b61c5a98d58",
+        "bytes": 1430
       }
     }
   },
   "modGameplay": {
+    "KAREN_SHINE_CARD_REWARD": "闪耀牌奖励×{Count}",
+    "KAREN_SHINE_CARD_REWARD_SELECT": "闪耀牌奖励×{MaxCount}",
     "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
     "KAREN_SHINE_SUFFIX": "。",
     "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",

@@ -11,7 +11,7 @@
     "KAREN_RETAIN_TMP_STRENGTH.title": "保留力量",
     "KAREN_RETAIN_TMP_STRENGTH.description": "延长临时力量存在的回合。",
     "KAREN_SHINE_CARD_REWARD.title": "闪耀牌奖励",
-    "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得仅包含1张闪耀牌的卡牌奖励。",
+    "KAREN_SHINE_CARD_REWARD.description": "战斗结束后，获得1张闪耀牌奖励。",
     "KAREN_DISABLE_RELIC.title": "禁用遗物",
     "KAREN_DISABLE_RELIC.description": "在一场战斗内，使最右侧的非远古遗物失效。\n可禁用遗物数量不足时，这张牌[red]无法被打出[/red]。",
     "KAREN_TOKEN_CARD.title": "衍生牌",
@@ -279,6 +279,8 @@
     "KAREN.titleObject": "爱城华恋"
   },
   "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
+    "KAREN_SHINE_CARD_REWARD": "闪耀牌奖励×{Count}",
+    "KAREN_SHINE_CARD_REWARD_SELECT": "闪耀牌奖励×{MaxCount}",
     "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
     "KAREN_SHINE_SUFFIX": "。",
     "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",
