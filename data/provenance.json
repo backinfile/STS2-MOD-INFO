@@ -861,9 +861,9 @@
       "sha256": "0d9f183aad675ebe9f6e65efe57e383b5f5d79bc2b1699e94573d57d0d0c1237"
     },
     "src/Core/Models/Cards/globalMove/KarenSpin.cs": {
-      "bytes": 2389,
-      "gitBlob": "e60c19fcc87634dabc4786bd5c4187fd42833a25",
-      "sha256": "82f9e99166ee8fbd90ece35fa488c06d0d3a39d3ec4bc851fd019029fde5df28"
+      "bytes": 2615,
+      "gitBlob": "63926c144e17a45897ad5913d1eb0834e9c659cf",
+      "sha256": "fad0a2280a2edf842614c821564651468dd2262594e0ed01756cfdc3ccad14c0"
     },
     "src/Core/Models/Cards/globalMove/KarenWakeUp.cs": {
       "bytes": 2202,
@@ -881,9 +881,9 @@
       "sha256": "cb841022ada0b59cf48e24aed498f59fcf2f6aaff808755c7df8e440f2e4f72c"
     },
     "src/Core/Models/Cards/neutral/KarenConsciousness.cs": {
-      "bytes": 1820,
-      "gitBlob": "e9396cb9bf1c04e68b01ae5abb236e1de6fde2c8",
-      "sha256": "4517489045f5f286a41e76135d11c6ab3a4e83fbaa9d93d6958d09c6f92638b9"
+      "bytes": 2105,
+      "gitBlob": "a745be08e58b346fc21c06b3d147b0a88addd688",
+      "sha256": "387877a11ec82d4a0936408a4cc7a5fa899168473cf77c7deee03593af894cb8"
     },
     "src/Core/Models/Cards/neutral/KarenCry.cs": {
       "bytes": 1298,
@@ -951,9 +951,9 @@
       "sha256": "9faf2da5efa76452a00ee24d02eba04ee566b35af1eb78e59c397956ba349799"
     },
     "src/Core/Models/Cards/promisePile/KarenCourageStrike.cs": {
-      "bytes": 1855,
-      "gitBlob": "f57b147dc55afc4d78b67fde5d8cb4d3d1f58602",
-      "sha256": "5406a9d61f467be41d00019c19859a6dfd0c6733880f4be9d0f79df800030227"
+      "bytes": 2073,
+      "gitBlob": "bd68e931f59d213ce95b2fe5f2363a114158f89d",
+      "sha256": "59524e0b11959d1fc0a02b2667055304d1247daef642f2a9242a4e56fe433283"
     },
     "src/Core/Models/Cards/promisePile/KarenDance.cs": {
       "bytes": 1727,
@@ -971,14 +971,14 @@
       "sha256": "7c477e4a77de2c2cdb7f6d42a362caa8725691a581032083f39f9e6727773db3"
     },
     "src/Core/Models/Cards/promisePile/KarenHolyStar.cs": {
-      "bytes": 1852,
-      "gitBlob": "5b220e31ff6b0513f32637f130b4db7724e0c898",
-      "sha256": "2d1ad9c36c99c759d3697402f7555ce301489f2f8b4e12d5a5547832513b1af2"
+      "bytes": 2082,
+      "gitBlob": "19b9d639d12d2464984604e80008643a825fc3ed",
+      "sha256": "fd8a6280cc22009ff0924b6fdfb220de0ced75542a1f76fffb8f736c33f48490"
     },
     "src/Core/Models/Cards/promisePile/KarenLanding.cs": {
-      "bytes": 1691,
-      "gitBlob": "d4f1a4ab5186df5f1343aba26d1450e802818a70",
-      "sha256": "9e6257fadd6b00702496bbc9a4acea6909923e92e16d5c58a5aba770fc88cd89"
+      "bytes": 1909,
+      "gitBlob": "3ff9e35a7e4373a077044b4e6b7bf016b8e81445",
+      "sha256": "6a7198b2439b6969445f0410f9c6462092329ab7ce1b7df12665de1ede7c8378"
     },
     "src/Core/Models/Cards/promisePile/KarenLetterCard.cs": {
       "bytes": 1473,
@@ -1136,19 +1136,19 @@
       "sha256": "01d7fdc92f24f845cea8c5e7e72b95e90ce4302d670d1869117f5f6698081fed"
     },
     "src/Core/Models/Cards/shine/KarenChargeStrike.cs": {
-      "bytes": 2031,
-      "gitBlob": "b25f8ac68bf1a24100bde0a08a0c9b43f4d138c0",
-      "sha256": "16a6c51df1ebeead4cf0fdfe138fe65a66723d2004f833251fcc4605c25dd452"
+      "bytes": 2259,
+      "gitBlob": "0fc6769786708f5dba729ce875c064deb6436dce",
+      "sha256": "40fd9c7b30803999e8ed87b0dc5feac57ac3e4cc43df6029dc0f36255cb2ee61"
     },
     "src/Core/Models/Cards/shine/KarenContinue02.cs": {
-      "bytes": 2383,
-      "gitBlob": "b65ee83ac8b39cf22f2b81d205b843ed2d6f6a90",
-      "sha256": "286a656bbebd1b4e2269fc6b7da6bc677c24293da66f2730329bb2352e242548"
+      "bytes": 2612,
+      "gitBlob": "47c2100ea22a96e7402423883a5dbe8b8f706fe7",
+      "sha256": "bcd5d9d480ef51f78a78f5b36aac5af7eb5e224f81ffc7d5b39aa1742ac2a519"
     },
     "src/Core/Models/Cards/shine/KarenDebut.cs": {
-      "bytes": 1501,
-      "gitBlob": "c84033900f9e3152de94d2d23276be72d1b3533b",
-      "sha256": "44a74818b489380d1c45fd9b9c66690bdc9432a130c73c8c1aa6913d64162db5"
+      "bytes": 1671,
+      "gitBlob": "e032bbd2d1d846550bf6de17f9867a38994da7b3",
+      "sha256": "5360210a6036c681e066f034b44af77e1b9561e39dd45900e283f4a7d4d2e403"
     },
     "src/Core/Models/Cards/shine/KarenDrinkWater.cs": {
       "bytes": 1165,
@@ -1221,9 +1221,9 @@
       "sha256": "99a3a00a194107d2e8580ab641cc7d6806f437d2a6470ad9ed26ff5e39636ee6"
     },
     "src/Core/Models/Cards/shine/KarenStarFriend.cs": {
-      "bytes": 2294,
-      "gitBlob": "fcb81fd8dbfd1d2c84abf6f2d78831a0e92953f9",
-      "sha256": "5bcd0ff04dafd0f81d8013d444169338dd0e667f583617b91abca37bac09672e"
+      "bytes": 2559,
+      "gitBlob": "11f731646fdd63e01283897c3396c8d18307e4a4",
+      "sha256": "4c0954f39426d6ca7b49183f6731e8b27134647eaedc4cd74d868fc3c2058c5b"
     },
     "src/Core/Models/Cards/shine/KarenStarGuide.cs": {
       "bytes": 1887,
@@ -1251,9 +1251,9 @@
       "sha256": "7149c4c726d550bf4586e0b1f0edc6604f3a8318d96acc662ba04ab97218cf93"
     },
     "src/Core/Models/Cards/shine/KarenSwordUp.cs": {
-      "bytes": 2105,
-      "gitBlob": "27c8bdddb2c6e1c2f261c7275904b9e9ec6768cc",
-      "sha256": "347d1546b62834fa081cd81e1996efa9c8e449a139c3523d4ae85621d20791ce"
+      "bytes": 2332,
+      "gitBlob": "efa9646617fc37f118edc2793b75bdbcdfe9207a",
+      "sha256": "662a31c09edb3e3287ba599a2267bc7eddf396fa16275a14485745004451b9b8"
     },
     "src/Core/Models/Cards/shine/KarenToTheStage.cs": {
       "bytes": 1187,
@@ -1276,9 +1276,9 @@
       "sha256": "c1560c83c1b214c021d74514a9dca3db6295d7b3083cbc625dcc5b01484809a1"
     },
     "src/Core/Models/Cards/token/KarenConfront.cs": {
-      "bytes": 1452,
-      "gitBlob": "ca686b0324717f156eae3faf4bff3fad5903aba7",
-      "sha256": "d6f08011ff9399eb3c88cdadb96cc07ca37db4ba48c7261eef8e53dfde6c0762"
+      "bytes": 1682,
+      "gitBlob": "4fe49075f6b2c21e5571afbea17f838392135270",
+      "sha256": "02854cd6323754320280da79c4b7d795718990cf8ba6111999b3436c1d4ed1e2"
     },
     "src/Core/Models/Cards/token/KarenContinue.cs": {
       "bytes": 1445,
@@ -1286,9 +1286,9 @@
       "sha256": "0c39714d8592a6e2bc324e2c340c4ece95b6d935c3590c95fdc384acc467e5eb"
     },
     "src/Core/Models/Cards/token/KarenCounter.cs": {
-      "bytes": 1460,
-      "gitBlob": "09fa74fcd44bf21110bfc070d44635238fd284ea",
-      "sha256": "e7ee231c4f6941a7c3967f2a36f191f2bd172c34b292621c9843c3e68265e6d0"
+      "bytes": 1682,
+      "gitBlob": "d7b3b8f1cffd93ffbeb5b46ab06b1cb4171cac14",
+      "sha256": "9c2ec137213e20f1b446a4e73322e519212cfa72be92b5e0b6ca93c4701e268d"
     },
     "src/Core/Models/Cards/token/KarenEmptyShell.cs": {
       "bytes": 1220,
