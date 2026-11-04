@@ -5,7 +5,7 @@
     "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
     "mods": {
       "karen": {
-        "commit": "0b39b7bc0d44614184b700c8267ba7087c5dbd9b",
+        "commit": "0877175020ab1fd26afa111f7ae51ad501df3fea",
         "adapterHash": "774daaf70c0fb3fad9f4c1e56d3dfa9360650124e5ba600fd23c69f35a7ce165",
         "rendering": {
           "frameMaterialSource": "materials/cards/frames/card_frame_purple_mat.tres",
@@ -36,7 +36,7 @@
   "gameRepository": "Hexpion/Slay-the-spire-2",
   "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
   "modRepository": "backinfile/STS2_ShoujoKagekiAijoKaren",
-  "modCommit": "0b39b7bc0d44614184b700c8267ba7087c5dbd9b",
+  "modCommit": "0877175020ab1fd26afa111f7ae51ad501df3fea",
   "frameMaterial": {
     "h": 0.99,
     "s": 0.67,
