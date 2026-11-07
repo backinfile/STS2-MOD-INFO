@@ -9,9 +9,9 @@ window.MOD_CATALOG = {
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "e8730c8625ef3a13194b39ad3b83b0bf37994ade",
-      "upstreamUpdatedAt": "2026-11-05T00:57:14Z",
-      "syncedAt": "2026-11-05T06:59:15+00:00",
+      "commit": "7436f13536952862649eddae38d7c4cafc6ec043",
+      "upstreamUpdatedAt": "2026-11-07T03:54:24Z",
+      "syncedAt": "2026-11-07T06:11:09+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -155,25 +155,15 @@ window.MOD_CATALOG = {
           "className": "KarenShineStrike",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Basic",
           "upgradedDescription": "造成9点伤害。",
           "upgradedCost": 0,
           "inPool": true,
-          "group": "shine",
-          "shine": 9,
+          "group": "other",
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -254,25 +244,15 @@ window.MOD_CATALOG = {
           "className": "KarenStageReason",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Curse",
           "rarity": "Curse",
           "upgradedDescription": "",
           "upgradedCost": null,
           "inPool": false,
-          "group": "shine",
-          "shine": 3,
+          "group": "other",
+          "shine": null,
           "keywords": [
             "Exhaust"
           ],
@@ -455,15 +435,6 @@ window.MOD_CATALOG = {
           "flavor": "",
           "tipRefs": [
             {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            },
-            {
               "kind": "static",
               "key": "BLOCK"
             }
@@ -474,8 +445,8 @@ window.MOD_CATALOG = {
           "upgradedDescription": "造成9点伤害。\n获得等量于所造成伤害的[gold]格挡[/gold]。",
           "upgradedCost": null,
           "inPool": true,
-          "group": "shine",
-          "shine": 9,
+          "group": "other",
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -1264,25 +1235,15 @@ window.MOD_CATALOG = {
           "className": "KarenNoHesitate",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Uncommon",
           "upgradedDescription": "从抽牌堆，手牌，或弃牌堆中选择3张牌放入[gold]约定牌堆[/gold]。",
           "upgradedCost": null,
           "inPool": true,
-          "group": "shine",
-          "shine": 6,
+          "group": "promise",
+          "shine": null,
           "keywords": [
             "Exhaust"
           ],
@@ -2001,25 +1962,15 @@ window.MOD_CATALOG = {
           "className": "KarenJealousy",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Rare",
           "upgradedDescription": "造成20点伤害。\n[gold]闪耀[/gold]耗尽时，获得2个随机遗物。",
           "upgradedCost": null,
           "inPool": true,
-          "group": "shine",
-          "shine": 9,
+          "group": "other",
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2038,25 +1989,15 @@ window.MOD_CATALOG = {
           "className": "KarenPassion",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 2,
           "type": "Skill",
           "rarity": "Rare",
           "upgradedDescription": "战斗结束时，获得一个随机遗物。",
           "upgradedCost": 0,
           "inPool": true,
-          "group": "shine",
-          "shine": 1,
+          "group": "other",
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2164,18 +2105,20 @@ window.MOD_CATALOG = {
         {
           "id": "KAREN_CARRYING_GUILT",
           "name": "我们犯下的罪过",
-          "description": "造成12点伤害。\n本局游戏中每耗尽一张非同名的[gold]闪耀[/gold]牌，伤害增加4点。",
+          "description": "造成〔动态值〕点伤害。\n本局游戏中每耗尽一张非同名的[gold]闪耀[/gold]牌，伤害增加4点。",
           "rawDescription": "造成{CalculatedDamage:diff()}点伤害。\n本局游戏中每耗尽一张非同名的[gold]闪耀[/gold]牌，伤害增加{ExtraDamage:diff()}点。{ShinePileUniqueCount:choose(0):|\n(已耗尽{ShinePileUniqueCount}张)}",
           "image": "assets/karen/images/packed/card_portraits/karen/karen_carrying_guilt.png",
           "sourcePath": "src/Core/Models/Cards/shine/KarenCarryingGuilt.cs",
           "className": "KarenCarryingGuilt",
-          "unresolved": [],
+          "unresolved": [
+            "CalculatedDamage"
+          ],
           "flavor": "",
           "tipRefs": [],
           "cost": 2,
           "type": "Attack",
           "rarity": "Rare",
-          "upgradedDescription": "造成15点伤害。\n本局游戏中每耗尽一张非同名的[gold]闪耀[/gold]牌，伤害增加5点。",
+          "upgradedDescription": "造成〔动态值〕点伤害。\n本局游戏中每耗尽一张非同名的[gold]闪耀[/gold]牌，伤害增加5点。",
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
@@ -2202,15 +2145,6 @@ window.MOD_CATALOG = {
             {
               "kind": "power",
               "key": "STRENGTH_POWER"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 1,
@@ -2220,7 +2154,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2239,17 +2173,7 @@ window.MOD_CATALOG = {
           "className": "KarenContinue02",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Uncommon",
@@ -2257,7 +2181,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": null,
@@ -2281,17 +2205,7 @@ window.MOD_CATALOG = {
           "className": "KarenDebut",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Common",
@@ -2299,7 +2213,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 6,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2318,17 +2232,7 @@ window.MOD_CATALOG = {
           "className": "KarenDrinkWater",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Skill",
           "rarity": "Uncommon",
@@ -2336,7 +2240,7 @@ window.MOD_CATALOG = {
           "upgradedCost": 0,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [
             "Exhaust"
           ],
@@ -2359,17 +2263,7 @@ window.MOD_CATALOG = {
           "className": "KarenDropFuel",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Rare",
@@ -2377,7 +2271,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [
             "Exhaust"
           ],
@@ -2400,17 +2294,7 @@ window.MOD_CATALOG = {
           "className": "KarenFightRelay",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Uncommon",
@@ -2418,7 +2302,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2441,15 +2325,6 @@ window.MOD_CATALOG = {
             {
               "kind": "power",
               "key": "STRENGTH_POWER"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 3,
@@ -2459,7 +2334,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2478,17 +2353,7 @@ window.MOD_CATALOG = {
           "className": "KarenPotato",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Uncommon",
@@ -2496,7 +2361,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2517,15 +2382,6 @@ window.MOD_CATALOG = {
           "flavor": "",
           "tipRefs": [
             {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            },
-            {
               "kind": "static",
               "key": "BLOCK"
             }
@@ -2537,7 +2393,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2590,15 +2446,6 @@ window.MOD_CATALOG = {
           "flavor": "",
           "tipRefs": [
             {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            },
-            {
               "kind": "static",
               "key": "BLOCK"
             }
@@ -2610,7 +2457,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2633,15 +2480,6 @@ window.MOD_CATALOG = {
             {
               "kind": "power",
               "key": "STRENGTH_POWER"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 0,
@@ -2651,7 +2489,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 6,
+          "shine": null,
           "keywords": [
             "Innate",
             "Exhaust"
@@ -2681,15 +2519,6 @@ window.MOD_CATALOG = {
               "kind": "text",
               "name": "张数？",
               "description": "会额外打出[blue]0[/blue]张"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 1,
@@ -2699,7 +2528,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 6,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2718,17 +2547,7 @@ window.MOD_CATALOG = {
           "className": "KarenShineStrikeBarrage",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Common",
@@ -2736,7 +2555,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 6,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2759,15 +2578,6 @@ window.MOD_CATALOG = {
             {
               "kind": "mod",
               "key": "KAREN_SHINE_CARD_REWARD"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 2,
@@ -2777,7 +2587,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -2868,15 +2678,6 @@ window.MOD_CATALOG = {
             {
               "kind": "mod",
               "key": "KAREN_SHINE_CARD_REWARD"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 1,
@@ -2886,7 +2687,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -3029,17 +2830,7 @@ window.MOD_CATALOG = {
           "className": "KarenSunlight",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 1,
           "type": "Attack",
           "rarity": "Uncommon",
@@ -3047,7 +2838,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 3,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -3074,15 +2865,6 @@ window.MOD_CATALOG = {
             {
               "kind": "power",
               "key": "VULNERABLE_POWER"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 1,
@@ -3092,7 +2874,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 9,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -3111,17 +2893,7 @@ window.MOD_CATALOG = {
           "className": "KarenToTheStage",
           "unresolved": [],
           "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
-            }
-          ],
+          "tipRefs": [],
           "cost": 0,
           "type": "Skill",
           "rarity": "Common",
@@ -3129,7 +2901,7 @@ window.MOD_CATALOG = {
           "upgradedCost": null,
           "inPool": true,
           "group": "shine",
-          "shine": 6,
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -3328,43 +3100,6 @@ window.MOD_CATALOG = {
           "isOption": false
         },
         {
-          "id": "KAREN_EMPTY_SHELL",
-          "name": "空壳",
-          "description": "",
-          "rawDescription": "",
-          "image": "assets/karen/images/packed/card_portraits/token/karen_empty_shell.png",
-          "sourcePath": "src/Core/Models/Cards/token/KarenEmptyShell.cs",
-          "className": "KarenEmptyShell",
-          "unresolved": [],
-          "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "text",
-              "name": "提示",
-              "description": "当你尝试获得一张已耗尽的[gold]闪耀[/gold]牌的复制时，会获得这张牌。"
-            }
-          ],
-          "cost": 0,
-          "type": "Skill",
-          "rarity": "Token",
-          "upgradedDescription": "",
-          "upgradedCost": null,
-          "inPool": false,
-          "group": "other",
-          "shine": null,
-          "keywords": [
-            "Exhaust"
-          ],
-          "upgradedKeywords": [
-            "Exhaust"
-          ],
-          "maxUpgradeLevel": 1,
-          "cardPool": "token",
-          "visualPool": "karen",
-          "isRegistered": true,
-          "isOption": false
-        },
-        {
           "id": "KAREN_SANDWITCH",
           "name": "三明治",
           "description": "获得3点[gold]临时力量[/gold]。",
@@ -3410,15 +3145,6 @@ window.MOD_CATALOG = {
               "kind": "text",
               "name": "提示",
               "description": "这张牌会在[gold]闪耀牌奖励[/gold]中出现。"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_SHINE"
-            },
-            {
-              "kind": "mod",
-              "key": "KAREN_ETERNAL_SHINE",
-              "ifKeyword": "Eternal"
             }
           ],
           "cost": 1,
@@ -3427,8 +3153,8 @@ window.MOD_CATALOG = {
           "upgradedDescription": "从耗尽的[gold]闪耀[/gold]牌中选择1张重新加入牌组。",
           "upgradedCost": 0,
           "inPool": false,
-          "group": "shine",
-          "shine": 1,
+          "group": "other",
+          "shine": null,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
