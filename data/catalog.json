@@ -8,9 +8,9 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "7436f13536952862649eddae38d7c4cafc6ec043",
-      "upstreamUpdatedAt": "2026-11-07T03:54:24Z",
-      "syncedAt": "2026-11-07T06:11:09+00:00",
+      "commit": "18233744b26981c7bfb8ee1d9ca7bdaeb57d6d54",
+      "upstreamUpdatedAt": "2026-11-13T16:38:45Z",
+      "syncedAt": "2026-11-13T19:51:10+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -3130,40 +3130,6 @@
           "isOption": false
         },
         {
-          "id": "KAREN_SHINE_REPRODUCE",
-          "name": "闪耀的再生产",
-          "description": "从耗尽的[gold]闪耀[/gold]牌中选择1张重新加入牌组。",
-          "rawDescription": "从耗尽的[gold]闪耀[/gold]牌中选择{Cards:diff()}张重新加入牌组。",
-          "image": "assets/karen/images/packed/card_portraits/token/karen_shine_reproduce.png",
-          "sourcePath": "src/Core/Models/Cards/token/KarenShineReproduce.cs",
-          "className": "KarenShineReproduce",
-          "unresolved": [],
-          "flavor": "",
-          "tipRefs": [
-            {
-              "kind": "text",
-              "name": "提示",
-              "description": "这张牌会在[gold]闪耀牌奖励[/gold]中出现。"
-            }
-          ],
-          "cost": 1,
-          "type": "Skill",
-          "rarity": "Token",
-          "upgradedDescription": "从耗尽的[gold]闪耀[/gold]牌中选择1张重新加入牌组。",
-          "upgradedCost": 0,
-          "inPool": false,
-          "group": "other",
-          "shine": null,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "bannerOverride": "rare",
-          "cardPool": "token",
-          "visualPool": "karen",
-          "isRegistered": true,
-          "isOption": false
-        },
-        {
           "id": "KAREN_SIDEWAYS",
           "name": "侧身",
           "description": "获得6点[gold]格挡[/gold]。",
@@ -3724,21 +3690,6 @@
           "outline": "assets/karen/images/relics/karen_cookie_relic_outline.png"
         },
         {
-          "id": "KAREN_FLOWER_RELIC",
-          "name": "花朵",
-          "description": "遗物奖励拥有额外一个选项。",
-          "rawDescription": "遗物奖励拥有额外一个选项。",
-          "image": "assets/karen/images/relics/karen_flower_relic.png",
-          "sourcePath": "src/Core/Models/Relics/KarenFlowerRelic.cs",
-          "className": "KarenFlowerRelic",
-          "unresolved": [],
-          "flavor": "我在世界上最闪耀的样子，会第一个让你看到。",
-          "tipRefs": [],
-          "rarity": "Rare",
-          "icon": "assets/karen/images/relics/karen_flower_relic.png",
-          "outline": null
-        },
-        {
           "id": "KAREN_HAIRPIN2_RELIC",
           "name": "发夹-立体版",
           "description": "在你的[blue]第1[/blue]回合开始时，将一张[gold]约定之塔+[/gold]加入手牌。",
@@ -3987,9 +3938,6 @@
         "KAREN_PASSION_POWER.title": "激情",
         "KAREN_PASSION_POWER.description": "战斗结束后，额外获得1个随机遗物。",
         "KAREN_PASSION_POWER.smartDescription": "战斗结束后，额外获得{Amount}个随机遗物。",
-        "KAREN_SHINE_CARD_REWARD_POWER.title": "闪耀牌奖励",
-        "KAREN_SHINE_CARD_REWARD_POWER.description": "战斗结束后，额外获得1张闪耀牌奖励。",
-        "KAREN_SHINE_CARD_REWARD_POWER.smartDescription": "战斗结束后，额外获得{Amount}张闪耀牌奖励。",
         "KAREN_LETTER_POWER.title": "信封",
         "KAREN_LETTER_POWER.description": "将卡牌放入到[gold]约定牌堆[/gold]时，获得2点[gold]格挡[/gold]。",
         "KAREN_LETTER_POWER.smartDescription": "将卡牌放入到[gold]约定牌堆[/gold]时，获得{Amount}点[gold]格挡[/gold]。",

@@ -246,11 +246,6 @@
     "KAREN_REWRITE.description": "造成{Damage:diff()}点伤害。\n打出所有耗尽的[gold]续写[/gold]。{InCombat:\n（已耗尽{Cnt}张。）|}",
     "KAREN_REWRITE.extraPlayTip.title": "张数？",
     "KAREN_REWRITE.extraPlayTip.description": "会额外打出[blue]{AdditionalPlays}[/blue]张",
-    "KAREN_SHINE_REPRODUCE.title": "闪耀的再生产",
-    "KAREN_SHINE_REPRODUCE.description": "从耗尽的[gold]闪耀[/gold]牌中选择{Cards:diff()}张重新加入牌组。",
-    "KAREN_SHINE_REPRODUCE.tip.title": "提示",
-    "KAREN_SHINE_REPRODUCE.tip": "这张牌会在[gold]闪耀牌奖励[/gold]中出现。",
-    "KAREN_SHINE_REPRODUCE.select_title": "选择一张闪耀耗尽的牌",
     "KAREN_EMPTY_SHELL.title": "空壳",
     "KAREN_EMPTY_SHELL.description": "",
     "KAREN_EMPTY_SHELL.tip.title": "提示",
@@ -279,8 +274,6 @@
     "KAREN.titleObject": "爱城华恋"
   },
   "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
-    "KAREN_SHINE_CARD_REWARD": "闪耀牌奖励×{Count}",
-    "KAREN_SHINE_CARD_REWARD_SELECT": "闪耀牌奖励×{MaxCount}",
     "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
     "KAREN_SHINE_SUFFIX": "。",
     "KAREN_PROMISE_PILE_SELECT": "放入约定牌堆",
@@ -326,9 +319,6 @@
     "KAREN_PASSION_POWER.title": "激情",
     "KAREN_PASSION_POWER.description": "战斗结束后，额外获得1个随机遗物。",
     "KAREN_PASSION_POWER.smartDescription": "战斗结束后，额外获得{Amount}个随机遗物。",
-    "KAREN_SHINE_CARD_REWARD_POWER.title": "闪耀牌奖励",
-    "KAREN_SHINE_CARD_REWARD_POWER.description": "战斗结束后，额外获得1张闪耀牌奖励。",
-    "KAREN_SHINE_CARD_REWARD_POWER.smartDescription": "战斗结束后，额外获得{Amount}张闪耀牌奖励。",
     "KAREN_LETTER_POWER.title": "信封",
     "KAREN_LETTER_POWER.description": "将卡牌放入到[gold]约定牌堆[/gold]时，获得2点[gold]格挡[/gold]。",
     "KAREN_LETTER_POWER.smartDescription": "将卡牌放入到[gold]约定牌堆[/gold]时，获得{Amount}点[gold]格挡[/gold]。",
@@ -408,9 +398,6 @@
     "KAREN_LITTLE_STAR_RELIC.flavor": "你将获得小小的幸福。",
     "KAREN_STAR_TIARA_RELIC.title": "星之皇冠",
     "KAREN_STAR_TIARA_RELIC.description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得{Energy:energyIcons()}。",
-    "KAREN_STAR_TIARA_RELIC.flavor": "这就是我的 Starlight。",
-    "KAREN_FLOWER_RELIC.title": "花朵",
-    "KAREN_FLOWER_RELIC.description": "遗物奖励拥有额外一个选项。",
-    "KAREN_FLOWER_RELIC.flavor": "我在世界上最闪耀的样子，会第一个让你看到。"
+    "KAREN_STAR_TIARA_RELIC.flavor": "这就是我的 Starlight。"
   }
 }
