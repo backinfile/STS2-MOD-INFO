@@ -1466,9 +1466,9 @@
       "sha256": "d06990fc1d392ca43bb7f4bd25b0c705bb343db33906f00781a70fd639f24f4b"
     },
     "src/Core/Utils/Tips.cs": {
-      "bytes": 6139,
-      "gitBlob": "d7fc9915c03dd8da8dbd0de78d5ad7883a192f49",
-      "sha256": "542f66205f2301dfae4cc35d284516b97dfcdcd5c225cbec099b313c84325ee0"
+      "bytes": 6267,
+      "gitBlob": "ee53770705146f3b80a98a332e0d8c6c25fef5d7",
+      "sha256": "c1a4ca64771d0e097dfba6db6dfe76cd6769c174889713fbef34370a14ebd66a"
     }
   }
 }
