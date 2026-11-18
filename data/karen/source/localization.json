@@ -68,8 +68,6 @@
     "KAREN_STARLIGHT02_CARD.description": "打出的[gold]闪耀[/gold]牌会额外打出{KarenStarlight02Power:diff()}次，然后耗尽闪耀值。",
     "KAREN_STARLIGHT03_CARD.title": "Starlight第三幕",
     "KAREN_STARLIGHT03_CARD.description": "获得[gold]闪耀牌奖励[/gold]。",
-    "KAREN_STAGE_REASON.title": "存在于舞台的理由",
-    "KAREN_STAGE_REASON.description": "",
     "KAREN_CONTINUE.title": "续演",
     "KAREN_CONTINUE.description": "造成{Damage:diff()}点伤害。",
     "KAREN_PROMISE_DRAW.title": "不再遥不可及",
@@ -271,7 +269,9 @@
     "KAREN.pronounPossessive": "她的",
     "KAREN.pronounSubject": "她",
     "KAREN.title": "爱城华恋",
-    "KAREN.titleObject": "爱城华恋"
+    "KAREN.titleObject": "爱城华恋",
+    "KAREN.shortTitle": "爱城华恋",
+    "KAREN.bestiaryQuote": "我还没有战胜过这样的对手呢。"
   },
   "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
     "KAREN_SHINE_LABEL": "[gold]闪耀[/gold]",
@@ -398,6 +398,7 @@
     "KAREN_LITTLE_STAR_RELIC.flavor": "你将获得小小的幸福。",
     "KAREN_STAR_TIARA_RELIC.title": "星之皇冠",
     "KAREN_STAR_TIARA_RELIC.description": "每回合开始时，[gold]禁用[/gold][blue]1[/blue]个遗物，获得{Energy:energyIcons()}。",
-    "KAREN_STAR_TIARA_RELIC.flavor": "这就是我的 Starlight。"
+    "KAREN_STAR_TIARA_RELIC.flavor": "这就是我的 Starlight。",
+    "SEA_GLASS.KAREN.title": "闪耀玻璃"
   }
 }

@@ -8,9 +8,9 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "46de4cc59cde61287526580df4a556c745dacfff",
-      "upstreamUpdatedAt": "2026-11-15T05:58:37Z",
-      "syncedAt": "2026-11-15T06:46:03+00:00",
+      "commit": "eaac1de91426f6a1ae9e4b9a52e7b62baed2f225",
+      "upstreamUpdatedAt": "2026-11-18T04:57:12Z",
+      "syncedAt": "2026-11-18T07:41:19+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -226,37 +226,6 @@
             "Unplayable",
             "Ethereal",
             "Eternal"
-          ],
-          "maxUpgradeLevel": 0,
-          "cardPool": "curse",
-          "visualPool": "curse",
-          "isRegistered": true,
-          "isOption": false
-        },
-        {
-          "id": "KAREN_STAGE_REASON",
-          "name": "存在于舞台的理由",
-          "description": "",
-          "rawDescription": "",
-          "image": "assets/karen/images/packed/card_portraits/curse/karen_stage_reason.png",
-          "sourcePath": "src/Core/Models/Cards/curses/KarenStageReason.cs",
-          "className": "KarenStageReason",
-          "unresolved": [],
-          "flavor": "",
-          "tipRefs": [],
-          "cost": 1,
-          "type": "Curse",
-          "rarity": "Curse",
-          "upgradedDescription": "",
-          "upgradedCost": null,
-          "inPool": false,
-          "group": "other",
-          "shine": null,
-          "keywords": [
-            "Exhaust"
-          ],
-          "upgradedKeywords": [
-            "Exhaust"
           ],
           "maxUpgradeLevel": 0,
           "cardPool": "curse",

@@ -6,14 +6,14 @@
       "sha256": "b12be856675f658b8ab16e624f3d1b187ee5adc4db66133c0ab28e412e27900b"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/cards.json": {
-      "bytes": 20360,
-      "gitBlob": "8700797269f792fde3747d45e71ec48c4ce29274",
-      "sha256": "68a30c699ef5c4b1912333d6b57bf7e4fb7167ba494a40633e0b95e52354e77e"
+      "bytes": 20262,
+      "gitBlob": "6000acfada21b256fb55983a11063da9df0a8ac1",
+      "sha256": "f98cacb504e16266af733b21c180a799b0655a89e5328100fe0037e64e8bb773"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/characters.json": {
-      "bytes": 834,
-      "gitBlob": "edcd0c434e0b3593f6dcd7d39a7857977c321063",
-      "sha256": "8b5dfcdb18b5626533e57618e8b51c930162218dc4aab98be636fb36c60c7b16"
+      "bytes": 943,
+      "gitBlob": "5835a3c1e03f98ebea1ae46006110fc92fa806ee",
+      "sha256": "a5d5e4c892fa229f8a7010aa5e7923899e794a0740a115721269011563614514"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/gameplay_ui.json": {
       "bytes": 1306,
@@ -31,19 +31,14 @@
       "sha256": "92d1cea0359586702f41c4fe68a8152f0598862f124c5958c32ac8f7cc1bdc02"
     },
     "ShoujoKagekiAijoKaren/localization/zhs/relics.json": {
-      "bytes": 2553,
-      "gitBlob": "4cb92de7e031dba8fdea10ee8457837f97862027",
-      "sha256": "7003f5ab9be82ad9407b81947c36be415ac9c48056f3eae7460d326f937d978c"
+      "bytes": 2595,
+      "gitBlob": "ff3c081bdeb504941aa131f60e0f39915302a587",
+      "sha256": "c8f9cb77c88d8300381fd779fc143aa40c201999ee89678007f5ef55ec9f35a6"
     },
     "images/packed/card_portraits/curse/karen_sleepy.png": {
       "bytes": 271459,
       "gitBlob": "cda0f33fe402e4462a9403dafb598d6bdbcb04db",
       "sha256": "8dc7d6ea81f20cf8588ef2ac7905eff63df846fa299d607daefc835e35e35e6d"
-    },
-    "images/packed/card_portraits/curse/karen_stage_reason.png": {
-      "bytes": 312865,
-      "gitBlob": "4ea903101eab1eb97260ba75527a293c87232a46",
-      "sha256": "a160f0303150fa2903001acd924d4aa09c8ba71931423de921e35ecd766fe51e"
     },
     "images/packed/card_portraits/karen/karen_aquarium_card.png": {
       "bytes": 295069,
@@ -835,11 +830,6 @@
       "gitBlob": "0c99cae928e509ce8d1932d3c871a8ec47d0a5bb",
       "sha256": "b3dfab3583456f38f16b788ad69b077d176d76ac41bc0798ecce4987fbba31ce"
     },
-    "src/Core/Models/Cards/curses/KarenStageReason.cs": {
-      "bytes": 1030,
-      "gitBlob": "22881e3c4c802f36513c6c5b6fee781de7b689ca",
-      "sha256": "9272ce87f077b4acdceed4c025c56deef9c3ffd073256e14d97300265983f494"
-    },
     "src/Core/Models/Cards/globalMove/KarenNextStage.cs": {
       "bytes": 1642,
       "gitBlob": "86a0392f093c00a3d2578b6c3acc91bdb9157f7a",
@@ -1116,9 +1106,9 @@
       "sha256": "2113305fdfeb7e7e67da33c1fee11114423fe0920f0519f3f269f5d1419eae00"
     },
     "src/Core/Models/Cards/shine/KarenCarryingGuilt.cs": {
-      "bytes": 3755,
-      "gitBlob": "18b1c345d7dcfd04ff69c28f35d28e806b519ca5",
-      "sha256": "c7439bb7b527fba209d874693a98622c3c2e8db92994b9fea2902420443b9116"
+      "bytes": 3803,
+      "gitBlob": "e96d5cefb2c155656dc6b863dbf28b03b8f35fa8",
+      "sha256": "5e0e9c75c3c6f7ba868dca66f13a446f3e013f6a5329ce1b66919123c5457d3b"
     },
     "src/Core/Models/Cards/shine/KarenChargeStrike.cs": {
       "bytes": 2258,
@@ -1461,9 +1451,9 @@
       "sha256": "03b4eaf2f5cf1b01d66998b099ccb83dde90ad27310767ada0e5c45ffb1baa44"
     },
     "src/Core/Patches/CardPoolPatches.cs": {
-      "bytes": 2609,
-      "gitBlob": "8de5c27f4574de47d7babddef9bb36e754786c22",
-      "sha256": "d06990fc1d392ca43bb7f4bd25b0c705bb343db33906f00781a70fd639f24f4b"
+      "bytes": 2563,
+      "gitBlob": "d429b083f7ca61cb167b92ab589165a11d1c4717",
+      "sha256": "597c1a705f62752c5d96d7b467392c7ae05f13f5cfd45c649b7e5ad9af621f65"
     },
     "src/Core/Utils/Tips.cs": {
       "bytes": 6267,
