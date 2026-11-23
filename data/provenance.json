@@ -1136,9 +1136,9 @@
       "sha256": "bbd3b8fe27836cde7398bcb72ea7de343208e8ae030648452a85416a66d4d6cd"
     },
     "src/Core/Models/Cards/shine/KarenFightRelay.cs": {
-      "bytes": 6106,
-      "gitBlob": "699be1898dc7ea333d4b4c4f3106fc2e42d3ce92",
-      "sha256": "d30e149cec24694aad6e6a002ab60b7534ae12a2e3eeeb68d5e0451ed2d52e79"
+      "bytes": 6114,
+      "gitBlob": "ab160e5d0a8253c54e5526a54ba886f129412338",
+      "sha256": "1dd4c32f654472283d61b482d57b2eb1579f3cd21a2932f45d18bee36a70967a"
     },
     "src/Core/Models/Cards/shine/KarenNonon.cs": {
       "bytes": 2121,
