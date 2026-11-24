@@ -5,7 +5,7 @@
 (() => {
   'use strict';
   const UI = 'assets/game-ui/';
-  const types = {Attack:'攻击', Skill:'技能', Power:'能力', Curse:'诅咒', Status:'状态'};
+  const types = {Attack:'攻击', Skill:'技能', Power:'能力', Curse:'诅咒', Status:'状态', Quest:'任务'};
   const keywords = {Exhaust:'消耗', Ethereal:'虚无', Retain:'保留', Innate:'固有', Unplayable:'不能被打出', Eternal:'永恒', Sly:'灵巧'};
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
   const asset = path => escape(window.WEB_ASSETS?.[path] || path);
@@ -45,6 +45,7 @@
   function html(item, upgraded=false, ui={}, level=1) {
     upgraded = upgraded && canUpgrade(item);
     const ancient = item.rarity === 'Ancient';
+    const arrow = item.type === 'Arrow' && ui.arrow;
     const visualPool=item.visualPool||ui.id;
     const framePath=visualPool===ui.id ? ui.framePrefix : UI+'frame-'+visualPool+'-';
     const type = item.type === 'Attack' ? 'attack' : item.type === 'Power' ? 'power' : 'skill';
@@ -68,8 +69,20 @@
       layers += layer('native-portrait-border',`portrait-${type}-${rarity}`);
       layers += layer('native-banner',`banner-${rarity}`);
     }
+    if (arrow) {
+      const prefix = ui.arrow.framePrefix;
+      if (ancient) layers += layer('native-arrow-window native-arrow-border',prefix+'ancient-badge.png');
+      else {
+        layers += layer('native-arrow-backdrop',prefix+'backdrop.png');
+        layers += layer('native-arrow-window native-arrow-portrait',ui.arrow.portraits[item.id]);
+        layers += layer('native-arrow-window native-arrow-border',prefix+(rarity==='rare'?'rare':rarity==='uncommon'?'uncommon':'common')+'.png');
+      }
+      const turns = upgraded ? item.upgradedArrowTurns : item.arrowTurns;
+      layers += `<div class="native-arrow-turns ${turns!==item.arrowTurns?'text-green':''}">${escape(turns)}</div>`;
+    }
     const costHTML = typeof energy === 'number' && energy < 0 ? '' : `<div class="native-energy ${energyChanged ? 'cost-upgraded' : ''}" aria-label="${escape(energy)} 费">${layer('native-energy-art',visualPool===ui.id?ui.energy:UI+'energy-colorless.png')}<span>${escape(energy)}</span></div>`;
-    return `<div class="game-card ${ancient ? 'ancient-card' : ''} ${upgraded ? 'is-upgraded' : ''}" data-rarity="${rarity}" data-card-type="${type}" data-visual-pool="${escape(visualPool)}" data-card-id="${escape(item.id)}">${layers}<div class="native-title"><span>${escape(item.name)}${upgraded ? '+'+(level>1?level:'') : ''}</span></div><div class="native-type" style="--plaque:url('${asset(UI+'plaque-'+rarity+'.png')}')">${escape(types[item.type] || item.type)}</div><div class="native-description"><div>${description(item,upgraded,ui)}</div></div>${costHTML}</div>`;
+    const style = [ui.energyOutlineColor?`--energy-outline:${escape(ui.energyOutlineColor)}`:'',arrow?`--arrow-left:${(150+ui.arrow.position[0])/3}%;--arrow-top:${(211+ui.arrow.position[1])/4.22}%;--arrow-width:${ui.arrow.size[0]/3}%;--arrow-height:${ui.arrow.size[1]/4.22}%`:''].filter(Boolean).join(';');
+    return `<div class="game-card ${ancient ? 'ancient-card' : ''} ${arrow ? 'arrow-card' : ''} ${upgraded ? 'is-upgraded' : ''}" style="${style}" data-rarity="${rarity}" data-card-type="${type}" data-visual-pool="${escape(visualPool)}" data-card-id="${escape(item.id)}">${layers}<div class="native-title"><span>${escape(item.name)}${upgraded ? '+'+(level>1?level:'') : ''}</span></div><div class="native-type" style="--plaque:url('${asset(UI+'plaque-'+rarity+'.png')}')">${escape(ui.typeNames?.[item.type] || types[item.type] || item.type)}</div><div class="native-description"><div>${description(item,upgraded,ui)}</div></div>${costHTML}</div>`;
   }
   const fitCache = new Map();
   function fit() {

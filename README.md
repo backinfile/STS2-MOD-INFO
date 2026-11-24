@@ -1,6 +1,6 @@
 # 尖塔 Mod 图鉴
 
-独立的《杀戮尖塔 2》Mod 信息展示网页。目前接入 [少女歌剧 · 爱城华恋](https://github.com/backinfile/STS2_ShoujoKagekiAijoKaren)，按 Mod 注册表组织角色、卡牌、遗物、药水与事件。
+独立的《杀戮尖塔 2》Mod 信息展示网页。接入 [少女歌剧 · 爱城华恋](https://github.com/backinfile/STS2_ShoujoKagekiAijoKaren) 与 [少女歌剧 · 星见纯那](https://github.com/backinfile/STS2_ShoujoKagekiJunna)，按 Mod 注册表组织角色、卡牌、遗物、药水与事件。
 
 [在线图鉴](https://backinfile.github.io/STS2-MOD-INFO/) · [GitHub 仓库](https://github.com/backinfile/STS2-MOD-INFO)
 
@@ -28,7 +28,7 @@ npm run dev
 2. 上游 SHA 与解析器代码哈希均未变时复用快照；任一变化都会重建，所有源文件锁定到同一提交。
 3. 从中文本地化和 C# 模型中提取展示数据，下载图片，逐文件验证 Git blob SHA-1，并记录 SHA-256。
 4. 在项目自己的暂存目录内完成数据、各 Mod 独立 UI、字体和无损 WebP，再校验哈希与提示引用；全部成功才替换快照。缺名称、缺素材、漏注册条目或 UI 构建失败都会保留之前的完整快照。
-5. GitHub Pages 发布作业在同一次运行中发布快照，避免依赖机器人提交触发另一个工作流。推送到 `main` 时直接验证并部署仓库内的完整快照；定时或手动运行时先检测上游更新。
+5. GitHub Pages 发布作业在同一次运行中发布快照，直接使用上传步骤返回的产物 ID 创建部署并检查最终状态。推送到 `main` 时验证并部署仓库快照；定时或手动运行时先检测两个上游。
 
 定时工作流位于仓库默认分支 `main`，使用仓库自身的 `GITHUB_TOKEN` 提交成功同步的快照；不需要个人访问令牌，也不需要业务服务器。
 
@@ -47,6 +47,14 @@ python -m unittest discover -s scripts -p "test_*.py"
 
 可通过环境变量 `GITHUB_TOKEN` 提高 GitHub API 配额；凭据不写入文件。`python scripts/update_site.py --pinned --force` 在当前固定提交重建完整网站。底层 `sync_mods.py` 和 `import_game_ui.py` 用于开发单个构建阶段，正式更新统一使用完整入口。
 
+导入用户指定的本地仓库已提交版本：
+
+```sh
+python scripts/update_site.py --local-source karen=D:/Github/STS2_ShoujoKagekiAijoKaren --local-source junna=D:/Github/STS2_ShoujoKagekiJunna
+```
+
+导入器核对 origin 并读取 Git HEAD，快照记录公开仓库与提交。本地未提交内容不参与导入，路径不进入网页数据；GitHub Actions 按注册的 `main` 分支自动更新。
+
 ## 数据结构
 
 - `data/mods.json`：启用的 Mod、公开仓库、分支与适配器。
@@ -61,7 +69,9 @@ python -m unittest discover -s scripts -p "test_*.py"
 
 页面按 Mod ID 隔离条目和渲染素材，允许不同 Mod 使用相同内容 ID。新增 Mod 可实现源码适配器，也可使用 `snapshot` 适配器提供独立静态展示数据；格式见 [docs/mod-adapters.md](docs/mod-adapters.md)。
 
-角色卡池来自 `KarenCardPool.GenerateAllCards`；共享卡池来自 `CardPoolPatches.cs` 的实际注入，忽略注释。当前有116个定义：87张角色卡、2张诅咒、25张衍生／选项牌，以及2张未注册牌；默认展示114张。筛选直接列出诅咒、状态和衍生牌，没有重复的“其他”。无色池与状态牌当前为零，显示数量并禁用。关键词页展示8个原始关键词。Karen 当前没有独立事件模型；新增事件会要求扩展源码适配器，通用 snapshot 适配器已支持原始事件图片、描述和选项。
+华恋角色卡池来自 `KarenCardPool.GenerateAllCards`，共享卡池来自 `CardPoolPatches.cs` 的实际注入，忽略注释。当前快照有113个定义，默认展示111张，包含87张角色牌、1张诅咒、23张 Token 池卡；另有2张未注册牌。遗物9件、药水3瓶。
+
+纯那读取运行时嵌入的 `data/card-pool.json`，核对 C# 模型 ID，导入97张当前卡牌、3件遗物、3瓶药水。关联牌不会因 `pool:false` 被隐藏；101张退役定义保留在源快照中。知识关联和基础／升级提示使用 `card-rules.json` 与实际知识组；飞矢保留独立类型和印刷回合数。事件“舞台少女心得”按源码记录为未启用。闪耀使用注册表中固定提交的公开 Core 文本和规则快照。
 
 ## 与游戏 UI 的关系
 

@@ -1,12 +1,12 @@
 {
   "signature": {
     "version": 10,
-    "builderHash": "5025939747803fb90a752bb1f00f5e8ee66ecc3d8f590fdaf1840ef62fc28078",
+    "builderHash": "d5e5d56ca1bfc3257e647b2d39a0e8612796422b7b9819b79ec9da6db6bc09ba",
     "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
     "mods": {
       "karen": {
         "commit": "dc9a28a7d738b09575c3c0b5ab611421a083a28c",
-        "adapterHash": "774daaf70c0fb3fad9f4c1e56d3dfa9360650124e5ba600fd23c69f35a7ce165",
+        "adapterHash": "654de142534a7e446c9f0d6f87dfdcc962d727c358f9107e7d545dedeeee6500",
         "rendering": {
           "frameMaterialSource": "materials/cards/frames/card_frame_purple_mat.tres",
           "energySource": "images/atlases/ui_atlas.sprites/card/energy_karen.tres",
@@ -29,9 +29,28 @@
             ]
           }
         }
+      },
+      "junna": {
+        "commit": "6822de8b18528ba41132d713335caae333ce418e",
+        "adapterHash": "654de142534a7e446c9f0d6f87dfdcc962d727c358f9107e7d545dedeeee6500",
+        "rendering": {
+          "frameHsv": [
+            0.5674300254452925,
+            0.564655172413793,
+            0.9098039215686274
+          ],
+          "energySource": "ShoujoKagekiJunna/images/energy_counter/energy_icon.png",
+          "inlineEnergySource": "ShoujoKagekiJunna/images/energy_counter/energy_icon_small.png",
+          "energyOutlineColor": "#173c2f",
+          "gameplayPath": "ShoujoKagekiJunna/localization/zhs/gameplay_ui.json",
+          "shineLabel": "[gold]闪耀[/gold]",
+          "shineSuffix": "。",
+          "arrowPresentationSource": "src/UI/Arrows/ArrowCardPresentation.cs",
+          "arrowFrameSource": "ShoujoKagekiJunna/images/arrow_portrait_frame.png"
+        }
       }
     },
-    "characters": "\n !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×…↗⌃⌄✓、。〔〕一三上下不与且世东两个中串临为久么义之乎习了予争事二于互交产京人什从代以们件任会伤伸低体余你使侧保信倍值傲充先光入全关其具内册再写冠况准减出击分切则初到前剧剩力加务动励劲勇包化匹升午华南卡即去及友双反发取受变古只可台右吃各合同名后向吗否吧命和咒哒哟唤唯唱商喜回困固图土圣在地场坠型城基堆塔增壶备复外多夜天失夹奖女好如妒始嫉存完定害家容宽察对封将小少尖就尽局层峙巧已币幕干并幸序店度延开弃式引张弱强当形待得御忘态恋恒恕悟情想意戏成我或战戮所手才打找技把投披抽拉拓招择括拾指挑挡损换据排提搜摘摧操攻放效敌数斗料斩新方旋族无日时明易星昨是晚普暂更替最有朋未本术机杀束来松极果架查标格桥梦棒次欢歌止正此步武殊毁每气水永池没治法注泪消添清游源满演激灵点烦烧然燃爱版牌物特犯状犹猫玩现球瓶生用界留的皇目直相看真眼着础示神票禁福离称移稀空穿立第等筛类糕索红约级练组终结给续罕罪置耀耗肉肌背能自至舞色茶药获萨落蓄虚蛋行衍补被要见观视觉角认让记诅词详说谊豆豫贯费起足跳蹈身转轮软载辉辰达过迈运还这进远选通速造逢遗遥避那部配醒重量金鉴锦键长门闪闭间队防阳阻降限除随雪非靠顶额餐饭饰饼馆骄麻默齿！（），：；？"
+    "characters": "\n !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×“”…↗⌃⌄✓、。《》〔〕の一三上下不与且世东两严个中串临为久么义之乎乐九习书了予争事二于互亚些交产京人什今从他代以们件任伏会伤伸似低住体何余作你使依侧保信倍候值倾傲充先光免入全关兴兵其具内册再写冠况准凋减出击分切列则创初别到制刺刻前剧剩力加务动励劲势勇包化北匹升午半华单南卡即去及友双反发取受变古只可台右叶吃各合同名后向吗否吧启呈呼命和咒品哈哒哟唤唯唱商喊喜器囚四回团园困固国图土圣在地场坠型埋城基堆塔境增士壶处备复外多夜大天失头夹奔奖女好如妒姆始姿威娓嫉字存孝学它守完定宝实室害家容宽察对寻封射将小少尔尖尘就尼尽局层屑峙巧己已币布带常幕干并幸庇序应店度延建开弃式弓引张弦弱强当录形影役待得御德心忍忘态思恋恒恕悉悟悲情想意感懂戏成我或战戮所扇手才打扣扫找承技把抓投抗护披抽拉拓拔招择括拾拿持指挑挡挤挥挺损换据掌排接推掩提搏搜搭摊摘摧摩撕操攀收攻放故效敌教数敲文斗料斩斯新方旋族无日旧时明易星昨是显晚晨普景暂暗更書替最有朋望期未本札术机杀权李束来松极果架柔查标格桌桥梦棒横次欢歌止正此步武殊毁每比气水永池没沸治法波注泪泻洛流海涅消液添清渐温渴游溅源溢满演激火灰灵点烁烈烦烧热然熟燃爱版牌牙牢物牵特犯状犹独猛猫獠王玩现珠球理瓶生用画界留痛登的皇目直相看真眼着瞄矢知石砍研砺础碎磨示神票禁福离科称移稀稳究空穿立站笔第笼等答筛筹签算箭类糕系索红约级纯纽练组终结给绝续绿编罕罪置美群翔翱翻耀老考者耗联肉肌背胶能脆腾自至致舞舵色芒花若苦茶荒药莎获萨落著蓄藤虚蛋融行衍衣补衫衰被裂褛褴要见观视觉角触言誓語认让记论设诅识词话该详语说读谊豆象豫贯费走起超足跑路跳践蹈身轨转轮软载辉辟辰边达过迈运近返还这进远连迸迹追退选逐通速造逢道遗遥避那部都配醒采释里重野量金鉴铭锁锋锦键长门闪闭问间闹阅队防阳阵阻际降限除随难集雨雪零雷需非靠面音页顶领额风飞餐饭饰饼馆骄高麻黑默齐齿！（），：；？"
   },
   "gameRepository": "Hexpion/Slay-the-spire-2",
   "gameCommit": "64ed626b7ec9692bc54536b0123fc3cb580c28da",
@@ -872,567 +891,567 @@
   },
   "outputs": {
     "assets/game-ui/frame-attack.png": {
-      "sha256": "b7b0f2d049bb32d48c02bad485a9c4d90c4a5f9f8b2f7457c0e895e94c0b3816",
+      "sha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-colorless-attack.png": {
-      "sha256": "fe61aab60f57c5d88cac86326a2789c20d4d4d343a69a15ccc7e29dcbb39d1d2",
+      "sha256": "1a53cf12530887b0f4c112b33e735b12b3b1002477c308dbede5c83c0de965ad",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-curse-attack.png": {
-      "sha256": "97b7017324c10319604b94d90b73ec7a274eca71d1aa04cab7f52d351e37c6f1",
+      "sha256": "61cae6edc1499bdf6b95088848947ee08f336509b6a3f88454320c0d63b058fc",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/portrait-attack-common.png": {
-      "sha256": "60816e0dde19a37964c9cf07c3b43aaaa99b0b4767a0abe72040a910c9ead8d0",
+      "sha256": "b40f287c69788910783a5ced6a0d7d69255254cce19d227458e4e35a140dbaf1",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-uncommon.png": {
-      "sha256": "bd940f81e8f9771df9d4dd0289a8267cfed46896ede27898ca5fa78e6aa8b4e3",
+      "sha256": "6d9aa0e4d12be388518dabce208e869cd3db868f78f220c033c916451c3298e4",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-rare.png": {
-      "sha256": "77b4cb459b088310bb92b6217d506f2d318f4824d09c0f257b9e4270d9325198",
+      "sha256": "920a3e1105ce7aa783ce1d79140e85370c1e53afbcab0baa625a30c59200c60f",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-curse.png": {
-      "sha256": "b2eebd942e09bdbb202ddf48f563fa401d6384342c28158798e24b5b7d29620d",
+      "sha256": "723dbc74fed123ca140a81103603d15761db61184cd59aac7429d89ec5b54dfb",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-status.png": {
-      "sha256": "9a1c80534d2d2a1e4480fd96952eb1a268872a5217dfbde8ac3a34c192e61022",
+      "sha256": "ec9d42e4261eee9c126b70c4d253882dfd9bb64d957a2e10957636922064a386",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-event.png": {
-      "sha256": "830f9e1eeb3e8288272be58d6494f18ed709932c3fbfc8bfe2c2271f7b03b96e",
+      "sha256": "0296297b39eb0f2ad47712f39835225f88f08a5377475d202c20f63caaedf727",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-attack-ancient.png": {
-      "sha256": "4868d44a13dacafae8332b1753db3babcf7212fcbfd772d83c690dbe1ee364fa",
+      "sha256": "41cae9604af3bb7d51c04b8f7cc0c4c6e811e251f985c0125557749a024d72d0",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/frame-skill.png": {
-      "sha256": "6315453e3f7eb8782a9b49db4162d0c1d88fbe5d2e4b5c5c192f848a9af8b56f",
+      "sha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-colorless-skill.png": {
-      "sha256": "211ee446dfa16118e94871701e82a47ea5f015e533574122dc69b51b03a6b851",
+      "sha256": "328c6e98fb8d5c1f3b5ea50d9adc8997a84691c06719c0d209c5235ccb8ab5b0",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-curse-skill.png": {
-      "sha256": "4501fa9f836ad40d8a4056f295116944f26fd1f25a0b51cca1a941844fd39099",
+      "sha256": "f260cd8eaf019d7545ff13510574dc4510f2a8037c8bc42a59845dd418ba6fdb",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/portrait-skill-common.png": {
-      "sha256": "72f1bea3e3657e55c29b90e54fcafa2a2c5e1cd23d149ad3e7a0d05a27f3133f",
+      "sha256": "93c620a6bf677437ccaea5f489c935139f82a81fb6eacf5ecd220cff47257d5b",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-uncommon.png": {
-      "sha256": "aec08c6a19137ef2eeea7310311c4ba8b3f0ddf9e86f94da42ac0ee398b268e0",
+      "sha256": "a860aa44dd5956410e2e936efddb73d05e6f93b0ce1cd2ab67a47cfea2a48c9d",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-rare.png": {
-      "sha256": "a3cf98a922926a6cc6627ed804e9d861ed7c7e50604db0cf8bd7515b63aca18e",
+      "sha256": "359dafaa788d9c3dcd5c0937e922a0f83486999e4a69ff9a5f32ca94bcca54ac",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-curse.png": {
-      "sha256": "0d8c857a3f235c9fc288b3041c02a9e58841da4baef8981f2fa0f205972ea579",
+      "sha256": "9a74cf6d95439977643a77a61c4447bb547d395bc54e11bac30dac3c66d8f3b7",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-status.png": {
-      "sha256": "655821c4ae6cc2e6491b5d075589411baf7e1797740f5ee4d18a29dadbb22829",
+      "sha256": "aa77c5c48dfa9772babd57f215b82972318aa2e11d513cb6397db3b3855c5c7c",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-event.png": {
-      "sha256": "d5b38e769ca4022781f5d1e9cc915ef373c06e9f34ab74a37a8dbd69adb12249",
+      "sha256": "48343bc326a2d915a149cdc40cd8991f28f66d8208e628f1fd8c29d0ed5daba6",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-skill-ancient.png": {
-      "sha256": "4d13c13c100c3d7a1c773a47e28f2085c29a25d88f9c675c47087887e4d7459a",
+      "sha256": "d159b117f8b80779100f85fe3f9f1dc437f4a352bb33d40d140899708fbe60a3",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/frame-power.png": {
-      "sha256": "4396a928dd10d6844f1ceb7bf357afce60ae25a4a1e5ab1254fad6c96c21f027",
+      "sha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-colorless-power.png": {
-      "sha256": "a3d8484c96158daa88d22a7b2bbe152edc7b7d2b8819ee4b40d476692a000747",
+      "sha256": "735baadd42a4fbdbd72d15bf5ffa9e59f7839d990fa4e8808ea72e67fbe5a01e",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/frame-curse-power.png": {
-      "sha256": "cfaaa6d0412da8b0680d4a620c48efe8196bb673d8e2d851e81327d786461e61",
+      "sha256": "27e9cf6fedaca49e194b3a28f6bb7e37f928a24d8cc58669c20dca3f3dd5653d",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/portrait-power-common.png": {
-      "sha256": "7c745a69b3c4391923c3930c0e2ff45d7d90b1eba40713be87dba9dda621de26",
+      "sha256": "76ad895941e8fed0570ffb0687a8208643a84f5391e6198ff24a4c05dbb65192",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-uncommon.png": {
-      "sha256": "963cb6f589cf08ffd39cdb5d45ec8d9ae3bbf2c32b8108182a02a53d9aa24591",
+      "sha256": "75b8e8cf8eb0ecdbf9ee7e61274c35e75e792b76e93753ba2cd972e7a47f9179",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-rare.png": {
-      "sha256": "6fa359381e3bbfc354288bfe962dc1c30455494b750a8164c9d8fc331db5572d",
+      "sha256": "6707890afc8d5d89a809dce62bd421a298263f919118f14f2ea037b91266b7fd",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-curse.png": {
-      "sha256": "fceb051d7e7c9d821fe4b5a9ccbfff1ad1a1488bbcf42c1dfbc0244d282d07f0",
+      "sha256": "4f07b778110567f9595735c71823b21c1f73b543b47b155eea36b9f5298aaf99",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-status.png": {
-      "sha256": "0d4c80760ee6d79a5642fe43c00169120441fa7b4c509059665553034c6f89e4",
+      "sha256": "05bc31cecbb92267c6068577df8824ae652682daded9ed34b3c5064a5d9cf4b0",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-event.png": {
-      "sha256": "20f2e0ec639b55a580a8a330028d660bce30a95049f1edda85edca861ca82ff1",
+      "sha256": "ee80dcb8d616a64c411ad95214a303b80b4deb6af966183d03e4823068b99c2d",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/portrait-power-ancient.png": {
-      "sha256": "ace9c8a485c97e7700dbe665d6df79c5100fe41d36bfebc1ffe9f4875c7b145d",
+      "sha256": "e3ecd25925897e4fc4cacd03250b02c296320a8b148f2c655d1c962372d95dd2",
       "size": [
         551,
         420
       ]
     },
     "assets/game-ui/banner-common.png": {
-      "sha256": "912c1398b8dd283e79368fe1234632d484e34714f2b08566ff7b669510fe4f41",
+      "sha256": "f100ef8258f3017adf590214eb2fb596d228673ce082ca20382b63dd63f573a5",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-common.png": {
-      "sha256": "f1d89e66f828fd21b8cffe6d6dce5a4a91d35670f9e37e42ac041fd068ad95cc",
+      "sha256": "755915e9097f9d570b2ddaba9f74b40bfe6f5fe0bd45d9471ba7fe1c68e7cc27",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-uncommon.png": {
-      "sha256": "45971d6e6b739679965d452425621c56d4a974c674f379e9b538b4c1ba4ed5bc",
+      "sha256": "25409e808b4967e4e601aca6967d574c6d45d462dd53aa7efbacb3530ea0d724",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-uncommon.png": {
-      "sha256": "4d18c596284e83a5366b810f9ba31f6ef032a7943ee886ae074c472c5a8a17fc",
+      "sha256": "27774f726dec0a0c9c21d40585706994841db2c458408e46fc15d952155a8e2a",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-rare.png": {
-      "sha256": "1449578869e251fa8cb34b623dcc8eff14cd81515dd97246ea9fa0d47ddb38fa",
+      "sha256": "4ed608b17ae61a94102d79e2fdcb9a73cf5228df04d347c7fc18f2427712b290",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-rare.png": {
-      "sha256": "e295c23c54b30faff5e94d3904a426d73195d8e7cd7a7b1df25e12cc31099859",
+      "sha256": "50f0b0e91560bc4bbc4ff88a05eb6a0071eff2b8be107f7cbdd5b273f984a616",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-curse.png": {
-      "sha256": "7173093661654266898d6fb7e54c0e0a2a4022f39f8d6de3d8834a1c6e5c0408",
+      "sha256": "b93fa2bd7c1858a9ba5b532abaf7fbeaf81af9983b35e5d27452d0ded7056890",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-curse.png": {
-      "sha256": "474f1dc1a140c9033a430ac263b9c77659d1ddc2c3e7ac0564ec945ed826ded9",
+      "sha256": "5dc47c4e20c3f6f9b58d1c527615325b978fcd500e6d97525feb579215a5f5d0",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-status.png": {
-      "sha256": "87e27d1c49f85b85e4918543eb668a5f491d624cd3167d98a052c0dd7cb4da82",
+      "sha256": "82fc863a75769e80ede06f4de65bd9b8f76a8e082821e249acb957bcb52b9b57",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-status.png": {
-      "sha256": "4889ffdd5aa61df61758641602a40da566b0481516f9d86855a81178f15df1d5",
+      "sha256": "01b003bd7ef6b36333f77776a5dfc3c64bb6f3f1b18ecd42bf5e15d44ab6535e",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-event.png": {
-      "sha256": "27ff49f5da7cb36555a878c91e9085b67a86ebc48228e33dc1d6e4243c3b3ec4",
+      "sha256": "bba54737b5ec4bff93462452007404d3618be099820d771d986e40689060660b",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-event.png": {
-      "sha256": "007f99a9e2144013a7da88ed39a97edfbf477eac273e5da11e22bd3ae2ac7047",
+      "sha256": "e93b7d260180417d82b986cf934623e933bd6fb781ddbd5fb376b8db87a481d6",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/banner-ancient.png": {
-      "sha256": "2051c387ab915043feb7ca93d8cb4f00074644cbd5c0fb4418f83ca170017c86",
+      "sha256": "0643115d520f862af75df7661cd88a8e90f0ff1b2b50af2af97a93659b0bfdb3",
       "size": [
         655,
         170
       ]
     },
     "assets/game-ui/plaque-ancient.png": {
-      "sha256": "b9d9edca27b3c99d73efa8cfd1de0139f66f3cc97aac50f1b8d6f3f34f8a1b94",
+      "sha256": "1b70bf265c04bc414e551247e3a027723fd2c8c3b0a3025bb08b75a33407af93",
       "size": [
         61,
         37
       ]
     },
     "assets/game-ui/ancient-card-border.png": {
-      "sha256": "134b2f037c0abcd53b798d5c7fc1a7fe022d525d9206215102fb367a091ad3c6",
+      "sha256": "f977b238ff413e56e5cc3623066bf92c86b87371a0b21dd3687a0979d1bada9c",
       "size": [
         821,
         1148
       ]
     },
     "assets/game-ui/ancient-card-text-bg-attack.png": {
-      "sha256": "9256a97657758d9b52f1597767f3248439d26d14f8be1c4deffa57693b6f8f55",
+      "sha256": "95abf248ff118be098cd66d046fb7a19f5cb08afa353cdd1db867e8d38a34c1b",
       "size": [
         693,
         533
       ]
     },
     "assets/game-ui/ancient-card-text-bg-skill.png": {
-      "sha256": "e031faedc376aadcc295b7eec41dd661fb4354dd37bbd28cc5a1175454a0c1aa",
+      "sha256": "9f3c6767d74a9730379151e135d8cdb4eb3d0476d4126e51449e40dd514815e4",
       "size": [
         693,
         533
       ]
     },
     "assets/game-ui/ancient-card-text-bg-power.png": {
-      "sha256": "267e0899e52e0fea9f8df69f83c087a37e00944d98bbb8b0660acf84b92cee7d",
+      "sha256": "c098502bbbab55d9092f7ac3a3239b8c832d26146cd9879bf5376f5dd587850a",
       "size": [
         693,
         533
       ]
     },
     "assets/game-ui/ancient-portrait-mask-large.png": {
-      "sha256": "3be2fce95b47dfea6c16f8c7d8cda09f331791b436854f766703d54d0c314cb7",
+      "sha256": "91374eea42d976b8f7131d56e69ed5f8689c8d74ac4812b1e55b1005d524055f",
       "size": [
         606,
         852
       ]
     },
     "assets/game-ui/card-highlight-ancient.png": {
-      "sha256": "79f15590a8550b46d8cb1ecf0ae625de8c2dc4fbe83d3108cacc1209e48795dd",
+      "sha256": "f40dfbe4bdd8ae7c7cee935631df76e1bb395292d308f0a0c25282786edb5d41",
       "size": [
         619,
         866
       ]
     },
     "assets/game-ui/ancient-banner.png": {
-      "sha256": "dc35643771f1453eb5885d5a91fb5d6ceddcb0d301112de56966dc712e172cc8",
+      "sha256": "0bec423de948678df19f44c9f5c650c01520137e8fbecf19000867d76d431440",
       "size": [
         671,
         182
       ]
     },
     "assets/game-ui/ancient-flame-0.png": {
-      "sha256": "c4608dd8f0a900b1c1df404e4d34588ba39c89ec110022cba5b6085849978d74",
+      "sha256": "d268416f5031da3fb6b46263a9c88eec9181552bdf94cf22e9c1fa9c82fd15e9",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-1.png": {
-      "sha256": "8b311550c5384c94186e8a2d9bb600bbb06ffea65dae08e392bb65af2191f956",
+      "sha256": "c3414a15fbcf297a0d8a5471a6147280bd1c7e7a36233b7898f6e46d7a1a2388",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-2.png": {
-      "sha256": "b8f4fc4a7e1294cd1ca09183efb01764b8a71b830b79606326fb036d42712c09",
+      "sha256": "6a79e01890a6661b5704ad40a85f109aee6ed0e504e2df876372ad319925fe57",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-3.png": {
-      "sha256": "0dd20be795ecaadc32127fcf95ee59350a83caaabdd48f268221eb34c7169042",
+      "sha256": "427ea8316eb475f565e49b30bd100d3442f7dc26a22263e4729170374bf786e6",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-4.png": {
-      "sha256": "303e21ef1b1fce44f040664f6125f396a656851bd00e224f4f52aa3f31c25093",
+      "sha256": "de596350b52f406643249b1c917aac639987d8533c9be9c951a5e190065d2a19",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-5.png": {
-      "sha256": "7b21e886cb3dc3575dbb976f2620e3a058333a56ddc3eeabb07ebc01e944de94",
+      "sha256": "a632cbad5e227c0c138be7b9f09bf6f853b82b4de91cf54571b9ae303cbfbf6d",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-6.png": {
-      "sha256": "539067ac5348ee600b3b024e44ead048e27943bef763ba79a5b339c960df76ee",
+      "sha256": "eef6102b8b90755d2a7cb7f8ad327af346c265871623231bb2092b981b01f9e2",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-7.png": {
-      "sha256": "34307b92faa7346c00744fa7a7b747d75f07f7416cd9867ba8037214e5732ba8",
+      "sha256": "70352e02e7f67c89980c8ed5652adbd33acf209b829ac71b477beebbc5a46254",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-8.png": {
-      "sha256": "e332b54e338c2f52f55d53682e70f5b534ee1ddadea42bbde994e8bd129fe6fe",
+      "sha256": "bee6443976247e4d7635ff9306a713e8aa661f3ed4b5b99fee1b029cb88ecd89",
       "size": [
         49,
         68
       ]
     },
     "assets/game-ui/ancient-flame-9.png": {
-      "sha256": "f485dad4e5c5c0fe12c92ca43d1328a8081870e5dad0cfb270871bec520b6f82",
+      "sha256": "900fd226b77227a225099d70e8f31ac28000add090f9ad5c70999a5673f3e766",
       "size": [
         49,
         69
       ]
     },
     "assets/game-ui/energy-karen.png": {
-      "sha256": "27139b5643bbe73920fd79063594803e8d008dfc3a1a2dfd4a25fc8ba6ba35bc",
+      "sha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115",
       "size": [
         1109,
         1109
       ]
     },
     "assets/game-ui/energy-colorless.png": {
-      "sha256": "f6ccfba0373da37f2c670ae8cdd3a4974e42780dd1003302e4e56af03a69119a",
+      "sha256": "53d91a85046f86d202404f2c5e5aa4465f58574d48642f979723af95bdc3ab43",
       "size": [
         74,
         74
       ]
     },
     "assets/game-ui/pool-other.png": {
-      "sha256": "f78c3b9e250c546a6e91e0c54ee894f5c950461083a4016d12c661e80c0b3f44",
+      "sha256": "b409ed03edb1671f9ea84f35cd9c03704c312e1c53316d195067fcc41c27297a",
       "size": [
         74,
         74
       ]
     },
     "assets/game-ui/pool-ancient.png": {
-      "sha256": "3cdb3756786f8e176a73141ad53f6cea32994eab15b3cb39633d40b02e54fd35",
+      "sha256": "9de1776a181361c382d45306039a16959bf282d25d61dd83029441591050bb6c",
       "size": [
         88,
         88
       ]
     },
     "assets/game-ui/energy-inline.png": {
-      "sha256": "9a44e8e5814701b2b7d586551ff9189401b953816f00cb34a5b5a15bff7acd92",
+      "sha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad",
       "size": [
         1254,
         1254
       ]
     },
     "assets/game-ui/health-icon.png": {
-      "sha256": "528c35a7f2ca0219b2082e140cc0d50f54b38d957db8be0745ba574793c0826a",
+      "sha256": "d9f667ed3fe8ffe07dbe4617edf19a63b9e3027b9b4df8f4ebab43615b70c770",
       "size": [
         100,
         80
       ]
     },
     "assets/game-ui/hover-tip.png": {
-      "sha256": "31e949059a2885de00e5b1b7b3989a5853c530300f6c0477756ad82b5817ae32",
+      "sha256": "12751c1a78bd3af040d802c89ccca1c97caabc91f2d54f25bcabed15cefdfacd",
       "size": [
         320,
         96
       ]
     },
     "assets/game-ui/top-bar.png": {
-      "sha256": "858dff0520dcb8452c21a34191fd29efa7cb0a5fff02b4894d8a23d2f7ecde35",
+      "sha256": "e242d978c0c488981e5121ea4eab62ac6234848c67ac9e41a8f20d437902d769",
       "size": [
         2046,
         80
       ]
     },
     "assets/game-ui/type-sort-attack.png": {
-      "sha256": "282f7f4723ad9b217dace440cb9ec3acef020d2c5269399b8419040af796b432",
+      "sha256": "12cbdeaaaeb313be9b82dde2b53a82e59f9ecc996ee5e0bb492d084125ace893",
       "size": [
         54,
         64
       ]
     },
     "assets/game-ui/type-sort-skill.png": {
-      "sha256": "38920c47f066d13f2fc78a946a46b51ac5dd28a175c4ce8892da9352f3a0be0c",
+      "sha256": "c3a1950ea2a77e0b1dee7eca1eba02edae28d44a9f6256643824512cb3449d92",
       "size": [
         54,
         64
       ]
     },
     "assets/game-ui/type-sort-power.png": {
-      "sha256": "ad3bb55e47c73ee2e0a7032fda58bc2708daa3eb3de2f1e741d347ed5ec9fb01",
+      "sha256": "cf279a3734ac37da391a783c3cbd2d4306ba0637045fea2f18ee2248b32e8b89",
       "size": [
         54,
         64
       ]
     },
     "assets/game-ui/type-sort-other.png": {
-      "sha256": "a885f2ab6d1f0905c2b35b5bf345d3c0cca3a5042c88678764f4597cb1c051fb",
+      "sha256": "9cad08e830b45bf3d466107a1614e77a02c60b73be9098bbb6936bd54df49560",
       "size": [
         54,
         64
       ]
     },
     "assets/game-ui/type-sort-outline2.png": {
-      "sha256": "e5ae69800e95c7da98a0b50728d90efbd819a69b05b23d11726ff274a18aba6c",
+      "sha256": "4a590e986ce8bcc7068d61b4adcfae2e220b0d4557aa0ae5ac3234cd0f7e06d1",
       "size": [
         54,
         64
       ]
     },
     "assets/game-ui/cost-tickbox.png": {
-      "sha256": "e38dc029aca9d3a05d1e274697ccd553f0edbfc2a4de20e67068198dc3dbb45a",
+      "sha256": "4ed2dd900d811a039420d0e574e5bc4e90f8e23e0125575934f6645559cc6d4b",
       "size": [
         72,
         72
       ]
     },
     "assets/game-ui/cost-tickbox-outline.png": {
-      "sha256": "e6733c5af23dccf0d9c082a506b7e5c6dcae3ee174b336d0080e7a4cfbb47a3d",
+      "sha256": "97b6c3075651bc16f22d02bd2636712edce7647dcfd1c4abffe8ce64e0643bfb",
       "size": [
         72,
         72
       ]
     },
     "assets/game-ui/submenu-card-library.png": {
-      "sha256": "588918d11c9f31823ce44b22fdcf2e0219daac790eca9c23a2684eeb674ceae6",
+      "sha256": "29dfc60841b94b5a78c96ca2923a81f6c58d49fb45821c96d9c5cc0900f91e3d",
       "size": [
         380,
         288
       ]
     },
     "assets/game-ui/submenu-relic-collection.png": {
-      "sha256": "39c132f4daea7ca45bb133a05219e424b0584711ab25935592992f22bb52989d",
+      "sha256": "698293f6762cc5b3a67e5cf91cd062d20adcd5f1418ac5c834c1b31f0f5050dc",
       "size": [
         380,
         288
       ]
     },
     "assets/game-ui/submenu-potion-lab.png": {
-      "sha256": "4776ef3671188d7f340c76bbf4621ab53166ada19674f249afbdc5dd51b4dd4a",
+      "sha256": "9e254b5579c5d0b820ef2a58d96c63cfd9ea8cd6910d279c770163df8ca18dca",
       "size": [
         380,
         288
       ]
     },
     "assets/game-ui/submenu-unknown.png": {
-      "sha256": "036690961e8c456b0c23f49bac19057734c357a2ba3f2c1c0b77f7b9f75e7d5e",
+      "sha256": "07482a262e25fde9a4cc6a8ca156cbee51494b70f768e88b5651280bf1c45aee",
       "size": [
         380,
         288
       ]
     },
     "assets/game-ui/submenu-standard.png": {
-      "sha256": "52d32b799a8437a50c99155c7f7f0f49f9c2133338a995253e7769c24eae07ac",
+      "sha256": "edbe18a68d58e76629352809ab13d142d6ec93fbb605fdc929974a5ddd7bc9f4",
       "size": [
         380,
         288
@@ -1460,260 +1479,485 @@
       ]
     },
     "assets/game-ui/inspect-panel.png": {
-      "sha256": "76365daf3e43d6727fd5760fd7de51c5f01fa454f74f66ac3c76245ff9576410",
+      "sha256": "960d371188474b93d3f379bd060a2d43bd1c2b983b3c2631f965a3ef270b0791",
       "size": [
         1128,
         1436
       ]
     },
     "assets/game-ui/inspect-frame-bg.png": {
-      "sha256": "6896c523aee34ed84a8c263198e440818f5d6c1c86d488bef887d400ac8618a6",
+      "sha256": "af4bd5aa3db9474a378bff2fb2b2ba39c8b8ddcb649d9d4efd9c402866a6bf45",
       "size": [
         1128,
         1436
       ]
     },
     "assets/game-ui/inspect-frame-starter.png": {
-      "sha256": "302e236c7797739643c226a4ba4f6ecadd43e4a15e5af2c29cf16f68b6ee75d3",
+      "sha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-common.png": {
-      "sha256": "302e236c7797739643c226a4ba4f6ecadd43e4a15e5af2c29cf16f68b6ee75d3",
+      "sha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-uncommon.png": {
-      "sha256": "c5357d2f678bc72df15ac86b1cd7b4373ef084c3c9dbc6a4f2ec6b071d380266",
+      "sha256": "0abfbe20cc2f226292cb5b23da0d0018d7706cb80079ef82f215379ff8730987",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-rare.png": {
-      "sha256": "2339fff4763b2586878204d43b275452ee29bb4481d7aa123d537868941abd65",
+      "sha256": "03019c5328a78bcc1040ceb670649edcb8255d506fce5199a090f9def9e548c6",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-shop.png": {
-      "sha256": "dddadb409aa39ffa6061d31eb36ba2bc95aafdae773ab84e3029520eee7dcf24",
+      "sha256": "1c76da4d378b67ae4e3f9307c44fd59dd948e62fcd186453eb5177e87458dd20",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-event.png": {
-      "sha256": "42b8948a252c8364dbba89f6e2e237773e847bacf629c05994a8d3767c802d82",
+      "sha256": "f98b287e6f024217381599743d1d76a32a40dd6284acec9a007aeaece55cfc6d",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-frame-ancient.png": {
-      "sha256": "7002e2c39e15c9f86d6386cf321e6c6fd7c70e34dbb3a1d5c18851dbd266bf96",
+      "sha256": "d712cd9352d16fe9a1c505dff61a0ff2472c1cb97229bbc5ad31163f254e497e",
       "size": [
         408,
         408
       ]
     },
     "assets/game-ui/inspect-arrow-left.png": {
-      "sha256": "06b701a7fcf6086158bb6ba3e7e20a46e847ddfc0eb10c6fc087c7de15e23a99",
+      "sha256": "ba971774a8fde0eae07a346d6886aa8d68976891ee75ea797466065942d44e44",
       "size": [
         128,
         128
       ]
     },
     "assets/game-ui/inspect-arrow-right.png": {
-      "sha256": "ae2d0dff5e61547831a5c6eb7c2f19691f86046b91dd75238ea32d325b0081c2",
+      "sha256": "19bb47a5b73a3f2ea630db769b3d272b1aa73e564a907531633145a8dc52879c",
       "size": [
         128,
         128
       ]
     },
     "assets/game-ui/karen_baseball_cat_relic-collection-outline.png": {
-      "sha256": "ae05f421456d615539c75e40e781947294a74a72f274c48e7546644d370a760a",
+      "sha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_cookie_relic-collection-outline.png": {
-      "sha256": "58d8e11eca8bc13e1ad438f39a58f93cc9a606ca53f6722ffd244883171214d2",
+      "sha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_little_star_relic-collection-outline.png": {
-      "sha256": "d274928d34d14b8cd99629924ab44aa50bbf8cd8b1ad41f83e639c9a94603f57",
+      "sha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_mr_white_relic-collection-outline.png": {
-      "sha256": "86cd29b3ecf80cc9f18635a0ad47041c0780fe09ca11461453750ff2902c4406",
+      "sha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_star_hairclip_relic-collection-outline.png": {
-      "sha256": "068203ff805b51bb09e89f701b42285582211476e77525cee86c705b8f5d5066",
+      "sha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_star_tiara_relic-collection-outline.png": {
-      "sha256": "8f35c3549cc92ca61b94e4805b434a424e44b3080e3f34853c84b89ee43c6f76",
+      "sha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_water_bottle_relic-collection-outline.png": {
-      "sha256": "60cc2106a04e2785246eeae131947da843e9c9a3d21fa7b6aa64e450471bc36f",
+      "sha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen_awake_potion-collection-outline.png": {
-      "sha256": "1ffd3f45994663fd1909665472d5b0a867b23acdfb86aa73270128e056865387",
+      "sha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538",
       "size": [
         80,
         80
       ]
     },
     "assets/game-ui/karen_shine_potion-collection-outline.png": {
-      "sha256": "359662bf862ced57b89b2b7a1bb979e8ab826a51253433e7705466ff35701a39",
+      "sha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c",
       "size": [
         80,
         80
       ]
     },
     "assets/game-ui/karen_tea_potion-collection-outline.png": {
-      "sha256": "b2cad1327fa8de1b39f8a62c38e2530a40c02a770031be4dcb8fba4162c92488",
+      "sha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6",
       "size": [
         80,
         80
       ]
     },
     "assets/game-ui/karen-frame-attack.png": {
-      "sha256": "b7b0f2d049bb32d48c02bad485a9c4d90c4a5f9f8b2f7457c0e895e94c0b3816",
+      "sha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/karen-frame-skill.png": {
-      "sha256": "6315453e3f7eb8782a9b49db4162d0c1d88fbe5d2e4b5c5c192f848a9af8b56f",
+      "sha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/karen-frame-power.png": {
-      "sha256": "4396a928dd10d6844f1ceb7bf357afce60ae25a4a1e5ab1254fad6c96c21f027",
+      "sha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca",
       "size": [
         598,
         844
       ]
     },
     "assets/game-ui/karen-energy.png": {
-      "sha256": "27139b5643bbe73920fd79063594803e8d008dfc3a1a2dfd4a25fc8ba6ba35bc",
+      "sha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115",
       "size": [
         1109,
         1109
       ]
     },
     "assets/game-ui/karen-inline-energy.png": {
-      "sha256": "9a44e8e5814701b2b7d586551ff9189401b953816f00cb34a5b5a15bff7acd92",
+      "sha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad",
       "size": [
         1254,
         1254
       ]
     },
     "assets/game-ui/karen-karen_baseball_cat_relic-outline.png": {
-      "sha256": "ae05f421456d615539c75e40e781947294a74a72f274c48e7546644d370a760a",
+      "sha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_cookie_relic-outline.png": {
-      "sha256": "58d8e11eca8bc13e1ad438f39a58f93cc9a606ca53f6722ffd244883171214d2",
+      "sha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_little_star_relic-outline.png": {
-      "sha256": "d274928d34d14b8cd99629924ab44aa50bbf8cd8b1ad41f83e639c9a94603f57",
+      "sha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_mr_white_relic-outline.png": {
-      "sha256": "86cd29b3ecf80cc9f18635a0ad47041c0780fe09ca11461453750ff2902c4406",
+      "sha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_star_hairclip_relic-outline.png": {
-      "sha256": "068203ff805b51bb09e89f701b42285582211476e77525cee86c705b8f5d5066",
+      "sha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_star_tiara_relic-outline.png": {
-      "sha256": "8f35c3549cc92ca61b94e4805b434a424e44b3080e3f34853c84b89ee43c6f76",
+      "sha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_water_bottle_relic-outline.png": {
-      "sha256": "60cc2106a04e2785246eeae131947da843e9c9a3d21fa7b6aa64e450471bc36f",
+      "sha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825",
       "size": [
         85,
         85
       ]
     },
     "assets/game-ui/karen-karen_awake_potion-outline.png": {
-      "sha256": "1ffd3f45994663fd1909665472d5b0a867b23acdfb86aa73270128e056865387",
+      "sha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538",
       "size": [
         80,
         80
       ]
     },
     "assets/game-ui/karen-karen_shine_potion-outline.png": {
-      "sha256": "359662bf862ced57b89b2b7a1bb979e8ab826a51253433e7705466ff35701a39",
+      "sha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c",
       "size": [
         80,
         80
       ]
     },
     "assets/game-ui/karen-karen_tea_potion-outline.png": {
-      "sha256": "b2cad1327fa8de1b39f8a62c38e2530a40c02a770031be4dcb8fba4162c92488",
+      "sha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6",
       "size": [
         80,
         80
       ]
     },
+    "assets/game-ui/junna-frame-attack.png": {
+      "sha256": "f4a5faa215a8539460154ba7fda945b5ea80e009a9ae6d9e988fd719488dfeae",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/junna-frame-skill.png": {
+      "sha256": "f2548e7014fc4f02778ff7d7c49775549f3f6f6aef16223760f4be3ae2bb6603",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/junna-frame-power.png": {
+      "sha256": "30feb879ecaab79d0f0f0397408dc55aea71eafc6aa4d6191e2b3714127a720b",
+      "size": [
+        598,
+        844
+      ]
+    },
+    "assets/game-ui/junna-energy.png": {
+      "sha256": "ecf8ac594a0ff3da2a9e244bf571cb1bdca3ac8a4a2926a7ad9bea9a3d596cfe",
+      "size": [
+        74,
+        74
+      ]
+    },
+    "assets/game-ui/junna-inline-energy.png": {
+      "sha256": "7bd3823aa80589d678736210193d47f40220043a8b24cd4df305019dc60a3ee1",
+      "size": [
+        24,
+        24
+      ]
+    },
+    "assets/game-ui/junna-junna_green_gem-outline.svg": {
+      "sha256": "c02b37b9c8e6f4c6e8be9dbb3e941cd285f6d7be1242c776663d57dda448ab76",
+      "bytes": 555
+    },
+    "assets/game-ui/junna-junna_burning_gem-outline.svg": {
+      "sha256": "c02b37b9c8e6f4c6e8be9dbb3e941cd285f6d7be1242c776663d57dda448ab76",
+      "bytes": 555
+    },
+    "assets/game-ui/junna-junna_your_knowledge_shines_forever-outline.png": {
+      "sha256": "0142a79fead9dbcfdfa17587da2269fdcd3eab30e445c4bd135658e8ca5219a8",
+      "size": [
+        85,
+        85
+      ]
+    },
+    "assets/game-ui/junna-junna_knowledge_potion-outline.png": {
+      "sha256": "3bf1649b4ca471ba06bad83572e6d52e754e746568388c57598e18c83b8ce30a",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "assets/game-ui/junna-junna_sports_drink-outline.png": {
+      "sha256": "bef9df645b2626e5b69b620aec0fd160397b777c4f2919ce7731914805cc6f1c",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "assets/game-ui/junna-junna_arrow_rain_potion-outline.png": {
+      "sha256": "fdf922f680616d7c111fe54e8a3a13341f7fd48fc65a93708e24da4dcc1d03f3",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "assets/game-ui/junna-arrow-common.png": {
+      "sha256": "dde43efc1221cc6863f914c5c94a0fae87bafa79f9c5b7b991f2c04dd3d5655f",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-uncommon.png": {
+      "sha256": "daa75db9757eb0f6bddd624cbe07f421ca78c2e88e0a4068a0b521b2b21110c5",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-rare.png": {
+      "sha256": "b23e692c068fe85bdd0c74f214b5d2dd9a6b350ab26258b9ed12435bca69e8b2",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-ancient-badge.png": {
+      "sha256": "501435a354316173ffad09e69c021a711284298bdd4db8ff994e53d9bc8b648f",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja15.png": {
+      "sha256": "0c5e227e9fc7fd70c5a3762c5f3301870aabd3c34ce6b873ed0829845e3dbd45",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_jk32b.png": {
+      "sha256": "35f57ac2374fba42611395c9eb04a090290f332f7a45b43d7a0d67d9890beee5",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_jk37.png": {
+      "sha256": "91385c3a9ccc1e0fcd646daf5a630692e845fc1ad4b7655883aa86c6f455302d",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja38.png": {
+      "sha256": "50cacc04152445f33151ee842c5b9384c20183d84723d8beef4a1d322efdbcf3",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_full_draw.png": {
+      "sha256": "156504f3b1cc927272d66914179bdedc4375d20092392c40f4b066e77273fc28",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja58.png": {
+      "sha256": "1cc86afde79f82c01996a14849281120b73c1c2c8ae0675a03753c4fac7b6434",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja64.png": {
+      "sha256": "1bbee67871f7a140101e0683ffb21cfb6f9162ae6a3baccaf3f406ed4f014851",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja65.png": {
+      "sha256": "056637382d5a316e1bb0540215c021f1f90a874f6c0e2b19a60960ac6f946c68",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja67.png": {
+      "sha256": "0b1467e8a611da6ab70a884eba5db658e39b1ab59b5d8c94e7c522e070bab115",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja80.png": {
+      "sha256": "0e7b9d45d66bf24be9729bc72d5e6118dd84441383ded4af09a20f5bea77a8af",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja81b.png": {
+      "sha256": "6e8149ef5876718ac08309377024b6895a61a912fcb8225d853ce14bcc8fcb88",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_jk133.png": {
+      "sha256": "4f318a57e2c012cb4fd1c19671299ae749ee1cb41167081752f12b22a3def5e6",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_ja108b.png": {
+      "sha256": "be0286eeae2d41d2c204c22f02d52dc7fbcf30c1a245dff1b538de21535b4f52",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_u_card_005.png": {
+      "sha256": "3db944248bd64731fdb16ca553291b2eb6e1fec3adae827c38b392d1f502d1d4",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_u_card_011.png": {
+      "sha256": "c69865a0e99166639eed072da1674ecadc901d56465f18b984982f616ea0d4de",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_u_card_012.png": {
+      "sha256": "f4a18f267233a42bb6cc8e3d30dbc498ab63c10b8c798acd0709c58370925c74",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-junna_u_card_031.png": {
+      "sha256": "c295f046a9b97a987b6cfacd360059fdd7003cb3d5e6eb8190a5248bd2920863",
+      "size": [
+        1456,
+        1080
+      ]
+    },
+    "assets/game-ui/junna-arrow-backdrop.png": {
+      "sha256": "5fb6366420458c8c2967397a3efb8eda749e33c651faebc7d1ab0289edac4cb0",
+      "size": [
+        494,
+        315
+      ]
+    },
     "assets/game-ui/game-regular.woff2": {
-      "sha256": "71fa1de79c40a118461143746c2138a9c27b1a9defd3a9389e5678c9d9f3b5a2",
-      "bytes": 251740
+      "sha256": "f9372a5bf385d2dc3c3d3ae0969a176aa91e5cdd9b5af1355b067dc4f24150a8",
+      "bytes": 359948
     },
     "assets/game-ui/game-bold.woff2": {
       "sha256": "08d3d3ec37dc2714a5bd136da2c8e6edb080348a0f5ba91a5f1fbd7556b3b129",
@@ -2165,6 +2409,97 @@
           }
         }
       }
+    },
+    "junna": {
+      "id": "junna",
+      "framePrefix": "assets/game-ui/junna-frame-",
+      "energy": "assets/game-ui/junna-energy.png",
+      "inlineEnergy": "assets/game-ui/junna-inline-energy.png",
+      "gameplay": {
+        "JUNNA.SELECT_DAMAGE_CARD": "选择一张牌",
+        "JUNNA.CARD_TYPE.ARROW": "飞矢",
+        "JUNNA.INVESTMENT": "伤害强化",
+        "JUNNA.KNOWLEDGE_SPREAD_LAYOUT": "平铺",
+        "JUNNA.KNOWLEDGE_STACK_LAYOUT": "堆叠",
+        "JUNNA.KNOWLEDGE_GROUP": "关联牌",
+        "JUNNA.KNOWLEDGE_GROUP_LABEL": "关联牌：",
+        "JUNNA.KNOWLEDGE_CONFIRM": "确认",
+        "JUNNA.KNOWLEDGE_CANCEL": "取消",
+        "JUNNA.KNOWLEDGE_BACKGROUND": "知识背景",
+        "JUNNA.KNOWLEDGE_COPY_REWARD": "复制至多{Count}张知识牌",
+        "JUNNA.KNOWLEDGE_COPY_SELECT": "选择至多{Count}张知识牌。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK200": "《李尔王》第三幕第二场，李尔在暴风雨中呼喊狂风、雷电与暴雨。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK200B": "《李尔王》第三幕第二场，李尔在风雨中宣称要成为忍耐的典范，随后又继续激烈呼喊。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK400": "尼采《查拉图斯特拉如是说》：学习飞翔之前，先学会站立、行走、奔跑、攀登和舞蹈。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK49": "莎士比亚《哈姆雷特》第三幕第一场：拿起武器，反抗苦难之海。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK49B": "莎士比亚《哈姆雷特》第三幕第一场：承受命运的投石与飞箭。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK206": "《哈姆雷特》第二幕第二场，波洛涅斯问哈姆雷特读些什么，得到“文字，文字，文字”的回答。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK206B": "《哈姆雷特》第二幕第二场，波洛涅斯问哈姆雷特读些什么，得到“文字，文字，文字”的回答。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK235": "《理想の国語教科書》是齐藤孝编著的名文选读集，收录莎士比亚、歌德等作家的作品。纯那从小学阅读此书，开始感受到语言的力量。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK272": "莎士比亚悲剧《李尔王》中，交出国土的老王逐渐失去权势与庇护，流落荒野。失势与一无所有分别呈现威势衰退和失去保护的处境。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK272B": "《李尔王》第三幕第四场，从风雨中衣衫褴褛的处境思考人失去衣物与庇护后的脆弱。",
+        "JUNNA.KNOWLEDGE_BACKGROUND.JK400B": "尼采《查拉图斯特拉如是说》以学习站立、行走、奔跑、攀登与舞蹈，说明通向飞翔所需的实践。"
+      },
+      "shineLabel": "[gold]闪耀[/gold]",
+      "shineSuffix": "。",
+      "artifactUi": {
+        "relics": {
+          "JUNNA_GREEN_GEM": {
+            "outline": "assets/game-ui/junna-junna_green_gem-outline.svg"
+          },
+          "JUNNA_BURNING_GEM": {
+            "outline": "assets/game-ui/junna-junna_burning_gem-outline.svg"
+          },
+          "JUNNA_YOUR_KNOWLEDGE_SHINES_FOREVER": {
+            "outline": "assets/game-ui/junna-junna_your_knowledge_shines_forever-outline.png"
+          }
+        },
+        "potions": {
+          "JUNNA_KNOWLEDGE_POTION": {
+            "outline": "assets/game-ui/junna-junna_knowledge_potion-outline.png"
+          },
+          "JUNNA_SPORTS_DRINK": {
+            "outline": "assets/game-ui/junna-junna_sports_drink-outline.png"
+          },
+          "JUNNA_ARROW_RAIN_POTION": {
+            "outline": "assets/game-ui/junna-junna_arrow_rain_potion-outline.png"
+          }
+        }
+      },
+      "energyOutlineColor": "#173c2f",
+      "typeNames": {
+        "Arrow": "飞矢"
+      },
+      "arrow": {
+        "framePrefix": "assets/game-ui/junna-arrow-",
+        "position": [
+          -158.4,
+          -184.414
+        ],
+        "size": [
+          318.0,
+          243.494
+        ],
+        "portraits": {
+          "JUNNA_JA15": "assets/game-ui/junna-arrow-junna_ja15.png",
+          "JUNNA_JK32B": "assets/game-ui/junna-arrow-junna_jk32b.png",
+          "JUNNA_JK37": "assets/game-ui/junna-arrow-junna_jk37.png",
+          "JUNNA_JA38": "assets/game-ui/junna-arrow-junna_ja38.png",
+          "JUNNA_FULL_DRAW": "assets/game-ui/junna-arrow-junna_full_draw.png",
+          "JUNNA_JA58": "assets/game-ui/junna-arrow-junna_ja58.png",
+          "JUNNA_JA64": "assets/game-ui/junna-arrow-junna_ja64.png",
+          "JUNNA_JA65": "assets/game-ui/junna-arrow-junna_ja65.png",
+          "JUNNA_JA67": "assets/game-ui/junna-arrow-junna_ja67.png",
+          "JUNNA_JA80": "assets/game-ui/junna-arrow-junna_ja80.png",
+          "JUNNA_JA81B": "assets/game-ui/junna-arrow-junna_ja81b.png",
+          "JUNNA_JK133": "assets/game-ui/junna-arrow-junna_jk133.png",
+          "JUNNA_JA108B": "assets/game-ui/junna-arrow-junna_ja108b.png",
+          "JUNNA_U_CARD_005": "assets/game-ui/junna-arrow-junna_u_card_005.png",
+          "JUNNA_U_CARD_011": "assets/game-ui/junna-arrow-junna_u_card_011.png",
+          "JUNNA_U_CARD_012": "assets/game-ui/junna-arrow-junna_u_card_012.png",
+          "JUNNA_U_CARD_031": "assets/game-ui/junna-arrow-junna_u_card_031.png"
+        }
+      }
     }
   },
   "modSources": {
@@ -2258,6 +2593,176 @@
         "gitBlob": "083ef2e20769c388a35005644d77460b01adb3aa",
         "sha256": "204588917b510331c268c3bd704dd5aac8d9c0a6b7e77eed1df85992f4ab97ad",
         "bytes": 1306
+      }
+    },
+    "junna": {
+      "ShoujoKagekiJunna/images/energy_counter/energy_icon.png": {
+        "path": "ShoujoKagekiJunna/images/energy_counter/energy_icon.png",
+        "gitBlob": "d8a6df46ff193fe9791335cf79f77a9b7c823892",
+        "sha256": "13927ff0667bab2e8f80d2f185117f383d338e8f4f3ebce2c1d937bdfdb9894e",
+        "bytes": 8702
+      },
+      "ShoujoKagekiJunna/images/energy_counter/energy_icon_small.png": {
+        "path": "ShoujoKagekiJunna/images/energy_counter/energy_icon_small.png",
+        "gitBlob": "8ef221536016bb5beddad8b050d9bd413771f659",
+        "sha256": "af921322e57bc64f473256f91ff1f574136c89d8b99d9a0951bda720872d71ae",
+        "bytes": 1430
+      },
+      "ShoujoKagekiJunna/images/relics/green_gem_outline.svg": {
+        "path": "ShoujoKagekiJunna/images/relics/green_gem_outline.svg",
+        "gitBlob": "1f90473ebc3e92ecb94c62d9441a9366daf13529",
+        "sha256": "2505707014829bfdaef9d833067c58247cc162d1d191b3e93162a5ae6f2caa61",
+        "bytes": 305
+      },
+      "ShoujoKagekiJunna/images/relics/burning_gem_outline.svg": {
+        "path": "ShoujoKagekiJunna/images/relics/burning_gem_outline.svg",
+        "gitBlob": "1f90473ebc3e92ecb94c62d9441a9366daf13529",
+        "sha256": "2505707014829bfdaef9d833067c58247cc162d1d191b3e93162a5ae6f2caa61",
+        "bytes": 305
+      },
+      "ShoujoKagekiJunna/images/relics/spike_tape_outline.png": {
+        "path": "ShoujoKagekiJunna/images/relics/spike_tape_outline.png",
+        "gitBlob": "2492c7ab1345176e8b11cc2245547e0df10d7edf",
+        "sha256": "486ec029980b9960197415fe765ce9a7efd339b5652b3c59e7825734a2bfa58b",
+        "bytes": 3146
+      },
+      "ShoujoKagekiJunna/images/potions/knowledge_potion_outline.png": {
+        "path": "ShoujoKagekiJunna/images/potions/knowledge_potion_outline.png",
+        "gitBlob": "96621f80180ebfa209008717ed035295494744fc",
+        "sha256": "03c782f9d3357c00a5008b9f1618fa21a081f686a4971cf8b26ac3570bfb5732",
+        "bytes": 6166
+      },
+      "ShoujoKagekiJunna/images/potions/sports_drink_outline.png": {
+        "path": "ShoujoKagekiJunna/images/potions/sports_drink_outline.png",
+        "gitBlob": "0f8c95c2996b9a4b9b6c3a0e714092ad93107241",
+        "sha256": "d4edaceafdcfbcc51850ca06ba90d6bef20ae094d9ebc65b1519895f69ff8080",
+        "bytes": 5159
+      },
+      "ShoujoKagekiJunna/images/potions/arrow_rain_potion_outline.png": {
+        "path": "ShoujoKagekiJunna/images/potions/arrow_rain_potion_outline.png",
+        "gitBlob": "14e9e155ae6e9d406ac0cc5952d0a90b632fa852",
+        "sha256": "db874068072d74f6f6ff8fca9517a76a61738ee8f1f5581cf71d398218df9d1f",
+        "bytes": 5483
+      },
+      "ShoujoKagekiJunna/localization/zhs/gameplay_ui.json": {
+        "path": "ShoujoKagekiJunna/localization/zhs/gameplay_ui.json",
+        "gitBlob": "95d3b53ee2306f849ded94d7751356ec2429c603",
+        "sha256": "f4bbb9da8d20e7caae4e132286aa0de6e09d54824228cce1f2b0007ad2da576c",
+        "bytes": 2387
+      },
+      "src/UI/Arrows/ArrowCardPresentation.cs": {
+        "path": "src/UI/Arrows/ArrowCardPresentation.cs",
+        "gitBlob": "b5ad4622b4703519b6cf0146eb54988e92c53900",
+        "sha256": "1769a25c440e10df7e09793a023f07e29d4e5700bd66a444bcf5052e6d347ade",
+        "bytes": 10021
+      },
+      "ShoujoKagekiJunna/images/arrow_portrait_frame.png": {
+        "path": "ShoujoKagekiJunna/images/arrow_portrait_frame.png",
+        "gitBlob": "268bbb93f25eb173069b8ffb31dea15e5c25eea3",
+        "sha256": "70472bfa0a6ab4093f33a793c1d0d93c81a47daf575ebbe9fa810a261bfd8592",
+        "bytes": 567544
+      },
+      "ShoujoKagekiJunna/images/cards/JA15.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA15.jpg",
+        "gitBlob": "153db56e3347b346278d6fbba1af6188cfa8d86b",
+        "sha256": "2d7315e510bcc47cb21bb964eb981a736ed7fbd10686356f639d7d0f8d09dab1",
+        "bytes": 51763
+      },
+      "ShoujoKagekiJunna/images/cards/JK32B.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JK32B.jpg",
+        "gitBlob": "10d49756a0e0b359e33d5133a0bed815f1cf17ee",
+        "sha256": "44f3c06e74856b21c56f7768f41a677e2e65ea81be687a5a09b7a29c74b0427f",
+        "bytes": 64073
+      },
+      "ShoujoKagekiJunna/images/cards/JK37.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JK37.jpg",
+        "gitBlob": "b92f3c7316d18356b384e38f21fc8e9c0b284242",
+        "sha256": "1627e671afd1f9ae02d9a219e871e197a7522a0a3f9f70ccb77a1acf750c13fa",
+        "bytes": 17369
+      },
+      "ShoujoKagekiJunna/images/cards/JA38.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA38.jpg",
+        "gitBlob": "d60138626c2401cb5d2a7186fd6d2f1ab0c6b4a4",
+        "sha256": "2fb062e203415eee71e44fa7d0a9d65c92c9053e78d9c77b0a54e8b318c06dbc",
+        "bytes": 42000
+      },
+      "ShoujoKagekiJunna/images/cards/JB03.png": {
+        "path": "ShoujoKagekiJunna/images/cards/JB03.png",
+        "gitBlob": "1293267f901ebab6867581ef0382320f29686765",
+        "sha256": "febc5e91a9d54c08187e02a0e67319801aaae639d7d578ef76958b71ed3e80ae",
+        "bytes": 1870500
+      },
+      "ShoujoKagekiJunna/images/cards/JA58.png": {
+        "path": "ShoujoKagekiJunna/images/cards/JA58.png",
+        "gitBlob": "894c03d72e142439023a4ac2d75fae1b098d382a",
+        "sha256": "6dff4d36a48121c300af0f61175911585eaceb245aa4b2caeafa70ba07f9650a",
+        "bytes": 538074
+      },
+      "ShoujoKagekiJunna/images/cards/JA64.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA64.jpg",
+        "gitBlob": "78e5a8368dcfb4c494c5d68e04c067f047d05b81",
+        "sha256": "6076e3b2263818cd8f8010841f53de2849fe6912c2fe8310469ffdeb2dcee91c",
+        "bytes": 30078
+      },
+      "ShoujoKagekiJunna/images/cards/JA65.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA65.jpg",
+        "gitBlob": "c3e1764e07dc70dc5715ce177dda071be9a4682d",
+        "sha256": "509d4fe095fd7901821936231044e10a44066182da1c94accca7fadd414b9605",
+        "bytes": 38286
+      },
+      "ShoujoKagekiJunna/images/cards/JA67.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA67.jpg",
+        "gitBlob": "58eac1b7758df7f822f0070c7fac3272a83be003",
+        "sha256": "3115e8e9d9f961371be2da626b29d18ec5f9a1073bb02d5383523422faa1c96b",
+        "bytes": 141002
+      },
+      "ShoujoKagekiJunna/images/cards/JA80.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA80.jpg",
+        "gitBlob": "28319cd24a73d5baf290937a1fb2d93ad5a8061b",
+        "sha256": "320ed8996f5f6808321b846ac12b13906f935523dfc7d4d56f2e098cbf3c072c",
+        "bytes": 28816
+      },
+      "ShoujoKagekiJunna/images/cards/JA81B.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA81B.jpg",
+        "gitBlob": "dbbecb308ddfca84011bbbe72fa33de5d3fdd177",
+        "sha256": "73bbe4ad9a5862d34f3d872497cfaeff2eab3f438c0625525c4d6a2a7097d309",
+        "bytes": 26476
+      },
+      "ShoujoKagekiJunna/images/cards/JK133.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JK133.jpg",
+        "gitBlob": "c1c3e37099d61fc0e567628bb6343fd20f2644c6",
+        "sha256": "7de67b9f5edc3bb1fd4a02b05f1e8c698c6c6597a7466b7497393731ce8433f9",
+        "bytes": 32784
+      },
+      "ShoujoKagekiJunna/images/cards/JA108B.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/JA108B.jpg",
+        "gitBlob": "fc63f1db994ebc13779be610190fe230e8dee4e4",
+        "sha256": "bc02460f217a131a25965a9c2f98c3352c92acfee80d7cadc36df7d4d0576831",
+        "bytes": 51742
+      },
+      "ShoujoKagekiJunna/images/cards/U_CARD_005.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/U_CARD_005.jpg",
+        "gitBlob": "dbfdfdf3340f9568907a2a283bdf09f806a47f5a",
+        "sha256": "40a35f59a0af1e967e92eed20644b99a75487245245d5f050bf1934e13bc1b72",
+        "bytes": 27020
+      },
+      "ShoujoKagekiJunna/images/cards/U_CARD_011.png": {
+        "path": "ShoujoKagekiJunna/images/cards/U_CARD_011.png",
+        "gitBlob": "1934f5a20aff29ce3aefec749d301ef1748b838f",
+        "sha256": "b994fcbfcf9c94531cf8567fb84d04049cfa35ba5706ac56fd7da3b2833f0871",
+        "bytes": 108915
+      },
+      "ShoujoKagekiJunna/images/cards/U_CARD_012.png": {
+        "path": "ShoujoKagekiJunna/images/cards/U_CARD_012.png",
+        "gitBlob": "1dc6254745d1c9aa05071db928d9a46a263e9924",
+        "sha256": "82e0f5a9b343126fb1624cda630c5d4e820de40a66344fe95f2f63ea50dde13f",
+        "bytes": 338770
+      },
+      "ShoujoKagekiJunna/images/cards/U_CARD_031.jpg": {
+        "path": "ShoujoKagekiJunna/images/cards/U_CARD_031.jpg",
+        "gitBlob": "6e218fe3f63bcf408c4c0fb3b0c06e3326a7eb14",
+        "sha256": "ccba2e7463234cc65f4d615b4c5f7cdab18f23034f4ca6a06c338dc615260f4a",
+        "bytes": 62908
       }
     }
   },

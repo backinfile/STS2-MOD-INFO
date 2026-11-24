@@ -8,6 +8,10 @@
 
 新适配器需要导出 `character`、`cards`、`relics`、`potions`、`events`、`keywords`，并验证具体模型和各注册池完整性。模型无法解析时必须失败，不能凭描述猜测数值或丢弃条目。修改适配器代码自动使缓存失效。
 
+`junna_adapter.py` 读取纯那的嵌入卡牌目录、规则与 C# partial 声明，导入当前卡牌，保留非奖励池关联牌，排除退役定义。它复现 `KnowledgeGroup.Initialize` 的双向关联、升级提示、无限升级与 `ShineCard` 声明。飞矢 UI 由 `ArrowCardPresentation.cs` 的轮廓、位置和稀有度矩阵生成。
+
+注册表的 `supportSources` 可指定固定提交的公开文本／C# 来源，记录其仓库、提交、源路径及哈希；用于纯那的 Core 闪耀规则，不执行外部程序。`--local-source MOD_ID=PATH` 可读取用户明确提供的本地 Git HEAD，校验 origin，生成与 GitHub 导入相同的独立快照。
+
 ## snapshot 格式
 
 如果 Mod 仓库可提供静态展示数据，注册表可使用：
@@ -66,6 +70,8 @@
 示例数值仅说明数据格式，不会作为展示内容接入网站。`cardPool`、`visualPool` 默认使用注册的 Mod ID；共享池可用 `colorless`、`curse`、`status`、`token`。未注册卡标记 `isRegistered:false`。不可升级卡必须设 `maxUpgradeLevel:0`。
 
 提示引用支持 `mod`（原始机制字典）、`power`（原始能力 ID）、`static`（本体提示）、`card`（同 Mod 卡牌及 `upgraded:true/false/"match"`）、`potion` 和 `text`（原始名称与描述）。`ifKeyword` 可限制提示只在当前版本包含指定关键词时出现。不能通过中文字面匹配生成关系。
+
+`upgradedTipRefs` 可提供升级版本的实际提示；`card` 引用的 `description` 用于源码明确赋值后的关联预览，如流星的伤害。
 
 `rendering` 可指定上游 `frameMaterialSource`、`energySource`、`inlineEnergySource`、`gameplayPath` 与 `outlineColors`。纹理支持 PNG 和 Godot AtlasTexture；没有专属卡框与能量时使用本体无色资源。每个上游源文件和派生输出均记录哈希。
 

@@ -3,169 +3,169 @@
     "bytes": 39902,
     "path": "assets/web/game-ui/ancient-banner.png.webp",
     "sha256": "5900d7093de56a6c09b9460ea4aac686098d449c2819ea72462cabf086793427",
-    "sourceBytes": 61451,
-    "sourceSha256": "dc35643771f1453eb5885d5a91fb5d6ceddcb0d301112de56966dc712e172cc8"
+    "sourceBytes": 60474,
+    "sourceSha256": "0bec423de948678df19f44c9f5c650c01520137e8fbecf19000867d76d431440"
   },
   "assets/game-ui/ancient-card-border.png": {
     "bytes": 21684,
     "path": "assets/web/game-ui/ancient-card-border.png.webp",
     "sha256": "446d369dd1f573f05b0626e80937557fdfc153fa0e9e71a41d12171d82a393e0",
-    "sourceBytes": 40756,
-    "sourceSha256": "134b2f037c0abcd53b798d5c7fc1a7fe022d525d9206215102fb367a091ad3c6"
+    "sourceBytes": 39537,
+    "sourceSha256": "f977b238ff413e56e5cc3623066bf92c86b87371a0b21dd3687a0979d1bada9c"
   },
   "assets/game-ui/ancient-card-text-bg-attack.png": {
     "bytes": 2754,
     "path": "assets/web/game-ui/ancient-card-text-bg-attack.png.webp",
     "sha256": "d78ee7953c7be1c35b26bb693d07d946cd008bae17a8caa7417b61cf4d623e44",
-    "sourceBytes": 7382,
-    "sourceSha256": "9256a97657758d9b52f1597767f3248439d26d14f8be1c4deffa57693b6f8f55"
+    "sourceBytes": 7283,
+    "sourceSha256": "95abf248ff118be098cd66d046fb7a19f5cb08afa353cdd1db867e8d38a34c1b"
   },
   "assets/game-ui/ancient-card-text-bg-power.png": {
     "bytes": 2292,
     "path": "assets/web/game-ui/ancient-card-text-bg-power.png.webp",
     "sha256": "67d899edfe795596c30f5030511101a2e7777b858ee0135669f4f3056c5ffae7",
-    "sourceBytes": 6440,
-    "sourceSha256": "267e0899e52e0fea9f8df69f83c087a37e00944d98bbb8b0660acf84b92cee7d"
+    "sourceBytes": 6329,
+    "sourceSha256": "c098502bbbab55d9092f7ac3a3239b8c832d26146cd9879bf5376f5dd587850a"
   },
   "assets/game-ui/ancient-card-text-bg-skill.png": {
     "bytes": 300,
     "path": "assets/web/game-ui/ancient-card-text-bg-skill.png.webp",
     "sha256": "8791a0c90ac5f45bfd61239545234d2c854d48cd97a6ee532f498fdce50336c0",
     "sourceBytes": 2283,
-    "sourceSha256": "e031faedc376aadcc295b7eec41dd661fb4354dd37bbd28cc5a1175454a0c1aa"
+    "sourceSha256": "9f3c6767d74a9730379151e135d8cdb4eb3d0476d4126e51449e40dd514815e4"
   },
   "assets/game-ui/ancient-flame-0.png": {
     "bytes": 2196,
     "path": "assets/web/game-ui/ancient-flame-0.png.webp",
     "sha256": "af8af619df892755565fbf9c675a01d05d67492c4f51c7070fe565bfb20a7725",
-    "sourceBytes": 2755,
-    "sourceSha256": "c4608dd8f0a900b1c1df404e4d34588ba39c89ec110022cba5b6085849978d74"
+    "sourceBytes": 2746,
+    "sourceSha256": "d268416f5031da3fb6b46263a9c88eec9181552bdf94cf22e9c1fa9c82fd15e9"
   },
   "assets/game-ui/ancient-flame-1.png": {
     "bytes": 2140,
     "path": "assets/web/game-ui/ancient-flame-1.png.webp",
     "sha256": "93d0acf3a97ad008bac6e83b8cb4632e8d70f6027d7453455db81087f0339d56",
     "sourceBytes": 2703,
-    "sourceSha256": "8b311550c5384c94186e8a2d9bb600bbb06ffea65dae08e392bb65af2191f956"
+    "sourceSha256": "c3414a15fbcf297a0d8a5471a6147280bd1c7e7a36233b7898f6e46d7a1a2388"
   },
   "assets/game-ui/ancient-flame-2.png": {
     "bytes": 1834,
     "path": "assets/web/game-ui/ancient-flame-2.png.webp",
     "sha256": "c6ede1aa5b2b9720f738d49c6bcf204392133e0a967c37ec947020f818872824",
-    "sourceBytes": 2548,
-    "sourceSha256": "b8f4fc4a7e1294cd1ca09183efb01764b8a71b830b79606326fb036d42712c09"
+    "sourceBytes": 2542,
+    "sourceSha256": "6a79e01890a6661b5704ad40a85f109aee6ed0e504e2df876372ad319925fe57"
   },
   "assets/game-ui/ancient-flame-3.png": {
     "bytes": 2298,
     "path": "assets/web/game-ui/ancient-flame-3.png.webp",
     "sha256": "6e95c9cb26bf4d2fed017129bdf223a48b0b953b41e642fff9eeaad3bc18c1e0",
-    "sourceBytes": 2799,
-    "sourceSha256": "0dd20be795ecaadc32127fcf95ee59350a83caaabdd48f268221eb34c7169042"
+    "sourceBytes": 2784,
+    "sourceSha256": "427ea8316eb475f565e49b30bd100d3442f7dc26a22263e4729170374bf786e6"
   },
   "assets/game-ui/ancient-flame-4.png": {
     "bytes": 2342,
     "path": "assets/web/game-ui/ancient-flame-4.png.webp",
     "sha256": "d8a54866cac25c4c4071ce532da73aa0599a93c6f54e1e704ed1d3e9138797ee",
-    "sourceBytes": 2762,
-    "sourceSha256": "303e21ef1b1fce44f040664f6125f396a656851bd00e224f4f52aa3f31c25093"
+    "sourceBytes": 2744,
+    "sourceSha256": "de596350b52f406643249b1c917aac639987d8533c9be9c951a5e190065d2a19"
   },
   "assets/game-ui/ancient-flame-5.png": {
     "bytes": 2506,
     "path": "assets/web/game-ui/ancient-flame-5.png.webp",
     "sha256": "417e092c51bca90c2150920566c97930b0e35e424179e45d0ac0e399d8e04063",
-    "sourceBytes": 3139,
-    "sourceSha256": "7b21e886cb3dc3575dbb976f2620e3a058333a56ddc3eeabb07ebc01e944de94"
+    "sourceBytes": 3137,
+    "sourceSha256": "a632cbad5e227c0c138be7b9f09bf6f853b82b4de91cf54571b9ae303cbfbf6d"
   },
   "assets/game-ui/ancient-flame-6.png": {
     "bytes": 2346,
     "path": "assets/web/game-ui/ancient-flame-6.png.webp",
     "sha256": "71f10bd3ddbf79377d7324fe589c506cd4f88f40088f70f5113884735d707775",
-    "sourceBytes": 2909,
-    "sourceSha256": "539067ac5348ee600b3b024e44ead048e27943bef763ba79a5b339c960df76ee"
+    "sourceBytes": 2910,
+    "sourceSha256": "eef6102b8b90755d2a7cb7f8ad327af346c265871623231bb2092b981b01f9e2"
   },
   "assets/game-ui/ancient-flame-7.png": {
     "bytes": 2204,
     "path": "assets/web/game-ui/ancient-flame-7.png.webp",
     "sha256": "d3d764a925dec7890248559b9b3162808c4cd4f93f48f79b5bbe69d1d62dbeb6",
-    "sourceBytes": 2761,
-    "sourceSha256": "34307b92faa7346c00744fa7a7b747d75f07f7416cd9867ba8037214e5732ba8"
+    "sourceBytes": 2765,
+    "sourceSha256": "70352e02e7f67c89980c8ed5652adbd33acf209b829ac71b477beebbc5a46254"
   },
   "assets/game-ui/ancient-flame-8.png": {
     "bytes": 2254,
     "path": "assets/web/game-ui/ancient-flame-8.png.webp",
     "sha256": "6acbdccf1ad70ea0b65d811a0defce4408763cb82edadcfd3b2bec91e04de6bf",
-    "sourceBytes": 2721,
-    "sourceSha256": "e332b54e338c2f52f55d53682e70f5b534ee1ddadea42bbde994e8bd129fe6fe"
+    "sourceBytes": 2717,
+    "sourceSha256": "bee6443976247e4d7635ff9306a713e8aa661f3ed4b5b99fee1b029cb88ecd89"
   },
   "assets/game-ui/ancient-flame-9.png": {
     "bytes": 2394,
     "path": "assets/web/game-ui/ancient-flame-9.png.webp",
     "sha256": "488b42ab2b94a5d445f4a9a2fe888f02d9fc73462774ef53755af2a36bd376f3",
-    "sourceBytes": 2823,
-    "sourceSha256": "f485dad4e5c5c0fe12c92ca43d1328a8081870e5dad0cfb270871bec520b6f82"
+    "sourceBytes": 2816,
+    "sourceSha256": "900fd226b77227a225099d70e8f31ac28000add090f9ad5c70999a5673f3e766"
   },
   "assets/game-ui/ancient-portrait-mask-large.png": {
     "bytes": 2300,
     "path": "assets/web/game-ui/ancient-portrait-mask-large.png.webp",
     "sha256": "bde7667b0899b46ab9f4165ab0eddf77092ebe9a9f2cfe4368c819abd9cacea1",
-    "sourceBytes": 8484,
-    "sourceSha256": "3be2fce95b47dfea6c16f8c7d8cda09f331791b436854f766703d54d0c314cb7"
+    "sourceBytes": 7706,
+    "sourceSha256": "91374eea42d976b8f7131d56e69ed5f8689c8d74ac4812b1e55b1005d524055f"
   },
   "assets/game-ui/banner-ancient.png": {
     "bytes": 22162,
     "path": "assets/web/game-ui/banner-ancient.png.webp",
     "sha256": "517d87be7079897360312163cba8396f20200727e556df7920bce098f7611c1e",
-    "sourceBytes": 37319,
-    "sourceSha256": "2051c387ab915043feb7ca93d8cb4f00074644cbd5c0fb4418f83ca170017c86"
+    "sourceBytes": 36960,
+    "sourceSha256": "0643115d520f862af75df7661cd88a8e90f0ff1b2b50af2af97a93659b0bfdb3"
   },
   "assets/game-ui/banner-common.png": {
     "bytes": 21176,
     "path": "assets/web/game-ui/banner-common.png.webp",
     "sha256": "6b47d21317524ee62b26b12e06bb55b17c8bd8bd0b8324d4128b8bd39bae2815",
-    "sourceBytes": 36384,
-    "sourceSha256": "912c1398b8dd283e79368fe1234632d484e34714f2b08566ff7b669510fe4f41"
+    "sourceBytes": 36032,
+    "sourceSha256": "f100ef8258f3017adf590214eb2fb596d228673ce082ca20382b63dd63f573a5"
   },
   "assets/game-ui/banner-curse.png": {
     "bytes": 24958,
     "path": "assets/web/game-ui/banner-curse.png.webp",
     "sha256": "ca7ab285f4d5b4b9bda497c5d7a0671350c00e464eeb721bbe2b7ffa78152a8d",
-    "sourceBytes": 35967,
-    "sourceSha256": "7173093661654266898d6fb7e54c0e0a2a4022f39f8d6de3d8834a1c6e5c0408"
+    "sourceBytes": 35637,
+    "sourceSha256": "b93fa2bd7c1858a9ba5b532abaf7fbeaf81af9983b35e5d27452d0ded7056890"
   },
   "assets/game-ui/banner-event.png": {
     "bytes": 27220,
     "path": "assets/web/game-ui/banner-event.png.webp",
     "sha256": "df9ebecc1f486036a96d535bed0cdbfd21ec8a83021070f951a7e210c1fe768a",
-    "sourceBytes": 40640,
-    "sourceSha256": "27ff49f5da7cb36555a878c91e9085b67a86ebc48228e33dc1d6e4243c3b3ec4"
+    "sourceBytes": 40329,
+    "sourceSha256": "bba54737b5ec4bff93462452007404d3618be099820d771d986e40689060660b"
   },
   "assets/game-ui/banner-rare.png": {
     "bytes": 28286,
     "path": "assets/web/game-ui/banner-rare.png.webp",
     "sha256": "e499e8cee4e4a34477a163d276594ba9b68eb04e359e4ae05741d773472818bc",
-    "sourceBytes": 38573,
-    "sourceSha256": "1449578869e251fa8cb34b623dcc8eff14cd81515dd97246ea9fa0d47ddb38fa"
+    "sourceBytes": 38296,
+    "sourceSha256": "4ed608b17ae61a94102d79e2fdcb9a73cf5228df04d347c7fc18f2427712b290"
   },
   "assets/game-ui/banner-status.png": {
     "bytes": 23382,
     "path": "assets/web/game-ui/banner-status.png.webp",
     "sha256": "0ecd7d6444a211373056bd178edea45db0f07c69a463ec8820f3623dffdf1593",
-    "sourceBytes": 37621,
-    "sourceSha256": "87e27d1c49f85b85e4918543eb668a5f491d624cd3167d98a052c0dd7cb4da82"
+    "sourceBytes": 37263,
+    "sourceSha256": "82fc863a75769e80ede06f4de65bd9b8f76a8e082821e249acb957bcb52b9b57"
   },
   "assets/game-ui/banner-uncommon.png": {
     "bytes": 27450,
     "path": "assets/web/game-ui/banner-uncommon.png.webp",
     "sha256": "938481cc0e9c962bd96cc6d7fe7d1a3b0b9343ced8e3e56ea4ab35074bfdcaf3",
-    "sourceBytes": 40727,
-    "sourceSha256": "45971d6e6b739679965d452425621c56d4a974c674f379e9b538b4c1ba4ed5bc"
+    "sourceBytes": 40446,
+    "sourceSha256": "25409e808b4967e4e601aca6967d574c6d45d462dd53aa7efbacb3530ea0d724"
   },
   "assets/game-ui/card-highlight-ancient.png": {
     "bytes": 28090,
     "path": "assets/web/game-ui/card-highlight-ancient.png.webp",
     "sha256": "9af9bf742f2f75dd3ee343d37f170da40903887c6a370a2bc979ae4bee2ee0d3",
-    "sourceBytes": 51946,
-    "sourceSha256": "79f15590a8550b46d8cb1ecf0ae625de8c2dc4fbe83d3108cacc1209e48795dd"
+    "sourceBytes": 50658,
+    "sourceSha256": "f40dfbe4bdd8ae7c7cee935631df76e1bb395292d308f0a0c25282786edb5d41"
   },
   "assets/game-ui/card-icon.png": {
     "bytes": 188,
@@ -178,99 +178,99 @@
     "bytes": 1836,
     "path": "assets/web/game-ui/cost-tickbox-outline.png.webp",
     "sha256": "b997234efe0451ddcae4dba050de9fe86e5ebcd02689e8f8bf279054c3bb27f4",
-    "sourceBytes": 3153,
-    "sourceSha256": "e6733c5af23dccf0d9c082a506b7e5c6dcae3ee174b336d0080e7a4cfbb47a3d"
+    "sourceBytes": 3121,
+    "sourceSha256": "97b6c3075651bc16f22d02bd2636712edce7647dcfd1c4abffe8ce64e0643bfb"
   },
   "assets/game-ui/cost-tickbox.png": {
     "bytes": 534,
     "path": "assets/web/game-ui/cost-tickbox.png.webp",
     "sha256": "91aa750f5ac295e9147ccdad7c6bbccbca183b90683a0e204c3de8e9f2cff488",
-    "sourceBytes": 938,
-    "sourceSha256": "e38dc029aca9d3a05d1e274697ccd553f0edbfc2a4de20e67068198dc3dbb45a"
+    "sourceBytes": 928,
+    "sourceSha256": "4ed2dd900d811a039420d0e574e5bc4e90f8e23e0125575934f6645559cc6d4b"
   },
   "assets/game-ui/energy-colorless.png": {
     "bytes": 3554,
     "path": "assets/web/game-ui/energy-colorless.png.webp",
     "sha256": "5ce89a971b04e500c79a1cadf4c29dbadaf6a1dfa6c83e12524f2fcb17263d47",
-    "sourceBytes": 6065,
-    "sourceSha256": "f6ccfba0373da37f2c670ae8cdd3a4974e42780dd1003302e4e56af03a69119a"
+    "sourceBytes": 6042,
+    "sourceSha256": "53d91a85046f86d202404f2c5e5aa4465f58574d48642f979723af95bdc3ab43"
   },
   "assets/game-ui/energy-inline.png": {
     "bytes": 676274,
     "path": "assets/web/game-ui/energy-inline.png.webp",
     "sha256": "5c5fdc6182661e0d262c656be450913a691871bc6dfa43877fe9098ff3d4fbcc",
-    "sourceBytes": 931510,
-    "sourceSha256": "9a44e8e5814701b2b7d586551ff9189401b953816f00cb34a5b5a15bff7acd92"
+    "sourceBytes": 924171,
+    "sourceSha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad"
   },
   "assets/game-ui/energy-karen.png": {
     "bytes": 672858,
     "path": "assets/web/game-ui/energy-karen.png.webp",
     "sha256": "fd60656e14944d294daac50a3a5527f7b30cda9f8c9aeb3fb19d49d64f0a010c",
-    "sourceBytes": 916706,
-    "sourceSha256": "27139b5643bbe73920fd79063594803e8d008dfc3a1a2dfd4a25fc8ba6ba35bc"
+    "sourceBytes": 910022,
+    "sourceSha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115"
   },
   "assets/game-ui/frame-attack.png": {
     "bytes": 116032,
     "path": "assets/web/game-ui/frame-attack.png.webp",
     "sha256": "97983712da256ae633321abcc95dde4d1b4da80ec867c8734addcb4206bd83eb",
-    "sourceBytes": 177639,
-    "sourceSha256": "b7b0f2d049bb32d48c02bad485a9c4d90c4a5f9f8b2f7457c0e895e94c0b3816"
+    "sourceBytes": 175787,
+    "sourceSha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf"
   },
   "assets/game-ui/frame-colorless-attack.png": {
     "bytes": 101230,
     "path": "assets/web/game-ui/frame-colorless-attack.png.webp",
     "sha256": "a770ff2a969e429ecf3f09e88dffcb3ab87e7eb41145476684854013b971efc2",
-    "sourceBytes": 175918,
-    "sourceSha256": "fe61aab60f57c5d88cac86326a2789c20d4d4d343a69a15ccc7e29dcbb39d1d2"
+    "sourceBytes": 173724,
+    "sourceSha256": "1a53cf12530887b0f4c112b33e735b12b3b1002477c308dbede5c83c0de965ad"
   },
   "assets/game-ui/frame-colorless-power.png": {
     "bytes": 98994,
     "path": "assets/web/game-ui/frame-colorless-power.png.webp",
     "sha256": "576ccdc5c57ab38c226948f630160554a9613d88cd7de624c0472b608fd415b4",
-    "sourceBytes": 171862,
-    "sourceSha256": "a3d8484c96158daa88d22a7b2bbe152edc7b7d2b8819ee4b40d476692a000747"
+    "sourceBytes": 170078,
+    "sourceSha256": "735baadd42a4fbdbd72d15bf5ffa9e59f7839d990fa4e8808ea72e67fbe5a01e"
   },
   "assets/game-ui/frame-colorless-skill.png": {
     "bytes": 97498,
     "path": "assets/web/game-ui/frame-colorless-skill.png.webp",
     "sha256": "f8cbc961393e3481747e27095d1eeea8441a37cf20582a681716b7d389854ce8",
-    "sourceBytes": 168892,
-    "sourceSha256": "211ee446dfa16118e94871701e82a47ea5f015e533574122dc69b51b03a6b851"
+    "sourceBytes": 167333,
+    "sourceSha256": "328c6e98fb8d5c1f3b5ea50d9adc8997a84691c06719c0d209c5235ccb8ab5b0"
   },
   "assets/game-ui/frame-curse-attack.png": {
     "bytes": 84578,
     "path": "assets/web/game-ui/frame-curse-attack.png.webp",
     "sha256": "b245c91afaed3ad0a6f6f3cb60de1991a3af01db3b69049699e8d7cb5c7de7ce",
-    "sourceBytes": 142858,
-    "sourceSha256": "97b7017324c10319604b94d90b73ec7a274eca71d1aa04cab7f52d351e37c6f1"
+    "sourceBytes": 140832,
+    "sourceSha256": "61cae6edc1499bdf6b95088848947ee08f336509b6a3f88454320c0d63b058fc"
   },
   "assets/game-ui/frame-curse-power.png": {
     "bytes": 82842,
     "path": "assets/web/game-ui/frame-curse-power.png.webp",
     "sha256": "cad9c5171be93beac07aba02ac5990d731622f2712913954d00ce0c9660d74be",
-    "sourceBytes": 139891,
-    "sourceSha256": "cfaaa6d0412da8b0680d4a620c48efe8196bb673d8e2d851e81327d786461e61"
+    "sourceBytes": 138172,
+    "sourceSha256": "27e9cf6fedaca49e194b3a28f6bb7e37f928a24d8cc58669c20dca3f3dd5653d"
   },
   "assets/game-ui/frame-curse-skill.png": {
     "bytes": 81302,
     "path": "assets/web/game-ui/frame-curse-skill.png.webp",
     "sha256": "2ccb87e9ce06ada8c543d74b32a74ccab1368ea2a56bcbc928e705cbdc9c0ff5",
-    "sourceBytes": 137304,
-    "sourceSha256": "4501fa9f836ad40d8a4056f295116944f26fd1f25a0b51cca1a941844fd39099"
+    "sourceBytes": 135392,
+    "sourceSha256": "f260cd8eaf019d7545ff13510574dc4510f2a8037c8bc42a59845dd418ba6fdb"
   },
   "assets/game-ui/frame-power.png": {
     "bytes": 112120,
     "path": "assets/web/game-ui/frame-power.png.webp",
     "sha256": "2373aaff662f5e7b57f0e9b6892b60b40a4d1b16b5cc181fbe3d85c18328e06d",
-    "sourceBytes": 173484,
-    "sourceSha256": "4396a928dd10d6844f1ceb7bf357afce60ae25a4a1e5ab1254fad6c96c21f027"
+    "sourceBytes": 171920,
+    "sourceSha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca"
   },
   "assets/game-ui/frame-skill.png": {
     "bytes": 111432,
     "path": "assets/web/game-ui/frame-skill.png.webp",
     "sha256": "de6f8ce8565ee361c0fcb3d04e6f93ea1087a3f501d58ad960e53d59d6942eab",
-    "sourceBytes": 171258,
-    "sourceSha256": "6315453e3f7eb8782a9b49db4162d0c1d88fbe5d2e4b5c5c192f848a9af8b56f"
+    "sourceBytes": 169709,
+    "sourceSha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8"
   },
   "assets/game-ui/gold-icon.png": {
     "bytes": 268,
@@ -284,476 +284,693 @@
     "path": "assets/web/game-ui/health-icon.png.webp",
     "sha256": "407ed9aca9c9d7a6720359d8ae4e3fe8e9b89401e1ea8c62d50c0fa861395f2e",
     "sourceBytes": 7263,
-    "sourceSha256": "528c35a7f2ca0219b2082e140cc0d50f54b38d957db8be0745ba574793c0826a"
+    "sourceSha256": "d9f667ed3fe8ffe07dbe4617edf19a63b9e3027b9b4df8f4ebab43615b70c770"
   },
   "assets/game-ui/hover-tip.png": {
     "bytes": 3528,
     "path": "assets/web/game-ui/hover-tip.png.webp",
     "sha256": "732c0c8e971a71231daf31368558ef0156f991e0cfdc7fd9bafbc2dcf2042de1",
-    "sourceBytes": 9292,
-    "sourceSha256": "31e949059a2885de00e5b1b7b3989a5853c530300f6c0477756ad82b5817ae32"
+    "sourceBytes": 9208,
+    "sourceSha256": "12751c1a78bd3af040d802c89ccca1c97caabc91f2d54f25bcabed15cefdfacd"
   },
   "assets/game-ui/inspect-arrow-left.png": {
     "bytes": 8844,
     "path": "assets/web/game-ui/inspect-arrow-left.png.webp",
     "sha256": "6a91bbf776655f4c4fa5d32a8b743b17f025a9265843ccec0c6c7b229d563e63",
-    "sourceBytes": 12509,
-    "sourceSha256": "06b701a7fcf6086158bb6ba3e7e20a46e847ddfc0eb10c6fc087c7de15e23a99"
+    "sourceBytes": 12464,
+    "sourceSha256": "ba971774a8fde0eae07a346d6886aa8d68976891ee75ea797466065942d44e44"
   },
   "assets/game-ui/inspect-arrow-right.png": {
     "bytes": 9204,
     "path": "assets/web/game-ui/inspect-arrow-right.png.webp",
     "sha256": "e3c856f67dcb035cfd78d55351c5efb1eb0f7ca577c8822e34975bf59016024f",
-    "sourceBytes": 13212,
-    "sourceSha256": "ae2d0dff5e61547831a5c6eb7c2f19691f86046b91dd75238ea32d325b0081c2"
+    "sourceBytes": 13148,
+    "sourceSha256": "19bb47a5b73a3f2ea630db769b3d272b1aa73e564a907531633145a8dc52879c"
   },
   "assets/game-ui/inspect-frame-ancient.png": {
     "bytes": 10710,
     "path": "assets/web/game-ui/inspect-frame-ancient.png.webp",
     "sha256": "57aacb404cbbe0bbedaba0fbc1617d1732ef09e57c3a00c10131a5c7af0af7c7",
-    "sourceBytes": 18866,
-    "sourceSha256": "7002e2c39e15c9f86d6386cf321e6c6fd7c70e34dbb3a1d5c18851dbd266bf96"
+    "sourceBytes": 18720,
+    "sourceSha256": "d712cd9352d16fe9a1c505dff61a0ff2472c1cb97229bbc5ad31163f254e497e"
   },
   "assets/game-ui/inspect-frame-bg.png": {
     "bytes": 538402,
     "path": "assets/web/game-ui/inspect-frame-bg.png.webp",
     "sha256": "45fe6e2f9a1ed1ecb03d7e978a9e8d94b68ee62d46f47f3030a2106b8f187a11",
-    "sourceBytes": 1058924,
-    "sourceSha256": "6896c523aee34ed84a8c263198e440818f5d6c1c86d488bef887d400ac8618a6"
+    "sourceBytes": 1042527,
+    "sourceSha256": "af4bd5aa3db9474a378bff2fb2b2ba39c8b8ddcb649d9d4efd9c402866a6bf45"
   },
   "assets/game-ui/inspect-frame-common.png": {
     "bytes": 10710,
     "path": "assets/web/game-ui/inspect-frame-common.png.webp",
     "sha256": "08ce0fb93e9122f69a437d43730420a0a72260b82f918a06707e8138094106d0",
-    "sourceBytes": 18878,
-    "sourceSha256": "302e236c7797739643c226a4ba4f6ecadd43e4a15e5af2c29cf16f68b6ee75d3"
+    "sourceBytes": 18739,
+    "sourceSha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1"
   },
   "assets/game-ui/inspect-frame-event.png": {
     "bytes": 10710,
     "path": "assets/web/game-ui/inspect-frame-event.png.webp",
     "sha256": "30f5a838d0a5c94aaaab3be8d56674eece074570fd15e28717272568ba6c1820",
-    "sourceBytes": 18876,
-    "sourceSha256": "42b8948a252c8364dbba89f6e2e237773e847bacf629c05994a8d3767c802d82"
+    "sourceBytes": 18736,
+    "sourceSha256": "f98b287e6f024217381599743d1d76a32a40dd6284acec9a007aeaece55cfc6d"
   },
   "assets/game-ui/inspect-frame-rare.png": {
     "bytes": 10734,
     "path": "assets/web/game-ui/inspect-frame-rare.png.webp",
     "sha256": "c0e1cbc2e47cf2a69554087f4c1d5a710162d2995773918912dc593c637d9ecb",
-    "sourceBytes": 18867,
-    "sourceSha256": "2339fff4763b2586878204d43b275452ee29bb4481d7aa123d537868941abd65"
+    "sourceBytes": 18723,
+    "sourceSha256": "03019c5328a78bcc1040ceb670649edcb8255d506fce5199a090f9def9e548c6"
   },
   "assets/game-ui/inspect-frame-shop.png": {
     "bytes": 10708,
     "path": "assets/web/game-ui/inspect-frame-shop.png.webp",
     "sha256": "36895e457bcfc96c32393378fea5856f14388251f75864dbda9b38b4dd2828c8",
-    "sourceBytes": 18868,
-    "sourceSha256": "dddadb409aa39ffa6061d31eb36ba2bc95aafdae773ab84e3029520eee7dcf24"
+    "sourceBytes": 18732,
+    "sourceSha256": "1c76da4d378b67ae4e3f9307c44fd59dd948e62fcd186453eb5177e87458dd20"
   },
   "assets/game-ui/inspect-frame-starter.png": {
     "bytes": 10710,
     "path": "assets/web/game-ui/inspect-frame-starter.png.webp",
     "sha256": "08ce0fb93e9122f69a437d43730420a0a72260b82f918a06707e8138094106d0",
-    "sourceBytes": 18878,
-    "sourceSha256": "302e236c7797739643c226a4ba4f6ecadd43e4a15e5af2c29cf16f68b6ee75d3"
+    "sourceBytes": 18739,
+    "sourceSha256": "f54fae569f1c6e3347673b6c61feeef58ab20a9a254b23f59acebcf900d34fa1"
   },
   "assets/game-ui/inspect-frame-uncommon.png": {
     "bytes": 10736,
     "path": "assets/web/game-ui/inspect-frame-uncommon.png.webp",
     "sha256": "081438787079451634fbfca19556fbff11d0a7ebd78257097c5eac6fdba84c7f",
-    "sourceBytes": 18873,
-    "sourceSha256": "c5357d2f678bc72df15ac86b1cd7b4373ef084c3c9dbc6a4f2ec6b071d380266"
+    "sourceBytes": 18728,
+    "sourceSha256": "0abfbe20cc2f226292cb5b23da0d0018d7706cb80079ef82f215379ff8730987"
   },
   "assets/game-ui/inspect-panel.png": {
     "bytes": 872712,
     "path": "assets/web/game-ui/inspect-panel.png.webp",
     "sha256": "efea8bebb65fb50c1e013ff9add899c626ef16feab24d390d113ac604cf3685f",
-    "sourceBytes": 1805926,
-    "sourceSha256": "76365daf3e43d6727fd5760fd7de51c5f01fa454f74f66ac3c76245ff9576410"
+    "sourceBytes": 1802202,
+    "sourceSha256": "960d371188474b93d3f379bd060a2d43bd1c2b983b3c2631f965a3ef270b0791"
+  },
+  "assets/game-ui/junna-arrow-ancient-badge.png": {
+    "bytes": 266864,
+    "path": "assets/web/game-ui/junna-arrow-ancient-badge.png.webp",
+    "sha256": "e476a1a02d9768fcda5f2f953369aeda18f3778830814a2295180a8eef51b177",
+    "sourceBytes": 460812,
+    "sourceSha256": "501435a354316173ffad09e69c021a711284298bdd4db8ff994e53d9bc8b648f"
+  },
+  "assets/game-ui/junna-arrow-backdrop.png": {
+    "bytes": 18146,
+    "path": "assets/web/game-ui/junna-arrow-backdrop.png.webp",
+    "sha256": "da9181cb97cd77c0a0047f670301cd8c73655cc55e61e138e011cc088871df10",
+    "sourceBytes": 33873,
+    "sourceSha256": "5fb6366420458c8c2967397a3efb8eda749e33c651faebc7d1ab0289edac4cb0"
+  },
+  "assets/game-ui/junna-arrow-common.png": {
+    "bytes": 298172,
+    "path": "assets/web/game-ui/junna-arrow-common.png.webp",
+    "sha256": "b873842358ad14a23b72c0466f63ea5442d9c18f0e5cc55f0908925f45ce1c43",
+    "sourceBytes": 488436,
+    "sourceSha256": "dde43efc1221cc6863f914c5c94a0fae87bafa79f9c5b7b991f2c04dd3d5655f"
+  },
+  "assets/game-ui/junna-arrow-junna_full_draw.png": {
+    "bytes": 1176498,
+    "path": "assets/web/game-ui/junna-arrow-junna_full_draw.png.webp",
+    "sha256": "6ca14dca2f179fb687c69d992b5cf03ccdd8c60e856a0da2dfa7549632a8faf0",
+    "sourceBytes": 1575632,
+    "sourceSha256": "156504f3b1cc927272d66914179bdedc4375d20092392c40f4b066e77273fc28"
+  },
+  "assets/game-ui/junna-arrow-junna_ja108b.png": {
+    "bytes": 515684,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja108b.png.webp",
+    "sha256": "50619bf75fcd619a8006d1737dfe3f634c50740110b010f15c3e57284b82b1ca",
+    "sourceBytes": 796035,
+    "sourceSha256": "be0286eeae2d41d2c204c22f02d52dc7fbcf30c1a245dff1b538de21535b4f52"
+  },
+  "assets/game-ui/junna-arrow-junna_ja15.png": {
+    "bytes": 584366,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja15.png.webp",
+    "sha256": "7d5e7f5bb16a704095f2a96f3d13fa3005b80ced9b394f0d4eb35099a6723312",
+    "sourceBytes": 919422,
+    "sourceSha256": "0c5e227e9fc7fd70c5a3762c5f3301870aabd3c34ce6b873ed0829845e3dbd45"
+  },
+  "assets/game-ui/junna-arrow-junna_ja38.png": {
+    "bytes": 498780,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja38.png.webp",
+    "sha256": "8f7939f7b35d29cf2754c369a111081d25e2e2cbcdc1aaa574504ee9ddb3ba43",
+    "sourceBytes": 755171,
+    "sourceSha256": "50cacc04152445f33151ee842c5b9384c20183d84723d8beef4a1d322efdbcf3"
+  },
+  "assets/game-ui/junna-arrow-junna_ja58.png": {
+    "bytes": 524068,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja58.png.webp",
+    "sha256": "0eef03cffd0cedcb4aee97a99fec4328f66866df9e6a1d3a269c388b3dbfdc7e",
+    "sourceBytes": 796324,
+    "sourceSha256": "1cc86afde79f82c01996a14849281120b73c1c2c8ae0675a03753c4fac7b6434"
+  },
+  "assets/game-ui/junna-arrow-junna_ja64.png": {
+    "bytes": 473952,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja64.png.webp",
+    "sha256": "229992fae0a04c5476fb94d7b24bb76e8b312f3e49c8b8bfeade12ec8eef8688",
+    "sourceBytes": 684684,
+    "sourceSha256": "1bbee67871f7a140101e0683ffb21cfb6f9162ae6a3baccaf3f406ed4f014851"
+  },
+  "assets/game-ui/junna-arrow-junna_ja65.png": {
+    "bytes": 407560,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja65.png.webp",
+    "sha256": "1992be57820d575f3bb50f6522fa6f7b39e11303aea10faeb3d0706c629a1465",
+    "sourceBytes": 665703,
+    "sourceSha256": "056637382d5a316e1bb0540215c021f1f90a874f6c0e2b19a60960ac6f946c68"
+  },
+  "assets/game-ui/junna-arrow-junna_ja67.png": {
+    "bytes": 1400288,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja67.png.webp",
+    "sha256": "dfd7180c943ed00e2d0309bba94a24726b9902bfeb2038939c25082521b58725",
+    "sourceBytes": 2143165,
+    "sourceSha256": "0b1467e8a611da6ab70a884eba5db658e39b1ab59b5d8c94e7c522e070bab115"
+  },
+  "assets/game-ui/junna-arrow-junna_ja80.png": {
+    "bytes": 313086,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja80.png.webp",
+    "sha256": "1c62d326eb67602d0bc2a89e41f71e30a35981864390f52e98698031e9570b8d",
+    "sourceBytes": 428064,
+    "sourceSha256": "0e7b9d45d66bf24be9729bc72d5e6118dd84441383ded4af09a20f5bea77a8af"
+  },
+  "assets/game-ui/junna-arrow-junna_ja81b.png": {
+    "bytes": 248620,
+    "path": "assets/web/game-ui/junna-arrow-junna_ja81b.png.webp",
+    "sha256": "7aa79940aada1e6947e7173a3b1a34e77f5b4a5e5fabcbb9f5bd35d15d2e9f96",
+    "sourceBytes": 301457,
+    "sourceSha256": "6e8149ef5876718ac08309377024b6895a61a912fcb8225d853ce14bcc8fcb88"
+  },
+  "assets/game-ui/junna-arrow-junna_jk133.png": {
+    "bytes": 267646,
+    "path": "assets/web/game-ui/junna-arrow-junna_jk133.png.webp",
+    "sha256": "426199746bc2927408be2699a7967960644422e24a7b413590343354d4201407",
+    "sourceBytes": 453616,
+    "sourceSha256": "4f318a57e2c012cb4fd1c19671299ae749ee1cb41167081752f12b22a3def5e6"
+  },
+  "assets/game-ui/junna-arrow-junna_jk32b.png": {
+    "bytes": 486862,
+    "path": "assets/web/game-ui/junna-arrow-junna_jk32b.png.webp",
+    "sha256": "245ceaa9c68c385dd66b3618c066034164dba0945a97e403a756847dff377e16",
+    "sourceBytes": 676478,
+    "sourceSha256": "35f57ac2374fba42611395c9eb04a090290f332f7a45b43d7a0d67d9890beee5"
+  },
+  "assets/game-ui/junna-arrow-junna_jk37.png": {
+    "bytes": 113820,
+    "path": "assets/web/game-ui/junna-arrow-junna_jk37.png.webp",
+    "sha256": "3d947ed029ad174f1773ad29e3d79334b1de382c8fe38c0542c5a06b3efe018a",
+    "sourceBytes": 184102,
+    "sourceSha256": "91385c3a9ccc1e0fcd646daf5a630692e845fc1ad4b7655883aa86c6f455302d"
+  },
+  "assets/game-ui/junna-arrow-junna_u_card_005.png": {
+    "bytes": 421256,
+    "path": "assets/web/game-ui/junna-arrow-junna_u_card_005.png.webp",
+    "sha256": "066f8e9eacd2757af41035d95752167196c881690d4bb514839f74c26921047b",
+    "sourceBytes": 560330,
+    "sourceSha256": "3db944248bd64731fdb16ca553291b2eb6e1fec3adae827c38b392d1f502d1d4"
+  },
+  "assets/game-ui/junna-arrow-junna_u_card_011.png": {
+    "bytes": 130182,
+    "path": "assets/web/game-ui/junna-arrow-junna_u_card_011.png.webp",
+    "sha256": "74edd2a0fac50d7e0eeadb02060ce132805f57827befb41f460b726fdbc6ce55",
+    "sourceBytes": 206007,
+    "sourceSha256": "c69865a0e99166639eed072da1674ecadc901d56465f18b984982f616ea0d4de"
+  },
+  "assets/game-ui/junna-arrow-junna_u_card_012.png": {
+    "bytes": 339932,
+    "path": "assets/web/game-ui/junna-arrow-junna_u_card_012.png.webp",
+    "sha256": "d4bfed21a113e7ade6cc571603ede4708e34ac01d9d8b686532ee725b7d918af",
+    "sourceBytes": 529573,
+    "sourceSha256": "f4a18f267233a42bb6cc8e3d30dbc498ab63c10b8c798acd0709c58370925c74"
+  },
+  "assets/game-ui/junna-arrow-junna_u_card_031.png": {
+    "bytes": 440728,
+    "path": "assets/web/game-ui/junna-arrow-junna_u_card_031.png.webp",
+    "sha256": "46796545d0d588cf260c2013ea4bfe1898d93b25b4b375336dcf44fa56c34cee",
+    "sourceBytes": 606804,
+    "sourceSha256": "c295f046a9b97a987b6cfacd360059fdd7003cb3d5e6eb8190a5248bd2920863"
+  },
+  "assets/game-ui/junna-arrow-rare.png": {
+    "bytes": 283608,
+    "path": "assets/web/game-ui/junna-arrow-rare.png.webp",
+    "sha256": "4804749f3ec785c61d8465a56de75b12e75dcec4552f81549c08dcc1edafda89",
+    "sourceBytes": 430848,
+    "sourceSha256": "b23e692c068fe85bdd0c74f214b5d2dd9a6b350ab26258b9ed12435bca69e8b2"
+  },
+  "assets/game-ui/junna-arrow-uncommon.png": {
+    "bytes": 257544,
+    "path": "assets/web/game-ui/junna-arrow-uncommon.png.webp",
+    "sha256": "9130dd877f81dd02d9128bc64a1ad26946a53b49ce4a067d05bf6abbbbed4c53",
+    "sourceBytes": 429748,
+    "sourceSha256": "daa75db9757eb0f6bddd624cbe07f421ca78c2e88e0a4068a0b521b2b21110c5"
+  },
+  "assets/game-ui/junna-energy.png": {
+    "bytes": 6662,
+    "path": "assets/web/game-ui/junna-energy.png.webp",
+    "sha256": "31e8577159869dea04d75d0e8ad72c175616d32060a9cea1c089d7660a91809f",
+    "sourceBytes": 8573,
+    "sourceSha256": "ecf8ac594a0ff3da2a9e244bf571cb1bdca3ac8a4a2926a7ad9bea9a3d596cfe"
+  },
+  "assets/game-ui/junna-frame-attack.png": {
+    "bytes": 112918,
+    "path": "assets/web/game-ui/junna-frame-attack.png.webp",
+    "sha256": "5748955af66599c39e29802bf733bfeb883d8348b169edff58cd484cd3403ac4",
+    "sourceBytes": 173399,
+    "sourceSha256": "f4a5faa215a8539460154ba7fda945b5ea80e009a9ae6d9e988fd719488dfeae"
+  },
+  "assets/game-ui/junna-frame-power.png": {
+    "bytes": 110042,
+    "path": "assets/web/game-ui/junna-frame-power.png.webp",
+    "sha256": "8b8987ca3d062d84f133b1a0d5c05ea22a6576b958f999f771d7bf37062fc1a7",
+    "sourceBytes": 169855,
+    "sourceSha256": "30feb879ecaab79d0f0f0397408dc55aea71eafc6aa4d6191e2b3714127a720b"
+  },
+  "assets/game-ui/junna-frame-skill.png": {
+    "bytes": 108546,
+    "path": "assets/web/game-ui/junna-frame-skill.png.webp",
+    "sha256": "18af603f8db316836538e264154292db88b764dc8d825542ccee56bb2ef41fbd",
+    "sourceBytes": 167332,
+    "sourceSha256": "f2548e7014fc4f02778ff7d7c49775549f3f6f6aef16223760f4be3ae2bb6603"
+  },
+  "assets/game-ui/junna-inline-energy.png": {
+    "bytes": 1326,
+    "path": "assets/web/game-ui/junna-inline-energy.png.webp",
+    "sha256": "ad5e81fc25353050433be90f2be2955f9eca7e750aa2c4b9be74fa319abaa7bd",
+    "sourceBytes": 1423,
+    "sourceSha256": "7bd3823aa80589d678736210193d47f40220043a8b24cd4df305019dc60a3ee1"
+  },
+  "assets/game-ui/junna-junna_arrow_rain_potion-outline.png": {
+    "bytes": 2572,
+    "path": "assets/web/game-ui/junna-junna_arrow_rain_potion-outline.png.webp",
+    "sha256": "ba73ae4a22841143d22931e96ed71d9a9168f8baa03b13897f897f62fe9026ee",
+    "sourceBytes": 4593,
+    "sourceSha256": "fdf922f680616d7c111fe54e8a3a13341f7fd48fc65a93708e24da4dcc1d03f3"
+  },
+  "assets/game-ui/junna-junna_knowledge_potion-outline.png": {
+    "bytes": 2916,
+    "path": "assets/web/game-ui/junna-junna_knowledge_potion-outline.png.webp",
+    "sha256": "ae1110dcc04ec4714fc2c5936dde624fc18d5bd690e55653c3985e1d53ea2c13",
+    "sourceBytes": 5203,
+    "sourceSha256": "3bf1649b4ca471ba06bad83572e6d52e754e746568388c57598e18c83b8ce30a"
+  },
+  "assets/game-ui/junna-junna_sports_drink-outline.png": {
+    "bytes": 2364,
+    "path": "assets/web/game-ui/junna-junna_sports_drink-outline.png.webp",
+    "sha256": "4cf37e5fd3f8dfa469401591a69b5408c5444e4dbb712b74f3a8f7310f662a05",
+    "sourceBytes": 4141,
+    "sourceSha256": "bef9df645b2626e5b69b620aec0fd160397b777c4f2919ce7731914805cc6f1c"
+  },
+  "assets/game-ui/junna-junna_your_knowledge_shines_forever-outline.png": {
+    "bytes": 1714,
+    "path": "assets/web/game-ui/junna-junna_your_knowledge_shines_forever-outline.png.webp",
+    "sha256": "e2b5b868ce0da8eb166a42b0f827e41620280d5bdb0f77abd5750c18cd6768ba",
+    "sourceBytes": 2891,
+    "sourceSha256": "0142a79fead9dbcfdfa17587da2269fdcd3eab30e445c4bd135658e8ca5219a8"
   },
   "assets/game-ui/karen-energy.png": {
     "bytes": 672858,
     "path": "assets/web/game-ui/karen-energy.png.webp",
     "sha256": "fd60656e14944d294daac50a3a5527f7b30cda9f8c9aeb3fb19d49d64f0a010c",
-    "sourceBytes": 916706,
-    "sourceSha256": "27139b5643bbe73920fd79063594803e8d008dfc3a1a2dfd4a25fc8ba6ba35bc"
+    "sourceBytes": 910022,
+    "sourceSha256": "1ef72b33e5deb997039c4a49aa29465f07d0692820ee3a0156207694580c6115"
   },
   "assets/game-ui/karen-frame-attack.png": {
     "bytes": 116032,
     "path": "assets/web/game-ui/karen-frame-attack.png.webp",
     "sha256": "97983712da256ae633321abcc95dde4d1b4da80ec867c8734addcb4206bd83eb",
-    "sourceBytes": 177639,
-    "sourceSha256": "b7b0f2d049bb32d48c02bad485a9c4d90c4a5f9f8b2f7457c0e895e94c0b3816"
+    "sourceBytes": 175787,
+    "sourceSha256": "8c59a999414dd2ee2d1ced17abbd15af8d5e4e487f369a0ddd0bbcd8c4e5ddcf"
   },
   "assets/game-ui/karen-frame-power.png": {
     "bytes": 112120,
     "path": "assets/web/game-ui/karen-frame-power.png.webp",
     "sha256": "2373aaff662f5e7b57f0e9b6892b60b40a4d1b16b5cc181fbe3d85c18328e06d",
-    "sourceBytes": 173484,
-    "sourceSha256": "4396a928dd10d6844f1ceb7bf357afce60ae25a4a1e5ab1254fad6c96c21f027"
+    "sourceBytes": 171920,
+    "sourceSha256": "4741283fdaa1d1578b156cbe8fd26f5b22109e4d7e5675c8c2b9a5bc39d43dca"
   },
   "assets/game-ui/karen-frame-skill.png": {
     "bytes": 111432,
     "path": "assets/web/game-ui/karen-frame-skill.png.webp",
     "sha256": "de6f8ce8565ee361c0fcb3d04e6f93ea1087a3f501d58ad960e53d59d6942eab",
-    "sourceBytes": 171258,
-    "sourceSha256": "6315453e3f7eb8782a9b49db4162d0c1d88fbe5d2e4b5c5c192f848a9af8b56f"
+    "sourceBytes": 169709,
+    "sourceSha256": "20422a553791a6cbaaf4fb80e41fdce048d0012a0d044d67c611b29106fd3cd8"
   },
   "assets/game-ui/karen-inline-energy.png": {
     "bytes": 676274,
     "path": "assets/web/game-ui/karen-inline-energy.png.webp",
     "sha256": "5c5fdc6182661e0d262c656be450913a691871bc6dfa43877fe9098ff3d4fbcc",
-    "sourceBytes": 931510,
-    "sourceSha256": "9a44e8e5814701b2b7d586551ff9189401b953816f00cb34a5b5a15bff7acd92"
+    "sourceBytes": 924171,
+    "sourceSha256": "7520e6d762f1c064aa4e8c2177358a7629df35fce0ce16b6267ddb4d1edd66ad"
   },
   "assets/game-ui/karen-karen_awake_potion-outline.png": {
     "bytes": 620,
     "path": "assets/web/game-ui/karen-karen_awake_potion-outline.png.webp",
     "sha256": "ebddd6ad89fcfae0a6b8ab9b5a936d7b4d35019996857708c86b346ed6181fd4",
-    "sourceBytes": 1341,
-    "sourceSha256": "1ffd3f45994663fd1909665472d5b0a867b23acdfb86aa73270128e056865387"
+    "sourceBytes": 1309,
+    "sourceSha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538"
   },
   "assets/game-ui/karen-karen_baseball_cat_relic-outline.png": {
     "bytes": 1096,
     "path": "assets/web/game-ui/karen-karen_baseball_cat_relic-outline.png.webp",
     "sha256": "b847350572e8e0cde94e7fa4b8122510297777db8788ef3522a2c6fe6d5df013",
-    "sourceBytes": 1995,
-    "sourceSha256": "ae05f421456d615539c75e40e781947294a74a72f274c48e7546644d370a760a"
+    "sourceBytes": 1975,
+    "sourceSha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3"
   },
   "assets/game-ui/karen-karen_cookie_relic-outline.png": {
     "bytes": 600,
     "path": "assets/web/game-ui/karen-karen_cookie_relic-outline.png.webp",
     "sha256": "d9ee72ce2806bf8bc908c5821a2a538cb4b67b631bb187d5c889aa8ed745d1da",
-    "sourceBytes": 1170,
-    "sourceSha256": "58d8e11eca8bc13e1ad438f39a58f93cc9a606ca53f6722ffd244883171214d2"
+    "sourceBytes": 1152,
+    "sourceSha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3"
   },
   "assets/game-ui/karen-karen_little_star_relic-outline.png": {
     "bytes": 936,
     "path": "assets/web/game-ui/karen-karen_little_star_relic-outline.png.webp",
     "sha256": "d9eb4bb9c730c5ef35639835e72919668033ea0460641564a469ae6bf0a31c50",
-    "sourceBytes": 1719,
-    "sourceSha256": "d274928d34d14b8cd99629924ab44aa50bbf8cd8b1ad41f83e639c9a94603f57"
+    "sourceBytes": 1708,
+    "sourceSha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9"
   },
   "assets/game-ui/karen-karen_mr_white_relic-outline.png": {
     "bytes": 824,
     "path": "assets/web/game-ui/karen-karen_mr_white_relic-outline.png.webp",
     "sha256": "b58b4c263b26b99f52bd10ae227cea4e300836dfe3753339e70ad5cc5268eba1",
-    "sourceBytes": 1544,
-    "sourceSha256": "86cd29b3ecf80cc9f18635a0ad47041c0780fe09ca11461453750ff2902c4406"
+    "sourceBytes": 1519,
+    "sourceSha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9"
   },
   "assets/game-ui/karen-karen_shine_potion-outline.png": {
     "bytes": 864,
     "path": "assets/web/game-ui/karen-karen_shine_potion-outline.png.webp",
     "sha256": "208e09d609932c5776a966fa3bb55d9a9f9db8e4934adac4cdef6ec435d8713b",
-    "sourceBytes": 1529,
-    "sourceSha256": "359662bf862ced57b89b2b7a1bb979e8ab826a51253433e7705466ff35701a39"
+    "sourceBytes": 1500,
+    "sourceSha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c"
   },
   "assets/game-ui/karen-karen_star_hairclip_relic-outline.png": {
     "bytes": 994,
     "path": "assets/web/game-ui/karen-karen_star_hairclip_relic-outline.png.webp",
     "sha256": "28a56737ef8e1f8f2ddb7411d63feec68248183eb48ff1b08405e6d4c6e40aac",
-    "sourceBytes": 1849,
-    "sourceSha256": "068203ff805b51bb09e89f701b42285582211476e77525cee86c705b8f5d5066"
+    "sourceBytes": 1829,
+    "sourceSha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384"
   },
   "assets/game-ui/karen-karen_star_tiara_relic-outline.png": {
     "bytes": 1182,
     "path": "assets/web/game-ui/karen-karen_star_tiara_relic-outline.png.webp",
     "sha256": "49fc8a2745627b3ca549971ead5523e555d58e307bca31cde22c1d75c8d0a70a",
-    "sourceBytes": 2306,
-    "sourceSha256": "8f35c3549cc92ca61b94e4805b434a424e44b3080e3f34853c84b89ee43c6f76"
+    "sourceBytes": 2278,
+    "sourceSha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983"
   },
   "assets/game-ui/karen-karen_tea_potion-outline.png": {
     "bytes": 798,
     "path": "assets/web/game-ui/karen-karen_tea_potion-outline.png.webp",
     "sha256": "d4f3f4c01ae35fcb0887aeab1c376135401a570ef8a712440824ac2572b731c6",
-    "sourceBytes": 1484,
-    "sourceSha256": "b2cad1327fa8de1b39f8a62c38e2530a40c02a770031be4dcb8fba4162c92488"
+    "sourceBytes": 1478,
+    "sourceSha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6"
   },
   "assets/game-ui/karen-karen_water_bottle_relic-outline.png": {
     "bytes": 774,
     "path": "assets/web/game-ui/karen-karen_water_bottle_relic-outline.png.webp",
     "sha256": "3661f7b55e5f6e78a1fcbb6e952f8b54ee82ac329d589fea9d7510d04b347578",
-    "sourceBytes": 1306,
-    "sourceSha256": "60cc2106a04e2785246eeae131947da843e9c9a3d21fa7b6aa64e450471bc36f"
+    "sourceBytes": 1275,
+    "sourceSha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825"
   },
   "assets/game-ui/karen_awake_potion-collection-outline.png": {
     "bytes": 620,
     "path": "assets/web/game-ui/karen_awake_potion-collection-outline.png.webp",
     "sha256": "ebddd6ad89fcfae0a6b8ab9b5a936d7b4d35019996857708c86b346ed6181fd4",
-    "sourceBytes": 1341,
-    "sourceSha256": "1ffd3f45994663fd1909665472d5b0a867b23acdfb86aa73270128e056865387"
+    "sourceBytes": 1309,
+    "sourceSha256": "945181d44caf66a884c42783982a3c21d366ed0ad68c485b21a4593b2d068538"
   },
   "assets/game-ui/karen_baseball_cat_relic-collection-outline.png": {
     "bytes": 1096,
     "path": "assets/web/game-ui/karen_baseball_cat_relic-collection-outline.png.webp",
     "sha256": "b847350572e8e0cde94e7fa4b8122510297777db8788ef3522a2c6fe6d5df013",
-    "sourceBytes": 1995,
-    "sourceSha256": "ae05f421456d615539c75e40e781947294a74a72f274c48e7546644d370a760a"
+    "sourceBytes": 1975,
+    "sourceSha256": "6892d545ceaaa75f12caf1cb3cf7a0bfb18a4959aa07bdedface790caed333b3"
   },
   "assets/game-ui/karen_cookie_relic-collection-outline.png": {
     "bytes": 600,
     "path": "assets/web/game-ui/karen_cookie_relic-collection-outline.png.webp",
     "sha256": "d9ee72ce2806bf8bc908c5821a2a538cb4b67b631bb187d5c889aa8ed745d1da",
-    "sourceBytes": 1170,
-    "sourceSha256": "58d8e11eca8bc13e1ad438f39a58f93cc9a606ca53f6722ffd244883171214d2"
+    "sourceBytes": 1152,
+    "sourceSha256": "ceb7b8835414a4c70d29003a9d1a69af21d1a98f53989875eb21641f29278cd3"
   },
   "assets/game-ui/karen_little_star_relic-collection-outline.png": {
     "bytes": 936,
     "path": "assets/web/game-ui/karen_little_star_relic-collection-outline.png.webp",
     "sha256": "d9eb4bb9c730c5ef35639835e72919668033ea0460641564a469ae6bf0a31c50",
-    "sourceBytes": 1719,
-    "sourceSha256": "d274928d34d14b8cd99629924ab44aa50bbf8cd8b1ad41f83e639c9a94603f57"
+    "sourceBytes": 1708,
+    "sourceSha256": "b4f6b7feccc0cdb0daca667bfe4a422b7025c0d98e3299561fbfb6ef0a1082a9"
   },
   "assets/game-ui/karen_mr_white_relic-collection-outline.png": {
     "bytes": 824,
     "path": "assets/web/game-ui/karen_mr_white_relic-collection-outline.png.webp",
     "sha256": "b58b4c263b26b99f52bd10ae227cea4e300836dfe3753339e70ad5cc5268eba1",
-    "sourceBytes": 1544,
-    "sourceSha256": "86cd29b3ecf80cc9f18635a0ad47041c0780fe09ca11461453750ff2902c4406"
+    "sourceBytes": 1519,
+    "sourceSha256": "da9697d338621321501c587ae12f1a6f9cb2eac8a46f449d0346038513c1b8c9"
   },
   "assets/game-ui/karen_shine_potion-collection-outline.png": {
     "bytes": 864,
     "path": "assets/web/game-ui/karen_shine_potion-collection-outline.png.webp",
     "sha256": "208e09d609932c5776a966fa3bb55d9a9f9db8e4934adac4cdef6ec435d8713b",
-    "sourceBytes": 1529,
-    "sourceSha256": "359662bf862ced57b89b2b7a1bb979e8ab826a51253433e7705466ff35701a39"
+    "sourceBytes": 1500,
+    "sourceSha256": "4e9c99d55f1eb73876982b0c5ec196df9c420d5a168c1859e387fd52fd32fe7c"
   },
   "assets/game-ui/karen_star_hairclip_relic-collection-outline.png": {
     "bytes": 994,
     "path": "assets/web/game-ui/karen_star_hairclip_relic-collection-outline.png.webp",
     "sha256": "28a56737ef8e1f8f2ddb7411d63feec68248183eb48ff1b08405e6d4c6e40aac",
-    "sourceBytes": 1849,
-    "sourceSha256": "068203ff805b51bb09e89f701b42285582211476e77525cee86c705b8f5d5066"
+    "sourceBytes": 1829,
+    "sourceSha256": "23d40be6811a0470228c83fd794a206cdb73470079984133fc6fea40df5bf384"
   },
   "assets/game-ui/karen_star_tiara_relic-collection-outline.png": {
     "bytes": 1182,
     "path": "assets/web/game-ui/karen_star_tiara_relic-collection-outline.png.webp",
     "sha256": "49fc8a2745627b3ca549971ead5523e555d58e307bca31cde22c1d75c8d0a70a",
-    "sourceBytes": 2306,
-    "sourceSha256": "8f35c3549cc92ca61b94e4805b434a424e44b3080e3f34853c84b89ee43c6f76"
+    "sourceBytes": 2278,
+    "sourceSha256": "fca67824f54e9ebb39ddf7c6a55f2e85778c46887554e8d6ba4df261b0239983"
   },
   "assets/game-ui/karen_tea_potion-collection-outline.png": {
     "bytes": 798,
     "path": "assets/web/game-ui/karen_tea_potion-collection-outline.png.webp",
     "sha256": "d4f3f4c01ae35fcb0887aeab1c376135401a570ef8a712440824ac2572b731c6",
-    "sourceBytes": 1484,
-    "sourceSha256": "b2cad1327fa8de1b39f8a62c38e2530a40c02a770031be4dcb8fba4162c92488"
+    "sourceBytes": 1478,
+    "sourceSha256": "277e7674f5edea118211cc88d3019d4485d2f3c9d351bd752561e975eb5898d6"
   },
   "assets/game-ui/karen_water_bottle_relic-collection-outline.png": {
     "bytes": 774,
     "path": "assets/web/game-ui/karen_water_bottle_relic-collection-outline.png.webp",
     "sha256": "3661f7b55e5f6e78a1fcbb6e952f8b54ee82ac329d589fea9d7510d04b347578",
-    "sourceBytes": 1306,
-    "sourceSha256": "60cc2106a04e2785246eeae131947da843e9c9a3d21fa7b6aa64e450471bc36f"
+    "sourceBytes": 1275,
+    "sourceSha256": "c5bcb883e710e54435167e9ca98cb02eb7d9903f22e1d332dcd324e174a82825"
   },
   "assets/game-ui/plaque-ancient.png": {
     "bytes": 1100,
     "path": "assets/web/game-ui/plaque-ancient.png.webp",
     "sha256": "cb8b0ed2e3b57957d1a6cabbd872c7b02ddbc0e22d2e39326760ba6456d2a13c",
-    "sourceBytes": 1551,
-    "sourceSha256": "b9d9edca27b3c99d73efa8cfd1de0139f66f3cc97aac50f1b8d6f3f34f8a1b94"
+    "sourceBytes": 1541,
+    "sourceSha256": "1b70bf265c04bc414e551247e3a027723fd2c8c3b0a3025bb08b75a33407af93"
   },
   "assets/game-ui/plaque-common.png": {
     "bytes": 1134,
     "path": "assets/web/game-ui/plaque-common.png.webp",
     "sha256": "b17907d05c5eca0ccd345a72c178c24da4f9ea5e3aeb6ef05e11861697a7ea4e",
-    "sourceBytes": 1535,
-    "sourceSha256": "f1d89e66f828fd21b8cffe6d6dce5a4a91d35670f9e37e42ac041fd068ad95cc"
+    "sourceBytes": 1524,
+    "sourceSha256": "755915e9097f9d570b2ddaba9f74b40bfe6f5fe0bd45d9471ba7fe1c68e7cc27"
   },
   "assets/game-ui/plaque-curse.png": {
     "bytes": 1332,
     "path": "assets/web/game-ui/plaque-curse.png.webp",
     "sha256": "cca578922649c3300b09c4e457cb756bc21ca964924cd1d983df9cbebc3ffa24",
-    "sourceBytes": 1551,
-    "sourceSha256": "474f1dc1a140c9033a430ac263b9c77659d1ddc2c3e7ac0564ec945ed826ded9"
+    "sourceBytes": 1545,
+    "sourceSha256": "5dc47c4e20c3f6f9b58d1c527615325b978fcd500e6d97525feb579215a5f5d0"
   },
   "assets/game-ui/plaque-event.png": {
     "bytes": 1262,
     "path": "assets/web/game-ui/plaque-event.png.webp",
     "sha256": "db802f80d17d35049d1bd4fec09c0d5eb67688b9b3d38aec4d39837f66764616",
-    "sourceBytes": 1536,
-    "sourceSha256": "007f99a9e2144013a7da88ed39a97edfbf477eac273e5da11e22bd3ae2ac7047"
+    "sourceBytes": 1531,
+    "sourceSha256": "e93b7d260180417d82b986cf934623e933bd6fb781ddbd5fb376b8db87a481d6"
   },
   "assets/game-ui/plaque-rare.png": {
     "bytes": 1416,
     "path": "assets/web/game-ui/plaque-rare.png.webp",
     "sha256": "84cec3a554e3283bbc6ca06d67748cca39566542ffd372ba6b9032b25795d32d",
-    "sourceBytes": 1554,
-    "sourceSha256": "e295c23c54b30faff5e94d3904a426d73195d8e7cd7a7b1df25e12cc31099859"
+    "sourceBytes": 1546,
+    "sourceSha256": "50f0b0e91560bc4bbc4ff88a05eb6a0071eff2b8be107f7cbdd5b273f984a616"
   },
   "assets/game-ui/plaque-status.png": {
     "bytes": 1176,
     "path": "assets/web/game-ui/plaque-status.png.webp",
     "sha256": "33292f4e195ed6ffa0cde405f2d90d3782ebb001d28f9b5d5f9e5e4b4412f845",
-    "sourceBytes": 1525,
-    "sourceSha256": "4889ffdd5aa61df61758641602a40da566b0481516f9d86855a81178f15df1d5"
+    "sourceBytes": 1521,
+    "sourceSha256": "01b003bd7ef6b36333f77776a5dfc3c64bb6f3f1b18ecd42bf5e15d44ab6535e"
   },
   "assets/game-ui/plaque-uncommon.png": {
     "bytes": 1208,
     "path": "assets/web/game-ui/plaque-uncommon.png.webp",
     "sha256": "3b06bfd2c12ba41c33ea680207f7208099946e84852ccec2ade2c80be4cca3bb",
-    "sourceBytes": 1581,
-    "sourceSha256": "4d18c596284e83a5366b810f9ba31f6ef032a7943ee886ae074c472c5a8a17fc"
+    "sourceBytes": 1572,
+    "sourceSha256": "27774f726dec0a0c9c21d40585706994841db2c458408e46fc15d952155a8e2a"
   },
   "assets/game-ui/pool-ancient.png": {
     "bytes": 6270,
     "path": "assets/web/game-ui/pool-ancient.png.webp",
     "sha256": "dad93d061bd09b0d0e1cc92836311e996aa1d3b48a72ccccce6b09c9d884d683",
-    "sourceBytes": 8138,
-    "sourceSha256": "3cdb3756786f8e176a73141ad53f6cea32994eab15b3cb39633d40b02e54fd35"
+    "sourceBytes": 8106,
+    "sourceSha256": "9de1776a181361c382d45306039a16959bf282d25d61dd83029441591050bb6c"
   },
   "assets/game-ui/pool-other.png": {
     "bytes": 6408,
     "path": "assets/web/game-ui/pool-other.png.webp",
     "sha256": "6208970c89a23eaa74ba7d22997c3fefbab9f77aa878aa678c1559478c1746fd",
-    "sourceBytes": 7543,
-    "sourceSha256": "f78c3b9e250c546a6e91e0c54ee894f5c950461083a4016d12c661e80c0b3f44"
+    "sourceBytes": 7529,
+    "sourceSha256": "b409ed03edb1671f9ea84f35cd9c03704c312e1c53316d195067fcc41c27297a"
   },
   "assets/game-ui/portrait-attack-ancient.png": {
     "bytes": 39990,
     "path": "assets/web/game-ui/portrait-attack-ancient.png.webp",
     "sha256": "3f2530598c6dd476ffb08ccc9939202a1863dd2be863a9558238ce90d60ea192",
-    "sourceBytes": 69256,
-    "sourceSha256": "4868d44a13dacafae8332b1753db3babcf7212fcbfd772d83c690dbe1ee364fa"
+    "sourceBytes": 67984,
+    "sourceSha256": "41cae9604af3bb7d51c04b8f7cc0c4c6e811e251f985c0125557749a024d72d0"
   },
   "assets/game-ui/portrait-attack-common.png": {
     "bytes": 38776,
     "path": "assets/web/game-ui/portrait-attack-common.png.webp",
     "sha256": "2a851bc9641264ab06f7fa88688da6557353b831b5b6ce797497576b8a6a26ca",
-    "sourceBytes": 69206,
-    "sourceSha256": "60816e0dde19a37964c9cf07c3b43aaaa99b0b4767a0abe72040a910c9ead8d0"
+    "sourceBytes": 67907,
+    "sourceSha256": "b40f287c69788910783a5ced6a0d7d69255254cce19d227458e4e35a140dbaf1"
   },
   "assets/game-ui/portrait-attack-curse.png": {
     "bytes": 48378,
     "path": "assets/web/game-ui/portrait-attack-curse.png.webp",
     "sha256": "e8b9e3c5a91211bee5082cab4043fb45fc87c8f14be8fd1aca4c9c6985e0ec71",
-    "sourceBytes": 69311,
-    "sourceSha256": "b2eebd942e09bdbb202ddf48f563fa401d6384342c28158798e24b5b7d29620d"
+    "sourceBytes": 68176,
+    "sourceSha256": "723dbc74fed123ca140a81103603d15761db61184cd59aac7429d89ec5b54dfb"
   },
   "assets/game-ui/portrait-attack-event.png": {
     "bytes": 45806,
     "path": "assets/web/game-ui/portrait-attack-event.png.webp",
     "sha256": "7e746c4363573e330691353a868e01321521744aa416b1699319750bc72e19ee",
-    "sourceBytes": 71547,
-    "sourceSha256": "830f9e1eeb3e8288272be58d6494f18ed709932c3fbfc8bfe2c2271f7b03b96e"
+    "sourceBytes": 70271,
+    "sourceSha256": "0296297b39eb0f2ad47712f39835225f88f08a5377475d202c20f63caaedf727"
   },
   "assets/game-ui/portrait-attack-rare.png": {
     "bytes": 50408,
     "path": "assets/web/game-ui/portrait-attack-rare.png.webp",
     "sha256": "ce814b85b601769b25ac5d38bb81cac3a763e7e4442527212d8069dca9138a9c",
-    "sourceBytes": 70659,
-    "sourceSha256": "77b4cb459b088310bb92b6217d506f2d318f4824d09c0f257b9e4270d9325198"
+    "sourceBytes": 69500,
+    "sourceSha256": "920a3e1105ce7aa783ce1d79140e85370c1e53afbcab0baa625a30c59200c60f"
   },
   "assets/game-ui/portrait-attack-status.png": {
     "bytes": 41972,
     "path": "assets/web/game-ui/portrait-attack-status.png.webp",
     "sha256": "b7763591e42bbbf9ebd530d6b7a5d03944b1753cebcfd6d6f2908d9d53b92e3a",
-    "sourceBytes": 69383,
-    "sourceSha256": "9a1c80534d2d2a1e4480fd96952eb1a268872a5217dfbde8ac3a34c192e61022"
+    "sourceBytes": 68077,
+    "sourceSha256": "ec9d42e4261eee9c126b70c4d253882dfd9bb64d957a2e10957636922064a386"
   },
   "assets/game-ui/portrait-attack-uncommon.png": {
     "bytes": 44900,
     "path": "assets/web/game-ui/portrait-attack-uncommon.png.webp",
     "sha256": "8457545cdc5db35c3e5ec9f31072f3342578d067169ceedc6b537e242be29546",
-    "sourceBytes": 71663,
-    "sourceSha256": "bd940f81e8f9771df9d4dd0289a8267cfed46896ede27898ca5fa78e6aa8b4e3"
+    "sourceBytes": 70520,
+    "sourceSha256": "6d9aa0e4d12be388518dabce208e869cd3db868f78f220c033c916451c3298e4"
   },
   "assets/game-ui/portrait-power-ancient.png": {
     "bytes": 37210,
     "path": "assets/web/game-ui/portrait-power-ancient.png.webp",
     "sha256": "c49679d262bfc3787b5fe49ed692bc46b6677b21edef7a7d07f4a97bc3ee4617",
-    "sourceBytes": 62277,
-    "sourceSha256": "ace9c8a485c97e7700dbe665d6df79c5100fe41d36bfebc1ffe9f4875c7b145d"
+    "sourceBytes": 61038,
+    "sourceSha256": "e3ecd25925897e4fc4cacd03250b02c296320a8b148f2c655d1c962372d95dd2"
   },
   "assets/game-ui/portrait-power-common.png": {
     "bytes": 36388,
     "path": "assets/web/game-ui/portrait-power-common.png.webp",
     "sha256": "ba25d155a80bc57257977c8a7b981a3d58a4241f759265406cdcd0369b00f3b3",
-    "sourceBytes": 62646,
-    "sourceSha256": "7c745a69b3c4391923c3930c0e2ff45d7d90b1eba40713be87dba9dda621de26"
+    "sourceBytes": 61395,
+    "sourceSha256": "76ad895941e8fed0570ffb0687a8208643a84f5391e6198ff24a4c05dbb65192"
   },
   "assets/game-ui/portrait-power-curse.png": {
     "bytes": 43844,
     "path": "assets/web/game-ui/portrait-power-curse.png.webp",
     "sha256": "90544f0db6d1cf60c1839e87e3d143c6007cce9220050ca143d85c4cd8a44ad8",
-    "sourceBytes": 63986,
-    "sourceSha256": "fceb051d7e7c9d821fe4b5a9ccbfff1ad1a1488bbcf42c1dfbc0244d282d07f0"
+    "sourceBytes": 62890,
+    "sourceSha256": "4f07b778110567f9595735c71823b21c1f73b543b47b155eea36b9f5298aaf99"
   },
   "assets/game-ui/portrait-power-event.png": {
     "bytes": 41464,
     "path": "assets/web/game-ui/portrait-power-event.png.webp",
     "sha256": "2bdc35153274a2175e657af7046b624786ef96a28cb8a237d67d35eb96cf3146",
-    "sourceBytes": 64275,
-    "sourceSha256": "20f2e0ec639b55a580a8a330028d660bce30a95049f1edda85edca861ca82ff1"
+    "sourceBytes": 63170,
+    "sourceSha256": "ee80dcb8d616a64c411ad95214a303b80b4deb6af966183d03e4823068b99c2d"
   },
   "assets/game-ui/portrait-power-rare.png": {
     "bytes": 45232,
     "path": "assets/web/game-ui/portrait-power-rare.png.webp",
     "sha256": "c853c7733ba76b329d459f1441c803e4864a0cdcc8dd4117ef9dd3ca0f133dcd",
-    "sourceBytes": 64990,
-    "sourceSha256": "6fa359381e3bbfc354288bfe962dc1c30455494b750a8164c9d8fc331db5572d"
+    "sourceBytes": 63923,
+    "sourceSha256": "6707890afc8d5d89a809dce62bd421a298263f919118f14f2ea037b91266b7fd"
   },
   "assets/game-ui/portrait-power-status.png": {
     "bytes": 38440,
     "path": "assets/web/game-ui/portrait-power-status.png.webp",
     "sha256": "b4ebd6f41cd919476be1bf7f9ed2c45ebf110ff5e15e61ef44a0f5007098b958",
-    "sourceBytes": 62414,
-    "sourceSha256": "0d4c80760ee6d79a5642fe43c00169120441fa7b4c509059665553034c6f89e4"
+    "sourceBytes": 61238,
+    "sourceSha256": "05bc31cecbb92267c6068577df8824ae652682daded9ed34b3c5064a5d9cf4b0"
   },
   "assets/game-ui/portrait-power-uncommon.png": {
     "bytes": 41018,
     "path": "assets/web/game-ui/portrait-power-uncommon.png.webp",
     "sha256": "ab2d1e4f0a0e3150bb09b71778a1d390122b2400698540783f170a79d6e636da",
-    "sourceBytes": 64493,
-    "sourceSha256": "963cb6f589cf08ffd39cdb5d45ec8d9ae3bbf2c32b8108182a02a53d9aa24591"
+    "sourceBytes": 63372,
+    "sourceSha256": "75b8e8cf8eb0ecdbf9ee7e61274c35e75e792b76e93753ba2cd972e7a47f9179"
   },
   "assets/game-ui/portrait-skill-ancient.png": {
     "bytes": 42032,
     "path": "assets/web/game-ui/portrait-skill-ancient.png.webp",
     "sha256": "79af14d7658c642e67a2076a282808df5e98c9704eb19a06cad108301708474e",
-    "sourceBytes": 71309,
-    "sourceSha256": "4d13c13c100c3d7a1c773a47e28f2085c29a25d88f9c675c47087887e4d7459a"
+    "sourceBytes": 70429,
+    "sourceSha256": "d159b117f8b80779100f85fe3f9f1dc437f4a352bb33d40d140899708fbe60a3"
   },
   "assets/game-ui/portrait-skill-common.png": {
     "bytes": 40518,
     "path": "assets/web/game-ui/portrait-skill-common.png.webp",
     "sha256": "b4c0d4149f5ea10a0b357325175603c638d56225314ff5fa7b2d0b17d403982d",
-    "sourceBytes": 71580,
-    "sourceSha256": "72f1bea3e3657e55c29b90e54fcafa2a2c5e1cd23d149ad3e7a0d05a27f3133f"
+    "sourceBytes": 70633,
+    "sourceSha256": "93c620a6bf677437ccaea5f489c935139f82a81fb6eacf5ecd220cff47257d5b"
   },
   "assets/game-ui/portrait-skill-curse.png": {
     "bytes": 49988,
     "path": "assets/web/game-ui/portrait-skill-curse.png.webp",
     "sha256": "7a69b82d6030938baa66c2cfe8bd0c556beeef005aa46b1bb78a84c3693b51f7",
-    "sourceBytes": 71173,
-    "sourceSha256": "0d8c857a3f235c9fc288b3041c02a9e58841da4baef8981f2fa0f205972ea579"
+    "sourceBytes": 70415,
+    "sourceSha256": "9a74cf6d95439977643a77a61c4447bb547d395bc54e11bac30dac3c66d8f3b7"
   },
   "assets/game-ui/portrait-skill-event.png": {
     "bytes": 47082,
     "path": "assets/web/game-ui/portrait-skill-event.png.webp",
     "sha256": "089f29d9bf2e4ff6c27b8ad2f156877cad079f6fd47a0787f71ba71c943a677f",
-    "sourceBytes": 74131,
-    "sourceSha256": "d5b38e769ca4022781f5d1e9cc915ef373c06e9f34ab74a37a8dbd69adb12249"
+    "sourceBytes": 73200,
+    "sourceSha256": "48343bc326a2d915a149cdc40cd8991f28f66d8208e628f1fd8c29d0ed5daba6"
   },
   "assets/game-ui/portrait-skill-rare.png": {
     "bytes": 51318,
     "path": "assets/web/game-ui/portrait-skill-rare.png.webp",
     "sha256": "5f370033aff7c617464ace1f2ad8109a27a89b638e83128aeb3a6f595142207f",
-    "sourceBytes": 72846,
-    "sourceSha256": "a3cf98a922926a6cc6627ed804e9d861ed7c7e50604db0cf8bd7515b63aca18e"
+    "sourceBytes": 72181,
+    "sourceSha256": "359dafaa788d9c3dcd5c0937e922a0f83486999e4a69ff9a5f32ca94bcca54ac"
   },
   "assets/game-ui/portrait-skill-status.png": {
     "bytes": 43324,
     "path": "assets/web/game-ui/portrait-skill-status.png.webp",
     "sha256": "180504384ae6e276f0ca2a6217ed14190ea6c2eb2b3cd7c72e3ee7e584a8c9e5",
-    "sourceBytes": 71602,
-    "sourceSha256": "655821c4ae6cc2e6491b5d075589411baf7e1797740f5ee4d18a29dadbb22829"
+    "sourceBytes": 70749,
+    "sourceSha256": "aa77c5c48dfa9772babd57f215b82972318aa2e11d513cb6397db3b3855c5c7c"
   },
   "assets/game-ui/portrait-skill-uncommon.png": {
     "bytes": 46106,
     "path": "assets/web/game-ui/portrait-skill-uncommon.png.webp",
     "sha256": "564418a873a29dd68da6336c984d68e36cb1e954dc49918f0feae30dc01e28b4",
-    "sourceBytes": 73846,
-    "sourceSha256": "aec08c6a19137ef2eeea7310311c4ba8b3f0ddf9e86f94da42ac0ee398b268e0"
+    "sourceBytes": 73125,
+    "sourceSha256": "a860aa44dd5956410e2e936efddb73d05e6f93b0ce1cd2ab67a47cfea2a48c9d"
   },
   "assets/game-ui/potion-icon.png": {
     "bytes": 294,
@@ -766,78 +983,1898 @@
     "bytes": 81430,
     "path": "assets/web/game-ui/submenu-card-library.png.webp",
     "sha256": "55b2a892e8b7f09819939da427f843640144a7a76cc5ee6f473626511c5bac3f",
-    "sourceBytes": 121911,
-    "sourceSha256": "588918d11c9f31823ce44b22fdcf2e0219daac790eca9c23a2684eeb674ceae6"
+    "sourceBytes": 121177,
+    "sourceSha256": "29dfc60841b94b5a78c96ca2923a81f6c58d49fb45821c96d9c5cc0900f91e3d"
   },
   "assets/game-ui/submenu-potion-lab.png": {
     "bytes": 74128,
     "path": "assets/web/game-ui/submenu-potion-lab.png.webp",
     "sha256": "14f0e8e8ceb648e18ec5d55201f6d2e36cd5c19726d1d4bf85a292920c1b06f8",
-    "sourceBytes": 112047,
-    "sourceSha256": "4776ef3671188d7f340c76bbf4621ab53166ada19674f249afbdc5dd51b4dd4a"
+    "sourceBytes": 111116,
+    "sourceSha256": "9e254b5579c5d0b820ef2a58d96c63cfd9ea8cd6910d279c770163df8ca18dca"
   },
   "assets/game-ui/submenu-relic-collection.png": {
     "bytes": 49812,
     "path": "assets/web/game-ui/submenu-relic-collection.png.webp",
     "sha256": "2b02bc601de00844a9afcc8655571a7d367d8fd0d497e4fa2c171b823fc60407",
-    "sourceBytes": 74939,
-    "sourceSha256": "39c132f4daea7ca45bb133a05219e424b0584711ab25935592992f22bb52989d"
+    "sourceBytes": 74230,
+    "sourceSha256": "698293f6762cc5b3a67e5cf91cd062d20adcd5f1418ac5c834c1b31f0f5050dc"
   },
   "assets/game-ui/submenu-standard.png": {
     "bytes": 99134,
     "path": "assets/web/game-ui/submenu-standard.png.webp",
     "sha256": "6f17b5f67cda0ba4fe4e8079fa4c1317ed15eb42564b44ebfda126603fd5292d",
-    "sourceBytes": 147674,
-    "sourceSha256": "52d32b799a8437a50c99155c7f7f0f49f9c2133338a995253e7769c24eae07ac"
+    "sourceBytes": 146847,
+    "sourceSha256": "edbe18a68d58e76629352809ab13d142d6ec93fbb605fdc929974a5ddd7bc9f4"
   },
   "assets/game-ui/submenu-unknown.png": {
     "bytes": 37732,
     "path": "assets/web/game-ui/submenu-unknown.png.webp",
     "sha256": "9af80250bb4ecd08a6c84553339ae7f73c385534f80ff3ad8afb3b5b7c833865",
-    "sourceBytes": 59459,
-    "sourceSha256": "036690961e8c456b0c23f49bac19057734c357a2ba3f2c1c0b77f7b9f75e7d5e"
+    "sourceBytes": 58793,
+    "sourceSha256": "07482a262e25fde9a4cc6a8ca156cbee51494b70f768e88b5651280bf1c45aee"
   },
   "assets/game-ui/top-bar.png": {
     "bytes": 61564,
     "path": "assets/web/game-ui/top-bar.png.webp",
     "sha256": "192a483497f224dac13897f6c7fa9d23d6c43a2c5fbcc055224795c72411ef2e",
-    "sourceBytes": 87986,
-    "sourceSha256": "858dff0520dcb8452c21a34191fd29efa7cb0a5fff02b4894d8a23d2f7ecde35"
+    "sourceBytes": 86804,
+    "sourceSha256": "e242d978c0c488981e5121ea4eab62ac6234848c67ac9e41a8f20d437902d769"
   },
   "assets/game-ui/type-sort-attack.png": {
     "bytes": 3220,
     "path": "assets/web/game-ui/type-sort-attack.png.webp",
     "sha256": "3c1b965eda44e4d67fee33f28789efc5e41121c769ee15e9a8da33d32ec69a10",
-    "sourceBytes": 4095,
-    "sourceSha256": "282f7f4723ad9b217dace440cb9ec3acef020d2c5269399b8419040af796b432"
+    "sourceBytes": 4094,
+    "sourceSha256": "12cbdeaaaeb313be9b82dde2b53a82e59f9ecc996ee5e0bb492d084125ace893"
   },
   "assets/game-ui/type-sort-other.png": {
     "bytes": 3174,
     "path": "assets/web/game-ui/type-sort-other.png.webp",
     "sha256": "5357ebc325ad0090219eb65ba3a5c90aa6a42b5b523f90d816400c59e1e08d86",
-    "sourceBytes": 4195,
-    "sourceSha256": "a885f2ab6d1f0905c2b35b5bf345d3c0cca3a5042c88678764f4597cb1c051fb"
+    "sourceBytes": 4194,
+    "sourceSha256": "9cad08e830b45bf3d466107a1614e77a02c60b73be9098bbb6936bd54df49560"
   },
   "assets/game-ui/type-sort-outline2.png": {
     "bytes": 1368,
     "path": "assets/web/game-ui/type-sort-outline2.png.webp",
     "sha256": "82c4b76e6a3d6c5845f1602715325505e36c0b2911570db2b743c69c9151ac12",
-    "sourceBytes": 2166,
-    "sourceSha256": "e5ae69800e95c7da98a0b50728d90efbd819a69b05b23d11726ff274a18aba6c"
+    "sourceBytes": 2156,
+    "sourceSha256": "4a590e986ce8bcc7068d61b4adcfae2e220b0d4557aa0ae5ac3234cd0f7e06d1"
   },
   "assets/game-ui/type-sort-power.png": {
     "bytes": 3190,
     "path": "assets/web/game-ui/type-sort-power.png.webp",
     "sha256": "f5b47c0f44ec79827ae5fcb27dc925d30d4227adf4981c8d2c498d458e8d0c00",
     "sourceBytes": 4067,
-    "sourceSha256": "ad3bb55e47c73ee2e0a7032fda58bc2708daa3eb3de2f1e741d347ed5ec9fb01"
+    "sourceSha256": "cf279a3734ac37da391a783c3cbd2d4306ba0637045fea2f18ee2248b32e8b89"
   },
   "assets/game-ui/type-sort-skill.png": {
     "bytes": 3084,
     "path": "assets/web/game-ui/type-sort-skill.png.webp",
     "sha256": "fb5b43681830ddc90e5ed378264a5a698a0b6df9a4461a4dfd1c8e27b9d0beba",
-    "sourceBytes": 3856,
-    "sourceSha256": "38920c47f066d13f2fc78a946a46b51ac5dd28a175c4ce8892da9352f3a0be0c"
+    "sourceBytes": 3853,
+    "sourceSha256": "c3a1950ea2a77e0b1dee7eca1eba02edae28d44a9f6256643824512cb3449d92"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/arrow_portrait_frame.png": {
+    "bytes": 298172,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/arrow_portrait_frame.png.webp",
+    "sha256": "b873842358ad14a23b72c0466f63ea5442d9c18f0e5cc55f0908925f45ce1c43",
+    "sourceBytes": 567544,
+    "sourceSha256": "70472bfa0a6ab4093f33a793c1d0d93c81a47daf575ebbe9fa810a261bfd8592"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/A.jpg": {
+    "bytes": 206956,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/A.jpg.webp",
+    "sha256": "9dc4799858086d62d1e2fbbd14e7cc880d9499dea61f6384715271ddb2f267b1",
+    "sourceBytes": 65401,
+    "sourceSha256": "fdc741d3673dc43c181dc2d46d5e38665ba5a11864d5b57872674e0086e9dfa2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/B.jpg": {
+    "bytes": 91002,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/B.jpg.webp",
+    "sha256": "2b4c4fa38bbcaab6106d5d8699438e75a07a33dc4cb28dc274114a1b708a563a",
+    "sourceBytes": 25953,
+    "sourceSha256": "d239873992c46588d60c549f8a1bbe0470bc3ff3cbbdf2d6bab98879aaaf851f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA04.jpg": {
+    "bytes": 180710,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA04.jpg.webp",
+    "sha256": "2acbc9b93a72d04609fbed0ec7f7aafbb958140a30a3a76eb20b9870595040f9",
+    "sourceBytes": 48821,
+    "sourceSha256": "49256cb9835cd6e9aec0ceefa30c3ac0052e7f00c372da698e76aea3ffeeedf9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA104.jpg": {
+    "bytes": 202666,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA104.jpg.webp",
+    "sha256": "e0c475d7cebb0ad0489797ae1556bf4b061779e55a14d069411742700a041c52",
+    "sourceBytes": 51354,
+    "sourceSha256": "455369951df7c104127fae0779a85572dd4fe41031dc14dff87f99da369d7368"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA105.jpg": {
+    "bytes": 239114,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA105.jpg.webp",
+    "sha256": "083ad64b2021684d1ea6f6a713a4cdc5b0ca3362abdca7e33a2cdaa48be89e5b",
+    "sourceBytes": 41580,
+    "sourceSha256": "8bde3de55059e47df50ff393b51b85836b37402b397872e6d5100a822b5e3ef9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA108.png": {
+    "bytes": 216180,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA108.png.webp",
+    "sha256": "f92056b30d6f0daa5d3840bca1b7324b7603ddc95a4f6fab2e1af701995dd7b8",
+    "sourceBytes": 310956,
+    "sourceSha256": "8c02eb70ca8786dffb96a1c3d201a9d1316adba354651525cc6fcadeddd4f5ab"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA108B.jpg": {
+    "bytes": 199152,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA108B.jpg.webp",
+    "sha256": "edccbf34fd80e04fa1725b7ec4424400746cb168d201b42076d5017a9eb6beb1",
+    "sourceBytes": 51742,
+    "sourceSha256": "bc02460f217a131a25965a9c2f98c3352c92acfee80d7cadc36df7d4d0576831"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA118.jpg": {
+    "bytes": 54774,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA118.jpg.webp",
+    "sha256": "2e6114396a3eaf2754964ee1c437851fd98eec7944b0a42894381b2150725479",
+    "sourceBytes": 42429,
+    "sourceSha256": "87ca872de8319178a1a584131cfd0466d21080439ae030d8599a5374c9a99571"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA118.png": {
+    "bytes": 256896,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA118.png.webp",
+    "sha256": "73c788afcacb013ff8eb52c1dd5597b53e898be7cf0815da587c97915c872e01",
+    "sourceBytes": 404295,
+    "sourceSha256": "a731d74998df983027fe20751c718deda914e8ad9246cf8e3b284ff358feca2b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA119.jpg": {
+    "bytes": 30396,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA119.jpg.webp",
+    "sha256": "1013b5e8c04dfd2120f5e4f2422019177fe0ba1a078f3dda109d0d893f263b14",
+    "sourceBytes": 12697,
+    "sourceSha256": "65d34ffa4cdeaf67505318f58ed070ea1b1b1f0dd2589b0e34a9b6b25a8d6a97"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA144.jpg": {
+    "bytes": 315406,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA144.jpg.webp",
+    "sha256": "9438e98b15d7f16451304a8a123ee771b65fe33862b80ed9d77c9096e54c029f",
+    "sourceBytes": 94299,
+    "sourceSha256": "12c102f6e1fd79d1bb4337147a6724e23cf2c9456e5d7a73897a62c09c4960d9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA145.jpg": {
+    "bytes": 105540,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA145.jpg.webp",
+    "sha256": "d7bbd920438b4f2c2870ef4609b82a234889b83a2d2978d8543458f161830a0f",
+    "sourceBytes": 30926,
+    "sourceSha256": "bdfc856aab508a4f382c5e4c32a6dfc6ceb8f7a7b5fd4195181ab4f21bac2f3b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA15.jpg": {
+    "bytes": 297626,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA15.jpg.webp",
+    "sha256": "15a866930d810a844ccc3e750a08da7f04575c7ca00f6b7196ce7a44fa483ef4",
+    "sourceBytes": 51763,
+    "sourceSha256": "2d7315e510bcc47cb21bb964eb981a736ed7fbd10686356f639d7d0f8d09dab1"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA16.jpg": {
+    "bytes": 161062,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA16.jpg.webp",
+    "sha256": "511cc20c6bcf8e63a188de559754d65a87ea303f921989ff2dd082398bfbbe5a",
+    "sourceBytes": 41111,
+    "sourceSha256": "7a511f9061da11f022300e05bf1f2a4b474d7e8e6de429014ff3f1bf99cda147"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA17.jpg": {
+    "bytes": 360484,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA17.jpg.webp",
+    "sha256": "c9b442829d4daed9317a742ee724c637cbe6a0212d4f07e6130dad09ed3027d7",
+    "sourceBytes": 99412,
+    "sourceSha256": "a1601c0dcbb0ec4e6b87d4ff157a37f982d77a641499cb07057a873d3c72ee2c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA17.png": {
+    "bytes": 304182,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA17.png.webp",
+    "sha256": "523462b8861385c8948d13ac0c5e70d08c81ca159dd5bdbd2c28e2f4f67d3ba8",
+    "sourceBytes": 475723,
+    "sourceSha256": "23c59e307880246bac0ff175cb087d0452899dfa11cea2254a652de2a3f54987"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA176.jpg": {
+    "bytes": 211684,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA176.jpg.webp",
+    "sha256": "2503bf90d362577b4e93ca996a6c33f4bd579464b5bbc1d548aac34ad0b9fb20",
+    "sourceBytes": 27468,
+    "sourceSha256": "07779bc7fdab75fc706bbf379e8530c824e8a18ddbdc600c0aa6db4c9918715f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA177.jpg": {
+    "bytes": 155294,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA177.jpg.webp",
+    "sha256": "a1ed573e884c147e8c3847151264cb060116ea8d36f2a47d85633f71af3c9424",
+    "sourceBytes": 51602,
+    "sourceSha256": "2cc2e638367e1bcf87e36b8664f3427f5fed590050d137534e7fdb2136a93f95"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA205.png": {
+    "bytes": 309974,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA205.png.webp",
+    "sha256": "94d01a87d4fc0b4fadf946f4ab29ecca68e658766fc2e7f6392625361c81ba27",
+    "sourceBytes": 546521,
+    "sourceSha256": "b932fa9564df839306b7b27612719342c769a8c2a9ab205fe904cf6ab540c0d0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA22.jpg": {
+    "bytes": 326066,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA22.jpg.webp",
+    "sha256": "4c2cd4c9f99d6b0c88c24e54fa07a61fdaa21587a9cb74a800458a19cf2441ad",
+    "sourceBytes": 119154,
+    "sourceSha256": "e3c892a1402a0a426f9981f7939089a9995d10bc92e54ee8ea08f061841fa41c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA22.png": {
+    "bytes": 235022,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA22.png.webp",
+    "sha256": "77ec24564b679b171540ac90f2eabe98707134aa6a6c50336068495b288d32ca",
+    "sourceBytes": 666653,
+    "sourceSha256": "90a26263c16ec5ae842ff4dc859656b230e95f6c0e78cd0848de76d897889ca6"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA35.jpg": {
+    "bytes": 155852,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA35.jpg.webp",
+    "sha256": "fb5812c5b22c48509ebc5d2afc28c7e6694ecbc31435139ea3c3efe920abaec0",
+    "sourceBytes": 44077,
+    "sourceSha256": "47f83a59ed41df0867e37747f42b4adfbbe2b3a008b1e0724354eda3b0366a3a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA38.jpg": {
+    "bytes": 237396,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA38.jpg.webp",
+    "sha256": "3fcf8b75f42924bbe37b4dd51f30039494a01fd29bcd8b57ec587ea14cd4a0ec",
+    "sourceBytes": 42000,
+    "sourceSha256": "2fb062e203415eee71e44fa7d0a9d65c92c9053e78d9c77b0a54e8b318c06dbc"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA41.jpg": {
+    "bytes": 138830,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA41.jpg.webp",
+    "sha256": "de6312780d534efc1ecf468803e741425bf4e705ea1c6d3f42811d939905bc1a",
+    "sourceBytes": 37168,
+    "sourceSha256": "a7c32957159c6083b392d6036355f0157cb58728fb921bead4008b372a807446"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA43.jpg": {
+    "bytes": 336388,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA43.jpg.webp",
+    "sha256": "1639b04d4e61654e52431598ea568d93fd22e8b1c606901dd08d8a1834150caf",
+    "sourceBytes": 75099,
+    "sourceSha256": "af91c71fbd77100fdd6c0473ac69feba5c7bd898766f2a165c5b4d9261de4d46"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA45.jpg": {
+    "bytes": 231838,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA45.jpg.webp",
+    "sha256": "e55067cdbe963055e643623b2b59cd771ff25383d063908a6b2187b343460170",
+    "sourceBytes": 59341,
+    "sourceSha256": "dd385f17bd9f4144cdfef9984e4afc0a633208e7b7ddc6820fea9922a1fd5eb6"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA53.jpg": {
+    "bytes": 117292,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA53.jpg.webp",
+    "sha256": "86dde462debc07d2beeea050d2ae082355dfce8020c66a5ab3e696ffdd86c6c0",
+    "sourceBytes": 32634,
+    "sourceSha256": "bb4d45f70ac78fb99c2889d9ba1925620511efed14d27a1b5aa1dc73fc927abe"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA57.jpg": {
+    "bytes": 382574,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA57.jpg.webp",
+    "sha256": "46256fd81f31ae0fbcbf4fec6290fa60414df5e8a412092022984494b64fde49",
+    "sourceBytes": 88397,
+    "sourceSha256": "dd281b6ff898a6125bd9e45710eaf42d0ba4a3d1001b71fced708c233a04bab9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA58.jpg": {
+    "bytes": 138830,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA58.jpg.webp",
+    "sha256": "de6312780d534efc1ecf468803e741425bf4e705ea1c6d3f42811d939905bc1a",
+    "sourceBytes": 37168,
+    "sourceSha256": "a7c32957159c6083b392d6036355f0157cb58728fb921bead4008b372a807446"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA58.png": {
+    "bytes": 201012,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA58.png.webp",
+    "sha256": "978317c951b43f2259c6c84dadf40effd3ba9a2e4c355c02166608db3f485195",
+    "sourceBytes": 538074,
+    "sourceSha256": "6dff4d36a48121c300af0f61175911585eaceb245aa4b2caeafa70ba07f9650a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA59.jpg": {
+    "bytes": 299084,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA59.jpg.webp",
+    "sha256": "2edf37b06f94985800a6d47b7934d8f6aaa0b8047e0cc48a643f153049c3b1c0",
+    "sourceBytes": 91159,
+    "sourceSha256": "6163679db9ce4d5cd0dad06e7765a1d5fc81e8fb615c776df18368bd3d46e5c2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA64.jpg": {
+    "bytes": 233374,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA64.jpg.webp",
+    "sha256": "c8c808da6764ac8c4879f24a9fda71759260cb406a324cc58ea0a60c340ab64b",
+    "sourceBytes": 30078,
+    "sourceSha256": "6076e3b2263818cd8f8010841f53de2849fe6912c2fe8310469ffdeb2dcee91c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA65.jpg": {
+    "bytes": 170262,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA65.jpg.webp",
+    "sha256": "7382fe16c28c34b424801e54faf0623bcdc53dfb3305a1ffa4de3e14db4731dd",
+    "sourceBytes": 38286,
+    "sourceSha256": "509d4fe095fd7901821936231044e10a44066182da1c94accca7fadd414b9605"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA66.jpg": {
+    "bytes": 41328,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA66.jpg.webp",
+    "sha256": "f9346c6168507bff6ecffedd2d84f4a0dd99841feaccc533ba5d8745f3d6daf9",
+    "sourceBytes": 25026,
+    "sourceSha256": "b88dec492e344f8c8743fcebb858689c0eba70f1cc21c48b91b5cba95aa9ce17"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA67.jpg": {
+    "bytes": 545436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA67.jpg.webp",
+    "sha256": "7e5944ef49ca146fef5addc761cb3152c159bf4ce0440928363b542401f6b6f9",
+    "sourceBytes": 141002,
+    "sourceSha256": "3115e8e9d9f961371be2da626b29d18ec5f9a1073bb02d5383523422faa1c96b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA70.jpg": {
+    "bytes": 120804,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA70.jpg.webp",
+    "sha256": "926eae80b02ec1b1345d8cd0bebe8d05b8f20a9751001404d67d366cdc3233c4",
+    "sourceBytes": 34045,
+    "sourceSha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA71.jpg": {
+    "bytes": 596250,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA71.jpg.webp",
+    "sha256": "17fe0610d8f017f79ade268e385fe9db87407f834c656a8bc73640f1c753db83",
+    "sourceBytes": 153173,
+    "sourceSha256": "2ae72354cb7cf27b690fee2f16b5802e76874a4e3ae66eb22bc08b78bc1c5fb9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA71.png": {
+    "bytes": 437464,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA71.png.webp",
+    "sha256": "2163df3c1d661aaf38df76dbe5901623f78cf03ebb5bda9274518d247fefc9b3",
+    "sourceBytes": 591842,
+    "sourceSha256": "aaa4ad9bda079ee4c4bf51c047aa1e85f074b2ae5be8d09a77c865bc78d998be"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA72.jpg": {
+    "bytes": 246656,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA72.jpg.webp",
+    "sha256": "b2e92aa0e19f3f518e81d6df25091cfd2ca0c910c4d7aad799faac3369bfac0b",
+    "sourceBytes": 56636,
+    "sourceSha256": "dbf35afd7b76ebf41dc40b0e91b829a63cf57fc8a7c5470b2c7f789153d4405f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA73.jpg": {
+    "bytes": 210782,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA73.jpg.webp",
+    "sha256": "3d9cc673e480b7451fd5a651e69d2c6d7a00d2b83f3f6a3a4ba9a444f811fed7",
+    "sourceBytes": 51189,
+    "sourceSha256": "4192d25716d062254bb609cb15748a7d2c4316d2475b80c123cc6f527bb889e5"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA75.jpg": {
+    "bytes": 150366,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA75.jpg.webp",
+    "sha256": "1731a276d6d2e66b9b55b6f9f5f0fae3c5370e5ff349e8a8bf840368ef4435d4",
+    "sourceBytes": 30437,
+    "sourceSha256": "ae4fcba48c8e251dc3e9fba73525a741bb4499f31fd2ee0a1531a4db68785dbb"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA76.jpg": {
+    "bytes": 444094,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA76.jpg.webp",
+    "sha256": "12b16a772306e48f19496559771e71ac16f30c461007735bdedfe282e4973ba4",
+    "sourceBytes": 103918,
+    "sourceSha256": "4cd402785a7592f4765ddab94d1354c1d41638e9cd4030d43639ca9882a46be7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA77.jpg": {
+    "bytes": 444094,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA77.jpg.webp",
+    "sha256": "12b16a772306e48f19496559771e71ac16f30c461007735bdedfe282e4973ba4",
+    "sourceBytes": 103918,
+    "sourceSha256": "4cd402785a7592f4765ddab94d1354c1d41638e9cd4030d43639ca9882a46be7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA80.jpg": {
+    "bytes": 143644,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA80.jpg.webp",
+    "sha256": "3fc8a41da590d64a2140d05c4ffb71fdf8fd2d31328565700f40a3e31beb2928",
+    "sourceBytes": 28816,
+    "sourceSha256": "320ed8996f5f6808321b846ac12b13906f935523dfc7d4d56f2e098cbf3c072c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA81.jpg": {
+    "bytes": 153248,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA81.jpg.webp",
+    "sha256": "05ab949fdb6031447bbe22095155f56bcb1a2257458033b067198752883c8dfc",
+    "sourceBytes": 42608,
+    "sourceSha256": "dc34a907dbcd045118d11ea640891ba6dff5b84eff7bc7dccaf4dd9023701795"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA81.png": {
+    "bytes": 74166,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA81.png.webp",
+    "sha256": "c5a73c8fd7df1144b675135c6c83705228fe5b8fb4dcd644cfb3dda074cb1c43",
+    "sourceBytes": 128089,
+    "sourceSha256": "6088ebf9a6b5dff6d5c2757c92ea5c5b5d55c71f721869a3f5d2dc5f75ab5ede"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA81B.jpg": {
+    "bytes": 88726,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA81B.jpg.webp",
+    "sha256": "a0cbf4b0b2a8b64ae24c64f5459466a27a87edc60f00dd4566d86d15cf4c1378",
+    "sourceBytes": 26476,
+    "sourceSha256": "73bbe4ad9a5862d34f3d872497cfaeff2eab3f438c0625525c4d6a2a7097d309"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA82.jpg": {
+    "bytes": 105540,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA82.jpg.webp",
+    "sha256": "d7bbd920438b4f2c2870ef4609b82a234889b83a2d2978d8543458f161830a0f",
+    "sourceBytes": 30926,
+    "sourceSha256": "bdfc856aab508a4f382c5e4c32a6dfc6ceb8f7a7b5fd4195181ab4f21bac2f3b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA82.png": {
+    "bytes": 793694,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA82.png.webp",
+    "sha256": "314df104dabd22c15f37d989a424f2b263ff45f6aeea5bc30cf90257fdd88975",
+    "sourceBytes": 1284765,
+    "sourceSha256": "b3ae6458b9d0e89792dc3baa63e6ef0c1810db532f200c2954ad926470db30df"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA84.png": {
+    "bytes": 87008,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA84.png.webp",
+    "sha256": "43b19828359cb8f331b004c80b5e148cb6ff364d95e2c591354293d5adce6911",
+    "sourceBytes": 143888,
+    "sourceSha256": "4156c11bdb5af35438e606ad59d2ece773c2caa8c1bda48f5fe60a9187c46eb9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA87.png": {
+    "bytes": 322424,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA87.png.webp",
+    "sha256": "d4f39360bcce2e9064fd699409cd8ab605c7bc11db5043758373f4d3a74a0a18",
+    "sourceBytes": 479451,
+    "sourceSha256": "fd08cd4a9aca933611a3382b78c2dbe2bd7b26ae563ab038554b55d1c02e5d60"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA88.jpg": {
+    "bytes": 299084,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA88.jpg.webp",
+    "sha256": "2edf37b06f94985800a6d47b7934d8f6aaa0b8047e0cc48a643f153049c3b1c0",
+    "sourceBytes": 91159,
+    "sourceSha256": "6163679db9ce4d5cd0dad06e7765a1d5fc81e8fb615c776df18368bd3d46e5c2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA88.png": {
+    "bytes": 207434,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA88.png.webp",
+    "sha256": "66e914c99b24a4fd402fdd90eec77721ba70a2d63c3447bac97ec1a9b471027e",
+    "sourceBytes": 604298,
+    "sourceSha256": "210f3fd26ee682907321c48e0e584a0b572b222d796ad1e984158183810ce786"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA94.png": {
+    "bytes": 170110,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA94.png.webp",
+    "sha256": "d181a466e9007eea4a6d6cb91af26a52ccc0132e61f2a6ae86566f06cc5d89c2",
+    "sourceBytes": 366721,
+    "sourceSha256": "ea27be529a524f5b7a3fd5e3af8f5ac7a7c19371188bf3a97e0c0cc90b57d3dd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JA96.jpg": {
+    "bytes": 141614,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA96.jpg.webp",
+    "sha256": "c4eca79cc7dd991683d950285eb951ae4a8029e141517dafa3b2a9b586b0f749",
+    "sourceBytes": 94593,
+    "sourceSha256": "c636582d1f81a64c99704a5f0ad7554f6d24c996e303e177e9416e37df65a006"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB01.jpg": {
+    "bytes": 170894,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB01.jpg.webp",
+    "sha256": "96be5d213d92c7d66c4d3e74ccab3f4a0bfa66a03add2a9b7c16fcf3ce3ab585",
+    "sourceBytes": 50115,
+    "sourceSha256": "3859ed5b9b006694f266b0b7bc7c3cec91e452437153f1c87acb0dc7e1266613"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB02.jpg": {
+    "bytes": 244372,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB02.jpg.webp",
+    "sha256": "605dc32638153cc1fbe8be93a35368585803d0ae12465435840d2bbd7a70f8c0",
+    "sourceBytes": 64612,
+    "sourceSha256": "84d3fdee2d6a4dfb39a6ce01a87a3fe94c41933d85a29235a829d3b58d0e882b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB03.jpg": {
+    "bytes": 412620,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB03.jpg.webp",
+    "sha256": "b19e0b1fbe5aec3e384c1996449c35f579439c249259f8536e20500602c782b7",
+    "sourceBytes": 66369,
+    "sourceSha256": "0aa2de5a7aa49a90ed96cec27c74a8c445ee677f00dec7c651dffdbe60e2c3ac"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB03.png": {
+    "bytes": 1142406,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB03.png.webp",
+    "sha256": "826cf4df6c91fccd7c20ce8dac6278b82d634ef452f8a2374e4b3a2d27638d25",
+    "sourceBytes": 1870500,
+    "sourceSha256": "febc5e91a9d54c08187e02a0e67319801aaae639d7d578ef76958b71ed3e80ae"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB06.jpg": {
+    "bytes": 343270,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB06.jpg.webp",
+    "sha256": "b781509c97ef6d93c0132b83e342a46373ec302291b04a63424919621d4643ab",
+    "sourceBytes": 98961,
+    "sourceSha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JB06.png": {
+    "bytes": 72740,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JB06.png.webp",
+    "sha256": "cf4844931408afac5f553c604f7a8dabbeb66f460a28cb3b0bf100eec0e00bd5",
+    "sourceBytes": 110046,
+    "sourceSha256": "c51e8f5008395a014b06cbb47f2ee4b5e71d053e39abc6d478b9776fd3609760"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JF07.jpg": {
+    "bytes": 134568,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JF07.jpg.webp",
+    "sha256": "b7f4e65fa004423433e5df74c26e933c452679afadb9d442e0abf770046ddff5",
+    "sourceBytes": 41924,
+    "sourceSha256": "96666f7364a98df218be265b019001126635b272faebbbee7700f0e7532b1e75"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JF10.jpg": {
+    "bytes": 156456,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JF10.jpg.webp",
+    "sha256": "748b68c41b785d8f716b82098215104adb19f7cf340ff05de6a0bd4e37c8a7ee",
+    "sourceBytes": 48237,
+    "sourceSha256": "8a832c11f4b4a6e5da6eaafe2ba65c9a669bb764238e3202ac15807a6a889c13"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JF13.jpg": {
+    "bytes": 120804,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JF13.jpg.webp",
+    "sha256": "926eae80b02ec1b1345d8cd0bebe8d05b8f20a9751001404d67d366cdc3233c4",
+    "sourceBytes": 34045,
+    "sourceSha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG03.jpg": {
+    "bytes": 238338,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG03.jpg.webp",
+    "sha256": "09f65239253f295e92a765c5a904e855255a24dba72f99db21a1d069fad37cac",
+    "sourceBytes": 47056,
+    "sourceSha256": "d237817b1fbd0fc780f94cec40e820bac69c2cb743b27ab0ecac0f38ac81bce6"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG09.jpg": {
+    "bytes": 238338,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG09.jpg.webp",
+    "sha256": "09f65239253f295e92a765c5a904e855255a24dba72f99db21a1d069fad37cac",
+    "sourceBytes": 47056,
+    "sourceSha256": "d237817b1fbd0fc780f94cec40e820bac69c2cb743b27ab0ecac0f38ac81bce6"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG16.jpg": {
+    "bytes": 266176,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG16.jpg.webp",
+    "sha256": "497bff3f2f1b2d1cf9fc45ac59dcfc2d13270aa99be46f1b5d69b1755e79f556",
+    "sourceBytes": 47710,
+    "sourceSha256": "bc90eedd72ccfaa9d24811826c56437c795c4c9bcad2cd7a5b871eff8cc4b7b2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG23.jpg": {
+    "bytes": 130628,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG23.jpg.webp",
+    "sha256": "cdd8156126b07d6ebbec92f7af3e9bc81601070f527086010a82e9aadc9437b2",
+    "sourceBytes": 41154,
+    "sourceSha256": "f22a855d4909efc41d7ada9ee4e99c86ca25250aca480d8041eed6aab36b8ac3"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG27.jpg": {
+    "bytes": 262508,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG27.jpg.webp",
+    "sha256": "0f3a4fefd4bb202a8cdccf03bdf8ee7ee95fb40e5d69a9f1a01c9313666a0e77",
+    "sourceBytes": 77443,
+    "sourceSha256": "2871ebf7326dfb9c84f049432006047d12c4b63c40891a446b17364b805d550c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG31.jpg": {
+    "bytes": 161482,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG31.jpg.webp",
+    "sha256": "6ebe595bff030d0a788f771cc89e1546206df40356036c04c7c8228fe11fbf86",
+    "sourceBytes": 52884,
+    "sourceSha256": "d989b57669713d2155177c3f4bb07e2eb16a236cc781aa4e3d5cec523abdcf4a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG33.jpg": {
+    "bytes": 214576,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG33.jpg.webp",
+    "sha256": "1e8b49f3077f6111c110bbaf62b166c0ca68e1870120823dc7f2d5c79da3eaf6",
+    "sourceBytes": 54478,
+    "sourceSha256": "5c942e3685f435e66d314ff40b98575c64a1c760e5d009dd57c70cc3a9145847"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG34.jpg": {
+    "bytes": 266124,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG34.jpg.webp",
+    "sha256": "757b01fddeabf74b4b62e557fbc0ed04b2f5994d054f43fb20f1e78c02ae24ac",
+    "sourceBytes": 57683,
+    "sourceSha256": "7572497a264446bd2fc74fe944efad48ee6ee664c80847f484e8efe94fab2248"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG36.jpg": {
+    "bytes": 188026,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG36.jpg.webp",
+    "sha256": "21b01a938f1b8ae2d9f9a4e160031a3dd01d49e7602c39a47cdf39b819b9e3fa",
+    "sourceBytes": 52448,
+    "sourceSha256": "f4dc32be3e52b911d8de0114f46d819af4651a24d7691389b8e6d3bdfa8242a7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG37.png": {
+    "bytes": 91086,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG37.png.webp",
+    "sha256": "3da0e1887eab4b08584b56e7159d27185d777e6bd79de4dc88bbb2897c9c6e16",
+    "sourceBytes": 149110,
+    "sourceSha256": "0d4832d42c991acd6c29194764fa7468b63c519dfb73e68940ead0a522614d33"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JG38.jpg": {
+    "bytes": 343270,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JG38.jpg.webp",
+    "sha256": "b781509c97ef6d93c0132b83e342a46373ec302291b04a63424919621d4643ab",
+    "sourceBytes": 98961,
+    "sourceSha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH01.jpg": {
+    "bytes": 337946,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH01.jpg.webp",
+    "sha256": "9541ce751e39fd7bd05fc07f5ffb7d95a2dc96691cc6f605a753efe6476b6f02",
+    "sourceBytes": 57862,
+    "sourceSha256": "0f559cebbc603eb2e62fca43526f7cea30903d8720e9f52e5c1eb90e7c47bf0b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH10.jpg": {
+    "bytes": 221436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH10.jpg.webp",
+    "sha256": "c8dc45e61bce6d3b0fd6bf93e3b9b9fe25933586cad442d06029a26af8d9cdd7",
+    "sourceBytes": 53690,
+    "sourceSha256": "c394831fbbf63be240a904bfd2757a34fbb1fe368c08e80f982d81060c132d7d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH11.jpg": {
+    "bytes": 259002,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH11.jpg.webp",
+    "sha256": "0d6478593e948df949f8b0117ec792dcd57265c072f81f67dca60ed988d6d8a2",
+    "sourceBytes": 38777,
+    "sourceSha256": "a676c77091d1b759d095d92ce0892f200146daae8940a8e02440fd6e4b848bdd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH13.jpg": {
+    "bytes": 242190,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH13.jpg.webp",
+    "sha256": "9f99cb66060ed36b786fe11aa238f01b940c123d9b11865a86bab0b8c064cc47",
+    "sourceBytes": 56424,
+    "sourceSha256": "40250ff87efb069b7d6a05e6d9377788ee749ae9995181bcdace8d3ae5b646fa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH17.jpg": {
+    "bytes": 96332,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH17.jpg.webp",
+    "sha256": "9f92716f85191ce3260cc4f641d402e57463305588cf8343b59da1fe1a1d2070",
+    "sourceBytes": 16643,
+    "sourceSha256": "25ee54be6631f78e73851ff0aaa9655664028b5e9343aa65835c3e1cb1a565f5"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH19.jpg": {
+    "bytes": 146486,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH19.jpg.webp",
+    "sha256": "c84cb88ed745a67734c2df5464cf8dc2bce00f6406fb8731d497d40fe98872bf",
+    "sourceBytes": 16877,
+    "sourceSha256": "270996b0c27a3e43f61fcc7d1e6b0bdd8f84371039f161138adf755ba29bc446"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH20.jpg": {
+    "bytes": 159612,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH20.jpg.webp",
+    "sha256": "637e2d596e06be03b631f230b97f75a674baf8d6574da4cefc39d59e9a7155fd",
+    "sourceBytes": 33389,
+    "sourceSha256": "398644fca6a13ce1c1f6f841db6437e22167dc72835c3a71dbafde7099681c39"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH21.jpg": {
+    "bytes": 240082,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH21.jpg.webp",
+    "sha256": "dacc0302dd2ae85d821cb22675f2085ce6bed1d58f0c3e43fd7b8eee84453ef4",
+    "sourceBytes": 37496,
+    "sourceSha256": "b64a79dd38d1eb9ed8310b0f83be4efbe6cbbabafb86892cbde9bcaa34dbb47c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH22.jpg": {
+    "bytes": 183076,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH22.jpg.webp",
+    "sha256": "023b65099f8ff1e6c7fee298b877bac0c19dd2d8c0229890398b083389c4c913",
+    "sourceBytes": 50542,
+    "sourceSha256": "7bd7eb7c22d6de164bfe29f5905739f02f8133f87b13dfdadfda54832059476b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH23.jpg": {
+    "bytes": 219440,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH23.jpg.webp",
+    "sha256": "f2b01fa64f62f1c414fbf7e594281818ea2ef738632e5f7a9c3e42aecd4f277b",
+    "sourceBytes": 49790,
+    "sourceSha256": "e5951fd34b7af68202ca27aa741f2c88885c3447bcadba65df141cb6ecba3384"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH24.jpg": {
+    "bytes": 38500,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH24.jpg.webp",
+    "sha256": "bc8dbb4bfe1058658055087856659e56f9ea77a0f4a6ebbff636b5345bd8257f",
+    "sourceBytes": 12106,
+    "sourceSha256": "72d7eb7779c548bc2ed3e95617d444ac59ee39b0b04169ca074b031b80c3e22c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH26.jpg": {
+    "bytes": 115602,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH26.jpg.webp",
+    "sha256": "99533b8f790de936bc12161043bf29fe5bcaa5301722e838f18197edf5918555",
+    "sourceBytes": 29273,
+    "sourceSha256": "207e7df24e073bb22e9ca066e7aed3c344b74dc79d39847586c3973e59f962b5"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH27.jpg": {
+    "bytes": 169938,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH27.jpg.webp",
+    "sha256": "6fe9ba966f3df7aecc0f141696484b4f6291f41a6b942f440a97ab74c709c4f2",
+    "sourceBytes": 30904,
+    "sourceSha256": "4dedf00a5b470e2468caded3362dea32651393ea9ab40a5253680f84906060ac"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH27B.jpg": {
+    "bytes": 186378,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH27B.jpg.webp",
+    "sha256": "c99ff9e05d9ad9c9f0d36636043caebb1c95bb808013b1a4dcdaee5f51438956",
+    "sourceBytes": 66309,
+    "sourceSha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH29.jpg": {
+    "bytes": 264176,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH29.jpg.webp",
+    "sha256": "dab20972f93142c3aaa16a2f3f7a5babe98f6f6bc0af038728b04d161f8ec5c0",
+    "sourceBytes": 59772,
+    "sourceSha256": "a9552dd337c7c455c5dbca021d15d7a6663f721388a21dcab76a4666235ef693"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH30.jpg": {
+    "bytes": 45164,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH30.jpg.webp",
+    "sha256": "d9a6c3ced6eb7f5074e602051b15e4b89d291df2863b0ee722f5ad04189a953e",
+    "sourceBytes": 15076,
+    "sourceSha256": "a2994a4875b19bcd0f9ac538601b7cdad3945c5709a1953f6f0be2870c30f8fd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH31.jpg": {
+    "bytes": 139152,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH31.jpg.webp",
+    "sha256": "5c5b3af0346f0d6a0d72baca21f236698765f89bdce9585ea05266dd9be8efa4",
+    "sourceBytes": 56279,
+    "sourceSha256": "ef5f391974d6f239990b7370f723806a59c8f854d310baba9826ee1a0f7ed107"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH59.jpg": {
+    "bytes": 264176,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH59.jpg.webp",
+    "sha256": "dab20972f93142c3aaa16a2f3f7a5babe98f6f6bc0af038728b04d161f8ec5c0",
+    "sourceBytes": 59772,
+    "sourceSha256": "a9552dd337c7c455c5dbca021d15d7a6663f721388a21dcab76a4666235ef693"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JH60.jpg": {
+    "bytes": 90200,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JH60.jpg.webp",
+    "sha256": "f7835cf2853abaccd314f4f200dde57bc3ee793f613b93a9706d5dca7e2039ed",
+    "sourceBytes": 14878,
+    "sourceSha256": "5bc424a70184b614a785c24c6cad6a260ffb6fb08d26f575fc14cb4dfdf7f221"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK05.jpg": {
+    "bytes": 330614,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK05.jpg.webp",
+    "sha256": "45b863bcd5ca8e66b20557618b7d8fde5045d323d870622656a3fa3100f3925a",
+    "sourceBytes": 59366,
+    "sourceSha256": "adb3a8a48a2b30bbcd3e2a53e3cdde5017f54a6ff7ab821b486b867b4ff23baf"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK10.jpg": {
+    "bytes": 186378,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK10.jpg.webp",
+    "sha256": "c99ff9e05d9ad9c9f0d36636043caebb1c95bb808013b1a4dcdaee5f51438956",
+    "sourceBytes": 66309,
+    "sourceSha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK10B.jpg": {
+    "bytes": 343270,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK10B.jpg.webp",
+    "sha256": "b781509c97ef6d93c0132b83e342a46373ec302291b04a63424919621d4643ab",
+    "sourceBytes": 98961,
+    "sourceSha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK11.jpg": {
+    "bytes": 152924,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK11.jpg.webp",
+    "sha256": "93c63e3846d369c42de85079c205afb1624028b0dd9b20b1128a02eb78d3951b",
+    "sourceBytes": 47029,
+    "sourceSha256": "0fef8d1623a6f3965356bb877870f4fa747b8e0e9e93a1773caf801c007dfb1d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK11.png": {
+    "bytes": 72616,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK11.png.webp",
+    "sha256": "2764199a86a47781bcf5f67fb5441474563fe52f22a8d72accab245b8fa8592b",
+    "sourceBytes": 109709,
+    "sourceSha256": "8560271940dd647f4ea1fe675c741f7acc7ce80824274245c38e3d378b11d3bf"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK112.jpg": {
+    "bytes": 243408,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK112.jpg.webp",
+    "sha256": "4950c65d2fd38496201ba39f8d827bad03a2f858668cba56a08986ac2dcc55ed",
+    "sourceBytes": 94108,
+    "sourceSha256": "053ef1067513d101e33075cd4d99d79aca966c5bc03e908b9a20d9b4970f299e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK112B.jpg": {
+    "bytes": 181066,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK112B.jpg.webp",
+    "sha256": "817cb1ef1363ce3143c7286798e9e614e3824c0b9cfcaa020df0714543be33a6",
+    "sourceBytes": 52092,
+    "sourceSha256": "b518225174e73ca0c804ba080c3f7912cccd326574acf677264c6d3bad58963c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK11B.jpg": {
+    "bytes": 361088,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK11B.jpg.webp",
+    "sha256": "3a21da82989b2b83e805ef7487193ac0a7d91cdec12e02ca898238a11126e46e",
+    "sourceBytes": 109517,
+    "sourceSha256": "457a601c8cf0f8d7e1afece4b152120cb53ab874da25e689099908612a94e37e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK11B.png": {
+    "bytes": 78702,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK11B.png.webp",
+    "sha256": "302315a2f17d3e0b2ec965663984a7d3bb7534615e003dc73197eace348776a5",
+    "sourceBytes": 131802,
+    "sourceSha256": "03036511a04da2c188c2258243f109c6e6889d584b7a76f6b02b816e058518c9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK122.jpg": {
+    "bytes": 135768,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK122.jpg.webp",
+    "sha256": "f79161761ce748d673e19f512e88641b3864cd2a78dd924760f784c2e07a90fd",
+    "sourceBytes": 42633,
+    "sourceSha256": "3b9a2060f173593aa7eba0ccfa3dda4f0ba48ac181302c40214b8f2ee9171871"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK122B.png": {
+    "bytes": 322386,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK122B.png.webp",
+    "sha256": "d8cceafc7a5f15167d08afc74d743786c32849035519884c6b41b42526c8a8cc",
+    "sourceBytes": 460025,
+    "sourceSha256": "e2f3c0ca0096684600cf8e4d13e16e39c0ae6158211592b76ad1716b3773cb47"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK126.jpg": {
+    "bytes": 215334,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK126.jpg.webp",
+    "sha256": "84c775c1d9fa968e854915e9677d8925fa58318a2333679ff5d86177b81f616a",
+    "sourceBytes": 92521,
+    "sourceSha256": "d71a36aa0c22bc4af5bbddcf9e1e3c7f73dedcca2a47de6304ed97bc4351bcf4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK127.jpg": {
+    "bytes": 760050,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK127.jpg.webp",
+    "sha256": "8931aa33f54a833f729421a03742b667eefb453a0eda3fb76db8135ffb622e23",
+    "sourceBytes": 462433,
+    "sourceSha256": "7787f045353f6ad5f2729be88256b5f1a819a8519a66ccf164a7cfc91c1e52ec"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK127.png": {
+    "bytes": 531694,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK127.png.webp",
+    "sha256": "213cbcba76c95c338ba9d83999d120e203b4b7b5798625e8be3795611371ac2b",
+    "sourceBytes": 727431,
+    "sourceSha256": "f8cf32d7da2a52050fb2bd01d85cd0c63c34dafb27188fcda41225f31042cd6a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK130.jpg": {
+    "bytes": 297006,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK130.jpg.webp",
+    "sha256": "dcde4aea3117dbc29e97eff9fed59babb69e9fcb18a3bcb103889ab28ac6f990",
+    "sourceBytes": 69652,
+    "sourceSha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK130B.jpg": {
+    "bytes": 105540,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK130B.jpg.webp",
+    "sha256": "d7bbd920438b4f2c2870ef4609b82a234889b83a2d2978d8543458f161830a0f",
+    "sourceBytes": 30926,
+    "sourceSha256": "bdfc856aab508a4f382c5e4c32a6dfc6ceb8f7a7b5fd4195181ab4f21bac2f3b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK131.jpg": {
+    "bytes": 321692,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK131.jpg.webp",
+    "sha256": "20d3ba6debd9c8a5779c5b2cdd2aaea2335c1042be728829b618e9da4565d214",
+    "sourceBytes": 127413,
+    "sourceSha256": "a26dd37441f3a663ccc85c45b0a9164089568de2d8a8b4cc4f7c5aa843e26b7f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK131B.png": {
+    "bytes": 543698,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK131B.png.webp",
+    "sha256": "980598e3c1c71a4c707f8b010ca2aac2ce3e58d5f49e91e7062e9858346acd37",
+    "sourceBytes": 806194,
+    "sourceSha256": "1f1ba3dc9d5e1b166eac0aa31b3524b2702f2951806a04fcc51017ac5813b957"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK133.jpg": {
+    "bytes": 113022,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK133.jpg.webp",
+    "sha256": "ff402ee774a864b6b78d6ea87fc378ad30b1b47701cc4e73030087e140f8bfa1",
+    "sourceBytes": 32784,
+    "sourceSha256": "7de67b9f5edc3bb1fd4a02b05f1e8c698c6c6597a7466b7497393731ce8433f9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK133.png": {
+    "bytes": 283138,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK133.png.webp",
+    "sha256": "4916ec28671eaaecf56b89d8cfe877abe87d43eee4109f817e4a3bacde21f623",
+    "sourceBytes": 392527,
+    "sourceSha256": "780fb45963ad6a9c3ea8a58573ad662888c7b4ec06f8b523c02aafb391af5c90"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK137.jpg": {
+    "bytes": 201660,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK137.jpg.webp",
+    "sha256": "2adb31ed739dd9afdff26da99d92a0f3089956e4a2eb721a86a7bc277156eac1",
+    "sourceBytes": 53572,
+    "sourceSha256": "238d365b723c0e72678f643b0eea8592c4987e616d7bbf8483df880379411cb4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK139.jpg": {
+    "bytes": 157532,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK139.jpg.webp",
+    "sha256": "56f825d65ddbac37c58ec8c7ed6a7acafb2c183e6392088e044e5c558def3e83",
+    "sourceBytes": 50434,
+    "sourceSha256": "6706a0c4f875e24bec244663a86bcfba6e6e3920826a779881f3c47196d4fbaf"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK139B.jpg": {
+    "bytes": 388808,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK139B.jpg.webp",
+    "sha256": "fb30a6a2f827e4224629bcf6e17dbf83ccfc6b592feea0612950144243f2e5d9",
+    "sourceBytes": 71774,
+    "sourceSha256": "ee4d9c4f9237b6a9d57e714f5c7c54dfd0c91f3fcd7f133003395a9300675684"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148.jpg": {
+    "bytes": 181066,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148.jpg.webp",
+    "sha256": "817cb1ef1363ce3143c7286798e9e614e3824c0b9cfcaa020df0714543be33a6",
+    "sourceBytes": 52092,
+    "sourceSha256": "b518225174e73ca0c804ba080c3f7912cccd326574acf677264c6d3bad58963c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148B.jpg": {
+    "bytes": 162856,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148B.jpg.webp",
+    "sha256": "cd4d642297c98b5bbf3ff68ac0ed283d675ea653b5e60dca12f48a9dd0449a9c",
+    "sourceBytes": 33300,
+    "sourceSha256": "8cebd97cd5232e8ea10c635e1d3f26e0ae2e9a34c8bb2be9f498b408fc700e5c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148C.jpg": {
+    "bytes": 240474,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148C.jpg.webp",
+    "sha256": "ab1a05d53f1981fe1fad7a3ceb78f4067248c7389c5d5e39feba7556bf5afa77",
+    "sourceBytes": 68424,
+    "sourceSha256": "408d407b3d17f271ecc80845fddb1cb0fdce75429ca8b5966b06072036916d61"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148D.jpg": {
+    "bytes": 185240,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148D.jpg.webp",
+    "sha256": "4e946755303cba9102fb96973a46ca4c292f1c2a53304bec90c3c1d24997cd9b",
+    "sourceBytes": 43365,
+    "sourceSha256": "6422c32b80255d95aa79dca6117116d643b8894b044950391ae141e2c20a06a4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148E.jpg": {
+    "bytes": 180090,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148E.jpg.webp",
+    "sha256": "0d1c437c103193fd34cb6021879869e2c4fc8e724cebb5813f3d25bbcc298b08",
+    "sourceBytes": 51021,
+    "sourceSha256": "f512709a36fcac9b1b0203bbf53aed0af7b1f8ea6cf0687fe510f37cb5eb8fe5"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK148F.jpg": {
+    "bytes": 186378,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK148F.jpg.webp",
+    "sha256": "c99ff9e05d9ad9c9f0d36636043caebb1c95bb808013b1a4dcdaee5f51438956",
+    "sourceBytes": 66309,
+    "sourceSha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK15.jpg": {
+    "bytes": 284170,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK15.jpg.webp",
+    "sha256": "021f97140e4a16eeae06c87bd58ac02243da85869fbb3034f1505db9c79f6ed8",
+    "sourceBytes": 54333,
+    "sourceSha256": "3ab466b5b0174d8ede63fa5896a624802a28b31e286fa35ba2ca8278d90305c0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK15B.jpg": {
+    "bytes": 167606,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK15B.jpg.webp",
+    "sha256": "5e2f49c7caf20f13b74c63901c907b2a94b0e74f4ee9a5914b7d8d8683fefebe",
+    "sourceBytes": 31538,
+    "sourceSha256": "2374d48713775b6fb3d68485079c80267c1742db8c9030a70016357cccd678ee"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK184.jpg": {
+    "bytes": 143082,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK184.jpg.webp",
+    "sha256": "0b6f890906fd5bae63e26a8898bfdd6d6042a9df9ce6894909b163184213933a",
+    "sourceBytes": 37926,
+    "sourceSha256": "f479f0b6236a3495d945a44bdd0741b6249ce465d031e69bd8eaa2e8519e984c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK184B.jpg": {
+    "bytes": 76268,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK184B.jpg.webp",
+    "sha256": "0718b73469f16418b73af9946db70710dcac58533b25f8fb5f6793b5c00cb0cb",
+    "sourceBytes": 44196,
+    "sourceSha256": "23230516c73c4eed3cc895e35d4a3aa195a60c7548654b28254e98fb441c510e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK184C.jpg": {
+    "bytes": 183236,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK184C.jpg.webp",
+    "sha256": "c0d17c2e828f274d1c68f537480527eb19875e5186025c9953f1b9e8646d694b",
+    "sourceBytes": 61786,
+    "sourceSha256": "8a14f76f81be11b3e2fc11bc2302c8718a11e311cc9cfd2ba817ca886db56cf2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK184D.jpg": {
+    "bytes": 109344,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK184D.jpg.webp",
+    "sha256": "5928307bed52abfc2e7ea5ca2dd071e6a157e75ab3f040939bd1d2a7564cd9b7",
+    "sourceBytes": 38447,
+    "sourceSha256": "11c6fad76036df108dc9c5af2a1fcab734c89dbe90424f23e23bcd1b1dcba7df"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK200.jpg": {
+    "bytes": 217992,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK200.jpg.webp",
+    "sha256": "9b76ec66edf634df7b2cb34047b1075f3cf7a90b4d2a278cc86979ef5537bbd3",
+    "sourceBytes": 110040,
+    "sourceSha256": "182efb2d521b73bea2aa2125168e966d0476126fb0ed85b3767de6d95444b5dd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK200.png": {
+    "bytes": 132098,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK200.png.webp",
+    "sha256": "b1f34636d46a816f819c50ee1d74a7bde318f09a193b988a041f2c9d74f2b03a",
+    "sourceBytes": 207521,
+    "sourceSha256": "dea48e6eca9047d06d17aab600bc50a52b9a22055bc7741acf4e254e08649cfb"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK200B.jpg": {
+    "bytes": 186378,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK200B.jpg.webp",
+    "sha256": "c99ff9e05d9ad9c9f0d36636043caebb1c95bb808013b1a4dcdaee5f51438956",
+    "sourceBytes": 66309,
+    "sourceSha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK200B.png": {
+    "bytes": 122368,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK200B.png.webp",
+    "sha256": "3cf7097b81cb5336c60e3ebe48023e5f5ea36b130233534ce422dc872c04ca29",
+    "sourceBytes": 209616,
+    "sourceSha256": "f66d668a2546834e5a2c6d9a4dc639c6ff9580614caf59276db1a709ce1d592c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK206.jpg": {
+    "bytes": 221436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK206.jpg.webp",
+    "sha256": "c8dc45e61bce6d3b0fd6bf93e3b9b9fe25933586cad442d06029a26af8d9cdd7",
+    "sourceBytes": 53690,
+    "sourceSha256": "c394831fbbf63be240a904bfd2757a34fbb1fe368c08e80f982d81060c132d7d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK206.png": {
+    "bytes": 132098,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK206.png.webp",
+    "sha256": "b1f34636d46a816f819c50ee1d74a7bde318f09a193b988a041f2c9d74f2b03a",
+    "sourceBytes": 207521,
+    "sourceSha256": "dea48e6eca9047d06d17aab600bc50a52b9a22055bc7741acf4e254e08649cfb"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK206B.jpg": {
+    "bytes": 141768,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK206B.jpg.webp",
+    "sha256": "7c65e0fb024af4bce51eda75956ce55907e8e9a45485540b36b366d21be009f5",
+    "sourceBytes": 49678,
+    "sourceSha256": "5d875cd050d095c232496d01be748ead700d54da26e4eec96b10f04d3a6329de"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK235.jpg": {
+    "bytes": 140322,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK235.jpg.webp",
+    "sha256": "bb44845d55c8b2783170430f29cc0c1e3a77efe1a424c1538281e6bbaa7b0912",
+    "sourceBytes": 51134,
+    "sourceSha256": "25f501ccd69a09ff2d95d4f0ebc4fa5ab20a1f7daa19c8df7f8c97c3210c25d8"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK235B.jpg": {
+    "bytes": 297006,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK235B.jpg.webp",
+    "sha256": "dcde4aea3117dbc29e97eff9fed59babb69e9fcb18a3bcb103889ab28ac6f990",
+    "sourceBytes": 69652,
+    "sourceSha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK254.jpg": {
+    "bytes": 435758,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK254.jpg.webp",
+    "sha256": "f4231568a66475cf5b5bb68acacba02b71b3b1c5c5fcbb146a8d4b66c18bc37e",
+    "sourceBytes": 76310,
+    "sourceSha256": "c668862a1b411cd931a4caa77a892f47c298158a0efadfe3a23c7edd5d1ea579"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK260.jpg": {
+    "bytes": 407830,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK260.jpg.webp",
+    "sha256": "4ecbc45ca7a361adc23751ecdfb52d8a8fa4059ee627530cbe2cd168ae758fd1",
+    "sourceBytes": 204285,
+    "sourceSha256": "908318963754f5319b4a6ac5ffab7afee56c002f47bf2a7c2186a752717d9272"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK27.jpg": {
+    "bytes": 206280,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK27.jpg.webp",
+    "sha256": "2f358630361f3c26f42844b8f769f5fe4ab48c8e4134023354f8fe82e0788cf1",
+    "sourceBytes": 50966,
+    "sourceSha256": "b29a23bc4f7b2ed6d1fc0fe1673858c78dd9fc85ef636ccb6a51fccf2566aebd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK272.jpg": {
+    "bytes": 284170,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK272.jpg.webp",
+    "sha256": "021f97140e4a16eeae06c87bd58ac02243da85869fbb3034f1505db9c79f6ed8",
+    "sourceBytes": 54333,
+    "sourceSha256": "3ab466b5b0174d8ede63fa5896a624802a28b31e286fa35ba2ca8278d90305c0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK272B.jpg": {
+    "bytes": 168338,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK272B.jpg.webp",
+    "sha256": "4e67c2f52eba67e9682d32ce141e9bcdd03c943b8d5d8dd32f818648c3722cc3",
+    "sourceBytes": 58041,
+    "sourceSha256": "aecc7e8a396b1871a24d5d6bbce2b1832e05643812535dbb57c89785b9ec13ef"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK274.png": {
+    "bytes": 294998,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK274.png.webp",
+    "sha256": "8bf836b54eadf643a85ee67bf4459f896269f24d8f869488882f9b8895cf8283",
+    "sourceBytes": 461116,
+    "sourceSha256": "82bd16e427cdb75b5beb9518a906588af0fed458c9f034b34e945a08ab5ec469"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK275.jpg": {
+    "bytes": 213604,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK275.jpg.webp",
+    "sha256": "fa2d5b4d40e972b403291cf360c2c66cfbad44f1bc8b4566d35f8d0004162ee9",
+    "sourceBytes": 62382,
+    "sourceSha256": "b4496bd96411b521bf419ce54a4193dc208d57a2d200fc8128c7e09b556b8d04"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK314.jpg": {
+    "bytes": 294272,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK314.jpg.webp",
+    "sha256": "993bf1382600f02ab49eb60f5ac8f6c20bf6d26e07bfccd48c81762851f37e00",
+    "sourceBytes": 73153,
+    "sourceSha256": "51ccdad7a9dc93bd25a872d62e6dafd0b304ae27cca300f88fda30342ad9c5f9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK32.jpg": {
+    "bytes": 486192,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK32.jpg.webp",
+    "sha256": "560ea9af2db16f432c6f6342a75a898f559780b365c106107cc38d21c4f65720",
+    "sourceBytes": 158043,
+    "sourceSha256": "5592fea8fd6b785c03cb9ab8030480174de874ca611da17bd30cc90705cf4856"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK32B.jpg": {
+    "bytes": 231808,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK32B.jpg.webp",
+    "sha256": "5be5f04a0811edcbbda6d08cd97fbc3ab6fb111394ba8d2b3a18df6ffa3ad17a",
+    "sourceBytes": 64073,
+    "sourceSha256": "44f3c06e74856b21c56f7768f41a677e2e65ea81be687a5a09b7a29c74b0427f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK32C.jpg": {
+    "bytes": 215954,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK32C.jpg.webp",
+    "sha256": "87e1de3ead7b2aed1686e0a384324844b7cde1c80620370e136bf1159829575b",
+    "sourceBytes": 104040,
+    "sourceSha256": "ab37ec785995a553ec60bd13f33142c213d03ab46ef2ab74a03c2b4f46049373"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK33.jpg": {
+    "bytes": 218234,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK33.jpg.webp",
+    "sha256": "ba84719f5557b37ed2d985bce03f07882d36a09a488f4d8b778aa8bd82515d56",
+    "sourceBytes": 56141,
+    "sourceSha256": "d35873224d74bcbc5a175880814d98220d5a89da4b9f67adccd16e74273aada4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK33B.jpg": {
+    "bytes": 177518,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK33B.jpg.webp",
+    "sha256": "e3ecc5f962875d75096e7c5fbafe95b1c92fa4b6dccab5961e73f56be1d074f0",
+    "sourceBytes": 49786,
+    "sourceSha256": "6f523ac18b9949e1e542c914d55f0a67ef62e3eb02b050666a89983df9ee9059"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK37.jpg": {
+    "bytes": 42436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK37.jpg.webp",
+    "sha256": "e696140a14afa77023d4938f5968645d500caa54fbd0dd22f2a4a63ada2debbd",
+    "sourceBytes": 17369,
+    "sourceSha256": "1627e671afd1f9ae02d9a219e871e197a7522a0a3f9f70ccb77a1acf750c13fa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK37B.jpg": {
+    "bytes": 122830,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK37B.jpg.webp",
+    "sha256": "e892d0d8c4b487e5f688e734884459a2ee7c586933c3def59b751e460a680301",
+    "sourceBytes": 32565,
+    "sourceSha256": "7e622c6b52aabcabe15e8d77213513dcbb28b7a6253b393740537ce17a8ec29a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK37B.png": {
+    "bytes": 43168,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK37B.png.webp",
+    "sha256": "aea9ce17992b0076de60c40b7a5e9a92282d6f4e6067ad4dd4d66d1ee638d4ec",
+    "sourceBytes": 74391,
+    "sourceSha256": "27801b1b1d25230c3d585cf4df9a341691e432d31ea9653b918228c9ed91e358"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK37C.jpg": {
+    "bytes": 110670,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK37C.jpg.webp",
+    "sha256": "d96b9f86fa813d97d3fe62c578857ca87e533c2e568f8b40b4ed039953aa28a1",
+    "sourceBytes": 40914,
+    "sourceSha256": "05a9f7467550b01196b83adbcfd0220af45d005256d726684c0bc7d416ea3054"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK400.png": {
+    "bytes": 552408,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK400.png.webp",
+    "sha256": "62a2811f6fe8fae95750a245d111126d0043fc1d55cd4b747e3472a00982acfd",
+    "sourceBytes": 726257,
+    "sourceSha256": "b4737ce1d59127828136fe8a958fbeda2e22ad0b5e0dbd9cb9425bf88600cbf9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK400B.png": {
+    "bytes": 179204,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK400B.png.webp",
+    "sha256": "e210d58bb80bbc8c5a9c5e89724a3312df395384b38f303fee0029f97745ddcb",
+    "sourceBytes": 273642,
+    "sourceSha256": "41a5a14301162df3644969b56183aab598157471007ff4d8be6a502cbfbd855a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK43.jpg": {
+    "bytes": 313760,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK43.jpg.webp",
+    "sha256": "24be93069f75e748445fa4c780707acc23504195eff196ab67a0d0b0236fbc12",
+    "sourceBytes": 57416,
+    "sourceSha256": "4527691684b3eb9799bfd78a5c9a5b3534e8f8ee839a86e7fae930bb03819a76"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK43B.jpg": {
+    "bytes": 206926,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK43B.jpg.webp",
+    "sha256": "1ab36c5b56c0be9a0c3771589fe76ddb932ce12098660b47ed91b0eba890ecb1",
+    "sourceBytes": 48156,
+    "sourceSha256": "4b0840c6783b2da170d005e977bddf7c422425e0edac17a292ddc8f5686547e7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK44.jpg": {
+    "bytes": 180822,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK44.jpg.webp",
+    "sha256": "e52b6e0dc9efb3ba1b0e06b1a9707451d007cfc1765fce200398990d8768bbbc",
+    "sourceBytes": 39833,
+    "sourceSha256": "29a8c335cfbed0ce47e7f77d2af046e513cea2c55e1df4ac37e220ca11be3190"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK44B.jpg": {
+    "bytes": 289800,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK44B.jpg.webp",
+    "sha256": "f1c17606cbdd1b10d110adcbb8e10c3b8b38ba62c6bfad33b6a3e49b50ef6d69",
+    "sourceBytes": 71828,
+    "sourceSha256": "5e55b96c9c2683ee90e1a21a19ade3bc62406fa48ddbf87074295aa5ce005d09"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK45.jpg": {
+    "bytes": 113022,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK45.jpg.webp",
+    "sha256": "ff402ee774a864b6b78d6ea87fc378ad30b1b47701cc4e73030087e140f8bfa1",
+    "sourceBytes": 32784,
+    "sourceSha256": "7de67b9f5edc3bb1fd4a02b05f1e8c698c6c6597a7466b7497393731ce8433f9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK45B.jpg": {
+    "bytes": 173720,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK45B.jpg.webp",
+    "sha256": "83a2a56799452b7db79e574e4b1abe35bf785bf34ca2edda8cf27eab32bc0150",
+    "sourceBytes": 35178,
+    "sourceSha256": "e986c4c81f5d8c93ded65202114eece48f6fad0d6e6ea5c4edb58a4ac895fc09"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK46.jpg": {
+    "bytes": 393164,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK46.jpg.webp",
+    "sha256": "2e487da8e956e83048dbcdc8b44a3ec7b66827568dcf0faf67eeaa918c9a817b",
+    "sourceBytes": 70309,
+    "sourceSha256": "5f104365d290c78494f6d1a865d88f495b2e7ca463dbd09bc936863e41d2cb63"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK46B.jpg": {
+    "bytes": 122830,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK46B.jpg.webp",
+    "sha256": "e892d0d8c4b487e5f688e734884459a2ee7c586933c3def59b751e460a680301",
+    "sourceBytes": 32565,
+    "sourceSha256": "7e622c6b52aabcabe15e8d77213513dcbb28b7a6253b393740537ce17a8ec29a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK48.jpg": {
+    "bytes": 368436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK48.jpg.webp",
+    "sha256": "f2ab1efb17e2de4801a650561c0257ae415a4632569c036dae570caa4fd2d401",
+    "sourceBytes": 113616,
+    "sourceSha256": "9d5e134ee72f1c1933daad0696a5a899d80f1f79491b95fcef9ea41136fda933"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK48B.jpg": {
+    "bytes": 190650,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK48B.jpg.webp",
+    "sha256": "1793685cdec1399b6abaf7f4919526beb0bdbaee6223ecfa9e6b07c53b688384",
+    "sourceBytes": 41843,
+    "sourceSha256": "dba46379013c6c617720e1f68871bb199e5b396d3a4deb50722760a260a65dc8"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK49.jpg": {
+    "bytes": 150234,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK49.jpg.webp",
+    "sha256": "d3695ae3613f4b965a4e06f20e143f1a524109b5eac0171f446a373b51d84304",
+    "sourceBytes": 50174,
+    "sourceSha256": "698e9a581981323146f9e212f21a4c53383f6e83155f12c6b20a1725011f6101"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK49B.jpg": {
+    "bytes": 123416,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK49B.jpg.webp",
+    "sha256": "f148790b0207c7d7a348a3788d4f2e9bc3a1328ce02ce74124f7d042a88c3f14",
+    "sourceBytes": 37221,
+    "sourceSha256": "b847c3368a4d482f785e73ea47368144f7bd543dbd1c09bb15240412e476e582"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK50.jpg": {
+    "bytes": 237804,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK50.jpg.webp",
+    "sha256": "2255d0e6d04a1c2d2d6dd17a86c62fe65d6baabdef84417aa0be1593313da01a",
+    "sourceBytes": 57814,
+    "sourceSha256": "1491df5e454401d65e5559c978b35345ead455d697e3edb5e9afd370a595c4f4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK50B.jpg": {
+    "bytes": 169938,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK50B.jpg.webp",
+    "sha256": "6fe9ba966f3df7aecc0f141696484b4f6291f41a6b942f440a97ab74c709c4f2",
+    "sourceBytes": 30904,
+    "sourceSha256": "4dedf00a5b470e2468caded3362dea32651393ea9ab40a5253680f84906060ac"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK53.jpg": {
+    "bytes": 396306,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK53.jpg.webp",
+    "sha256": "47c568b449f785749539e0c014a9806d1d0a6c11ee97ad4cf7c89ce0e4cde66d",
+    "sourceBytes": 75588,
+    "sourceSha256": "1ee58b081e99aad6275730f9f69ddd9b0f16851e820d43298e4d211a1cea3e5f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK64.jpg": {
+    "bytes": 243708,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK64.jpg.webp",
+    "sha256": "a735f0ca453a58175ef52336d285ae096ca0ea7a3bda1e0a194534bd37babec1",
+    "sourceBytes": 50966,
+    "sourceSha256": "1c1f38cb31e0fc9acc4f46e256a707772b51aa9791ec61ea3afcd33dfcf73237"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK67.jpg": {
+    "bytes": 262508,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK67.jpg.webp",
+    "sha256": "0f3a4fefd4bb202a8cdccf03bdf8ee7ee95fb40e5d69a9f1a01c9313666a0e77",
+    "sourceBytes": 77443,
+    "sourceSha256": "2871ebf7326dfb9c84f049432006047d12c4b63c40891a446b17364b805d550c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK67B.jpg": {
+    "bytes": 120804,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK67B.jpg.webp",
+    "sha256": "926eae80b02ec1b1345d8cd0bebe8d05b8f20a9751001404d67d366cdc3233c4",
+    "sourceBytes": 34045,
+    "sourceSha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK67B.png": {
+    "bytes": 452484,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK67B.png.webp",
+    "sha256": "5d1cb133ed36db00e4d554ae957bf8ffba6675fce157ef365110c7f42053c5f1",
+    "sourceBytes": 638266,
+    "sourceSha256": "6bacf2414482cdb343ff0d867071daec1ecaa7ae32762be63659230caaae3441"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK69B.jpg": {
+    "bytes": 252500,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK69B.jpg.webp",
+    "sha256": "6d840ed761064f57417e3f51693a666366f9da49e91888f5a7d00cc880fe7169",
+    "sourceBytes": 33553,
+    "sourceSha256": "381456e6f6069600e0c2f1e17c437ecd505694cf34da2838b8a53aae5c4a8453"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK73.jpg": {
+    "bytes": 199152,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK73.jpg.webp",
+    "sha256": "edccbf34fd80e04fa1725b7ec4424400746cb168d201b42076d5017a9eb6beb1",
+    "sourceBytes": 51742,
+    "sourceSha256": "bc02460f217a131a25965a9c2f98c3352c92acfee80d7cadc36df7d4d0576831"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK73B.jpg": {
+    "bytes": 275308,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK73B.jpg.webp",
+    "sha256": "aec2d975660d5f4e451b23f6984a275ace3698e6f0e37729bde6cae9beb79cf6",
+    "sourceBytes": 56525,
+    "sourceSha256": "441bf491f9eebddaa32cf455f4f2f9ebe949867329db58bbac6152d01a7e6de1"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK74.jpg": {
+    "bytes": 149606,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK74.jpg.webp",
+    "sha256": "f3411a8ebae836a5dc36d27153edbb657b61c0fc564138b2ea6fa3d3b36e621c",
+    "sourceBytes": 44023,
+    "sourceSha256": "3e5322ce254ebfe2cd286ff70ac566f303353b36add822fbcd5bf6eab9465c9f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK74B.jpg": {
+    "bytes": 156092,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK74B.jpg.webp",
+    "sha256": "9efd462e9db09528d51f0f70dfc01b82a6ffaba7afce06d857d77b40bbf30095",
+    "sourceBytes": 42452,
+    "sourceSha256": "76807033444355152b0b690790b4cb1703b2b0c3f9f8401ef1cdcc177adab9a3"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK75.jpg": {
+    "bytes": 194890,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK75.jpg.webp",
+    "sha256": "2dc44745073e90b0c0e9a5d8e7810e969236c5170e2ae8fadfca36377257cb83",
+    "sourceBytes": 49422,
+    "sourceSha256": "1c5ad9b297b7212483dcc5b9210c4eb7754a87ff1fbaa20c3294149b66372b04"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK75B.png": {
+    "bytes": 204586,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK75B.png.webp",
+    "sha256": "b6014cb5a467c8c7a23b79fa338338ecf72bed34748ee322a6f9ec0844781b60",
+    "sourceBytes": 514304,
+    "sourceSha256": "fc5f8abcffdf918f419286cc25f918bbb6547f6b56b671b81d484d85cda26b9d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK78.jpg": {
+    "bytes": 221134,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK78.jpg.webp",
+    "sha256": "4616b1f5dd16f2c165be6457d72c2490ccb3b788beebba4863d90076e7f54510",
+    "sourceBytes": 59774,
+    "sourceSha256": "60fc06230a677f59b2f01cbe75bc248a9611e81cbcf617fb1a237f6924d23a4f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK78D.png": {
+    "bytes": 6202,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK78D.png.webp",
+    "sha256": "01860c68a1deae9ef2bbcc22635e5f3115f3d118113ab301d5e430dcc278e166",
+    "sourceBytes": 19703,
+    "sourceSha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK78E.png": {
+    "bytes": 6376,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK78E.png.webp",
+    "sha256": "3d0e7781b6ce84898a5f76945c1fea3851f2610030dec04d48a28151e7b4a5c7",
+    "sourceBytes": 17388,
+    "sourceSha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK80.jpg": {
+    "bytes": 260992,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK80.jpg.webp",
+    "sha256": "e79159dccb9b3d2af6eeb7e5bc134a90221575809a23306b83c53665500a5dae",
+    "sourceBytes": 48301,
+    "sourceSha256": "3732c88030cb865ccf4b9fe21727c44dfd9940423a3bf73fdd4466f9008426c0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK81.jpg": {
+    "bytes": 297006,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK81.jpg.webp",
+    "sha256": "dcde4aea3117dbc29e97eff9fed59babb69e9fcb18a3bcb103889ab28ac6f990",
+    "sourceBytes": 69652,
+    "sourceSha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK81B.jpg": {
+    "bytes": 296514,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK81B.jpg.webp",
+    "sha256": "3e96ceca44a33c8039f6c61909fb6e289d8c595d1d43903d9cc8fb00bd8e6583",
+    "sourceBytes": 57976,
+    "sourceSha256": "434512e2a0cc7e7cb9741d0dbab64becba86cf494dc18d79ea2cab6e3e422db7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK82.jpg": {
+    "bytes": 348230,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK82.jpg.webp",
+    "sha256": "9235c0284ddd0ae275e9b07c64e5918ec63752ddfbf121ad23110ad7a71ebc9a",
+    "sourceBytes": 151622,
+    "sourceSha256": "7b823baa13a726072b5a40dec0d12f486011dde38fa0b41895c5ba2f1a262b4c"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK82.png": {
+    "bytes": 1045252,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK82.png.webp",
+    "sha256": "99fa603daaa4503c0386177ed13039b551660251da89059213d718497bfe001c",
+    "sourceBytes": 2032975,
+    "sourceSha256": "fec4c9c4b1c880689726cc8f3e8c0550855be8d48e0f9bac656d3732ad933635"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK82B.jpg": {
+    "bytes": 296514,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK82B.jpg.webp",
+    "sha256": "3e96ceca44a33c8039f6c61909fb6e289d8c595d1d43903d9cc8fb00bd8e6583",
+    "sourceBytes": 57976,
+    "sourceSha256": "434512e2a0cc7e7cb9741d0dbab64becba86cf494dc18d79ea2cab6e3e422db7"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK84.jpg": {
+    "bytes": 584660,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK84.jpg.webp",
+    "sha256": "85ad9dbe0731622188da87165833e31fe7db2e7805131c59082f4e5593599088",
+    "sourceBytes": 252162,
+    "sourceSha256": "695f7ee7938bf169dd81d288c6b0b261a120eca3b5bfe87206541338429b47ef"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK84.png": {
+    "bytes": 168462,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK84.png.webp",
+    "sha256": "bd6c13daee5a1739e73d6609edbdad0ff6e0da062a78bacb56b246d8c1b15f26",
+    "sourceBytes": 259265,
+    "sourceSha256": "d902e36a00914652b697ccea2f87ef41f7409cc9d775a31fa032b23ea8b4edb2"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK84B.jpg": {
+    "bytes": 232740,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK84B.jpg.webp",
+    "sha256": "f7562acdb7cc0002a19192b8a3b3ee1bf61be7e1d4e2e7f57f1be114fab4f019",
+    "sourceBytes": 85884,
+    "sourceSha256": "8e362d65ef191900f2c98881200eefe899edd2787e14f9c9c3944903ccf4bf42"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK84B.png": {
+    "bytes": 125874,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK84B.png.webp",
+    "sha256": "7d92aa72b3a8ff0e1915b8b9c303bc7d7e3468ca24d2c2c2c5e4a057af1f3055",
+    "sourceBytes": 338770,
+    "sourceSha256": "82e0f5a9b343126fb1624cda630c5d4e820de40a66344fe95f2f63ea50dde13f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JS19.jpg": {
+    "bytes": 180822,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JS19.jpg.webp",
+    "sha256": "e52b6e0dc9efb3ba1b0e06b1a9707451d007cfc1765fce200398990d8768bbbc",
+    "sourceBytes": 39833,
+    "sourceSha256": "29a8c335cfbed0ce47e7f77d2af046e513cea2c55e1df4ac37e220ca11be3190"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JS33.jpg": {
+    "bytes": 174160,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JS33.jpg.webp",
+    "sha256": "e285b502e45d0ab2f543ba90db9ad96df51cfd8d580aa79e51db858e51525684",
+    "sourceBytes": 71745,
+    "sourceSha256": "52b50b34f4bbbedb22471b25f92619eb62b950ca92645d9fcf9da5588dbfd285"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JS33.png": {
+    "bytes": 192856,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JS33.png.webp",
+    "sha256": "1d5a1650914985921d664621be84bcf53dea1dc57b98be64839232a9ec631ee3",
+    "sourceBytes": 299354,
+    "sourceSha256": "4e512dc562b6d6126daa7892c8075a028a39ffb385e97ff85b77bbd274e8ace8"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JS34.jpg": {
+    "bytes": 243708,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JS34.jpg.webp",
+    "sha256": "a735f0ca453a58175ef52336d285ae096ca0ea7a3bda1e0a194534bd37babec1",
+    "sourceBytes": 50966,
+    "sourceSha256": "1c1f38cb31e0fc9acc4f46e256a707772b51aa9791ec61ea3afcd33dfcf73237"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JS35.jpg": {
+    "bytes": 141282,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JS35.jpg.webp",
+    "sha256": "2ee2de1e3e6d57a2569a26629f7d83a400127c9fe5e05c169c3e9249489f49f6",
+    "sourceBytes": 39642,
+    "sourceSha256": "a5da26126421e954351d0900e43e0ce3af47f3408a90ef1349fd126932e5e073"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JT02.jpg": {
+    "bytes": 175782,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JT02.jpg.webp",
+    "sha256": "0206047ce50c6e092389b6584d7829cb0355fabb0413e426906d357594500d26",
+    "sourceBytes": 53258,
+    "sourceSha256": "531cd129e262e13eeb3c3d4a0097b21a5efd4ae623d1113898d0000a6d47faf0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JT03.jpg": {
+    "bytes": 54230,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JT03.jpg.webp",
+    "sha256": "7abb9387427a0d014f74380b63a0221acf071fb59f29919f04080e96cab5fe40",
+    "sourceBytes": 12311,
+    "sourceSha256": "2c1fdaff638f31fddcf25076872e8be706b49c3783b28afcc050f56841fabe34"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JX01.jpg": {
+    "bytes": 184484,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JX01.jpg.webp",
+    "sha256": "66e35f0af2d669822391ff0f4090b6fd3a92938aeebd8ecba0f992a17313b371",
+    "sourceBytes": 63520,
+    "sourceSha256": "d989560cbc5239206e49d81e52b36c5e1431a502e05849e265cac17ab117cc2b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JX02.jpg": {
+    "bytes": 239114,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JX02.jpg.webp",
+    "sha256": "083ad64b2021684d1ea6f6a713a4cdc5b0ca3362abdca7e33a2cdaa48be89e5b",
+    "sourceBytes": 41580,
+    "sourceSha256": "8bde3de55059e47df50ff393b51b85836b37402b397872e6d5100a822b5e3ef9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JX07.jpg": {
+    "bytes": 153452,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JX07.jpg.webp",
+    "sha256": "03eb6ec725952b6b9813b42a7dfee329985169b90a4b9f4d5bb373e142bc504c",
+    "sourceBytes": 31802,
+    "sourceSha256": "e48cc9af1634796d01b133e658191efb6b018cdbbc79844d71877a9e4047080a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JZ03.jpg": {
+    "bytes": 822446,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JZ03.jpg.webp",
+    "sha256": "46b1c8d5a2322d4baa7bf7b7f5a7cc035c0d1fc2a1597c56a2d96978e081510a",
+    "sourceBytes": 529267,
+    "sourceSha256": "5552ce72cd904dc7c3cae0c2076c21b7f14909a0a5c94eed9b849908882c0a5e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JZ03.png": {
+    "bytes": 551754,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JZ03.png.webp",
+    "sha256": "79513f4de673e2de2db97ea440497204d473f91ee06d69c187768a08a8d56520",
+    "sourceBytes": 727904,
+    "sourceSha256": "8deaf27a5bfc05d00b5800f0e1c71eb4492b6f93240440094b0dfdac44fa8da5"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JZ05.jpg": {
+    "bytes": 108154,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JZ05.jpg.webp",
+    "sha256": "5da143a8de48f4fc90dbfc449d1bd502c955f63a335e32128387a87cbc3d01df",
+    "sourceBytes": 37887,
+    "sourceSha256": "bd326d9f8644c25b256013382c7fbc81581d17477640be6cf48f4ce9d4d591ac"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JZ06.jpg": {
+    "bytes": 110670,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JZ06.jpg.webp",
+    "sha256": "d96b9f86fa813d97d3fe62c578857ca87e533c2e568f8b40b4ed039953aa28a1",
+    "sourceBytes": 40914,
+    "sourceSha256": "05a9f7467550b01196b83adbcfd0220af45d005256d726684c0bc7d416ea3054"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_005.jpg": {
+    "bytes": 232368,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_005.jpg.webp",
+    "sha256": "727b764fffdd2ff6efbf78386b947782d63c721e2344f6f9c0e4635d21362f73",
+    "sourceBytes": 27020,
+    "sourceSha256": "40a35f59a0af1e967e92eed20644b99a75487245245d5f050bf1934e13bc1b72"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_008.jpg": {
+    "bytes": 608032,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_008.jpg.webp",
+    "sha256": "f00280207e34e281029f55f7bbe4466c2ab40107ff0bb4c8ee9729faf17042bd",
+    "sourceBytes": 250831,
+    "sourceSha256": "57de46444fed9b50b3d8de44178cf3937d4ed10d2380e884c1f97315f76830fa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_008B.jpg": {
+    "bytes": 306718,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_008B.jpg.webp",
+    "sha256": "0043abacbecb2c6fe722442b14b7eb50b7eca1a27f67b538e5372aa174be57df",
+    "sourceBytes": 164748,
+    "sourceSha256": "522546df1914df95ef363f292cbb0e8ff01bdad2e2bd32a43525a2169eccc113"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_009.png": {
+    "bytes": 534448,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_009.png.webp",
+    "sha256": "3ad692c2aa26d075ea5ce1d3c293c2cbb09a1bdd97616bea7417fd947e80fd07",
+    "sourceBytes": 777820,
+    "sourceSha256": "8ad58222c36682285cec6a43649761eb0913e577f7084fe581e836dd45b18d9d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_010.png": {
+    "bytes": 252834,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_010.png.webp",
+    "sha256": "1c4c75397789d4375f25ad0bbcb4dd29bb388c49143ced9ceff77b23c32242f0",
+    "sourceBytes": 343806,
+    "sourceSha256": "0cdaf54269f464558a252a084477e1351937710b7263786fa577c51a6bd762df"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_011.png": {
+    "bytes": 72478,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_011.png.webp",
+    "sha256": "54e89cb7dbfd542334bb0d568552f4288bd87beebcb7d5746e60c4b59b002351",
+    "sourceBytes": 108915,
+    "sourceSha256": "b994fcbfcf9c94531cf8567fb84d04049cfa35ba5706ac56fd7da3b2833f0871"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_012.png": {
+    "bytes": 125874,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_012.png.webp",
+    "sha256": "7d92aa72b3a8ff0e1915b8b9c303bc7d7e3468ca24d2c2c2c5e4a057af1f3055",
+    "sourceBytes": 338770,
+    "sourceSha256": "82e0f5a9b343126fb1624cda630c5d4e820de40a66344fe95f2f63ea50dde13f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_013.jpg": {
+    "bytes": 214792,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_013.jpg.webp",
+    "sha256": "ed9add20e23e946ef33e9856c9a9ea9128740a148b31c953eb300d5afb39aa26",
+    "sourceBytes": 106112,
+    "sourceSha256": "cd46a388b0366dbbf2d9987c53612e2bba0cee1548526039a38c4e5ac4ee4e58"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_016.jpg": {
+    "bytes": 184188,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_016.jpg.webp",
+    "sha256": "f07644a91ada24a7aa4d5812458609e1c26b2187fc10043a1203d786bc7bbaa7",
+    "sourceBytes": 85805,
+    "sourceSha256": "b8f8b101b214f9d077d22ab48b076af980670cddf0896d533df96994a0bc6871"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_017.png": {
+    "bytes": 216104,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_017.png.webp",
+    "sha256": "11667f738cbe44a34fdba0e5799e9922c5de53d2abc033fe7af8ed4ab66ec787",
+    "sourceBytes": 324196,
+    "sourceSha256": "cd3ded6de909657fb8115248ec1e8c4ff9f8024371384ad2c605d9d1539ab25a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_018.jpg": {
+    "bytes": 305512,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_018.jpg.webp",
+    "sha256": "e5009f1faa8dfeaedd49e5735ca5df4b7ec1a28b53760d32e526eafebfee301d",
+    "sourceBytes": 130919,
+    "sourceSha256": "4d16fb35020fce146c370e0e571a88eff043fed72bd82d6d8e31e7791dcb35d8"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_018.png": {
+    "bytes": 215152,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_018.png.webp",
+    "sha256": "dad9e18ade0d18765a543307b520d7c7ae34919d17f077493af1bfcee96ea7b7",
+    "sourceBytes": 290912,
+    "sourceSha256": "d88b2a9befced1b7d0fbdf9e15abf5d491c0c7de95fd3a9d08bdfca8cc756f3d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_021.jpg": {
+    "bytes": 262002,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_021.jpg.webp",
+    "sha256": "2cc9aa2afc38ba2d524e1942bb106722984232660fe5ac624b2b58ac77e6d32a",
+    "sourceBytes": 117879,
+    "sourceSha256": "f5481a057153df063b43f6ba309d117c780c108cb0fc7c38196c3e2e9d92069a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_021.png": {
+    "bytes": 391138,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_021.png.webp",
+    "sha256": "0f51c6cc0dc40f64b0ef48fe35db098873d9bbe9bb8b6088688b7ce4c99257ae",
+    "sourceBytes": 512304,
+    "sourceSha256": "70e4d5ac7b296f3197a4df82539f0faea938361d66bf09923380fb7aaaa14a41"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_023.png": {
+    "bytes": 478312,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_023.png.webp",
+    "sha256": "4cd82da8532fe1cbdaeab5dc8b70f9ed3af77aaa7ff64226610ba8d339bdddb1",
+    "sourceBytes": 650485,
+    "sourceSha256": "2c9985f5f30b176fd78986f583d0b8daf8c2eb7e5a46aca4010c87477665eb1a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_024.png": {
+    "bytes": 187542,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_024.png.webp",
+    "sha256": "83a5b44b8ba42958db01566232453835536d8c0e8934692ece3e87d57bfde363",
+    "sourceBytes": 273660,
+    "sourceSha256": "4c056908a56e18187be4993cd1fbfcdc40a42700cd17a66caa406d981b1cf045"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_025.png": {
+    "bytes": 224716,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_025.png.webp",
+    "sha256": "2047439899a2b514af90e460fd71bb1c763a4ba3cf4a6a6596a1285c7cef3084",
+    "sourceBytes": 338263,
+    "sourceSha256": "7748aef6943896776632e058c1d1f0d35ee3f5c1afd60a99a445ebcd20a81e82"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_030.png": {
+    "bytes": 127430,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_030.png.webp",
+    "sha256": "8bd87f46b3309efa21ac988e564dbcce98aadd915af732e5c4bfed495786cdaf",
+    "sourceBytes": 189319,
+    "sourceSha256": "93def18d8a5896ed1491e84f45bae847ad0be9c2ea6210f36ac8465233988312"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_031.jpg": {
+    "bytes": 200934,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_031.jpg.webp",
+    "sha256": "590159cc382e4d536bec81b28b74c3115fc61f28c62e332c8546f91b31f77389",
+    "sourceBytes": 62908,
+    "sourceSha256": "ccba2e7463234cc65f4d615b4c5f7cdab18f23034f4ca6a06c338dc615260f4a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_032.jpg": {
+    "bytes": 360216,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_032.jpg.webp",
+    "sha256": "f1a04c1848d7fab70bdda5b34676caae2576099196835753846ee93e475b0000",
+    "sourceBytes": 72917,
+    "sourceSha256": "a62736efdea43b753e0ae713f0ff473ea51f69568228109a1f19e6978d350d4f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_033.png": {
+    "bytes": 454180,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_033.png.webp",
+    "sha256": "e45c747ad8f79861aeb41601afe18c9d0590386654377a8b3b850ecd3eb525e3",
+    "sourceBytes": 656164,
+    "sourceSha256": "50900eb5ab99bde19e83c107e11322f64c39e1a318a18d649b994137ea094fb3"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_034.png": {
+    "bytes": 554740,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_034.png.webp",
+    "sha256": "e9ca25162616181fce74465ad420e8ad83d1ee603009ab5c3f60d3b9eba06353",
+    "sourceBytes": 754224,
+    "sourceSha256": "ae944188084ecd740100d74cd47786043cb7fa5ed3a8de53fc0c0fa46fa423c4"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_035.png": {
+    "bytes": 142904,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_035.png.webp",
+    "sha256": "2466109b92ca4bf534a9f623e5c56be0889cc8044c7f2f7e9b3010a8367c08ec",
+    "sourceBytes": 228468,
+    "sourceSha256": "fcd5ca6ba8403077805cea42dfa421361f1c82ed6ca373809fdf63f80c28915d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_036.jpg": {
+    "bytes": 217992,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_036.jpg.webp",
+    "sha256": "9b76ec66edf634df7b2cb34047b1075f3cf7a90b4d2a278cc86979ef5537bbd3",
+    "sourceBytes": 110040,
+    "sourceSha256": "182efb2d521b73bea2aa2125168e966d0476126fb0ed85b3767de6d95444b5dd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_044.png": {
+    "bytes": 142086,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_044.png.webp",
+    "sha256": "bb240142d7ec5ea777df7932a7ab1b1f1bd5ea547e34258b06a71583b70c7ff0",
+    "sourceBytes": 242578,
+    "sourceSha256": "55de37922fc52d4554850dbd91469f7b903d6144b3a28794616d6b4439f8bc7a"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_045.png": {
+    "bytes": 174750,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_045.png.webp",
+    "sha256": "f4201d0de65d768fc48efa20c48b131c536be0f2a39a93066a00210b0cbcf95e",
+    "sourceBytes": 259426,
+    "sourceSha256": "29ac622f2e446c92a64b62e60d777f1eaec16582b79940d16766495d25c2b7ea"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_047.png": {
+    "bytes": 297990,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_047.png.webp",
+    "sha256": "11718ddcc129840f58f71d20c55e93d16ed0235c47ca1630d82ead1fef742d80",
+    "sourceBytes": 443902,
+    "sourceSha256": "c4af2bb6de9028d7b3c3bf858cd16c7ff76ca7477ab21a60a5b652275757c8ad"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/character_select/motion_poster.png": {
+    "bytes": 1346400,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/character_select/motion_poster.png.webp",
+    "sha256": "931e4746e697c5ba0660667d4a965e75a7a0defd03f28b867276f561c7994f26",
+    "sourceBytes": 1717367,
+    "sourceSha256": "44b9f319bf0b8beec32e0492bc9da39521fee392336ae22494bd6d15a22c3b30"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/character_select_icon.png": {
+    "bytes": 37960,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/character_select_icon.png.webp",
+    "sha256": "a490251816b2ae5390f5baa5ebe24e3382930c564a4da4301f66439e8d118cb8",
+    "sourceBytes": 51626,
+    "sourceSha256": "ba59a425c0efb6b79a9bf124b4564d03b6b566f3a331c823cb95da5a4ba5b2bd"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/energy_icon.png": {
+    "bytes": 6662,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/energy_icon.png.webp",
+    "sha256": "31e8577159869dea04d75d0e8ad72c175616d32060a9cea1c089d7660a91809f",
+    "sourceBytes": 8702,
+    "sourceSha256": "13927ff0667bab2e8f80d2f185117f383d338e8f4f3ebce2c1d937bdfdb9894e"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/energy_icon_small.png": {
+    "bytes": 1326,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/energy_icon_small.png.webp",
+    "sha256": "ad5e81fc25353050433be90f2be2955f9eca7e750aa2c4b9be74fa319abaa7bd",
+    "sourceBytes": 1430,
+    "sourceSha256": "af921322e57bc64f473256f91ff1f574136c89d8b99d9a0951bda720872d71ae"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/layer_1.png": {
+    "bytes": 53602,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/layer_1.png.webp",
+    "sha256": "ba98d4c6474890d14b84f6ec66cc9e4734dcd0c90a6b08308a10aa87acc23c16",
+    "sourceBytes": 81047,
+    "sourceSha256": "e3c85efdd7b833df7a8bcf53660679e393114ff388d68fbcb26e415faaca6133"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/layer_2.png": {
+    "bytes": 55038,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/layer_2.png.webp",
+    "sha256": "e665a251e8dbf2dfc59dc3a95c529ab3f95aa696d85f0b1241aa633b68853d38",
+    "sourceBytes": 82542,
+    "sourceSha256": "e9fa7ecd500f1bf8e341692aec23ae859d063c38786045287b78f395d551f653"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/layer_3.png": {
+    "bytes": 8752,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/layer_3.png.webp",
+    "sha256": "314174bda02ce771c70afda76fe5294119e9dee7c3cb653eff8008aa1de5c39f",
+    "sourceBytes": 12907,
+    "sourceSha256": "4b9ca51c51028a3e0386ace31493088e24b71f4672360274552e50fa2e302f91"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/layer_4.png": {
+    "bytes": 56090,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/layer_4.png.webp",
+    "sha256": "7cc204fd3d06f60422d005461ecd341c5756ed322dd3b23582792f5a18c6db02",
+    "sourceBytes": 84281,
+    "sourceSha256": "acaaa0365c559ae6d85bd163d1f9cb2e53a0a33555c595b7178ed10a5ba8eac9"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/energy_counter/layer_5.png": {
+    "bytes": 52606,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/energy_counter/layer_5.png.webp",
+    "sha256": "1eb44ebab35dc5b4c3e46a1821e096938209e82ce1e787ad6b67b85edb73c322",
+    "sourceBytes": 80484,
+    "sourceSha256": "10145026492b10811d82dc83b517f8b15c997724a301942951de789c7d518a29"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/events/stage_girl_notes.png": {
+    "bytes": 3210402,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/events/stage_girl_notes.png.webp",
+    "sha256": "563b5635dc3730853024a900c74e9ad8e140461522103f54129290fb80789fd1",
+    "sourceBytes": 4954946,
+    "sourceSha256": "7c43beb5b09daacd8fea8a74ee44cd597c2650b68497a5a47cee6f4bbe6565a3"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/arrow_rain_potion.png": {
+    "bytes": 33230,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/arrow_rain_potion.png.webp",
+    "sha256": "08ae4d27721acbe2e3e16ddb079c93ed39f617a20ce502f083f45b5fbd536f9a",
+    "sourceBytes": 50204,
+    "sourceSha256": "b44a10d24648df20d9d30c12694fac632c1ee2612e601eef6f1c0c6ba9e583a0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/arrow_rain_potion_outline.png": {
+    "bytes": 2740,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/arrow_rain_potion_outline.png.webp",
+    "sha256": "30d63154b6ef65688ad3602307a455ab8d7eda90258ac0c116febd87b5ec2c8d",
+    "sourceBytes": 5483,
+    "sourceSha256": "db874068072d74f6f6ff8fca9517a76a61738ee8f1f5581cf71d398218df9d1f"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/knowledge_potion.png": {
+    "bytes": 37632,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/knowledge_potion.png.webp",
+    "sha256": "38f3e7d360b5becae827ff9653d9014cb6d947e29b25697a2fbed977c61fbabe",
+    "sourceBytes": 58007,
+    "sourceSha256": "d93590eb26f44750a5c65e538b2cb2f837fd8e1ec6f0d5aeeeb7785cac115e17"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/knowledge_potion_outline.png": {
+    "bytes": 3156,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/knowledge_potion_outline.png.webp",
+    "sha256": "5bc5da78ca93887ec58232f2d1b8695e047a83b66e5e9e31cb3918bed72e0a36",
+    "sourceBytes": 6166,
+    "sourceSha256": "03c782f9d3357c00a5008b9f1618fa21a081f686a4971cf8b26ac3570bfb5732"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/sports_drink.png": {
+    "bytes": 40074,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/sports_drink.png.webp",
+    "sha256": "0ba75a2815b24a5b0df83bc7b77496cf5a57fbfb692f4daf68489f52b05da4af",
+    "sourceBytes": 58320,
+    "sourceSha256": "7da5c871b8e16d858953adbcf6ca6f660b83ce88a0471d902b2328b0bd699a26"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/potions/sports_drink_outline.png": {
+    "bytes": 2570,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/potions/sports_drink_outline.png.webp",
+    "sha256": "23eec0e37347eb8bdacd9a9b4f08e892b76e10b2b2e2e97c1f30d85da196f601",
+    "sourceBytes": 5159,
+    "sourceSha256": "d4edaceafdcfbcc51850ca06ba90d6bef20ae094d9ebc65b1519895f69ff8080"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/spike_tape.png": {
+    "bytes": 7018,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/spike_tape.png.webp",
+    "sha256": "e84d019fada4e42a2b979f8389700048bc15208c6ca6d9c20c7222eb16505bce",
+    "sourceBytes": 9370,
+    "sourceSha256": "87b21f04f9e6fd75557605275b6115f46297a6956ca7effea21eabef3e427f49"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/spike_tape_big.png": {
+    "bytes": 37856,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/spike_tape_big.png.webp",
+    "sha256": "f8ccc7ed12efcb8fc692b2fdd3eae52d0a17f41f8c03bad7fe3754de10927ff6",
+    "sourceBytes": 55313,
+    "sourceSha256": "4e74fd67d64340ba60f25c4b819353b70367540926be480d9e5fa148c44366c3"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/spike_tape_outline.png": {
+    "bytes": 1848,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/spike_tape_outline.png.webp",
+    "sha256": "b755a52dcb01a7433d3a7af0cf364c741068a75a813b17e8b62f85bfe1af5064",
+    "sourceBytes": 3146,
+    "sourceSha256": "486ec029980b9960197415fe765ce9a7efd339b5652b3c59e7825734a2bfa58b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna.png": {
+    "bytes": 9910,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna.png.webp",
+    "sha256": "de62d9e58180ef8eba5494e984a301ac130cf109c706a85f58d871f631a91345",
+    "sourceBytes": 14023,
+    "sourceSha256": "15dab2b6e66870790c60a26147360a2285281293ace80531ced5810b8685b9d0"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna_big.png": {
+    "bytes": 55064,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna_big.png.webp",
+    "sha256": "4cd3a320d92150feb30e1b269fcef7c063b35f34f4532be69629ab9a1e626e68",
+    "sourceBytes": 84332,
+    "sourceSha256": "90220c12bc5bbb6daf472f1dcc4ace16d6511b193cc0397363a6d8a53c78828b"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna_outline.png": {
+    "bytes": 968,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/relics/yummy_cookie_junna_outline.png.webp",
+    "sha256": "30feef38129788ec66bde845d1752e2f7099ebb6b9c59cc52ad5a12155e41242",
+    "sourceBytes": 1751,
+    "sourceSha256": "0d6031b0cd315c13a54dd727906c639dbff1411fac271141d24388c1c3ce05d4"
   },
   "assets/karen/images/packed/card_portraits/curse/karen_sleepy.png": {
     "bytes": 143922,

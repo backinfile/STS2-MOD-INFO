@@ -8,6 +8,27 @@
       "ref": "main",
       "adapter": "karen",
       "enabled": true
+    },
+    {
+      "id": "junna",
+      "name": "少女歌剧 · 星见纯那",
+      "repository": "backinfile/STS2_ShoujoKagekiJunna",
+      "ref": "main",
+      "adapter": "junna",
+      "supportSources": [
+        {
+          "id": "shine",
+          "repository": "backinfile/STS2_ShoujoKagekiCore",
+          "commit": "ebcdca71d0ba33c5ecca2518036c0ee69bcab965",
+          "paths": [
+            "resources/ShoujoKagekiCore/localization/zhs/card_keywords.json",
+            "resources/ShoujoKagekiCore/localization/zhs/gameplay_ui.json",
+            "src/Modules/Presentation/ShinePresentation.cs",
+            "src/Modules/Presentation/ShineHoverTipPatch.cs"
+          ]
+        }
+      ],
+      "enabled": true
     }
   ]
 }

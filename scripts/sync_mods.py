@@ -10,6 +10,7 @@ import os
 from pathlib import Path
 import re
 import shutil
+import subprocess
 import sys
 import tempfile
 import time
@@ -82,6 +83,27 @@ def fetch(url: str) -> bytes:
 
 def api(path: str):
     return json.loads(fetch(API + path))
+
+
+def local_snapshot(directory, repository):
+    """Read an explicitly supplied repository's committed HEAD, never its worktree."""
+    def git(*args):
+        return subprocess.check_output(['git', '-C', str(directory), *args])
+    origin = git('remote', 'get-url', 'origin').decode().strip().removesuffix('.git')
+    if origin not in ['https://github.com/' + repository, 'git@github.com:' + repository]:
+        raise ValueError('Local source origin differs from registered repository: ' + repository)
+    sha, date = git('show', '-s', '--format=%H%n%cI', 'HEAD').decode().strip().splitlines()
+    tree = []
+    for record in git('ls-tree', '-r', '-l', '-z', sha).split(b'\0'):
+        if not record:
+            continue
+        metadata, path = record.split(b'\t', 1)
+        mode, kind, blob, size = metadata.decode().split()
+        if kind == 'blob':
+            if mode == '120000':
+                raise ValueError('Symbolic links cannot be imported: ' + path.decode('utf-8'))
+            tree.append({'path': path.decode('utf-8'), 'type': kind, 'sha': blob, 'size': int(size)})
+    return {'sha': sha, 'commit': {'committer': {'date': date}}}, {'tree': tree}, lambda blob: git('cat-file', 'blob', blob)
 
 
 def slug(name: str) -> str:
@@ -163,7 +185,9 @@ def render_text(template: str, values: dict, upgraded: bool) -> tuple[str, list[
                 result += resolve(no)
             else:
                 key = expr.split(":", 1)[0]
-                if key in values and (":" not in expr or expr.split(":", 1)[1] in ("diff()", "energyIcons()")):
+                if literal_energy := re.fullmatch(r'energyPrefix:energyIcons\((\d+)\)', expr):
+                    result += '[energy]' * int(literal_energy[1])
+                elif key in values and (":" not in expr or expr.split(":", 1)[1] in ("diff()", "energyIcons()")):
                     value = values[key]
                     result += ("[energy]" * max(0, int(value))) if expr.endswith("energyIcons()") else fmt(value)
                 elif (choice := re.match(r"(\w+):choose\((-?\d+)\):([\s\S]*)", expr)) and choice[1] in values:
@@ -380,7 +404,9 @@ def build_snapshot(mod, commit, tree, blobs):
     return result
 
 
-ADAPTERS = {'karen': (build_karen, selected_paths), 'snapshot': (build_snapshot, snapshot_paths)}
+from junna_adapter import build_junna, junna_paths
+
+ADAPTERS = {'karen': (build_karen, selected_paths), 'junna': (build_junna, junna_paths), 'snapshot': (build_snapshot, snapshot_paths)}
 
 
 def check_catalog(catalog, file_exists):
@@ -409,7 +435,7 @@ def check_catalog(catalog, file_exists):
                 raise ValueError('Missing character field: ' + key)
 
 
-def synchronize(force=False, pinned=False):
+def synchronize(force=False, pinned=False, local_sources=None):
     config = json.loads((ROOT / "data/mods.json").read_text(encoding="utf-8"))
     previous = json.loads((ROOT / "data/catalog.json").read_text(encoding="utf-8")) if (ROOT / "data/catalog.json").exists() else {"mods": []}
     old_mods = {m["id"]: m for m in previous["mods"]}
@@ -430,8 +456,9 @@ def synchronize(force=False, pinned=False):
                 raise ValueError("Unsupported adapter " + mod["adapter"])
             repo = mod["repository"]
             old = old_mods.get(mod["id"])
-            commit = {'sha': old['commit'], 'commit': {'committer': {'date': old['upstreamUpdatedAt']}}} if pinned and old else api(f"/repos/{repo}/commits/{urllib.parse.quote(mod['ref'], safe='')}")
-            adapter_hash = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
+            local = local_snapshot(local_sources[mod['id']], repo) if local_sources and mod['id'] in local_sources else None
+            commit = local[0] if local else {'sha': old['commit'], 'commit': {'committer': {'date': old['upstreamUpdatedAt']}}} if pinned and old else api(f"/repos/{repo}/commits/{urllib.parse.quote(mod['ref'], safe='')}")
+            adapter_hash = hashlib.sha256(Path(__file__).read_bytes() + Path(__file__).with_name('junna_adapter.py').read_bytes()).hexdigest()
             if not force and old and old.get('adapterHash') == adapter_hash and old["commit"] == commit["sha"] and all(old.get(k) == mod.get(k) for k in mod):
                 print(f"{mod['id']}: unchanged at {commit['sha'][:8]}", flush=True)
                 mods.append(old)
@@ -441,11 +468,11 @@ def synchronize(force=False, pinned=False):
             tree_cache = ROOT / '.sync-staging' / f"{mod['id']}-tree.json"
             legacy_cache = ROOT / '.sync-staging/mod-tree.json'
             saved = json.loads((tree_cache if tree_cache.exists() else legacy_cache).read_text(encoding='utf-8-sig')) if tree_cache.exists() or legacy_cache.exists() else {}
-            listing = saved if saved.get('commit') == commit['sha'] and (saved.get('repository', repo) == repo) else api(f"/repos/{repo}/git/trees/{commit['sha']}?recursive=1")
+            listing = local[1] if local else saved if saved.get('commit') == commit['sha'] and (saved.get('repository', repo) == repo) else api(f"/repos/{repo}/git/trees/{commit['sha']}?recursive=1")
             if listing.get("truncated"):
                 raise ValueError("GitHub returned a truncated tree")
             tree = {item["path"]: item for item in listing["tree"] if item["type"] == "blob"}
-            tree_cache.write_text(json.dumps({'repository': repo, 'commit': commit['sha'], 'tree': listing['tree']}), encoding='utf-8')
+            tree_cache.write_text(json.dumps({'repository': repo, 'commit': commit['sha'], 'tree': listing['tree']}), encoding='utf-8', newline='\n')
             builder, selector = ADAPTERS[mod['adapter']]
             paths = selector(tree, mod) if mod['adapter'] == 'snapshot' else selector(tree)
             print(f"Downloading/verifying {len(paths)} source and asset files", flush=True)
@@ -458,11 +485,13 @@ def synchronize(force=False, pinned=False):
                 old_record = old_manifest.get(mod["id"], {}).get(path, {})
                 local_path = ROOT / dest
                 cache = CACHE / tree[path]["sha"]
-                is_asset = path.lower().endswith((".png", ".jpg", ".webp"))
+                is_asset = path.lower().endswith((".png", ".jpg", ".webp", ".svg"))
                 if is_asset and old_record.get("gitBlob") == tree[path]["sha"] and local_path.exists():
                     data = local_path.read_bytes()
                 elif cache.exists():
                     data = cache.read_bytes()
+                elif local:
+                    data = local[2](tree[path]['sha'])
                 else:
                     data = fetch(f"https://raw.githubusercontent.com/{repo}/{commit['sha']}/{urllib.parse.quote(path)}")
                 git_blob = hashlib.sha1(b"blob " + str(len(data)).encode() + b"\0" + data).hexdigest()
@@ -480,14 +509,29 @@ def synchronize(force=False, pinned=False):
 
             with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
                 blobs = dict(executor.map(download, paths))
+            for support in mod.get('supportSources', []):
+                if not re.fullmatch(r'[a-z0-9-]+', support['id']) or not re.fullmatch(r'[\w.-]+/[\w.-]+', support['repository']) or not re.fullmatch(r'[0-9a-f]{40}', support['commit']):
+                    raise ValueError('Invalid public support snapshot')
+                for path in support['paths']:
+                    if '..' in Path(path).parts or Path(path).is_absolute() or not path.endswith(('.json', '.cs')):
+                        raise ValueError('Unsafe public support source path')
+                    url = f"https://raw.githubusercontent.com/{support['repository']}/{support['commit']}/{urllib.parse.quote(path)}"
+                    cache = CACHE / ('support-' + hashlib.sha256(url.encode()).hexdigest())
+                    data = cache.read_bytes() if cache.exists() else fetch(url)
+                    cache.write_bytes(data)
+                    key = 'upstream/' + support['id'] + '/' + path
+                    blobs[key] = data
+                    manifest[key] = {'repository': support['repository'], 'commit': support['commit'], 'sourcePath': path,
+                                     'gitBlob': hashlib.sha1(b'blob ' + str(len(data)).encode() + b'\0' + data).hexdigest(),
+                                     'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data)}
             parsed = builder(mod, commit, tree, blobs)
             parsed['adapterHash'] = adapter_hash
             mods.append(parsed)
             manifests[mod["id"]] = manifest
             source_dir = staging / "data" / mod["id"] / "source"
             source_dir.mkdir(parents=True, exist_ok=True)
-            (source_dir / "localization.json").write_text(json.dumps({p: json.loads(b.decode("utf-8-sig")) for p, b in blobs.items() if p.endswith(".json")}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-            (source_dir / "models.json").write_text(json.dumps({p: b.decode("utf-8-sig") for p, b in blobs.items() if p.endswith(".cs")}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            (source_dir / "localization.json").write_text(json.dumps({p: json.loads(b.decode("utf-8-sig")) for p, b in blobs.items() if p.endswith(".json")}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
+            (source_dir / "models.json").write_text(json.dumps({p: b.decode("utf-8-sig") for p, b in blobs.items() if p.endswith(".cs")}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
             print(f"{mod['id']}: {len(parsed['cards'])} cards, {len(parsed['relics'])} relics, {len(parsed['potions'])} potions", flush=True)
         catalog = {"schemaVersion": 1, "mods": mods}
         check_catalog(catalog, lambda p: (staging / p).is_file() or (ROOT / p).is_file())
@@ -498,7 +542,7 @@ def synchronize(force=False, pinned=False):
         for name, content in outputs.items():
             target = staging / name
             target.parent.mkdir(parents=True, exist_ok=True)
-            target.write_text(content, encoding="utf-8")
+            target.write_text(content, encoding="utf-8", newline="\n")
         # No live data is touched until the complete fixed-commit import validates.
         # CI commits only after this process and the separate integrity check succeed.
         for path in staging.rglob("*"):
@@ -513,9 +557,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--force", action="store_true", help="Rebuild the pinned snapshot even when the upstream SHA has not changed")
     parser.add_argument('--pinned', action='store_true', help='Rebuild the existing fixed commit without advancing upstream')
+    parser.add_argument('--local-source', action='append', default=[], metavar='MOD_ID=PATH', help='Import the committed HEAD of an explicitly supplied local source')
     args = parser.parse_args()
     try:
-        synchronize(args.force, args.pinned)
+        synchronize(args.force, args.pinned, dict(value.split('=', 1) for value in args.local_source))
     except Exception as error:
         print(f"Sync failed: {error}", file=sys.stderr)
         sys.exit(1)

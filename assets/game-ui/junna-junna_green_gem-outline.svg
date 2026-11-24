@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs><filter id="native-modulation" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.66 0" /></filter></defs><g filter="url(#native-modulation)"><g transform="translate(-22.1 -10.2) scale(1.4)">
+  <path d="M48 14 72 13 90 26 99 48 94 70 79 88 64 93 50 92 36 82 24 61 28 37Z" fill="white" stroke="white" stroke-width="9" stroke-linejoin="round" />
+  </g>
+</g></svg>

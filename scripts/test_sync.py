@@ -69,7 +69,7 @@ class ParserTests(unittest.TestCase):
             root = Path(directory)
             (root / 'data').mkdir()
             config = {'id': 'karen', 'repository': 'owner/repo', 'ref': 'main', 'adapter': 'karen', 'enabled': True}
-            current = {**config, 'adapterHash': hashlib.sha256(Path(sync.__file__).read_bytes()).hexdigest(), 'commit': 'a' * 40, 'cards': [], 'relics': [], 'potions': [], 'events': [], 'character': {'image': 'example.png', 'name':'example', 'hp':10, 'gold':0, 'startingDeck':[], 'startingRelics':[]}}
+            current = {**config, 'adapterHash': hashlib.sha256(Path(sync.__file__).read_bytes() + Path(sync.__file__).with_name('junna_adapter.py').read_bytes()).hexdigest(), 'commit': 'a' * 40, 'cards': [], 'relics': [], 'potions': [], 'events': [], 'character': {'image': 'example.png', 'name':'example', 'hp':10, 'gold':0, 'startingDeck':[], 'startingRelics':[]}}
             (root / 'example.png').write_bytes(b'example')
             (root / 'data/mods.json').write_text(json.dumps({'mods': [config]}))
             (root / 'data/catalog.json').write_text(json.dumps({'mods': [current]}))

@@ -3,10 +3,11 @@
 ## 项目定位
 
 - 本项目是独立的《杀戮尖塔 2》Mod 信息展示网页，支持多个 Mod。
-- 当前只接入公开仓库 https://github.com/backinfile/STS2_ShoujoKagekiAijoKaren。
+- 当前接入公开仓库 https://github.com/backinfile/STS2_ShoujoKagekiAijoKaren 与 https://github.com/backinfile/STS2_ShoujoKagekiJunna。
 - 网页使用 HTML、CSS、JavaScript 与仓库内的静态数据和素材。不连接业务服务器、数据库、游戏进程或本地其他项目。
 - 不读取或引用本机其他仓库、游戏安装目录、共享 DLL、绝对资源路径、符号链接或本地服务作为运行或构建依赖。
 - 必要的公开上游资源由本项目自己的导入脚本获取并保存快照，记录仓库、固定提交、源路径与文件哈希。浏览网页不需要访问 GitHub。
+- 用户明确指定的本地 Mod 仓库可通过 `--local-source MOD_ID=PATH` 导入已提交的 HEAD；核对 origin 并生成本项目自己的快照，不将本地路径写入注册表或发布文件。自动更新仍读取 GitHub。
 
 ## 数据与自动更新
 
@@ -21,6 +22,7 @@
 - Token 卡池、Token 稀有度与战斗中生成的运行时标记不是同一概念。静态图鉴不得根据 Token 身份自动添加“衍生牌”战斗提示或标签；只导入对应场景下源码实际声明的内容。
 - 所有导入内容必须有来源。无法可靠推导的战斗动态值明确标识，不能编造卡牌数值、事件或升级效果。
 - 卡池以 `GenerateAllCards` 中实际启用的条目为准；注释掉的条目不得算作可获得卡牌。衍生牌、选项牌与临时移除的卡牌应区别处理。
+- 纯那以嵌入运行时的 `data/card-pool.json` 为准，核对 C# 模型 ID；`pool:false` 的关联牌仍属于有效图鉴条目，`retiredCards` 不混入当前卡牌。提示关联来自 `card-rules.json`、知识组及源码声明。飞矢使用 `ArrowCardPresentation` 的素材、几何、稀有度材质和回合数。
 
 ## 界面
 

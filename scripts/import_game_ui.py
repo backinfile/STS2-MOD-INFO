@@ -13,11 +13,12 @@ import shutil
 import sys
 import tempfile
 import urllib.parse
+import xml.etree.ElementTree as ET
 
 from sync_mods import ROOT, CACHE, api, fetch, numbers, render_text
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / '.sync-staging/python'))
-from PIL import Image
+from PIL import Image, ImageDraw, ImageChops, ImageOps
 from fontTools import subset
 from fontTools.ttLib import TTFont
 from fontTools.pens.t2CharStringPen import T2CharStringPen
@@ -63,6 +64,73 @@ def tint(image, params):
 
 def modulate(image, color):
     return Image.merge('RGBA', tuple(channel.point(lambda value, factor=factor: round(value * factor)) for channel, factor in zip(image.convert('RGBA').split(), color)))
+
+
+def modulate_svg(source, color):
+    """Preserve native SVG geometry and apply Godot's per-channel modulation."""
+    ns = 'http://www.w3.org/2000/svg'
+    ET.register_namespace('', ns)
+    root = ET.fromstring(source)
+    children = list(root)
+    for child in children:
+        root.remove(child)
+    defs = ET.SubElement(root, '{' + ns + '}defs')
+    effect = ET.SubElement(defs, '{' + ns + '}filter', {'id': 'native-modulation', 'color-interpolation-filters': 'sRGB'})
+    matrix = [color[row] if column == row else 0 for row in range(4) for column in range(5)]
+    ET.SubElement(effect, '{' + ns + '}feColorMatrix', {'type': 'matrix', 'values': ' '.join(map(str, matrix))})
+    group = ET.SubElement(root, '{' + ns + '}g', {'filter': 'url(#native-modulation)'})
+    group.extend(children)
+    return ET.tostring(root, encoding='utf-8', xml_declaration=True)
+
+
+def arrow_assets(native, config, entry, frame, save):
+    source = native.text(config['arrowPresentationSource'])
+    def vector(name):
+        values = re.search(r'\b' + name + r'\s*=\s*new\(([^)]+)\)', source)[1]
+        return [float(value.strip().removesuffix('f')) for value in values.split(',')]
+    def polygon(name):
+        body = re.search(r'\b' + name + r'\s*=\s*\[([\s\S]*?)\]', source)[1]
+        return [tuple(float(v.strip().removesuffix('f')) for v in pair.split(',')) for pair in re.findall(r'new\(([^)]+)\)', body)]
+    sprite_size = tuple(map(int, vector('SpriteSize')))
+    position, size = vector('WindowPosition'), vector('WindowSize')
+    border = native.texture(config['arrowFrameSource'])
+    if border.size != sprite_size:
+        raise ValueError('Arrow frame differs from its scene geometry')
+    prefix = entry['id'] + '-arrow-'
+    rarity_rows = re.findall(r'dot\(c, vec3\(([^)]+)\)\)\s*([+-])\s*([.\d]+)', source)
+    if len(rarity_rows) != 6:
+        raise ValueError('Unsupported arrow rarity shader')
+    for index, rarity in enumerate(['common', 'uncommon', 'rare']):
+        tinted = border
+        if index:
+            rows = rarity_rows[(index-1)*3:index*3]
+            matrix = tuple(value for coefficients, sign, offset in rows for value in
+                           [*[float(v) for v in coefficients.split(',')], float(sign+offset)*255])
+            tinted = border.convert('RGB').convert('RGB', matrix).convert('RGBA')
+            tinted.putalpha(border.getchannel('A'))
+        save(prefix + rarity + '.png', tinted)
+    mask = Image.new('L', sprite_size)
+    ImageDraw.Draw(mask).polygon(polygon('Badge'), fill=255)
+    badge = border.copy()
+    badge.putalpha(ImageChops.multiply(border.getchannel('A'), mask))
+    save(prefix + 'ancient-badge.png', badge)
+    portrait_mask = Image.new('L', (sprite_size[0]*2, sprite_size[1]*2))
+    ImageDraw.Draw(portrait_mask).polygon([(x*2,y*2) for x,y in polygon('Aperture')], fill=255)
+    portrait_mask = portrait_mask.resize(sprite_size, Image.Resampling.LANCZOS)
+    portraits = {}
+    for item in entry['cards']:
+        if item['type'] != 'Arrow' or item['rarity'] == 'Ancient':
+            continue
+        image = native.texture(item['image'].removeprefix('assets/' + entry['id'] + '/'))
+        image = ImageOps.fit(image, sprite_size, Image.Resampling.LANCZOS)
+        image.putalpha(ImageChops.multiply(image.getchannel('A'), portrait_mask))
+        name = prefix + item['id'].lower() + '.png'
+        save(name, image)
+        portraits[item['id']] = 'assets/game-ui/' + name
+    region = re.search(r'Region = new Rect2\(([^)]+)\)', source)[1]
+    x, y, w, h = map(int, region.split(','))
+    save(prefix + 'backdrop.png', frame.crop((x,y,x+w,y+h)))
+    return {'framePrefix': 'assets/game-ui/' + prefix, 'position': position, 'size': size, 'portraits': portraits}
 
 
 def apply_font_variation(font, scale, baseline_offset):
@@ -279,7 +347,7 @@ def build(force=False):
             native = NativeSource(entry['repository'], entry['commit'], cached_tree=entry['id'] + '-tree.json')
             config = entry.get('rendering', {})
             prefix = entry['id'] + '-'
-            params = native.parameters(config['frameMaterialSource']) if config.get('frameMaterialSource') else game.parameters('materials/cards/frames/card_frame_colorless_mat.tres')
+            params = native.parameters(config['frameMaterialSource']) if config.get('frameMaterialSource') else config.get('frameHsv') or game.parameters('materials/cards/frames/card_frame_colorless_mat.tres')
             for kind in ['attack', 'skill', 'power']:
                 save(prefix + 'frame-' + kind + '.png', tint(game.texture(f'images/atlases/ui_atlas.sprites/card/card_frame_{kind}_s.tres'), params))
             for key, output in [('energySource', 'energy'), ('inlineEnergySource', 'inline-energy')]:
@@ -289,14 +357,30 @@ def build(force=False):
             for category in outlines:
                 for item in entry[category]:
                     if item.get('outline'):
-                        name = prefix + item['id'].lower() + '-outline.png'
-                        save(name, modulate(native.texture(item['outline'].removeprefix('assets/' + entry['id'] + '/')), config.get('outlineColors', {}).get(category, [1, 1, 1, .66])))
+                        source_path = item['outline'].removeprefix('assets/' + entry['id'] + '/')
+                        color = config.get('outlineColors', {}).get(category, [1, 1, 1, .66])
+                        name = prefix + item['id'].lower() + '-outline' + ('.svg' if source_path.endswith('.svg') else '.png')
+                        if source_path.endswith('.svg'):
+                            data = modulate_svg(native.read(source_path), color)
+                            (stage / name).write_bytes(data)
+                            outputs['assets/game-ui/' + name] = {'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data)}
+                        else:
+                            save(name, modulate(native.texture(source_path), color))
                         outlines[category][item['id']] = {'outline': 'assets/game-ui/' + name}
             gameplay = json.loads(native.text(config['gameplayPath'])) if config.get('gameplayPath') else {}
             mod_ui[entry['id']] = {'id': entry['id'], 'framePrefix': 'assets/game-ui/' + prefix + 'frame-', 'energy': 'assets/game-ui/' + prefix + 'energy.png', 'inlineEnergy': 'assets/game-ui/' + prefix + 'inline-energy.png', 'gameplay': gameplay, 'shineLabel': gameplay.get(config.get('shineLabelKey'), ''), 'shineSuffix': gameplay.get(config.get('shineSuffixKey'), ''), 'artifactUi': outlines}
+            for key in ['shineLabel', 'shineSuffix']:
+                if key in config:
+                    mod_ui[entry['id']][key] = config[key]
+            if config.get('energyOutlineColor'):
+                mod_ui[entry['id']]['energyOutlineColor'] = config['energyOutlineColor']
+            if config.get('arrowPresentationSource'):
+                mod_ui[entry['id']]['typeNames'] = {'Arrow': gameplay['JUNNA.CARD_TYPE.ARROW']}
+                mod_ui[entry['id']]['arrow'] = arrow_assets(native, config, entry,
+                    tint(game.texture('images/atlases/ui_atlas.sprites/card/card_frame_skill_s.tres'), params), save)
             mod_sources[entry['id']] = native.records
         # Keep only dictionary entries actually referenced by the static reader.
-        references = [ref for entry in catalog['mods'] for category in ['cards', 'relics', 'potions'] for item in entry[category] for ref in item.get('tipRefs', [])]
+        references = [ref for entry in catalog['mods'] for category in ['cards', 'relics', 'potions'] for item in entry[category] for ref in [*item.get('tipRefs', []), *item.get('upgradedTipRefs', [])]]
         for dictionary, kind in [('powers', 'power'), ('potions', 'potion')]:
             keys = {ref.get('key', ref.get('id')) for ref in references if ref['kind'] == kind}
             localization[dictionary] = {key: value for key, value in localization.get(dictionary, {}).items() if key.split('.')[0] in keys}
@@ -344,9 +428,9 @@ def build(force=False):
         ASSETS.mkdir(parents=True, exist_ok=True)
         for path in stage.iterdir():
             shutil.copyfile(path, ASSETS / path.name)
-        SOURCES.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        SOURCES.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\n')
         runtime = {'localization': localization, 'modGameplay': manifest['modGameplay'], 'artifactUi': artifact_ui, 'mods': mod_ui, 'cardLibrary': library_metrics}
-        (ROOT / 'data/game-ui.js').write_text('window.GAME_UI = ' + json.dumps(runtime, ensure_ascii=False) + ';\n', encoding='utf-8')
+        (ROOT / 'data/game-ui.js').write_text('window.GAME_UI = ' + json.dumps(runtime, ensure_ascii=False) + ';\n', encoding='utf-8', newline='\n')
         print(f'Native UI: {len(outputs)} textures/fonts, {len(game.records)} game source files, {len(mod.records)} Mod source files verified.')
 
 

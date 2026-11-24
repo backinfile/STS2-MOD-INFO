@@ -58,7 +58,7 @@
 
 遗物底座是另一层 `Popup/RelicFrame/FrameBg`：原场景未指定 `stretch_mode`，使用默认 STRETCH_SCALE，将调色后的 reward panel 填充到居中的 300×300 区域；装饰框为 304×304，四边相差 2px。不能给整个遗物容器内的图片统一设置 `object-fit:contain`，否则竖版底座会缩窄，无法衬满装饰框。只有 `RelicImage` 按原场景的 KEEP_ASPECT_CENTERED 等比显示。
 
-卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。当前 116 张定义中，角色池 87、CurseCardPool 2、TokenCardPool 25，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
+卡牌注册不仅来自角色池，还解析 Mod 的 `CardPoolPatches.cs`。华恋当前 113 张定义中，角色池 87、CurseCardPool 1、TokenCardPool 23，另有 2 张暂未注册。Token 的默认外观来自原生无色池；3 张牌按 Mod 的 VisualCardPool 覆盖保留角色外观。不能把源码的 neutral 目录误判为 ColorlessCardPool。按原生图鉴分类，诅咒和衍生属于“其他”，独立 ColorlessCardPool 与状态牌目前为空。
 
 `TokenCardPool` 与 `CardRarity.Token` 是模型数据；网页的独立“衍生牌”卡池筛选是为了展开这些数据的导航，不等同于本体的图鉴筛选布局。Mod 的 `NCardDerivedLabelPatch.GeneratedInCombat` 只在战斗生成钩子中设置，`CardHoverTipsPatch` 据此添加 `KAREN_TOKEN_CARD` 提示。静态图鉴使用规范卡牌定义，不把 Token 卡池身份当作这个运行时标记，也不补战斗生成标签或提示。
 
@@ -66,7 +66,7 @@
 
 费用筛选参考 `card_cost_tickbox.tscn` 与 `NCardCostTickbox.cs`：底图、轮廓和数字共用方形图块，网页数量独立排在下面。保留原始轮廓灰阶与透明度，通过 sRGB 色彩矩阵应用原场景的金色调制；底图沿用蓝色调制和未选中 / 选中 / 聚焦的亮度。金色轮廓标记选中状态，键盘焦点使用图块的提亮与 1.2 缩放，数量保持独立。
 
-角色展示 Mod 的插画、原始说明、72 初始生命、99 金币、初始遗物与牌组。当前上游没有独立事件模型，保留简短空状态，不编造事件内容。
+角色展示各 Mod 的插画、原始说明、初始生命、金币、遗物与牌组。华恋没有独立事件模型；纯那导入“舞台少女心得”，其 `IsAllowed => false` 保留为未启用状态。
 
 ## 已知差异与验证范围
 
@@ -79,3 +79,15 @@
 ## 自动更新
 
 每 6 小时检查 `data/mods.json` 的 GitHub 上游提交；变更后锁定同一提交，更新数据、素材和字体子集，完整验证成功才提交。浏览器读取本地静态快照。失败不发布部分结果；GitHub Actions 启用与可选 Pages 配置见 README。
+
+## 纯那
+
+纯那使用嵌入游戏的 `data/card-pool.json`，与 C# `CustomID` / partial 声明核对。只展示当前97张卡，退役定义保留在来源快照；`pool:false` 控制奖励获取，并不移除关联牌的图鉴条目。卡池所有权、Token 稀有度与战斗生成标记分别保留。
+
+飞矢遵循 [ArrowCardPresentation.cs](https://github.com/backinfile/STS2_ShoujoKagekiJunna/blob/6822de8b18528ba41132d713335caae333ce418e/src/UI/Arrows/ArrowCardPresentation.cs)：1456×1080 原始框，300×422 卡面中位于 (-158.4,-184.414)、尺寸318×243.494；插画按原始多边形与居中 cover UV 裁切。普通、罕见、稀有分别使用源码矩阵，先古飞矢只叠加下方徽记。隐藏原生矩形插画边框和类型牌匾，采用 Mod 的回合数、飞矢标签和说明位置。
+
+角色框的 ShaderColor `65B3E8` 按 [BaseLib 的 HSV 映射](https://github.com/Alchyr/BaseLib-StS2/blob/c070755d11ec062f6c97c4dda1a205d975ed066a/Abstracts/CustomCardPoolModel.cs) 转换，并使用本体 YIQ shader 烘焙；费用使用纯那能量图与 `173C2F` 描边。宝石直接使用 Mod SVG，收藏轮廓按 Godot RGBA 调制保留矢量几何。
+
+知识组采用源码的反向关联初始化；基础／升级提示分别读取规则，流星关联预览使用调用者明确传入的伤害。闪耀属性来自 C# `ShineCard` 声明，标签与提示来自注册表固定提交的公开 Core 快照。`学无止境` 保留无限升级及每次增加1能量的规则。
+
+本次按源码和本地浏览器核对飞矢、遗物、药水及切换交互；尚无同一版本纯那游戏截图的逐项对照记录。角色选择插画使用 Mod 的静态合成图，事件沿用本站事件布局。

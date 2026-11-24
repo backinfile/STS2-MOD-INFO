@@ -74,8 +74,16 @@ jobs:
         run: python scripts/package_site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: pages_artifact
         with:
           path: dist
       - name: Publish updated snapshot
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/github-script@v8
+        env:
+          PAGES_ARTIFACT_ID: ${{ steps.pages_artifact.outputs.artifact_id }}
+        with:
+          script: |
+            await require('./scripts/deploy_pages.cjs')({
+              github, context, core, artifactId: process.env.PAGES_ARTIFACT_ID
+            });

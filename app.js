@@ -67,14 +67,15 @@
     for (const keyword of (upgraded ? item.upgradedKeywords : item.keywords) || []) {
       const tip = lookup(window.GAME_UI.localization.card_keywords,keyword.replace(/([a-z])([A-Z])/g,'$1_$2').toUpperCase()); if (tip) tips.push(tip);
     }
-    for (const ref of item.tipRefs || []) {
+    for (const ref of (upgraded && item.upgradedTipRefs ? item.upgradedTipRefs : item.tipRefs) || []) {
       if(ref.ifKeyword&&!((upgraded?item.upgradedKeywords:item.keywords)||[]).includes(ref.ifKeyword))continue;
       let tip;
       if (ref.kind === 'mod') tip = lookup(mod().keywords,ref.key);
       if (ref.kind === 'static') tip = lookup(window.GAME_UI.localization.static_hover_tips,ref.key);
+      if (ref.kind === 'keyword') tip = lookup(window.GAME_UI.localization.card_keywords,ref.key);
       if (ref.kind === 'power') tip = lookup(mod().powers,ref.key) || lookup(window.GAME_UI.localization.powers,ref.key);
       if (ref.kind === 'text') tip = ref;
-      if (ref.kind === 'card') { const target = mod().cards.find(card => card.id === ref.id); if (target) tip = {name:target.name,card:target,upgraded:ref.upgraded === 'match' ? upgraded : ref.upgraded}; }
+      if (ref.kind === 'card') { const target = mod().cards.find(card => card.id === ref.id); if (target) tip = {name:target.name,card:ref.description ? {...target,description:ref.description} : target,upgraded:ref.upgraded === 'match' ? upgraded : ref.upgraded}; }
       if (ref.kind === 'potion') tip = mod().potions.find(potion => potion.id === ref.id) || lookup(window.GAME_UI.localization.potions,ref.id);
       if (tip) tips.push(tip);
     }
@@ -149,7 +150,7 @@
   }
   function renderFilters() {
     const pools = [{key:state.mod,name:mod().character.name,image:mod().character.icon},{key:'colorless',name:'无色',image:'assets/game-ui/energy-colorless.png'},{key:'ancient',name:'先古',image:'assets/game-ui/pool-ancient.png'},{key:'curse',name:'诅咒'},{key:'status',name:'状态'},{key:'token',name:'衍生牌'}];
-    const types = [...new Set([...Object.keys(typeNames),...mod().cards.map(item=>item.type)])].map(key => ({key,name:typeNames[key] || key,image:`assets/game-ui/type-sort-${{Attack:'attack',Skill:'skill',Power:'power'}[key] || 'other'}.png`}));
+    const types = [...new Set([...Object.keys(typeNames),...mod().cards.map(item=>item.type)])].map(key => ({key,name:ui().typeNames?.[key] || typeNames[key] || key,image:`assets/game-ui/type-sort-${{Attack:'attack',Skill:'skill',Power:'power'}[key] || 'other'}.png`}));
     $('.pool-filters').innerHTML = facetButtons('pool',pools,poolMatches);
     $('.type-filters').innerHTML = facetButtons('type',types.filter(entry=>entry.key!=='Quest'||mod().cards.some(item=>item.type==='Quest')),(item,key)=>item.type===key);
     $('.cost-filters').innerHTML = facetButtons('cost',['0','1','2','3+','X'].map(key=>({key,name:key})),costMatches);
@@ -179,7 +180,7 @@
     }
     if(category==='events') {
       const items=mod().events;
-      $('#results').innerHTML=items.length?items.map(item=>`<article class="native-event"><img src="${asset(item.image)}" alt="" loading="lazy"><h2>${escape(item.name)}</h2><p>${rich(item.description,ui())}</p>${(item.options||[]).map(option=>`<section class="native-tip"><h3>${rich(option.name||option.text,ui())}</h3>${option.description?`<p>${rich(option.description,ui())}</p>`:''}</section>`).join('')}</article>`).join(''):'<div class="empty-state">暂无事件</div>';
+      $('#results').innerHTML=items.length?items.map(item=>`<article class="native-event"><img src="${asset(item.image)}" alt="" loading="lazy"><h2>${escape(item.name)}</h2>${item.isAvailable===false?'<span class="event-status">未启用</span>':''}<p>${rich(item.description,ui())}</p>${(item.options||[]).map(option=>`<section class="native-tip"><h3>${rich(option.name||option.text,ui())}</h3>${option.description?`<p>${rich(option.description,ui())}</p>`:''}</section>`).join('')}</article>`).join(''):'<div class="empty-state">暂无事件</div>';
       $('#result-count').textContent=String(items.length); $('#reset-filters').hidden=true; return;
     }
     const isCards=category==='cards', items=mod()[category].filter(item=>isCards?matches(item):searchText(item).includes(state.query.trim().toLowerCase()));

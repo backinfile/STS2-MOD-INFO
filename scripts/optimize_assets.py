@@ -35,8 +35,8 @@ def optimize():
 
     with ThreadPoolExecutor(max_workers=4) as executor:
         records = dict(executor.map(compile_image, images))
-    manifest_path.write_text(json.dumps(records, ensure_ascii=False, indent=2, sort_keys=True) + '\n', encoding='utf-8')
-    (ROOT / 'data/web-assets.js').write_text('window.WEB_ASSETS = ' + json.dumps({key: value['path'] for key, value in records.items()}, ensure_ascii=False) + ';\n', encoding='utf-8')
+    manifest_path.write_text(json.dumps(records, ensure_ascii=False, indent=2, sort_keys=True) + '\n', encoding='utf-8', newline='\n')
+    (ROOT / 'data/web-assets.js').write_text('window.WEB_ASSETS = ' + json.dumps({key: value['path'] for key, value in records.items()}, ensure_ascii=False) + ';\n', encoding='utf-8', newline='\n')
     before, after = sum(r['sourceBytes'] for r in records.values()), sum(r['bytes'] for r in records.values())
     print(f'{len(records)} lossless browser images: {before:,} -> {after:,} bytes ({100 * (1 - after / before):.1f}% saved).')
 

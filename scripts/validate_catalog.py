@@ -24,13 +24,13 @@ def validate():
                     assert isinstance(item["cost"], int) or item["cost"] == "X", item["id"]
                     assert "{" not in item["description"], item["id"]
                     assert 'maxUpgradeLevel' in item, 'Missing upgrade limit: ' + item['id']
-                for ref in item.get('tipRefs', []):
+                for ref in [*item.get('tipRefs', []), *item.get('upgradedTipRefs', [])]:
                     if ref['kind'] == 'mod':
                         assert ref['key'] + '.description' in mod['keywords'], 'Missing Mod tip: ' + ref['key']
                     if ref['kind'] == 'card':
                         assert any(card['id'] == ref['id'] for card in mod['cards']), 'Missing related card: ' + ref['id']
         for path, record in provenance[mod["id"]].items():
-            if not path.lower().endswith((".png", ".jpg", ".webp")):
+            if not path.lower().endswith((".png", ".jpg", ".webp", ".svg")):
                 continue
             image = ROOT / "assets" / mod["id"] / path
             data = image.read_bytes()
@@ -48,9 +48,9 @@ def validate():
         assert mod['id'] in ui['mods'], 'Missing per-Mod rendering assets'
         for category in ['cards', 'relics', 'potions']:
             for item in mod[category]:
-                for ref in item.get('tipRefs', []):
-                    if ref['kind'] in ['power', 'potion', 'static']:
-                        dictionary = {'power': 'powers', 'potion': 'potions', 'static': 'static_hover_tips'}[ref['kind']]
+                for ref in [*item.get('tipRefs', []), *item.get('upgradedTipRefs', [])]:
+                    if ref['kind'] in ['power', 'potion', 'static', 'keyword']:
+                        dictionary = {'power': 'powers', 'potion': 'potions', 'static': 'static_hover_tips', 'keyword': 'card_keywords'}[ref['kind']]
                         key = ref.get('key', ref.get('id')) + '.description'
                         assert key in ui['localization'].get(dictionary, {}) or key in mod.get('powers', {}) or any(p['id'] == ref.get('id') for p in mod['potions']), 'Unresolved hover tip: ' + str(ref)
     for path, record in ui["outputs"].items():
