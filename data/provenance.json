@@ -15,16 +15,6 @@
       "gitBlob": "a0df709e6fa1d0f6481782c7684706f669b29131",
       "sha256": "d239873992c46588d60c549f8a1bbe0470bc3ff3cbbdf2d6bab98879aaaf851f"
     },
-    "ShoujoKagekiJunna/images/cards/JA04.jpg": {
-      "bytes": 48821,
-      "gitBlob": "51fb341a8cc16055f31cb089338ec3997f73bbf5",
-      "sha256": "49256cb9835cd6e9aec0ceefa30c3ac0052e7f00c372da698e76aea3ffeeedf9"
-    },
-    "ShoujoKagekiJunna/images/cards/JA104.jpg": {
-      "bytes": 51354,
-      "gitBlob": "e042440f65321c0e22377e7d3af305191d363e1a",
-      "sha256": "455369951df7c104127fae0779a85572dd4fe41031dc14dff87f99da369d7368"
-    },
     "ShoujoKagekiJunna/images/cards/JA105.jpg": {
       "bytes": 41580,
       "gitBlob": "af9f894e642d37550d8a835ecdd6079b1e2e7330",
@@ -39,11 +29,6 @@
       "bytes": 51742,
       "gitBlob": "fc63f1db994ebc13779be610190fe230e8dee4e4",
       "sha256": "bc02460f217a131a25965a9c2f98c3352c92acfee80d7cadc36df7d4d0576831"
-    },
-    "ShoujoKagekiJunna/images/cards/JA118.jpg": {
-      "bytes": 42429,
-      "gitBlob": "91af9dd35d90d00ea5d117d9206e89fabfa3a5f1",
-      "sha256": "87ca872de8319178a1a584131cfd0466d21080439ae030d8599a5374c9a99571"
     },
     "ShoujoKagekiJunna/images/cards/JA118.png": {
       "bytes": 404295,
@@ -70,95 +55,40 @@
       "gitBlob": "153db56e3347b346278d6fbba1af6188cfa8d86b",
       "sha256": "2d7315e510bcc47cb21bb964eb981a736ed7fbd10686356f639d7d0f8d09dab1"
     },
-    "ShoujoKagekiJunna/images/cards/JA16.jpg": {
-      "bytes": 41111,
-      "gitBlob": "69af7a2ffafa54b7f2499c47c178d17a4ea01439",
-      "sha256": "7a511f9061da11f022300e05bf1f2a4b474d7e8e6de429014ff3f1bf99cda147"
-    },
-    "ShoujoKagekiJunna/images/cards/JA17.jpg": {
-      "bytes": 99412,
-      "gitBlob": "e9ddf8ff60769dc34360969bb39f8bbfcc315aa2",
-      "sha256": "a1601c0dcbb0ec4e6b87d4ff157a37f982d77a641499cb07057a873d3c72ee2c"
-    },
-    "ShoujoKagekiJunna/images/cards/JA17.png": {
-      "bytes": 475723,
-      "gitBlob": "962c3874c4b62f15aba6d90a2216ec177403f4c6",
-      "sha256": "23c59e307880246bac0ff175cb087d0452899dfa11cea2254a652de2a3f54987"
-    },
     "ShoujoKagekiJunna/images/cards/JA176.jpg": {
       "bytes": 27468,
       "gitBlob": "26988ce81a806433186c9e44c996318bdd51f214",
       "sha256": "07779bc7fdab75fc706bbf379e8530c824e8a18ddbdc600c0aa6db4c9918715f"
-    },
-    "ShoujoKagekiJunna/images/cards/JA177.jpg": {
-      "bytes": 51602,
-      "gitBlob": "6e1a2628529e62aaa70f87f354e25aad25eb7907",
-      "sha256": "2cc2e638367e1bcf87e36b8664f3427f5fed590050d137534e7fdb2136a93f95"
     },
     "ShoujoKagekiJunna/images/cards/JA205.png": {
       "bytes": 546521,
       "gitBlob": "a6e4eb481bb0ca3b69299a367387e04638413c24",
       "sha256": "b932fa9564df839306b7b27612719342c769a8c2a9ab205fe904cf6ab540c0d0"
     },
-    "ShoujoKagekiJunna/images/cards/JA22.jpg": {
-      "bytes": 119154,
-      "gitBlob": "d4cbffc4adaaabca5a386775d038c9ba65f1d6cd",
-      "sha256": "e3c892a1402a0a426f9981f7939089a9995d10bc92e54ee8ea08f061841fa41c"
-    },
     "ShoujoKagekiJunna/images/cards/JA22.png": {
       "bytes": 666653,
       "gitBlob": "ab3741f26fcb3920f5b7da4257656cc48a7ad3d6",
       "sha256": "90a26263c16ec5ae842ff4dc859656b230e95f6c0e78cd0848de76d897889ca6"
-    },
-    "ShoujoKagekiJunna/images/cards/JA35.jpg": {
-      "bytes": 44077,
-      "gitBlob": "124e5d039bfaded803d20fe7f244c6b1b8f7bbc5",
-      "sha256": "47f83a59ed41df0867e37747f42b4adfbbe2b3a008b1e0724354eda3b0366a3a"
     },
     "ShoujoKagekiJunna/images/cards/JA38.jpg": {
       "bytes": 42000,
       "gitBlob": "d60138626c2401cb5d2a7186fd6d2f1ab0c6b4a4",
       "sha256": "2fb062e203415eee71e44fa7d0a9d65c92c9053e78d9c77b0a54e8b318c06dbc"
     },
-    "ShoujoKagekiJunna/images/cards/JA41.jpg": {
-      "bytes": 37168,
-      "gitBlob": "5275b969645a3a285a610282cb8c64d1ff3f2054",
-      "sha256": "a7c32957159c6083b392d6036355f0157cb58728fb921bead4008b372a807446"
-    },
     "ShoujoKagekiJunna/images/cards/JA43.jpg": {
       "bytes": 75099,
       "gitBlob": "950acc4a5e4a7a45c1671b465259cec4b2e5ad0c",
       "sha256": "af91c71fbd77100fdd6c0473ac69feba5c7bd898766f2a165c5b4d9261de4d46"
-    },
-    "ShoujoKagekiJunna/images/cards/JA45.jpg": {
-      "bytes": 59341,
-      "gitBlob": "62d14de9a3de2b3b47b87a6a2733f23407a6d7f8",
-      "sha256": "dd385f17bd9f4144cdfef9984e4afc0a633208e7b7ddc6820fea9922a1fd5eb6"
     },
     "ShoujoKagekiJunna/images/cards/JA53.jpg": {
       "bytes": 32634,
       "gitBlob": "f04b27c9dbab6ff1899ab6a1046fa61feac214bf",
       "sha256": "bb4d45f70ac78fb99c2889d9ba1925620511efed14d27a1b5aa1dc73fc927abe"
     },
-    "ShoujoKagekiJunna/images/cards/JA57.jpg": {
-      "bytes": 88397,
-      "gitBlob": "45cbe3bd806cd33ea4d9f759c2fa2b9316c426bf",
-      "sha256": "dd281b6ff898a6125bd9e45710eaf42d0ba4a3d1001b71fced708c233a04bab9"
-    },
-    "ShoujoKagekiJunna/images/cards/JA58.jpg": {
-      "bytes": 37168,
-      "gitBlob": "5275b969645a3a285a610282cb8c64d1ff3f2054",
-      "sha256": "a7c32957159c6083b392d6036355f0157cb58728fb921bead4008b372a807446"
-    },
     "ShoujoKagekiJunna/images/cards/JA58.png": {
       "bytes": 538074,
       "gitBlob": "894c03d72e142439023a4ac2d75fae1b098d382a",
       "sha256": "6dff4d36a48121c300af0f61175911585eaceb245aa4b2caeafa70ba07f9650a"
-    },
-    "ShoujoKagekiJunna/images/cards/JA59.jpg": {
-      "bytes": 91159,
-      "gitBlob": "300e34c5f5b657d1908b4cb8455caa58f08c188f",
-      "sha256": "6163679db9ce4d5cd0dad06e7765a1d5fc81e8fb615c776df18368bd3d46e5c2"
     },
     "ShoujoKagekiJunna/images/cards/JA64.jpg": {
       "bytes": 30078,
@@ -170,52 +100,17 @@
       "gitBlob": "c3e1764e07dc70dc5715ce177dda071be9a4682d",
       "sha256": "509d4fe095fd7901821936231044e10a44066182da1c94accca7fadd414b9605"
     },
-    "ShoujoKagekiJunna/images/cards/JA66.jpg": {
-      "bytes": 25026,
-      "gitBlob": "5bda71ad183ce1aa0ee9bbd5695657e584c3c060",
-      "sha256": "b88dec492e344f8c8743fcebb858689c0eba70f1cc21c48b91b5cba95aa9ce17"
-    },
     "ShoujoKagekiJunna/images/cards/JA67.jpg": {
       "bytes": 141002,
       "gitBlob": "58eac1b7758df7f822f0070c7fac3272a83be003",
       "sha256": "3115e8e9d9f961371be2da626b29d18ec5f9a1073bb02d5383523422faa1c96b"
-    },
-    "ShoujoKagekiJunna/images/cards/JA70.jpg": {
-      "bytes": 34045,
-      "gitBlob": "b1a9b4a9b4496dc7880640e3acab9b719e9f77eb",
-      "sha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
-    },
-    "ShoujoKagekiJunna/images/cards/JA71.jpg": {
-      "bytes": 153173,
-      "gitBlob": "a8e4452eea0c867d45110b8952f33efbdf7dbac7",
-      "sha256": "2ae72354cb7cf27b690fee2f16b5802e76874a4e3ae66eb22bc08b78bc1c5fb9"
     },
     "ShoujoKagekiJunna/images/cards/JA71.png": {
       "bytes": 591842,
       "gitBlob": "62a0626fcd06c31da98bcdf9e15d2aa5f54683fd",
       "sha256": "aaa4ad9bda079ee4c4bf51c047aa1e85f074b2ae5be8d09a77c865bc78d998be"
     },
-    "ShoujoKagekiJunna/images/cards/JA72.jpg": {
-      "bytes": 56636,
-      "gitBlob": "2471d1cde50c506a6461ac75609e857daecab5d1",
-      "sha256": "dbf35afd7b76ebf41dc40b0e91b829a63cf57fc8a7c5470b2c7f789153d4405f"
-    },
-    "ShoujoKagekiJunna/images/cards/JA73.jpg": {
-      "bytes": 51189,
-      "gitBlob": "de1a7be4fabd951a8f9dbe73ae36fb061f156efc",
-      "sha256": "4192d25716d062254bb609cb15748a7d2c4316d2475b80c123cc6f527bb889e5"
-    },
-    "ShoujoKagekiJunna/images/cards/JA75.jpg": {
-      "bytes": 30437,
-      "gitBlob": "ce92d077d49c33c9c95b08f11e7efd40f2794a80",
-      "sha256": "ae4fcba48c8e251dc3e9fba73525a741bb4499f31fd2ee0a1531a4db68785dbb"
-    },
     "ShoujoKagekiJunna/images/cards/JA76.jpg": {
-      "bytes": 103918,
-      "gitBlob": "bb8fa382396614d060256b98ea4e9e45e6c37ea6",
-      "sha256": "4cd402785a7592f4765ddab94d1354c1d41638e9cd4030d43639ca9882a46be7"
-    },
-    "ShoujoKagekiJunna/images/cards/JA77.jpg": {
       "bytes": 103918,
       "gitBlob": "bb8fa382396614d060256b98ea4e9e45e6c37ea6",
       "sha256": "4cd402785a7592f4765ddab94d1354c1d41638e9cd4030d43639ca9882a46be7"
@@ -224,11 +119,6 @@
       "bytes": 28816,
       "gitBlob": "28319cd24a73d5baf290937a1fb2d93ad5a8061b",
       "sha256": "320ed8996f5f6808321b846ac12b13906f935523dfc7d4d56f2e098cbf3c072c"
-    },
-    "ShoujoKagekiJunna/images/cards/JA81.jpg": {
-      "bytes": 42608,
-      "gitBlob": "b98aa70e164baaeaf2657b623fbb06b90bd77ba2",
-      "sha256": "dc34a907dbcd045118d11ea640891ba6dff5b84eff7bc7dccaf4dd9023701795"
     },
     "ShoujoKagekiJunna/images/cards/JA81.png": {
       "bytes": 128089,
@@ -239,11 +129,6 @@
       "bytes": 26476,
       "gitBlob": "dbbecb308ddfca84011bbbe72fa33de5d3fdd177",
       "sha256": "73bbe4ad9a5862d34f3d872497cfaeff2eab3f438c0625525c4d6a2a7097d309"
-    },
-    "ShoujoKagekiJunna/images/cards/JA82.jpg": {
-      "bytes": 30926,
-      "gitBlob": "e42301c0899866e85396db65e800ddd3de93ebb2",
-      "sha256": "bdfc856aab508a4f382c5e4c32a6dfc6ceb8f7a7b5fd4195181ab4f21bac2f3b"
     },
     "ShoujoKagekiJunna/images/cards/JA82.png": {
       "bytes": 1284765,
@@ -265,21 +150,6 @@
       "gitBlob": "300e34c5f5b657d1908b4cb8455caa58f08c188f",
       "sha256": "6163679db9ce4d5cd0dad06e7765a1d5fc81e8fb615c776df18368bd3d46e5c2"
     },
-    "ShoujoKagekiJunna/images/cards/JA88.png": {
-      "bytes": 604298,
-      "gitBlob": "1ab77c62e716643ad2df06675ced8cbeb67530d7",
-      "sha256": "210f3fd26ee682907321c48e0e584a0b572b222d796ad1e984158183810ce786"
-    },
-    "ShoujoKagekiJunna/images/cards/JA94.png": {
-      "bytes": 366721,
-      "gitBlob": "e66b4993461174039a9103f5c0f95f178056cef8",
-      "sha256": "ea27be529a524f5b7a3fd5e3af8f5ac7a7c19371188bf3a97e0c0cc90b57d3dd"
-    },
-    "ShoujoKagekiJunna/images/cards/JA96.jpg": {
-      "bytes": 94593,
-      "gitBlob": "3802131e687fb33ecfd922324bc2454629e4b72a",
-      "sha256": "c636582d1f81a64c99704a5f0ad7554f6d24c996e303e177e9416e37df65a006"
-    },
     "ShoujoKagekiJunna/images/cards/JB01.jpg": {
       "bytes": 50115,
       "gitBlob": "7b756837f7e674b04a7a0f014fd46db179c9f607",
@@ -290,155 +160,35 @@
       "gitBlob": "1d7f7f0d1c281cf7dbcb52d6001f98588e644f52",
       "sha256": "84d3fdee2d6a4dfb39a6ce01a87a3fe94c41933d85a29235a829d3b58d0e882b"
     },
-    "ShoujoKagekiJunna/images/cards/JB03.jpg": {
-      "bytes": 66369,
-      "gitBlob": "e85f7db1be2df8be8ef44646467ea5da21ee524b",
-      "sha256": "0aa2de5a7aa49a90ed96cec27c74a8c445ee677f00dec7c651dffdbe60e2c3ac"
-    },
     "ShoujoKagekiJunna/images/cards/JB03.png": {
       "bytes": 1870500,
       "gitBlob": "1293267f901ebab6867581ef0382320f29686765",
       "sha256": "febc5e91a9d54c08187e02a0e67319801aaae639d7d578ef76958b71ed3e80ae"
-    },
-    "ShoujoKagekiJunna/images/cards/JB06.jpg": {
-      "bytes": 98961,
-      "gitBlob": "ba44ca23db4bc6f2f2c87f10b70409d6d596b391",
-      "sha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
     },
     "ShoujoKagekiJunna/images/cards/JB06.png": {
       "bytes": 110046,
       "gitBlob": "5b16119c5b519ccc51ad376abb7ae27b1562e45c",
       "sha256": "c51e8f5008395a014b06cbb47f2ee4b5e71d053e39abc6d478b9776fd3609760"
     },
-    "ShoujoKagekiJunna/images/cards/JF07.jpg": {
-      "bytes": 41924,
-      "gitBlob": "0a94e171250a4d8bcaafb1fd2c90053a610a00f4",
-      "sha256": "96666f7364a98df218be265b019001126635b272faebbbee7700f0e7532b1e75"
-    },
-    "ShoujoKagekiJunna/images/cards/JF10.jpg": {
-      "bytes": 48237,
-      "gitBlob": "4235121e45ba9396676cf92dae594264e60a55db",
-      "sha256": "8a832c11f4b4a6e5da6eaafe2ba65c9a669bb764238e3202ac15807a6a889c13"
-    },
     "ShoujoKagekiJunna/images/cards/JF13.jpg": {
       "bytes": 34045,
       "gitBlob": "b1a9b4a9b4496dc7880640e3acab9b719e9f77eb",
       "sha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
-    },
-    "ShoujoKagekiJunna/images/cards/JG03.jpg": {
-      "bytes": 47056,
-      "gitBlob": "9211be3678558d0b5a3c533518e24c140050547e",
-      "sha256": "d237817b1fbd0fc780f94cec40e820bac69c2cb743b27ab0ecac0f38ac81bce6"
-    },
-    "ShoujoKagekiJunna/images/cards/JG09.jpg": {
-      "bytes": 47056,
-      "gitBlob": "9211be3678558d0b5a3c533518e24c140050547e",
-      "sha256": "d237817b1fbd0fc780f94cec40e820bac69c2cb743b27ab0ecac0f38ac81bce6"
-    },
-    "ShoujoKagekiJunna/images/cards/JG16.jpg": {
-      "bytes": 47710,
-      "gitBlob": "16629f285ef5c85ce7b4c138c5f8c70f8d47a28d",
-      "sha256": "bc90eedd72ccfaa9d24811826c56437c795c4c9bcad2cd7a5b871eff8cc4b7b2"
-    },
-    "ShoujoKagekiJunna/images/cards/JG23.jpg": {
-      "bytes": 41154,
-      "gitBlob": "0366309e7f25bde5817e45c8074b8250e1bd5732",
-      "sha256": "f22a855d4909efc41d7ada9ee4e99c86ca25250aca480d8041eed6aab36b8ac3"
-    },
-    "ShoujoKagekiJunna/images/cards/JG27.jpg": {
-      "bytes": 77443,
-      "gitBlob": "5b3a9bdcf7c6363173653b23c41e5eb59ce88113",
-      "sha256": "2871ebf7326dfb9c84f049432006047d12c4b63c40891a446b17364b805d550c"
-    },
-    "ShoujoKagekiJunna/images/cards/JG31.jpg": {
-      "bytes": 52884,
-      "gitBlob": "d324efbcaef1d13a5858343d4131fb800bd55269",
-      "sha256": "d989b57669713d2155177c3f4bb07e2eb16a236cc781aa4e3d5cec523abdcf4a"
-    },
-    "ShoujoKagekiJunna/images/cards/JG33.jpg": {
-      "bytes": 54478,
-      "gitBlob": "280942152dfed06000b6d197dbb8235db28e5527",
-      "sha256": "5c942e3685f435e66d314ff40b98575c64a1c760e5d009dd57c70cc3a9145847"
-    },
-    "ShoujoKagekiJunna/images/cards/JG34.jpg": {
-      "bytes": 57683,
-      "gitBlob": "24271f1a1ce983ec2f2e7bac8756fc479dc30f2d",
-      "sha256": "7572497a264446bd2fc74fe944efad48ee6ee664c80847f484e8efe94fab2248"
-    },
-    "ShoujoKagekiJunna/images/cards/JG36.jpg": {
-      "bytes": 52448,
-      "gitBlob": "2984b63c0a224b6d9b88437d40a510a9de35bb06",
-      "sha256": "f4dc32be3e52b911d8de0114f46d819af4651a24d7691389b8e6d3bdfa8242a7"
     },
     "ShoujoKagekiJunna/images/cards/JG37.png": {
       "bytes": 149110,
       "gitBlob": "833b8c6bf825e9fece1ddc1d80e8657250e876ba",
       "sha256": "0d4832d42c991acd6c29194764fa7468b63c519dfb73e68940ead0a522614d33"
     },
-    "ShoujoKagekiJunna/images/cards/JG38.jpg": {
-      "bytes": 98961,
-      "gitBlob": "ba44ca23db4bc6f2f2c87f10b70409d6d596b391",
-      "sha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
-    },
-    "ShoujoKagekiJunna/images/cards/JH01.jpg": {
-      "bytes": 57862,
-      "gitBlob": "0d8d0ea599a0ee10c2886da7013139b2108cca3e",
-      "sha256": "0f559cebbc603eb2e62fca43526f7cea30903d8720e9f52e5c1eb90e7c47bf0b"
-    },
-    "ShoujoKagekiJunna/images/cards/JH10.jpg": {
-      "bytes": 53690,
-      "gitBlob": "5abbbe82922957092508c3138f6003fa73181920",
-      "sha256": "c394831fbbf63be240a904bfd2757a34fbb1fe368c08e80f982d81060c132d7d"
-    },
-    "ShoujoKagekiJunna/images/cards/JH11.jpg": {
-      "bytes": 38777,
-      "gitBlob": "2c6e2ec9ddc62ad226b2f14477911c65a11000e7",
-      "sha256": "a676c77091d1b759d095d92ce0892f200146daae8940a8e02440fd6e4b848bdd"
-    },
-    "ShoujoKagekiJunna/images/cards/JH13.jpg": {
-      "bytes": 56424,
-      "gitBlob": "d06a4715c1388b25bde0d2ad9cbb2a1660ca4eda",
-      "sha256": "40250ff87efb069b7d6a05e6d9377788ee749ae9995181bcdace8d3ae5b646fa"
-    },
-    "ShoujoKagekiJunna/images/cards/JH17.jpg": {
-      "bytes": 16643,
-      "gitBlob": "5da9fcbc97ecb478363ad2a752819391a4ef094d",
-      "sha256": "25ee54be6631f78e73851ff0aaa9655664028b5e9343aa65835c3e1cb1a565f5"
-    },
     "ShoujoKagekiJunna/images/cards/JH19.jpg": {
       "bytes": 16877,
       "gitBlob": "d9c6cabe5721c2f378a42eacff3d12852e331929",
       "sha256": "270996b0c27a3e43f61fcc7d1e6b0bdd8f84371039f161138adf755ba29bc446"
     },
-    "ShoujoKagekiJunna/images/cards/JH20.jpg": {
-      "bytes": 33389,
-      "gitBlob": "5dd872d8a65bafba83d25fd8a7ea4db1a2ea20fd",
-      "sha256": "398644fca6a13ce1c1f6f841db6437e22167dc72835c3a71dbafde7099681c39"
-    },
-    "ShoujoKagekiJunna/images/cards/JH21.jpg": {
-      "bytes": 37496,
-      "gitBlob": "5d169d5ccc61a429c5480acfb3b3f40a58ffb6dc",
-      "sha256": "b64a79dd38d1eb9ed8310b0f83be4efbe6cbbabafb86892cbde9bcaa34dbb47c"
-    },
-    "ShoujoKagekiJunna/images/cards/JH22.jpg": {
-      "bytes": 50542,
-      "gitBlob": "1dfd1e9aff7fa15b959a56bf141e29610e7d7783",
-      "sha256": "7bd7eb7c22d6de164bfe29f5905739f02f8133f87b13dfdadfda54832059476b"
-    },
-    "ShoujoKagekiJunna/images/cards/JH23.jpg": {
-      "bytes": 49790,
-      "gitBlob": "e8eaa81c52ecd20bf004dde2f7b30abcb2592f91",
-      "sha256": "e5951fd34b7af68202ca27aa741f2c88885c3447bcadba65df141cb6ecba3384"
-    },
     "ShoujoKagekiJunna/images/cards/JH24.jpg": {
       "bytes": 12106,
       "gitBlob": "a951c63b913e6f3ccbdd2f0c4b3a6194a262db30",
       "sha256": "72d7eb7779c548bc2ed3e95617d444ac59ee39b0b04169ca074b031b80c3e22c"
-    },
-    "ShoujoKagekiJunna/images/cards/JH26.jpg": {
-      "bytes": 29273,
-      "gitBlob": "56bc52fc66d39b4cb407e875e33793cf9b20e603",
-      "sha256": "207e7df24e073bb22e9ca066e7aed3c344b74dc79d39847586c3973e59f962b5"
     },
     "ShoujoKagekiJunna/images/cards/JH27.jpg": {
       "bytes": 30904,
@@ -450,70 +200,10 @@
       "gitBlob": "6d20ed58e2927928555fe94c50f490e7241da11e",
       "sha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
     },
-    "ShoujoKagekiJunna/images/cards/JH29.jpg": {
-      "bytes": 59772,
-      "gitBlob": "d39662fb13e7054a2414826e98de36f55c5d6f87",
-      "sha256": "a9552dd337c7c455c5dbca021d15d7a6663f721388a21dcab76a4666235ef693"
-    },
-    "ShoujoKagekiJunna/images/cards/JH30.jpg": {
-      "bytes": 15076,
-      "gitBlob": "184eb277c139c218a1221ce2f675090582667385",
-      "sha256": "a2994a4875b19bcd0f9ac538601b7cdad3945c5709a1953f6f0be2870c30f8fd"
-    },
-    "ShoujoKagekiJunna/images/cards/JH31.jpg": {
-      "bytes": 56279,
-      "gitBlob": "cebd4f825ae31db4276b66c06c89a42913cbf0c0",
-      "sha256": "ef5f391974d6f239990b7370f723806a59c8f854d310baba9826ee1a0f7ed107"
-    },
-    "ShoujoKagekiJunna/images/cards/JH59.jpg": {
-      "bytes": 59772,
-      "gitBlob": "d39662fb13e7054a2414826e98de36f55c5d6f87",
-      "sha256": "a9552dd337c7c455c5dbca021d15d7a6663f721388a21dcab76a4666235ef693"
-    },
-    "ShoujoKagekiJunna/images/cards/JH60.jpg": {
-      "bytes": 14878,
-      "gitBlob": "3e475e09449b90ccb8f3fe5f5210c2674163c360",
-      "sha256": "5bc424a70184b614a785c24c6cad6a260ffb6fb08d26f575fc14cb4dfdf7f221"
-    },
-    "ShoujoKagekiJunna/images/cards/JK05.jpg": {
-      "bytes": 59366,
-      "gitBlob": "ef4b1848a416a69ae1623f6b27ba3359ec08bf6c",
-      "sha256": "adb3a8a48a2b30bbcd3e2a53e3cdde5017f54a6ff7ab821b486b867b4ff23baf"
-    },
-    "ShoujoKagekiJunna/images/cards/JK10.jpg": {
-      "bytes": 66309,
-      "gitBlob": "6d20ed58e2927928555fe94c50f490e7241da11e",
-      "sha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
-    },
-    "ShoujoKagekiJunna/images/cards/JK10B.jpg": {
-      "bytes": 98961,
-      "gitBlob": "ba44ca23db4bc6f2f2c87f10b70409d6d596b391",
-      "sha256": "69ef6476bb110728c567b017f53bf75f1280a4c53de8b1597cf56ff899237e1e"
-    },
-    "ShoujoKagekiJunna/images/cards/JK11.jpg": {
-      "bytes": 47029,
-      "gitBlob": "85ee0b0cb03d442f6d68494bbe57501d92ceff8c",
-      "sha256": "0fef8d1623a6f3965356bb877870f4fa747b8e0e9e93a1773caf801c007dfb1d"
-    },
     "ShoujoKagekiJunna/images/cards/JK11.png": {
       "bytes": 109709,
       "gitBlob": "85b3cb4975386ce10228c954ad4aa321608095eb",
       "sha256": "8560271940dd647f4ea1fe675c741f7acc7ce80824274245c38e3d378b11d3bf"
-    },
-    "ShoujoKagekiJunna/images/cards/JK112.jpg": {
-      "bytes": 94108,
-      "gitBlob": "78f354bb46fa34fae09218962d23afbbd54ff18a",
-      "sha256": "053ef1067513d101e33075cd4d99d79aca966c5bc03e908b9a20d9b4970f299e"
-    },
-    "ShoujoKagekiJunna/images/cards/JK112B.jpg": {
-      "bytes": 52092,
-      "gitBlob": "5ec4146595fbfa8670d8ebbb8fe05062256e63f6",
-      "sha256": "b518225174e73ca0c804ba080c3f7912cccd326574acf677264c6d3bad58963c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK11B.jpg": {
-      "bytes": 109517,
-      "gitBlob": "38cda61839b8ce901fa7746ae435bd41f3adaa78",
-      "sha256": "457a601c8cf0f8d7e1afece4b152120cb53ab874da25e689099908612a94e37e"
     },
     "ShoujoKagekiJunna/images/cards/JK11B.png": {
       "bytes": 131802,
@@ -535,45 +225,15 @@
       "gitBlob": "f33552df4c224eb8e40245b185b946e1d8094f7b",
       "sha256": "d71a36aa0c22bc4af5bbddcf9e1e3c7f73dedcca2a47de6304ed97bc4351bcf4"
     },
-    "ShoujoKagekiJunna/images/cards/JK127.jpg": {
-      "bytes": 462433,
-      "gitBlob": "8cc0c2cfc925345d5883cb584205afe87162b272",
-      "sha256": "7787f045353f6ad5f2729be88256b5f1a819a8519a66ccf164a7cfc91c1e52ec"
-    },
     "ShoujoKagekiJunna/images/cards/JK127.png": {
       "bytes": 727431,
       "gitBlob": "ad96cdba09dc51e1daeff0efbb50b8aadd005929",
       "sha256": "f8cf32d7da2a52050fb2bd01d85cd0c63c34dafb27188fcda41225f31042cd6a"
     },
-    "ShoujoKagekiJunna/images/cards/JK130.jpg": {
-      "bytes": 69652,
-      "gitBlob": "bb05b571cd79a9270c45197e3e22fa7cd1a65483",
-      "sha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
-    },
-    "ShoujoKagekiJunna/images/cards/JK130B.jpg": {
-      "bytes": 30926,
-      "gitBlob": "e42301c0899866e85396db65e800ddd3de93ebb2",
-      "sha256": "bdfc856aab508a4f382c5e4c32a6dfc6ceb8f7a7b5fd4195181ab4f21bac2f3b"
-    },
-    "ShoujoKagekiJunna/images/cards/JK131.jpg": {
-      "bytes": 127413,
-      "gitBlob": "576dc934d0bcf09196e119711796ddab8650d65a",
-      "sha256": "a26dd37441f3a663ccc85c45b0a9164089568de2d8a8b4cc4f7c5aa843e26b7f"
-    },
-    "ShoujoKagekiJunna/images/cards/JK131B.png": {
-      "bytes": 806194,
-      "gitBlob": "91a59aaf5e0cc5ef700e338f8eda5db22622c060",
-      "sha256": "1f1ba3dc9d5e1b166eac0aa31b3524b2702f2951806a04fcc51017ac5813b957"
-    },
     "ShoujoKagekiJunna/images/cards/JK133.jpg": {
       "bytes": 32784,
       "gitBlob": "c1c3e37099d61fc0e567628bb6343fd20f2644c6",
       "sha256": "7de67b9f5edc3bb1fd4a02b05f1e8c698c6c6597a7466b7497393731ce8433f9"
-    },
-    "ShoujoKagekiJunna/images/cards/JK133.png": {
-      "bytes": 392527,
-      "gitBlob": "537939e759c6f5106e35ec417f9b2e3513e8cdcd",
-      "sha256": "780fb45963ad6a9c3ea8a58573ad662888c7b4ec06f8b523c02aafb391af5c90"
     },
     "ShoujoKagekiJunna/images/cards/JK137.jpg": {
       "bytes": 53572,
@@ -584,96 +244,6 @@
       "bytes": 50434,
       "gitBlob": "e2014e3449c29eeaf6243c307c39d83b998eab3f",
       "sha256": "6706a0c4f875e24bec244663a86bcfba6e6e3920826a779881f3c47196d4fbaf"
-    },
-    "ShoujoKagekiJunna/images/cards/JK139B.jpg": {
-      "bytes": 71774,
-      "gitBlob": "20f8c0af771d2f41c64f90c87d141046aa66311f",
-      "sha256": "ee4d9c4f9237b6a9d57e714f5c7c54dfd0c91f3fcd7f133003395a9300675684"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148.jpg": {
-      "bytes": 52092,
-      "gitBlob": "5ec4146595fbfa8670d8ebbb8fe05062256e63f6",
-      "sha256": "b518225174e73ca0c804ba080c3f7912cccd326574acf677264c6d3bad58963c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148B.jpg": {
-      "bytes": 33300,
-      "gitBlob": "3b8010828dc614540beb0d57cea6827674856c45",
-      "sha256": "8cebd97cd5232e8ea10c635e1d3f26e0ae2e9a34c8bb2be9f498b408fc700e5c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148C.jpg": {
-      "bytes": 68424,
-      "gitBlob": "2c3bf1894c137cc0eefd267ca513c17ed9ae9301",
-      "sha256": "408d407b3d17f271ecc80845fddb1cb0fdce75429ca8b5966b06072036916d61"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148D.jpg": {
-      "bytes": 43365,
-      "gitBlob": "21b2402683ea40a5dd46bb8ca28127920b38ff37",
-      "sha256": "6422c32b80255d95aa79dca6117116d643b8894b044950391ae141e2c20a06a4"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148E.jpg": {
-      "bytes": 51021,
-      "gitBlob": "eacec8392279985d0081e7c9c0d2993b6231e918",
-      "sha256": "f512709a36fcac9b1b0203bbf53aed0af7b1f8ea6cf0687fe510f37cb5eb8fe5"
-    },
-    "ShoujoKagekiJunna/images/cards/JK148F.jpg": {
-      "bytes": 66309,
-      "gitBlob": "6d20ed58e2927928555fe94c50f490e7241da11e",
-      "sha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
-    },
-    "ShoujoKagekiJunna/images/cards/JK15.jpg": {
-      "bytes": 54333,
-      "gitBlob": "b571e8d29280f1f145a9909767969cc4874e2270",
-      "sha256": "3ab466b5b0174d8ede63fa5896a624802a28b31e286fa35ba2ca8278d90305c0"
-    },
-    "ShoujoKagekiJunna/images/cards/JK15B.jpg": {
-      "bytes": 31538,
-      "gitBlob": "992a3c9de9bb75f8b363372eb8063e0896ee7612",
-      "sha256": "2374d48713775b6fb3d68485079c80267c1742db8c9030a70016357cccd678ee"
-    },
-    "ShoujoKagekiJunna/images/cards/JK184.jpg": {
-      "bytes": 37926,
-      "gitBlob": "ae8a0589284ac11eab91e20dde66ad8f090774f3",
-      "sha256": "f479f0b6236a3495d945a44bdd0741b6249ce465d031e69bd8eaa2e8519e984c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK184B.jpg": {
-      "bytes": 44196,
-      "gitBlob": "6e73bd27fc983de1bcf2a02641fc91753d3edbe7",
-      "sha256": "23230516c73c4eed3cc895e35d4a3aa195a60c7548654b28254e98fb441c510e"
-    },
-    "ShoujoKagekiJunna/images/cards/JK184C.jpg": {
-      "bytes": 61786,
-      "gitBlob": "7280102a952f012078d141f997fb5f29865f274b",
-      "sha256": "8a14f76f81be11b3e2fc11bc2302c8718a11e311cc9cfd2ba817ca886db56cf2"
-    },
-    "ShoujoKagekiJunna/images/cards/JK184D.jpg": {
-      "bytes": 38447,
-      "gitBlob": "6e784201d5741c814d505f6e0588c1d2c14b5098",
-      "sha256": "11c6fad76036df108dc9c5af2a1fcab734c89dbe90424f23e23bcd1b1dcba7df"
-    },
-    "ShoujoKagekiJunna/images/cards/JK200.jpg": {
-      "bytes": 110040,
-      "gitBlob": "844004cf804dd31242e8ac2cd120c1580898a12c",
-      "sha256": "182efb2d521b73bea2aa2125168e966d0476126fb0ed85b3767de6d95444b5dd"
-    },
-    "ShoujoKagekiJunna/images/cards/JK200.png": {
-      "bytes": 207521,
-      "gitBlob": "df121e16e503e4e70a3b69b875f7f5a339456281",
-      "sha256": "dea48e6eca9047d06d17aab600bc50a52b9a22055bc7741acf4e254e08649cfb"
-    },
-    "ShoujoKagekiJunna/images/cards/JK200B.jpg": {
-      "bytes": 66309,
-      "gitBlob": "6d20ed58e2927928555fe94c50f490e7241da11e",
-      "sha256": "39ac1b926b41c078f9f1904dd22b652543534de6af1a80c821ae4a1e587b0093"
-    },
-    "ShoujoKagekiJunna/images/cards/JK200B.png": {
-      "bytes": 209616,
-      "gitBlob": "1884c0d811681d5da8f9b970dd61c629d60a387c",
-      "sha256": "f66d668a2546834e5a2c6d9a4dc639c6ff9580614caf59276db1a709ce1d592c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK206.jpg": {
-      "bytes": 53690,
-      "gitBlob": "5abbbe82922957092508c3138f6003fa73181920",
-      "sha256": "c394831fbbf63be240a904bfd2757a34fbb1fe368c08e80f982d81060c132d7d"
     },
     "ShoujoKagekiJunna/images/cards/JK206.png": {
       "bytes": 207521,
@@ -690,25 +260,10 @@
       "gitBlob": "d8b5e4deed2fa6647519dde9e4d0a272d803fcea",
       "sha256": "25f501ccd69a09ff2d95d4f0ebc4fa5ab20a1f7daa19c8df7f8c97c3210c25d8"
     },
-    "ShoujoKagekiJunna/images/cards/JK235.svg": {
-      "bytes": 549,
-      "gitBlob": "93103e1108f3904ef4d02f005ce8174f6fdb2808",
-      "sha256": "8c63d2ab46ed0b4d9b1a0bb1b26cfc70f0ada989fb754bb87e9118a98d871e2d"
-    },
     "ShoujoKagekiJunna/images/cards/JK235B.jpg": {
       "bytes": 69652,
       "gitBlob": "bb05b571cd79a9270c45197e3e22fa7cd1a65483",
       "sha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
-    },
-    "ShoujoKagekiJunna/images/cards/JK235B.svg": {
-      "bytes": 549,
-      "gitBlob": "93103e1108f3904ef4d02f005ce8174f6fdb2808",
-      "sha256": "8c63d2ab46ed0b4d9b1a0bb1b26cfc70f0ada989fb754bb87e9118a98d871e2d"
-    },
-    "ShoujoKagekiJunna/images/cards/JK254.jpg": {
-      "bytes": 76310,
-      "gitBlob": "d718d114bfde8b90d77ea4701390a87fb3236dde",
-      "sha256": "c668862a1b411cd931a4caa77a892f47c298158a0efadfe3a23c7edd5d1ea579"
     },
     "ShoujoKagekiJunna/images/cards/JK260.jpg": {
       "bytes": 204285,
@@ -735,30 +290,15 @@
       "gitBlob": "32045b5157f94c7e7428f7b09e1e478cd0c63d63",
       "sha256": "82bd16e427cdb75b5beb9518a906588af0fed458c9f034b34e945a08ab5ec469"
     },
-    "ShoujoKagekiJunna/images/cards/JK274.svg": {
-      "bytes": 549,
-      "gitBlob": "93103e1108f3904ef4d02f005ce8174f6fdb2808",
-      "sha256": "8c63d2ab46ed0b4d9b1a0bb1b26cfc70f0ada989fb754bb87e9118a98d871e2d"
-    },
     "ShoujoKagekiJunna/images/cards/JK275.jpg": {
       "bytes": 62382,
       "gitBlob": "0f6e23dc16d27ac65a9236d3c9cd6871cc2a238d",
       "sha256": "b4496bd96411b521bf419ce54a4193dc208d57a2d200fc8128c7e09b556b8d04"
     },
-    "ShoujoKagekiJunna/images/cards/JK275.svg": {
-      "bytes": 549,
-      "gitBlob": "93103e1108f3904ef4d02f005ce8174f6fdb2808",
-      "sha256": "8c63d2ab46ed0b4d9b1a0bb1b26cfc70f0ada989fb754bb87e9118a98d871e2d"
-    },
     "ShoujoKagekiJunna/images/cards/JK314.jpg": {
       "bytes": 73153,
       "gitBlob": "cbb7749b9b478609534ba9f7de1bcd1adf991b26",
       "sha256": "51ccdad7a9dc93bd25a872d62e6dafd0b304ae27cca300f88fda30342ad9c5f9"
-    },
-    "ShoujoKagekiJunna/images/cards/JK314.svg": {
-      "bytes": 549,
-      "gitBlob": "93103e1108f3904ef4d02f005ce8174f6fdb2808",
-      "sha256": "8c63d2ab46ed0b4d9b1a0bb1b26cfc70f0ada989fb754bb87e9118a98d871e2d"
     },
     "ShoujoKagekiJunna/images/cards/JK32.jpg": {
       "bytes": 158043,
@@ -775,25 +315,10 @@
       "gitBlob": "2e686cc770f7091311e2272039b5230871a4bf70",
       "sha256": "ab37ec785995a553ec60bd13f33142c213d03ab46ef2ab74a03c2b4f46049373"
     },
-    "ShoujoKagekiJunna/images/cards/JK33.jpg": {
-      "bytes": 56141,
-      "gitBlob": "75aeeb3127585c425d4d55bbd99d8ee425c3c3aa",
-      "sha256": "d35873224d74bcbc5a175880814d98220d5a89da4b9f67adccd16e74273aada4"
-    },
-    "ShoujoKagekiJunna/images/cards/JK33B.jpg": {
-      "bytes": 49786,
-      "gitBlob": "4039c4ed83a83bce6f007c48af5a3485074890dc",
-      "sha256": "6f523ac18b9949e1e542c914d55f0a67ef62e3eb02b050666a89983df9ee9059"
-    },
     "ShoujoKagekiJunna/images/cards/JK37.jpg": {
       "bytes": 17369,
       "gitBlob": "b92f3c7316d18356b384e38f21fc8e9c0b284242",
       "sha256": "1627e671afd1f9ae02d9a219e871e197a7522a0a3f9f70ccb77a1acf750c13fa"
-    },
-    "ShoujoKagekiJunna/images/cards/JK37B.jpg": {
-      "bytes": 32565,
-      "gitBlob": "6aa2dbc13bd429da146b15f307aef169a59fbc15",
-      "sha256": "7e622c6b52aabcabe15e8d77213513dcbb28b7a6253b393740537ce17a8ec29a"
     },
     "ShoujoKagekiJunna/images/cards/JK37B.png": {
       "bytes": 74391,
@@ -805,65 +330,10 @@
       "gitBlob": "552b3c7cc3445b9fe556e650eecd1aa4e913d4f7",
       "sha256": "05a9f7467550b01196b83adbcfd0220af45d005256d726684c0bc7d416ea3054"
     },
-    "ShoujoKagekiJunna/images/cards/JK400.png": {
-      "bytes": 726257,
-      "gitBlob": "895a207b29f3b2a0e67008c31c59587a2005faec",
-      "sha256": "b4737ce1d59127828136fe8a958fbeda2e22ad0b5e0dbd9cb9425bf88600cbf9"
-    },
     "ShoujoKagekiJunna/images/cards/JK400B.png": {
       "bytes": 273642,
       "gitBlob": "f08e098c186766db66195461ad7be605674f6ac7",
       "sha256": "41a5a14301162df3644969b56183aab598157471007ff4d8be6a502cbfbd855a"
-    },
-    "ShoujoKagekiJunna/images/cards/JK43.jpg": {
-      "bytes": 57416,
-      "gitBlob": "801760e6189c1f916bde85d23893c96a7670b0ce",
-      "sha256": "4527691684b3eb9799bfd78a5c9a5b3534e8f8ee839a86e7fae930bb03819a76"
-    },
-    "ShoujoKagekiJunna/images/cards/JK43B.jpg": {
-      "bytes": 48156,
-      "gitBlob": "c67fa8937e151821dc4f8d11a712137247ff433a",
-      "sha256": "4b0840c6783b2da170d005e977bddf7c422425e0edac17a292ddc8f5686547e7"
-    },
-    "ShoujoKagekiJunna/images/cards/JK44.jpg": {
-      "bytes": 39833,
-      "gitBlob": "efe1d00308a33938945de88665eece67ad3aec88",
-      "sha256": "29a8c335cfbed0ce47e7f77d2af046e513cea2c55e1df4ac37e220ca11be3190"
-    },
-    "ShoujoKagekiJunna/images/cards/JK44B.jpg": {
-      "bytes": 71828,
-      "gitBlob": "373c6b370e2f911982fa39b2efd9ec8fd48f5c11",
-      "sha256": "5e55b96c9c2683ee90e1a21a19ade3bc62406fa48ddbf87074295aa5ce005d09"
-    },
-    "ShoujoKagekiJunna/images/cards/JK45.jpg": {
-      "bytes": 32784,
-      "gitBlob": "c1c3e37099d61fc0e567628bb6343fd20f2644c6",
-      "sha256": "7de67b9f5edc3bb1fd4a02b05f1e8c698c6c6597a7466b7497393731ce8433f9"
-    },
-    "ShoujoKagekiJunna/images/cards/JK45B.jpg": {
-      "bytes": 35178,
-      "gitBlob": "6a00d7dba7ff9bfc9e5dd0ab924a1dee11b101c4",
-      "sha256": "e986c4c81f5d8c93ded65202114eece48f6fad0d6e6ea5c4edb58a4ac895fc09"
-    },
-    "ShoujoKagekiJunna/images/cards/JK46.jpg": {
-      "bytes": 70309,
-      "gitBlob": "cbb8e7e4bf4ae40a9fece957fb3924ee7a3af891",
-      "sha256": "5f104365d290c78494f6d1a865d88f495b2e7ca463dbd09bc936863e41d2cb63"
-    },
-    "ShoujoKagekiJunna/images/cards/JK46B.jpg": {
-      "bytes": 32565,
-      "gitBlob": "6aa2dbc13bd429da146b15f307aef169a59fbc15",
-      "sha256": "7e622c6b52aabcabe15e8d77213513dcbb28b7a6253b393740537ce17a8ec29a"
-    },
-    "ShoujoKagekiJunna/images/cards/JK48.jpg": {
-      "bytes": 113616,
-      "gitBlob": "f6d2ad2ec272d06c71aed52559ac8b8012b57bf3",
-      "sha256": "9d5e134ee72f1c1933daad0696a5a899d80f1f79491b95fcef9ea41136fda933"
-    },
-    "ShoujoKagekiJunna/images/cards/JK48B.jpg": {
-      "bytes": 41843,
-      "gitBlob": "08948116e80188a4f675d2629483ab7feeb45515",
-      "sha256": "dba46379013c6c617720e1f68871bb199e5b396d3a4deb50722760a260a65dc8"
     },
     "ShoujoKagekiJunna/images/cards/JK49.jpg": {
       "bytes": 50174,
@@ -875,115 +345,10 @@
       "gitBlob": "8905f1ff75b5b01bf6bf5cad6d17e6542d8e666f",
       "sha256": "b847c3368a4d482f785e73ea47368144f7bd543dbd1c09bb15240412e476e582"
     },
-    "ShoujoKagekiJunna/images/cards/JK50.jpg": {
-      "bytes": 57814,
-      "gitBlob": "b20974384363c2836118552aa4a383da1d0dab4b",
-      "sha256": "1491df5e454401d65e5559c978b35345ead455d697e3edb5e9afd370a595c4f4"
-    },
-    "ShoujoKagekiJunna/images/cards/JK50B.jpg": {
-      "bytes": 30904,
-      "gitBlob": "09a624bbba03f3f37c061f69e537b130929333b6",
-      "sha256": "4dedf00a5b470e2468caded3362dea32651393ea9ab40a5253680f84906060ac"
-    },
-    "ShoujoKagekiJunna/images/cards/JK53.jpg": {
-      "bytes": 75588,
-      "gitBlob": "984b1958a21a38656e72876b7e62350ff7eec40f",
-      "sha256": "1ee58b081e99aad6275730f9f69ddd9b0f16851e820d43298e4d211a1cea3e5f"
-    },
-    "ShoujoKagekiJunna/images/cards/JK64.jpg": {
-      "bytes": 50966,
-      "gitBlob": "bfc77aa1751baf81f643bb1a80fc36cc5d1e9688",
-      "sha256": "1c1f38cb31e0fc9acc4f46e256a707772b51aa9791ec61ea3afcd33dfcf73237"
-    },
-    "ShoujoKagekiJunna/images/cards/JK67.jpg": {
-      "bytes": 77443,
-      "gitBlob": "5b3a9bdcf7c6363173653b23c41e5eb59ce88113",
-      "sha256": "2871ebf7326dfb9c84f049432006047d12c4b63c40891a446b17364b805d550c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK67B.jpg": {
-      "bytes": 34045,
-      "gitBlob": "b1a9b4a9b4496dc7880640e3acab9b719e9f77eb",
-      "sha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
-    },
-    "ShoujoKagekiJunna/images/cards/JK67B.png": {
-      "bytes": 638266,
-      "gitBlob": "7665fcadc4a09a9d3cd25f17e09d4e0baad8ff82",
-      "sha256": "6bacf2414482cdb343ff0d867071daec1ecaa7ae32762be63659230caaae3441"
-    },
-    "ShoujoKagekiJunna/images/cards/JK69B.jpg": {
-      "bytes": 33553,
-      "gitBlob": "a39eee2054a08cd206398d87e8ac7eedcd4f3caa",
-      "sha256": "381456e6f6069600e0c2f1e17c437ecd505694cf34da2838b8a53aae5c4a8453"
-    },
-    "ShoujoKagekiJunna/images/cards/JK73.jpg": {
-      "bytes": 51742,
-      "gitBlob": "fc63f1db994ebc13779be610190fe230e8dee4e4",
-      "sha256": "bc02460f217a131a25965a9c2f98c3352c92acfee80d7cadc36df7d4d0576831"
-    },
-    "ShoujoKagekiJunna/images/cards/JK73B.jpg": {
-      "bytes": 56525,
-      "gitBlob": "1ea7fa1bbdd30cce87120646c85297cdc8e0df1e",
-      "sha256": "441bf491f9eebddaa32cf455f4f2f9ebe949867329db58bbac6152d01a7e6de1"
-    },
-    "ShoujoKagekiJunna/images/cards/JK74.jpg": {
-      "bytes": 44023,
-      "gitBlob": "65a2cc747b06755d955f5232f7a8078b436b7888",
-      "sha256": "3e5322ce254ebfe2cd286ff70ac566f303353b36add822fbcd5bf6eab9465c9f"
-    },
-    "ShoujoKagekiJunna/images/cards/JK74B.jpg": {
-      "bytes": 42452,
-      "gitBlob": "6b17ddf695b4f64b1be3898650676614a56d68c3",
-      "sha256": "76807033444355152b0b690790b4cb1703b2b0c3f9f8401ef1cdcc177adab9a3"
-    },
-    "ShoujoKagekiJunna/images/cards/JK75.jpg": {
-      "bytes": 49422,
-      "gitBlob": "8371c44563d9ea9a64cdbf34887412db89d46b7e",
-      "sha256": "1c5ad9b297b7212483dcc5b9210c4eb7754a87ff1fbaa20c3294149b66372b04"
-    },
-    "ShoujoKagekiJunna/images/cards/JK75B.png": {
-      "bytes": 514304,
-      "gitBlob": "7012fba547391b14178e7bd59bb5c34a0ea5835d",
-      "sha256": "fc5f8abcffdf918f419286cc25f918bbb6547f6b56b671b81d484d85cda26b9d"
-    },
-    "ShoujoKagekiJunna/images/cards/JK78.jpg": {
-      "bytes": 59774,
-      "gitBlob": "a2743081c8dc31f0d4ff6ed5aa45564479dd4276",
-      "sha256": "60fc06230a677f59b2f01cbe75bc248a9611e81cbcf617fb1a237f6924d23a4f"
-    },
-    "ShoujoKagekiJunna/images/cards/JK78D.png": {
-      "bytes": 19703,
-      "gitBlob": "56f68e8441d6a47863c3402ddc78bf08da678876",
-      "sha256": "130ce772e51c72d6f53d5c07f8563c2a8a00da6a9fde3ed8d3c135b6b0da900e"
-    },
-    "ShoujoKagekiJunna/images/cards/JK78E.png": {
-      "bytes": 17388,
-      "gitBlob": "dc6d2ec3182673464098627efef75b50b2da7874",
-      "sha256": "3947b1f5c0d896520261bef5dd55997b6f73d2e05cc26399319cf9da0597d669"
-    },
-    "ShoujoKagekiJunna/images/cards/JK80.jpg": {
-      "bytes": 48301,
-      "gitBlob": "75e68d0efffedb5ac4ebb1bbd29008505536e04e",
-      "sha256": "3732c88030cb865ccf4b9fe21727c44dfd9940423a3bf73fdd4466f9008426c0"
-    },
-    "ShoujoKagekiJunna/images/cards/JK81.jpg": {
-      "bytes": 69652,
-      "gitBlob": "bb05b571cd79a9270c45197e3e22fa7cd1a65483",
-      "sha256": "175bf8b8a87f53cf2225fa824b850fef44cf1758ce148422c53dd80b93ea7836"
-    },
-    "ShoujoKagekiJunna/images/cards/JK81B.jpg": {
-      "bytes": 57976,
-      "gitBlob": "02aa13c3752512240021263f92eaf796aaae814d",
-      "sha256": "434512e2a0cc7e7cb9741d0dbab64becba86cf494dc18d79ea2cab6e3e422db7"
-    },
     "ShoujoKagekiJunna/images/cards/JK82.jpg": {
       "bytes": 151622,
       "gitBlob": "2463cf25e7a08d9198c272ac688ffaa5d3149330",
       "sha256": "7b823baa13a726072b5a40dec0d12f486011dde38fa0b41895c5ba2f1a262b4c"
-    },
-    "ShoujoKagekiJunna/images/cards/JK82.png": {
-      "bytes": 2032975,
-      "gitBlob": "8b36ba72fcc26d961717ecae15a3a59c6eba75c8",
-      "sha256": "fec4c9c4b1c880689726cc8f3e8c0550855be8d48e0f9bac656d3732ad933635"
     },
     "ShoujoKagekiJunna/images/cards/JK82B.jpg": {
       "bytes": 57976,
@@ -995,90 +360,15 @@
       "gitBlob": "2b2bbd52abca412b69b096dd015be225f5db50dc",
       "sha256": "695f7ee7938bf169dd81d288c6b0b261a120eca3b5bfe87206541338429b47ef"
     },
-    "ShoujoKagekiJunna/images/cards/JK84.png": {
-      "bytes": 259265,
-      "gitBlob": "70dad73990839be2f0891486ad1237a95f4ddc89",
-      "sha256": "d902e36a00914652b697ccea2f87ef41f7409cc9d775a31fa032b23ea8b4edb2"
-    },
     "ShoujoKagekiJunna/images/cards/JK84B.jpg": {
       "bytes": 85884,
       "gitBlob": "394508591aa6da8e1fff1633f6113e2ddfd6bb90",
       "sha256": "8e362d65ef191900f2c98881200eefe899edd2787e14f9c9c3944903ccf4bf42"
     },
-    "ShoujoKagekiJunna/images/cards/JK84B.png": {
-      "bytes": 338770,
-      "gitBlob": "1dc6254745d1c9aa05071db928d9a46a263e9924",
-      "sha256": "82e0f5a9b343126fb1624cda630c5d4e820de40a66344fe95f2f63ea50dde13f"
-    },
-    "ShoujoKagekiJunna/images/cards/JS19.jpg": {
-      "bytes": 39833,
-      "gitBlob": "efe1d00308a33938945de88665eece67ad3aec88",
-      "sha256": "29a8c335cfbed0ce47e7f77d2af046e513cea2c55e1df4ac37e220ca11be3190"
-    },
-    "ShoujoKagekiJunna/images/cards/JS33.jpg": {
-      "bytes": 71745,
-      "gitBlob": "17500a6f26098bd97ebfb4aae927f81547a99dcb",
-      "sha256": "52b50b34f4bbbedb22471b25f92619eb62b950ca92645d9fcf9da5588dbfd285"
-    },
-    "ShoujoKagekiJunna/images/cards/JS33.png": {
-      "bytes": 299354,
-      "gitBlob": "218b38d19f6490e85e641e64994d33024d229b92",
-      "sha256": "4e512dc562b6d6126daa7892c8075a028a39ffb385e97ff85b77bbd274e8ace8"
-    },
-    "ShoujoKagekiJunna/images/cards/JS34.jpg": {
-      "bytes": 50966,
-      "gitBlob": "bfc77aa1751baf81f643bb1a80fc36cc5d1e9688",
-      "sha256": "1c1f38cb31e0fc9acc4f46e256a707772b51aa9791ec61ea3afcd33dfcf73237"
-    },
-    "ShoujoKagekiJunna/images/cards/JS35.jpg": {
-      "bytes": 39642,
-      "gitBlob": "2cf7009149ba001804c173b7621a621b098d4116",
-      "sha256": "a5da26126421e954351d0900e43e0ce3af47f3408a90ef1349fd126932e5e073"
-    },
-    "ShoujoKagekiJunna/images/cards/JT02.jpg": {
-      "bytes": 53258,
-      "gitBlob": "943ccb09c62cd7f18c10b41bd666377c4ab483ea",
-      "sha256": "531cd129e262e13eeb3c3d4a0097b21a5efd4ae623d1113898d0000a6d47faf0"
-    },
-    "ShoujoKagekiJunna/images/cards/JT03.jpg": {
-      "bytes": 12311,
-      "gitBlob": "82af799dbb4b7c225ecc9ae8d13aa03a66b3780b",
-      "sha256": "2c1fdaff638f31fddcf25076872e8be706b49c3783b28afcc050f56841fabe34"
-    },
-    "ShoujoKagekiJunna/images/cards/JX01.jpg": {
-      "bytes": 63520,
-      "gitBlob": "11a2d44b4cf13e0f85283450dc55c6cc15ab6276",
-      "sha256": "d989560cbc5239206e49d81e52b36c5e1431a502e05849e265cac17ab117cc2b"
-    },
-    "ShoujoKagekiJunna/images/cards/JX02.jpg": {
-      "bytes": 41580,
-      "gitBlob": "af9f894e642d37550d8a835ecdd6079b1e2e7330",
-      "sha256": "8bde3de55059e47df50ff393b51b85836b37402b397872e6d5100a822b5e3ef9"
-    },
-    "ShoujoKagekiJunna/images/cards/JX07.jpg": {
-      "bytes": 31802,
-      "gitBlob": "5ba43d0d97077932118d98fc9194b66bdbf552c5",
-      "sha256": "e48cc9af1634796d01b133e658191efb6b018cdbbc79844d71877a9e4047080a"
-    },
-    "ShoujoKagekiJunna/images/cards/JZ03.jpg": {
-      "bytes": 529267,
-      "gitBlob": "e2593da9258aa429108716795b00a8c17899cf31",
-      "sha256": "5552ce72cd904dc7c3cae0c2076c21b7f14909a0a5c94eed9b849908882c0a5e"
-    },
     "ShoujoKagekiJunna/images/cards/JZ03.png": {
       "bytes": 727904,
       "gitBlob": "6f857ff23f12b465b093c3ecdfa966866a1d3fad",
       "sha256": "8deaf27a5bfc05d00b5800f0e1c71eb4492b6f93240440094b0dfdac44fa8da5"
-    },
-    "ShoujoKagekiJunna/images/cards/JZ05.jpg": {
-      "bytes": 37887,
-      "gitBlob": "11da86d68e65a585c15096b0706b723d10f2c66b",
-      "sha256": "bd326d9f8644c25b256013382c7fbc81581d17477640be6cf48f4ce9d4d591ac"
-    },
-    "ShoujoKagekiJunna/images/cards/JZ06.jpg": {
-      "bytes": 40914,
-      "gitBlob": "552b3c7cc3445b9fe556e650eecd1aa4e913d4f7",
-      "sha256": "05a9f7467550b01196b83adbcfd0220af45d005256d726684c0bc7d416ea3054"
     },
     "ShoujoKagekiJunna/images/cards/U_CARD_005.jpg": {
       "bytes": 27020,
@@ -1094,11 +384,6 @@
       "bytes": 164748,
       "gitBlob": "e905d9344d0ac959c90c9adf16fdef8f5d45a19a",
       "sha256": "522546df1914df95ef363f292cbb0e8ff01bdad2e2bd32a43525a2169eccc113"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_009.png": {
-      "bytes": 777820,
-      "gitBlob": "02bb06cbbfa17d23024e0a91dae769660ccfbded",
-      "sha256": "8ad58222c36682285cec6a43649761eb0913e577f7084fe581e836dd45b18d9d"
     },
     "ShoujoKagekiJunna/images/cards/U_CARD_010.png": {
       "bytes": 343806,
@@ -1130,41 +415,6 @@
       "gitBlob": "55e42dae430f9841dd794765e955cd9d1e706745",
       "sha256": "cd3ded6de909657fb8115248ec1e8c4ff9f8024371384ad2c605d9d1539ab25a"
     },
-    "ShoujoKagekiJunna/images/cards/U_CARD_018.jpg": {
-      "bytes": 130919,
-      "gitBlob": "3e741b112f9e33f34eeff52d27ade305dc1e0d36",
-      "sha256": "4d16fb35020fce146c370e0e571a88eff043fed72bd82d6d8e31e7791dcb35d8"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_018.png": {
-      "bytes": 290912,
-      "gitBlob": "b5368fe59c0c75224523300a4ef4ca0dafb95693",
-      "sha256": "d88b2a9befced1b7d0fbdf9e15abf5d491c0c7de95fd3a9d08bdfca8cc756f3d"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_021.jpg": {
-      "bytes": 117879,
-      "gitBlob": "ea4cddd5b3048eca84cdbb6f26ff4e60b5bc38e6",
-      "sha256": "f5481a057153df063b43f6ba309d117c780c108cb0fc7c38196c3e2e9d92069a"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_021.png": {
-      "bytes": 512304,
-      "gitBlob": "e789c922244d1a48d057e06385972336054b06fb",
-      "sha256": "70e4d5ac7b296f3197a4df82539f0faea938361d66bf09923380fb7aaaa14a41"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_023.png": {
-      "bytes": 650485,
-      "gitBlob": "5aa66f4d09068b0c4052c410cde16a81a75dd1aa",
-      "sha256": "2c9985f5f30b176fd78986f583d0b8daf8c2eb7e5a46aca4010c87477665eb1a"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_024.png": {
-      "bytes": 273660,
-      "gitBlob": "f86d83279065ffe9d22d94a9e9b0cf8d9baec996",
-      "sha256": "4c056908a56e18187be4993cd1fbfcdc40a42700cd17a66caa406d981b1cf045"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_025.png": {
-      "bytes": 338263,
-      "gitBlob": "15f88008c2d32437fb03582720a396efdc8ffc12",
-      "sha256": "7748aef6943896776632e058c1d1f0d35ee3f5c1afd60a99a445ebcd20a81e82"
-    },
     "ShoujoKagekiJunna/images/cards/U_CARD_030.png": {
       "bytes": 189319,
       "gitBlob": "75512b7e4793e9433ac2f534941703af2bb4feea",
@@ -1190,11 +440,6 @@
       "gitBlob": "e26e40e0a55069817878cf4f280556a630b302be",
       "sha256": "ae944188084ecd740100d74cd47786043cb7fa5ed3a8de53fc0c0fa46fa423c4"
     },
-    "ShoujoKagekiJunna/images/cards/U_CARD_035.png": {
-      "bytes": 228468,
-      "gitBlob": "aa8bc95d4a690989edf5205434d4cbb47d44598e",
-      "sha256": "fcd5ca6ba8403077805cea42dfa421361f1c82ed6ca373809fdf63f80c28915d"
-    },
     "ShoujoKagekiJunna/images/cards/U_CARD_036.jpg": {
       "bytes": 110040,
       "gitBlob": "844004cf804dd31242e8ac2cd120c1580898a12c",
@@ -1210,30 +455,10 @@
       "gitBlob": "45ac0750d67e87f63795676d40e60662fd3bd069",
       "sha256": "29ac622f2e446c92a64b62e60d777f1eaec16582b79940d16766495d25c2b7ea"
     },
-    "ShoujoKagekiJunna/images/cards/U_CARD_047.png": {
-      "bytes": 443902,
-      "gitBlob": "2a163c90e8d906a8e9268c5d3f0eb35f81126463",
-      "sha256": "c4af2bb6de9028d7b3c3bf858cd16c7ff76ca7477ab21a60a5b652275757c8ad"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_051.webp": {
-      "bytes": 66340,
-      "gitBlob": "bdea0ff263475b2d13fc8a65fac8351893173bda",
-      "sha256": "0f317142c6cc3e1e3aaaf9ceac569c3ab7161fcbb3a4e6b78a2c581a7e74233e"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_052.webp": {
-      "bytes": 48750,
-      "gitBlob": "676fba9aa7a404f7fc249ddb624660cdf1aeeff4",
-      "sha256": "4fb6b35355c6fbabca89aa0f6af4a4ded57a41db9575cd19892406f5f63d09a0"
-    },
     "ShoujoKagekiJunna/images/cards/U_CARD_063.webp": {
       "bytes": 69594,
       "gitBlob": "8432acb904130ee05a17fcbad125cad9042c80b6",
       "sha256": "383d77b650e7058836e9fe6778066a8c8574f514b020a09bdffaa662216d67d9"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_074.webp": {
-      "bytes": 21620,
-      "gitBlob": "9bd19bea87dfa0524387e5689d75c1a8b64434c2",
-      "sha256": "99d558498d4b513ec42c2d075fae94e16a18e27f67979f13a6be8b28a14f04f0"
     },
     "ShoujoKagekiJunna/images/cards/U_CARD_079.webp": {
       "bytes": 53284,
@@ -1244,11 +469,6 @@
       "bytes": 59814,
       "gitBlob": "eeffb6dd7a2e3d410fb4b2118776287a4d02cd4f",
       "sha256": "9861eb0d7571b29d693229dfff316b0bfe0715dc7d0e52be2bd6f6f80689ce2b"
-    },
-    "ShoujoKagekiJunna/images/cards/U_CARD_131.webp": {
-      "bytes": 66312,
-      "gitBlob": "368625ae3ebda649caef0c050c99103a35157d6a",
-      "sha256": "36bf940f3bb4fc2265084adfa0438b74d55dea5c713b00ec7f47ff71248daf71"
     },
     "ShoujoKagekiJunna/images/character_select/motion_poster.png": {
       "bytes": 1717367,
@@ -1381,14 +601,14 @@
       "sha256": "0d6031b0cd315c13a54dd727906c639dbff1411fac271141d24388c1c3ce05d4"
     },
     "ShoujoKagekiJunna/localization/zhs/card_keywords.json": {
-      "bytes": 595,
-      "gitBlob": "e6d1c43513037971a1b8aa4fcf44a874e3b277ea",
-      "sha256": "95eef3fd59cc66cbb51ef9ca0b6964681b0b8e4601588244d9b8238fc7041558"
+      "bytes": 520,
+      "gitBlob": "6c3b43ad09e04cea4d4b391c6035e288366d0da0",
+      "sha256": "13438244cc5c43eb2f76eb30d5c4809854e0b3eebb0b2afcd396c79838749b63"
     },
     "ShoujoKagekiJunna/localization/zhs/cards.json": {
-      "bytes": 34955,
-      "gitBlob": "f4fbb78e70ef6df10036f6d78e2192957963ed65",
-      "sha256": "27c1ce7c773692a68776d83e2ee6ede54e4631817d805498318c856c9895c749"
+      "bytes": 17060,
+      "gitBlob": "bc12f742c7990fecfbd69d74df2f0ef7018ef645",
+      "sha256": "9eb0b883a01ea7c1364d56e7e84c8b54702e82367af538df151e1e115b9f970c"
     },
     "ShoujoKagekiJunna/localization/zhs/characters.json": {
       "bytes": 646,
@@ -1401,9 +621,9 @@
       "sha256": "ce020837812889e5f542dcf71b8b39d2774802103442d6b2276ef5aebd983e99"
     },
     "ShoujoKagekiJunna/localization/zhs/gameplay_ui.json": {
-      "bytes": 2387,
-      "gitBlob": "95d3b53ee2306f849ded94d7751356ec2429c603",
-      "sha256": "f4bbb9da8d20e7caae4e132286aa0de6e09d54824228cce1f2b0007ad2da576c"
+      "bytes": 1692,
+      "gitBlob": "7b38882ad1e0ea357fc731792ea8fb2cb76725b7",
+      "sha256": "25f2879f75ce0dd79375554e1b80894b8bd894211054d90421e9dbee37246da3"
     },
     "ShoujoKagekiJunna/localization/zhs/potions.json": {
       "bytes": 588,
@@ -1411,9 +631,9 @@
       "sha256": "c82c3530862c3b86d5a515848dc901f4656ca046b4de04feed8ce5809b83d318"
     },
     "ShoujoKagekiJunna/localization/zhs/powers.json": {
-      "bytes": 14457,
-      "gitBlob": "19c098fc13c3bdad9c83b0dfeaf6aa3ce0292ad6",
-      "sha256": "7a7a23a0ad096832334c19c9e681c103d5091a59a7d81b38af62c5c2bcec6a79"
+      "bytes": 7417,
+      "gitBlob": "0873618a887d604ed1589e72476886b83d1a27e3",
+      "sha256": "8b855bce32d22a2f27964c53e15a13991b0f5b6ead109bfa87e57881177319a6"
     },
     "ShoujoKagekiJunna/localization/zhs/relics.json": {
       "bytes": 608,
@@ -1426,39 +646,39 @@
       "sha256": "cbf9fc7bf828f3a2175bb467a6ae5880138d7f3bea89785c6b0562850dcd2804"
     },
     "data/card-pool.json": {
-      "bytes": 193182,
-      "gitBlob": "c1aa25b4bc93a5d725eb9b57efaa7fdeef6dcb9b",
-      "sha256": "fc1fae0c8d90777fdaa0a8aa7f99edafc4895a3e08440c147474ab4638dbf0cc"
+      "bytes": 98903,
+      "gitBlob": "af35eb47dbc4e65782228bf03bb04295135dc459",
+      "sha256": "17e34906e1eec45fc0ca5b14798d4fe10fc333e0190ad9259e5c6d72cdf835ed"
     },
     "data/card-rules.json": {
-      "bytes": 33921,
-      "gitBlob": "db4d927afd3c891ee3bdfc0a67566caf56d74afd",
-      "sha256": "dc31daf643b616c6644021dc7faa8628bca7fba6c851b6e6b087f5125d4b3f70"
+      "bytes": 14958,
+      "gitBlob": "61198a73d03dc7d2621d0c2d80336dbb17e1052b",
+      "sha256": "3c98165a1a95952ea9b37d4098f899014bc0bf50bcf687554530039b453f6f91"
     },
     "src/Combat/Knowledge/KnowledgeCombat.cs": {
-      "bytes": 12379,
-      "gitBlob": "95f6246f13069bfcadeb1a47031f3c2021b9f61e",
-      "sha256": "add9fc528ef0c6bb8d193e6b53a5cc835181a12480fe7a1a44b06679abf7f3a8"
+      "bytes": 11684,
+      "gitBlob": "79ea07ec08d7266f5b9fd1ab23eba55419537bb0",
+      "sha256": "21b1c6853a4ef3da0a34a1d637931f8543a43c4e0d8212316762cae5a82d79df"
     },
     "src/Models/CardCatalog.Generated.cs": {
-      "bytes": 19478,
-      "gitBlob": "9c3a62341a2f350af9ce4962bcd645e4ae371178",
-      "sha256": "06edb3d9f5afa6461aa37d5e978fcb6ed6f4942a4d4a8e3f62de46b60af9d75a"
+      "bytes": 9203,
+      "gitBlob": "984d1b4ab0cf66e1c93a299c724104ff65fd1d85",
+      "sha256": "fe1af3f824a8ef57c9d2d6d5db25e4649dec8ff4a0b1f4b4224cbb7074d4eef9"
     },
     "src/Models/CardCatalog.cs": {
-      "bytes": 5661,
-      "gitBlob": "c0ac9f4a0f3084ce410c8946b731e90024b028de",
-      "sha256": "2e441e8108c5b6624cea5691a596b57da14ae240543b74ff60469e2bf8aa6307"
+      "bytes": 5626,
+      "gitBlob": "41577970811c8490d056a7c6bb8b0bd56a0ac1b3",
+      "sha256": "ff4dc06ca1fa8604e4b1a545850c2b6aff88fccfbf04f048636ddbd35ecaf752"
     },
     "src/Models/CardRules.Generated.cs": {
-      "bytes": 47071,
-      "gitBlob": "b059fc245a27b53b23007b633881e3a4693aa6d3",
-      "sha256": "1ba64ab6bc392e663fc38cf9ba1b4f82ca75e24b1239f7f15f29df354aae8ecf"
+      "bytes": 20697,
+      "gitBlob": "0228cc63715e122b908842c9d6dcda5b79a25943",
+      "sha256": "72f5f7b7d6e6b7fd52a249a8911ab6b5e53ffd5f15581fa055578de8420a971a"
     },
     "src/Models/CardRules.cs": {
-      "bytes": 1604,
-      "gitBlob": "23a3019dbdb06fcd4e4b5882f53b505b23e81f63",
-      "sha256": "55e0a19acd99630f8ab0ced6cb6f04bc055b1de192d2fc136de70921f7174192"
+      "bytes": 1374,
+      "gitBlob": "9e894d50e853c7cf2d39b2bf81d55baf3cdae285",
+      "sha256": "1090e981da8abb792e575751c2a5109d0af2dcce68e5b38ed0c89c8819283ec4"
     },
     "src/Models/CardValueNames.cs": {
       "bytes": 571,
@@ -1466,9 +686,9 @@
       "sha256": "4cc86d206f1c15dc97bb9ff9adef305f81368309cdff4c7a068985c29f44bbc2"
     },
     "src/Models/Cards.cs": {
-      "bytes": 9098,
-      "gitBlob": "cfee8ed7809aa7bf84086eee46f19599cbdd4189",
-      "sha256": "ce225abb4ba531801336a42cc151680c2003e54218f7dce24a5da15c32905e8a"
+      "bytes": 5647,
+      "gitBlob": "329c75118a2c34845c75df18d9f8fc8bac50f691",
+      "sha256": "3130ebb2b78766626a08d7a52db4aaa4706f8f6592a28d2803b4d719b0206f1c"
     },
     "src/Models/Cards/JunnaCardA.cs": {
       "bytes": 406,
@@ -1480,20 +700,15 @@
       "gitBlob": "56f793c5c2fab2a513c2a4ac27d138b156c4f4df",
       "sha256": "968460a8012ff84e9348e3fb18867834ab597848d695caac3a7b59b15d0997a9"
     },
-    "src/Models/Cards/JunnaCardJA104.cs": {
-      "bytes": 608,
-      "gitBlob": "f9d2405192e1483ae087906311b047fcf6775781",
-      "sha256": "662498e34d0e00504f009ccc6110ffec4216513a94ec7e18d8c3ead240f9bbee"
-    },
     "src/Models/Cards/JunnaCardJA105.cs": {
       "bytes": 414,
       "gitBlob": "2f32e54f20a3e8fb4d8a5cf2d4d0eea632554776",
       "sha256": "c352b21ad31f81a161f9c63a4704ef3428be1925ffc60ba6e74edacec7c99e32"
     },
     "src/Models/Cards/JunnaCardJA108.cs": {
-      "bytes": 463,
-      "gitBlob": "1368734c75bcb8dce9d5e9bf98dd03621e6fed0f",
-      "sha256": "05af0edb1546cdbe1290cd3fac9849e5aa8f131117dd27070a602f7cae46ca40"
+      "bytes": 797,
+      "gitBlob": "e02f189e8708c6e6653ea5acbdbd36a9b14c9c57",
+      "sha256": "2cd8437f778702b34694cdf263407c7b3017ce3ba36807a03fef42abecfd5c1d"
     },
     "src/Models/Cards/JunnaCardJA108B.cs": {
       "bytes": 458,
@@ -1516,9 +731,9 @@
       "sha256": "cb349bfe3e10baca46330d8cc46a1d68fe26acc0fdd7f6488bfce758d456aeba"
     },
     "src/Models/Cards/JunnaCardJA145.cs": {
-      "bytes": 606,
-      "gitBlob": "6615e429e7c7ac74e9639904dbe770f934cef94d",
-      "sha256": "dda749ab5fabfb1b7a022fcd347cb2e5213f180f3aaa715730bc28be74d7fd4b"
+      "bytes": 791,
+      "gitBlob": "6923e9fa50fb8b4eba917e3309f559b0ec4e341c",
+      "sha256": "88202da69270ba33a9f234c3aaa3b028feaf2c7140ef3869a7b3da81f2d4bbcf"
     },
     "src/Models/Cards/JunnaCardJA15.cs": {
       "bytes": 442,
@@ -1530,11 +745,6 @@
       "gitBlob": "6b3954ff5b669d898b2c98173dd271d769ba72e5",
       "sha256": "4c99610f8caec180f8fb04822ebde2a011b8418c11081a4ecf99b1c54ae3d782"
     },
-    "src/Models/Cards/JunnaCardJA177.cs": {
-      "bytes": 532,
-      "gitBlob": "27d597e237556a210df6c8da212f4318e2d1feb5",
-      "sha256": "e7438c5a2c656115411b1ba885d61291451ec638c75265f98356e5fa1c535576"
-    },
     "src/Models/Cards/JunnaCardJA205.cs": {
       "bytes": 414,
       "gitBlob": "1864ac6adf34b8f4545792ff513d8be1239166f3",
@@ -1545,35 +755,20 @@
       "gitBlob": "64743beb09bf5b0563ddb07411c53306c39b2aa4",
       "sha256": "16863a4a8d65fdbb721e532621223214054ae948e17991070991ca0636c0d096"
     },
-    "src/Models/Cards/JunnaCardJA35.cs": {
-      "bytes": 412,
-      "gitBlob": "fd3bd3d4d1711bfe096c50b8fc2ef144277daa82",
-      "sha256": "e767ea352d91dce1bc12eaa7824854d5307e92216bd8814d7477b8f96abb0c93"
-    },
     "src/Models/Cards/JunnaCardJA38.cs": {
       "bytes": 456,
       "gitBlob": "431f569e561c48e0b7f087fadf09791a77f71540",
       "sha256": "24b5506bc80a8cfe9a14e9c691f451c8d11d37e1796d3f768a4e0c061ed4046d"
     },
-    "src/Models/Cards/JunnaCardJA41.cs": {
-      "bytes": 456,
-      "gitBlob": "801cab6e669e535fde04d7d2b53fca858d7fc795",
-      "sha256": "462e7c39b0e93fecf86ca93c6320ec1c43508fa3d2c09952cfc73ed07fbc2771"
-    },
     "src/Models/Cards/JunnaCardJA43.cs": {
-      "bytes": 531,
-      "gitBlob": "5ad7084fcb646d520a6fcad35baa56a4c27858d6",
-      "sha256": "77a27690bde89d22406eb9ba0cf432b7e1e06209c6e6437c4b9d6ec0f1aefb9a"
+      "bytes": 639,
+      "gitBlob": "a2a245523dfd47f3b9f1573a8a2770d57a12a186",
+      "sha256": "362007070a82d2ce47d82d207874dbf4440448bddfae60454be59af295b15e86"
     },
     "src/Models/Cards/JunnaCardJA53.cs": {
       "bytes": 635,
       "gitBlob": "3d8ffad648b912a12841ff7d922289613d490bea",
       "sha256": "595f76c190446ac596ad193f3a9c6e4821d96f14007a19843d29171bf1e7cee3"
-    },
-    "src/Models/Cards/JunnaCardJA57.cs": {
-      "bytes": 502,
-      "gitBlob": "fb0e8cfe13c39cc35188f0faeb0f2a137bcc1169",
-      "sha256": "6acb20cef2ff7c166cdab0c6f9fefcadb185684d73be0545f0d23e0134bc3d0d"
     },
     "src/Models/Cards/JunnaCardJA58.cs": {
       "bytes": 828,
@@ -1596,34 +791,14 @@
       "sha256": "f24d5186698be5dce05ec04fe7109ee1c68007cd740e10aaa195d8d1145be3c4"
     },
     "src/Models/Cards/JunnaCardJA71.cs": {
-      "bytes": 531,
-      "gitBlob": "77213403397326911faf9933941623cd9aede07c",
-      "sha256": "e59aa8835977de2136262871cf905f04d7075a0ce1021723137bf0b7f8005516"
-    },
-    "src/Models/Cards/JunnaCardJA72.cs": {
-      "bytes": 456,
-      "gitBlob": "a64de35126494225e216c5f859f0ee2307104c25",
-      "sha256": "46cc420ac9084d4257188b4dd2d91e8548e14d45f5589b0e9e8be0359c6ed006"
-    },
-    "src/Models/Cards/JunnaCardJA73.cs": {
-      "bytes": 634,
-      "gitBlob": "56cd03bcebfc9875e654cbbce6dc769c78acdb43",
-      "sha256": "5a54e60861ea125992faf91f07cba4d646fbd20eceb933596a10e864bb0dac14"
-    },
-    "src/Models/Cards/JunnaCardJA75.cs": {
-      "bytes": 344,
-      "gitBlob": "bbd6a3698f259a274cc58fa03db4ddabe785976b",
-      "sha256": "c980d17fd04ed661dcfed571134f531fe18fa716558e1a8c36e9ad0cf45c9f5b"
+      "bytes": 637,
+      "gitBlob": "255cf2cef85b65277e41f34dca6877033fc37b7d",
+      "sha256": "729198ef80044ca810a4aac3f548ebc31184053203c045ca8a30f7580d08b855"
     },
     "src/Models/Cards/JunnaCardJA76.cs": {
       "bytes": 694,
       "gitBlob": "e891fa48d63ff3dae0f0f65ca76161abfe4173a9",
       "sha256": "f51a3b0333c2697414313e59ac2fdaeb556efdee994c1351533117a73ee36023"
-    },
-    "src/Models/Cards/JunnaCardJA77.cs": {
-      "bytes": 456,
-      "gitBlob": "9483600ef5645c394e8e6950d579562729777b5b",
-      "sha256": "5e483cf8794f15dc57b3e1a3dcfa1dc45d0ed79a21076d26bcc6990a382aff63"
     },
     "src/Models/Cards/JunnaCardJA80.cs": {
       "bytes": 434,
@@ -1660,120 +835,30 @@
       "gitBlob": "a0a58bc11f866a39a4d36f8456e0809b64786750",
       "sha256": "7e58658f9f0baccffbce8e744ea4d2accfdf546fd1dbf26db392e0e3abcfd873"
     },
-    "src/Models/Cards/JunnaCardJA94.cs": {
-      "bytes": 531,
-      "gitBlob": "cd761814fef50ebbda059c6c435269d6eaa9a2d0",
-      "sha256": "15e37312d0ad4ba5fdfc1ca3e286d28a6ce2b48ea795ce265bdfb8682e0e053f"
-    },
-    "src/Models/Cards/JunnaCardJA96.cs": {
-      "bytes": 412,
-      "gitBlob": "61200af8c31b8edd377aaa2beda5f976d726da76",
-      "sha256": "43310e7fc42ea8b09801b61f95c1cdd9c20bf302981a0b9c45b46144f9fd733f"
-    },
     "src/Models/Cards/JunnaCardJB06.cs": {
       "bytes": 438,
       "gitBlob": "4b8372df4a8a931e8d63d2f3ace023ec9df85046",
       "sha256": "3e5cf50342412cec4ded8971db4d22db4f172cf630b7679e1ef646cb640d11a0"
-    },
-    "src/Models/Cards/JunnaCardJF07.cs": {
-      "bytes": 442,
-      "gitBlob": "873f9288d618a852f071531540090dd9956b75e6",
-      "sha256": "06910a936122aed783f1b84ea4d6604adb2019b800ffeece9de09b7e4ed0ad67"
-    },
-    "src/Models/Cards/JunnaCardJF10.cs": {
-      "bytes": 1092,
-      "gitBlob": "a3d0a3f00dd437528669d186b0b2af17a30c5872",
-      "sha256": "4e6fb93cc30d1ab1dab3f81547f6663d0d30daf8328570511ab4a2d95ab4d810"
     },
     "src/Models/Cards/JunnaCardJF13.cs": {
       "bytes": 506,
       "gitBlob": "3b99f2455d377db4ff5ce3cbfccb6ff18c853214",
       "sha256": "64976a65fb570acefa05ab4f9187e691308f2d6df649fbde0b903d365b219601"
     },
-    "src/Models/Cards/JunnaCardJG16.cs": {
-      "bytes": 344,
-      "gitBlob": "c11652c8d822fb219cd8f0d200de2ea6bd57754b",
-      "sha256": "1869a986730f2a2d679e5b10d25de856ad7971c9fd7e012ee0fc3882b9b4929d"
-    },
-    "src/Models/Cards/JunnaCardJG27.cs": {
-      "bytes": 344,
-      "gitBlob": "4d723dab727262e0a5b6acb9d1c22cc18f240eb1",
-      "sha256": "fcb6902cf494ad1febc1a529dec553934377e9eeac90cbd51e58cf42e4ec0eca"
-    },
-    "src/Models/Cards/JunnaCardJG31.cs": {
-      "bytes": 344,
-      "gitBlob": "269a886009600658b385e2f334dac98627c4748b",
-      "sha256": "05df1965e38976ac07eb67da9b99b0a266da2cde40131abb6631b6f840aee8ba"
-    },
-    "src/Models/Cards/JunnaCardJG33.cs": {
-      "bytes": 456,
-      "gitBlob": "ed973b73a6feb97fede941c3d7469867bc77bd0a",
-      "sha256": "d14893241b64d9b118481feeb1fb90dfe4c820530c2340d4424715b6d84afc3c"
-    },
-    "src/Models/Cards/JunnaCardJG34.cs": {
-      "bytes": 412,
-      "gitBlob": "eaffee640518ef02bbbc92987d57caf821ac8fdb",
-      "sha256": "cf42368ffd73669879f47a380dc3856b73e3e5356081c1aad3eb999bcfdd7c65"
-    },
-    "src/Models/Cards/JunnaCardJG36.cs": {
-      "bytes": 456,
-      "gitBlob": "d843432608adcb8aee3fb728ddd72a034fae3569",
-      "sha256": "993511cb2946ba991b6330ffb15c1115a5de1d67ab3b0e712e00d4e2026d8d33"
-    },
     "src/Models/Cards/JunnaCardJG37.cs": {
       "bytes": 537,
       "gitBlob": "c3d18816d0b494bec0220564ae275dd4fc7c19c1",
       "sha256": "7415be17603a3b02cd8213ad6952676575042d7115c93004f620e6795b20ba90"
-    },
-    "src/Models/Cards/JunnaCardJG38.cs": {
-      "bytes": 456,
-      "gitBlob": "f63fe8efccea31ea8eff98c51fbac1635525c47b",
-      "sha256": "5a7515ed93e33bccb4437a3f9e242c5007b1eb631c94fa99aa64ac2b243e5d6a"
-    },
-    "src/Models/Cards/JunnaCardJH01.cs": {
-      "bytes": 802,
-      "gitBlob": "5836a7b99abc30dce3c6ef82a75ad0badc429970",
-      "sha256": "7215388ce39f917d1fec8e0f4b3f84f9af89a1fbf18eddb60a437e6db55146dd"
-    },
-    "src/Models/Cards/JunnaCardJH11.cs": {
-      "bytes": 498,
-      "gitBlob": "25ac45431cf23d239e780b8629a54a8e102e81aa",
-      "sha256": "c309cb8589af25165cf8146ac54e53bf05020ee3fc9620c2420bb6641831ec05"
-    },
-    "src/Models/Cards/JunnaCardJH13.cs": {
-      "bytes": 575,
-      "gitBlob": "87271d65440b0943556d420efd60b0a1626c51ed",
-      "sha256": "db3717e56049b9838dab60057e92b1fb22c1e47463913f8b28d40c0782d041b0"
-    },
-    "src/Models/Cards/JunnaCardJH17.cs": {
-      "bytes": 498,
-      "gitBlob": "91d1f38066805d3c6783d1502df34afc684d074b",
-      "sha256": "38225543283f19bb6cdc522d955ea6b009018418a401318bb9b3049923a40703"
     },
     "src/Models/Cards/JunnaCardJH19.cs": {
       "bytes": 412,
       "gitBlob": "a18a1314f25c9f24464de357d6f24848684a3860",
       "sha256": "1b23e9d3947212dd0a1b39c037968cfba3c88b74c5414cf8673a7abac393dad0"
     },
-    "src/Models/Cards/JunnaCardJH20.cs": {
-      "bytes": 399,
-      "gitBlob": "c652045d4d64afecbd5819337a29e6159a0876d9",
-      "sha256": "bacc824656b302cf2bead5d96f72afad7e5782e469680e2fdde7adc5aeeae92e"
-    },
-    "src/Models/Cards/JunnaCardJH22.cs": {
-      "bytes": 456,
-      "gitBlob": "16eb193d9fd5a4e75ea614cc1aa76f31f11c4484",
-      "sha256": "31ad5d12211e45818614fee3faf84fbf38434d72dc9e5c7ce77dc33795aac422"
-    },
     "src/Models/Cards/JunnaCardJH24.cs": {
       "bytes": 572,
       "gitBlob": "41e95f206680a448d1522d0eeee48c9aa57a8330",
       "sha256": "b1cc9cc21207c66cfb9a97aaf4d125c2f9049c378339959f60b44a2d00e50c5f"
-    },
-    "src/Models/Cards/JunnaCardJH26.cs": {
-      "bytes": 535,
-      "gitBlob": "23c3f587bb1f15f4008778511a556096d3953efc",
-      "sha256": "c3bc9e793676dfafa5c3f24dc55baf75ee542c59440786dba6bbb950a6a60332"
     },
     "src/Models/Cards/JunnaCardJH27.cs": {
       "bytes": 438,
@@ -1785,45 +870,10 @@
       "gitBlob": "43e284974366871a394d6a9dd71cac8b4ee24a91",
       "sha256": "19a93caf05db792668db2c02052fc63787b0021f71840a358b8fbec1915abb06"
     },
-    "src/Models/Cards/JunnaCardJH31.cs": {
-      "bytes": 412,
-      "gitBlob": "79d5e6c43e11857c2ff9ddde7eb2b739c1b08004",
-      "sha256": "742b0468ee1f81e41f4a583ed7412800825e53313a1610129094776f4d76b548"
-    },
-    "src/Models/Cards/JunnaCardJH59.cs": {
-      "bytes": 412,
-      "gitBlob": "a814cccce01f1cb8eabd05daabef2946f2d1c8a6",
-      "sha256": "58bdd9eb61bd8c9b300ea1101f74daa793c4433bd2dda2c0e4bdb31f240fd629"
-    },
-    "src/Models/Cards/JunnaCardJH60.cs": {
-      "bytes": 426,
-      "gitBlob": "146de7262cf33b8224ee1c5d1aa28efbe18e64a7",
-      "sha256": "a9110fe5cfe56810e15e8dde4be248a0936d8f19ed68c045978d470ed322a635"
-    },
-    "src/Models/Cards/JunnaCardJK10.cs": {
-      "bytes": 412,
-      "gitBlob": "639444b9cae1b476423a571f53f5061b566c1887",
-      "sha256": "acf7f90f9aa0c892fe1eac46bfb918f2a69b9651db999d4f62f216f506d76a7a"
-    },
-    "src/Models/Cards/JunnaCardJK10B.cs": {
-      "bytes": 556,
-      "gitBlob": "64cfbeed42933c9ef7b09a6f43e28dc627b75dcf",
-      "sha256": "f04cb8b79b5531a667fe9f7b1b7fb465dc060ac6d795da284112fd1fae24997a"
-    },
     "src/Models/Cards/JunnaCardJK11.cs": {
       "bytes": 528,
       "gitBlob": "0d37a03e9f7e435606cef78fa4cd25e8a06a4787",
       "sha256": "9b8d390f4508e59e9099a68ae0932de4608ce8ceb502974624f84a5e44bae4d0"
-    },
-    "src/Models/Cards/JunnaCardJK112.cs": {
-      "bytes": 439,
-      "gitBlob": "f5e95e1bd2f14bdc1f4d4c4477cccfc783baba5c",
-      "sha256": "ee07901c58c90857c1a8013cc2673d296ce60e4186c6cafdedf29655e515f2d5"
-    },
-    "src/Models/Cards/JunnaCardJK112B.cs": {
-      "bytes": 458,
-      "gitBlob": "b3b2334a147824d70b675caa9567d050ad06d042",
-      "sha256": "8a973f80f35726b2b64f8f931ef42622e1eea41b357d347b269b54f9985a069c"
     },
     "src/Models/Cards/JunnaCardJK11B.cs": {
       "bytes": 514,
@@ -1836,39 +886,19 @@
       "sha256": "4798362331a277519846252c7cad438394dc620dbb6f2a92e44fa1f7ce5bb646"
     },
     "src/Models/Cards/JunnaCardJK122B.cs": {
-      "bytes": 346,
-      "gitBlob": "1bb60de0bdb2018e3f664c1230de1f0da16c041b",
-      "sha256": "5e27714904e1be45bb7b5fc910917216fe64328d015871435dc2980b4a42b622"
+      "bytes": 573,
+      "gitBlob": "6fa80f115893f75994562ea756008af07413e330",
+      "sha256": "e395e0b9d6b6733f7535eb8c1031ceb6618e2aff445e9822476c70f571f6b535"
     },
     "src/Models/Cards/JunnaCardJK126.cs": {
-      "bytes": 530,
-      "gitBlob": "187c9fd73fdfc0fff8350e74e757481688b3f0e7",
-      "sha256": "f92766fcd2596865018359c0ab6bd5d428b4fb635ec5f1bd36705703646d0602"
+      "bytes": 1160,
+      "gitBlob": "71433513fbb79137dcb6174187abe906dbd47a52",
+      "sha256": "50a5e91a0ab4d347db2aa52dcc67f8aefb5c25660c68c58f5b036a244e64abf9"
     },
     "src/Models/Cards/JunnaCardJK127.cs": {
-      "bytes": 414,
-      "gitBlob": "5a017c9f99d6221343f893edf01aa9cd5078302b",
-      "sha256": "290e9f87e01962c237998228ee50f436508bebec071066e0867a7844eecbf135"
-    },
-    "src/Models/Cards/JunnaCardJK130.cs": {
-      "bytes": 439,
-      "gitBlob": "660396bb8690607c706aaad05654de333d48d457",
-      "sha256": "4afd3fbeedf9fad97b14907bbecc644f5c6d960259abadb99c4097fdfcd8f5a7"
-    },
-    "src/Models/Cards/JunnaCardJK130B.cs": {
-      "bytes": 458,
-      "gitBlob": "055e0c40c39a661cd90fbb46450b37fd3d15a351",
-      "sha256": "7906dec1a215f7b5055ca077b8454d271555f3b8f8dda2635bcb718cc18fe5e9"
-    },
-    "src/Models/Cards/JunnaCardJK131.cs": {
-      "bytes": 345,
-      "gitBlob": "6b8d97f3db6348d00529a8927c18b8af5a36f3f3",
-      "sha256": "17fb6dea62ba471e9bdf0d9adc473f7bbce47b34bc4020b2f83c66bc03e066d2"
-    },
-    "src/Models/Cards/JunnaCardJK131B.cs": {
-      "bytes": 458,
-      "gitBlob": "41c43f63644990e1aa82a9da6263e5e9cf88c12a",
-      "sha256": "c6408769919f945653be2d5b1d61c46f188e8b90c44426757f91093b8cb5c7a1"
+      "bytes": 629,
+      "gitBlob": "b4c1fb8cd5a8453d5465d0301f0764ba0b9908e8",
+      "sha256": "d97f23f4532ef80dc4374ee2cdca3f1f130d120267a3e8a11c193999cd90386c"
     },
     "src/Models/Cards/JunnaCardJK133.cs": {
       "bytes": 560,
@@ -1885,85 +915,10 @@
       "gitBlob": "6c6c90905e97bc104039ad45ca0c655bd8da27ba",
       "sha256": "6da200f24c69afb21c77c29afb7ef4db9eaf58427b0303124aae471a3889e02d"
     },
-    "src/Models/Cards/JunnaCardJK139B.cs": {
-      "bytes": 436,
-      "gitBlob": "cc7d7b7616b96124a090abc66325943e74c6ac5d",
-      "sha256": "7ae8adc6a7701a48297a0b2906e4e3bd168e853c2da8bc79e479fdfb730cb51b"
-    },
-    "src/Models/Cards/JunnaCardJK148.cs": {
-      "bytes": 526,
-      "gitBlob": "495d6621664626e5636969e8ed25eb5eb5b2f014",
-      "sha256": "c072944c7e34c4415f26097e7636163928f2cf4f8f5ef4b92f64a49e1d98c71a"
-    },
-    "src/Models/Cards/JunnaCardJK148B.cs": {
-      "bytes": 679,
-      "gitBlob": "2cb6148d50652520590b8acbc61060e92f816bde",
-      "sha256": "89d6a233775e9475b420bbe4ba460161f1ddafff12e5bf2e9f3fa0653ca4c898"
-    },
-    "src/Models/Cards/JunnaCardJK148C.cs": {
-      "bytes": 444,
-      "gitBlob": "b62c3526d4461cf3faaca5e0a20779ca06c35c0a",
-      "sha256": "08d94d0946e0a8556b216320103caccf9910e53b56c6d21380d586e9fbf127ba"
-    },
-    "src/Models/Cards/JunnaCardJK148D.cs": {
-      "bytes": 458,
-      "gitBlob": "84cc4cdc630e01fa1f569a0eb39f7a13ef7429eb",
-      "sha256": "50b2d7798688dd68aef386ceeb14db70b0dbc1a7b002676e51e17c9f85c9a04d"
-    },
-    "src/Models/Cards/JunnaCardJK148E.cs": {
-      "bytes": 440,
-      "gitBlob": "18f9af51a17a59d91fb9bcebe9e3e154ab1406d5",
-      "sha256": "b4d8c29e72ef65381822bb71406d53bad712e5846638997a6cc991fba64d92e0"
-    },
-    "src/Models/Cards/JunnaCardJK148F.cs": {
-      "bytes": 436,
-      "gitBlob": "0fa051c7798c1c4dcdf8d8f95e0b23c06952d147",
-      "sha256": "b9b89f46921790a720132db29871d6143e1b91d50a20f9ba29f5d80db4527322"
-    },
-    "src/Models/Cards/JunnaCardJK15.cs": {
-      "bytes": 412,
-      "gitBlob": "e6ece921378553e562d9d66c5a2c65bcf56928ab",
-      "sha256": "56b1f671121a0295e8a3cd570745b968bcf35e6d4f9ac663156f05a82a60e392"
-    },
-    "src/Models/Cards/JunnaCardJK15B.cs": {
-      "bytes": 439,
-      "gitBlob": "fb2d2c3d561e224b577af8718f6337ffe0e20535",
-      "sha256": "a9c85927bc8060fe416cdd7841fd1b5cfc154af6fc5fabe94d03016eb0e270db"
-    },
-    "src/Models/Cards/JunnaCardJK184.cs": {
-      "bytes": 788,
-      "gitBlob": "405926e398edf029ec13c56d9ac6e94bdef21e06",
-      "sha256": "82d5f80777f757a29a1d2035c256654a0b89fd49e899e2112c4ceb073b5b448e"
-    },
-    "src/Models/Cards/JunnaCardJK184B.cs": {
-      "bytes": 434,
-      "gitBlob": "b4fb3fc8f7f6c7a2e769927c910961d742cf280e",
-      "sha256": "16a09a1bf0a42ae3cfb86a8c832eb0a575c90d71b2c9388795fadc97fa786c97"
-    },
-    "src/Models/Cards/JunnaCardJK184C.cs": {
-      "bytes": 440,
-      "gitBlob": "e32dc89e78ea8b37fc2d3e1ec7625124280d1fe1",
-      "sha256": "6383ed74f70f282d48d8d5e195b9465dcb5d89dda8b4c69dc6b28d2b577dc271"
-    },
-    "src/Models/Cards/JunnaCardJK184D.cs": {
-      "bytes": 444,
-      "gitBlob": "1865740d3685a49ad874e1e2607faba0dbb9079c",
-      "sha256": "46ad4763e03533678b6d328b5e2b5e2b1865f0b5b29591caa7f8b81676dc3db5"
-    },
-    "src/Models/Cards/JunnaCardJK200.cs": {
-      "bytes": 457,
-      "gitBlob": "5248722e45313ac64c32121b95b939c285515336",
-      "sha256": "34c447a3846b3a299176b0ea47a8ba321918ade6d1296b4435cca55a42bdeb79"
-    },
-    "src/Models/Cards/JunnaCardJK200B.cs": {
-      "bytes": 440,
-      "gitBlob": "fd649a34e5fce4be101aad3dc93cf748b2a5c620",
-      "sha256": "a67b72dca0d971b61a6d7ad72c5498acddc74ab1512ad5d5c10f92a7a30bb0ae"
-    },
     "src/Models/Cards/JunnaCardJK206.cs": {
-      "bytes": 515,
-      "gitBlob": "64953ebfd5893b44cf3d56b330e0d2b33c12f153",
-      "sha256": "0222ac4a1e71cdafd6860ef3027d3f46d5bcbb96a9f8f7c545b8451a893f0d00"
+      "bytes": 697,
+      "gitBlob": "24ef8b499f50ce4eae2f3c8b426140c8d52527a0",
+      "sha256": "338c3f4f3b7c5e7f9d6c7b0950fef910bc709395c195fbb5cf98f9560f71ddff"
     },
     "src/Models/Cards/JunnaCardJK206B.cs": {
       "bytes": 679,
@@ -1979,11 +934,6 @@
       "bytes": 602,
       "gitBlob": "a63a975e6b4cc6841469196cc23b82417afbd68b",
       "sha256": "bb0b84fce16129e35ca2e604f245a35df0e5247b990e248ada62d276db9f726a"
-    },
-    "src/Models/Cards/JunnaCardJK254.cs": {
-      "bytes": 414,
-      "gitBlob": "5ae07ce94162d6c3abe185e0180973077cc6edce",
-      "sha256": "773f2be97dfb19d8b50774df04f48cbf8b0ed1067ca076bc22c3fdfc9966344b"
     },
     "src/Models/Cards/JunnaCardJK260.cs": {
       "bytes": 414,
@@ -2016,9 +966,9 @@
       "sha256": "b0d236eef499789af291d0b7c740bcfa6a15d4658a86a3d10289c10f965bf878"
     },
     "src/Models/Cards/JunnaCardJK314.cs": {
-      "bytes": 756,
-      "gitBlob": "6d9e41242a1b3d49628cb2cc0a371a6f4a88d9a9",
-      "sha256": "d90fb7eb450e55dbb8d333aa8f191d6e15b1fca2689680188143404bb22502c3"
+      "bytes": 1368,
+      "gitBlob": "0d2f9c4e0df3977ba05e22c12eb076d772fffeac",
+      "sha256": "c47f49ccffb2583a35658dacef7d7db433bb2527111e8b94dfe0363799c0aee8"
     },
     "src/Models/Cards/JunnaCardJK32.cs": {
       "bytes": 412,
@@ -2035,20 +985,10 @@
       "gitBlob": "3c81045c7312f4cb4b8f2a644ca262a0338cf167",
       "sha256": "85d2860a1b36be8958cd6a2682becfb1f0d75bdb919613bbac9f2b95328d3f4f"
     },
-    "src/Models/Cards/JunnaCardJK33.cs": {
-      "bytes": 456,
-      "gitBlob": "a1ead6e397d14f3befe5a91bedc7355b9430a4b9",
-      "sha256": "3f9577d194639e6a696278bdb0db713abfaa3ac4fecdc7dbddb5aaec949938d1"
-    },
-    "src/Models/Cards/JunnaCardJK33B.cs": {
-      "bytes": 457,
-      "gitBlob": "1000f4d40626dbe8cb6c443e5f6a27b72c37b09a",
-      "sha256": "32b50f67594caf62fee9fb986ec4de7ab09c8b8623ab78c88286f1e9c66790ea"
-    },
     "src/Models/Cards/JunnaCardJK37.cs": {
-      "bytes": 456,
-      "gitBlob": "be84e6c713106453bddbe4064c520a014d642fd7",
-      "sha256": "33b7228812206c07438ad240fc0cecd36e42f3040ffa8e900cbbe35ee7ab158d"
+      "bytes": 825,
+      "gitBlob": "5141daae12044c34560ddf8f958e411132abf865",
+      "sha256": "582df26e1987479047823b2ec39111ce7a0847d0022266c4979580dbaa456ccd"
     },
     "src/Models/Cards/JunnaCardJK37B.cs": {
       "bytes": 603,
@@ -2060,65 +1000,10 @@
       "gitBlob": "a35a37ef1319cad829eac09282e74a0c5099f89b",
       "sha256": "b870684b5d2bfb7bb3ad689b3d620f4a1b9688b5bcb9b982840227cce4b5ccc6"
     },
-    "src/Models/Cards/JunnaCardJK400.cs": {
-      "bytes": 414,
-      "gitBlob": "cf0d4a35d292d3d96830a45514671826ebc17636",
-      "sha256": "d872e7c8bded4fd47e7e31498ec5c3ed09033a3ef8d11b0c0a8719dca4626012"
-    },
     "src/Models/Cards/JunnaCardJK400B.cs": {
       "bytes": 416,
       "gitBlob": "50ec0ec096d2fdc94da419d9ffc80c3d26416be5",
       "sha256": "f66af5af5651b893e71ac03cbd0edf741622367f1e1ff35fdda588c0556d7f95"
-    },
-    "src/Models/Cards/JunnaCardJK43.cs": {
-      "bytes": 456,
-      "gitBlob": "12836e84f7a7076479d72e16b01b1c51aa1ba02e",
-      "sha256": "f354a60328e52e28209f9ec735402afced26a0e6e881c93a3f1c0bf5f2697353"
-    },
-    "src/Models/Cards/JunnaCardJK43B.cs": {
-      "bytes": 500,
-      "gitBlob": "c15096308d1a13e30077b85d550074e4ee6283e6",
-      "sha256": "5d0e2be2f2a371b4b9f8bee61d5546c9600798c23d64cbb634f27d5041487f26"
-    },
-    "src/Models/Cards/JunnaCardJK44.cs": {
-      "bytes": 456,
-      "gitBlob": "1149720a7e2358509196a005086dc20c93959e03",
-      "sha256": "3e403cf1aaf640e5fd342c7e5d03b0ff1b5ccf34ff45dc89863960602ada92ff"
-    },
-    "src/Models/Cards/JunnaCardJK44B.cs": {
-      "bytes": 345,
-      "gitBlob": "2653b1b672555643b247fbd7e102209804a0945c",
-      "sha256": "6353780ae7363a1ec7b5ece28dcfb8debd55b76ec64dc0c8a6f338cc94acefcc"
-    },
-    "src/Models/Cards/JunnaCardJK45.cs": {
-      "bytes": 456,
-      "gitBlob": "19995ab33850b42462fffcdc51de7bc8314eaf23",
-      "sha256": "d554f3c1b274d2425794bfc895606ed52faddfd9b388b384c4db53800d1d6fc3"
-    },
-    "src/Models/Cards/JunnaCardJK45B.cs": {
-      "bytes": 433,
-      "gitBlob": "bbae2232e91a9bc34983deaa9cc5f18d261b342f",
-      "sha256": "f72009e4f406921d02a6b8984ad6559ede8e6ab24c791c6fa04419bdb01286a3"
-    },
-    "src/Models/Cards/JunnaCardJK46.cs": {
-      "bytes": 412,
-      "gitBlob": "38bc5a9a41568e5030fc976b5bd5ed93d82cb1e9",
-      "sha256": "4f168eb597940214b72e42d8740dc3a21e77e55470206a99cd53801dfae4832a"
-    },
-    "src/Models/Cards/JunnaCardJK46B.cs": {
-      "bytes": 457,
-      "gitBlob": "3a3c8aa7d425044981a63c7fa1c69d308a7cff08",
-      "sha256": "b7e14b1e714e9854897263610294b504c701c768122eae53ad0dcdd0a1dd5c0f"
-    },
-    "src/Models/Cards/JunnaCardJK48.cs": {
-      "bytes": 514,
-      "gitBlob": "92c83c4be4c1dc49e0d366d5d6e7f78093822d98",
-      "sha256": "25b0ea85aba278765d1c50a233ac957bbb5514a98ae7a3e254d876fe8ddc04d8"
-    },
-    "src/Models/Cards/JunnaCardJK48B.cs": {
-      "bytes": 576,
-      "gitBlob": "8357cd83f530b7dfcff0d09cb3f707296c747965",
-      "sha256": "3aa0fdc3d4a34691140b512a71bfa36b3e3d03cec6991ffc2b5fb2d07ccd5196"
     },
     "src/Models/Cards/JunnaCardJK49.cs": {
       "bytes": 456,
@@ -2130,60 +1015,10 @@
       "gitBlob": "f7ceba7f4360246ff409d3b8179d49a1db3e9f2d",
       "sha256": "6ec8f9a9e270f7fe803868e3c85682870e6d2e00cd7e958c22130bc15a5aa3c2"
     },
-    "src/Models/Cards/JunnaCardJK50.cs": {
-      "bytes": 456,
-      "gitBlob": "1fae0d1b197e794024886afe066e6e740e36ba90",
-      "sha256": "07112343efb765ad76dc917a803aa3da5e101ad4facb95e98a9e4528d25b1277"
-    },
-    "src/Models/Cards/JunnaCardJK50B.cs": {
-      "bytes": 617,
-      "gitBlob": "d0a535e99ebb0ce4d13f98cebfc75495109dc057",
-      "sha256": "cebe5a403606acc15deedaafecade40a24ad43e6f2262ad72624e1f1c60e6dba"
-    },
-    "src/Models/Cards/JunnaCardJK67.cs": {
-      "bytes": 412,
-      "gitBlob": "a694b08976d4270c2fbff9764b4263dced02cccf",
-      "sha256": "b28f8f23dae7bdb43db010595732825991733bb56be81ca5e25253005fdd4cb6"
-    },
-    "src/Models/Cards/JunnaCardJK67B.cs": {
-      "bytes": 457,
-      "gitBlob": "db4885edc174269713b4a1ec60e4f0339b51b9a9",
-      "sha256": "b6bad7b2e2c12ae990d1d2614c4b655a9ea6afc54b0e86dae48bf4b5ab426329"
-    },
-    "src/Models/Cards/JunnaCardJK75.cs": {
-      "bytes": 412,
-      "gitBlob": "d7f8f6981e50619e5a3368fa283cc4a682959068",
-      "sha256": "2519ca2ade14f2d8dd6db91d91b06d52dbf52e049795c544bfa1b022b885b988"
-    },
-    "src/Models/Cards/JunnaCardJK75B.cs": {
-      "bytes": 457,
-      "gitBlob": "32be5b00c0e7f56f9c50d9c7e7ba99bc321dc463",
-      "sha256": "4e135f84aff5a4486c75b330b1d9c89388b942ad1513a22faff9dc4fd40e950b"
-    },
-    "src/Models/Cards/JunnaCardJK78.cs": {
-      "bytes": 344,
-      "gitBlob": "015cce8a8afe0228b1b06cedfdb304d70ca3dba1",
-      "sha256": "057c8f726aea23909a0ac665acc1f96f2792b8223f25126a6133f5243e75aad1"
-    },
-    "src/Models/Cards/JunnaCardJK78D.cs": {
-      "bytes": 345,
-      "gitBlob": "8c5fbd41fe169bc93baba5d9e37196b30d4ec72a",
-      "sha256": "9953e4074f811a33aa06f08a1e8b5ff9cf7b64edc923d367df9df36a50ff9cd7"
-    },
-    "src/Models/Cards/JunnaCardJK78E.cs": {
-      "bytes": 345,
-      "gitBlob": "22d4c3e680aea0e96341e1a17fd6b86b12f0bde7",
-      "sha256": "e94cc40c840e61de33531d263348836880d422e0f4664985399110f454abab97"
-    },
-    "src/Models/Cards/JunnaCardJK80.cs": {
-      "bytes": 439,
-      "gitBlob": "67965647777f34871909a5b865cb4cefbe6d499a",
-      "sha256": "f23b2e0317be053f429641b8ade7cdff523624286be0a5a197517513c6221cd1"
-    },
     "src/Models/Cards/JunnaCardJK82.cs": {
-      "bytes": 543,
-      "gitBlob": "2a5d3bc92f0d19de849ccae684504d879d2af777",
-      "sha256": "3e6958e1e0f61dae2d040e24180e64af05a93e6749c56dfd0dbbc7db87eacfd2"
+      "bytes": 1444,
+      "gitBlob": "be556ffd799e414e33590838b2731f8cbf14988d",
+      "sha256": "1680ce0c1b18c18598b674d881d8a1630f65b29543443fc4ad7076165b4e51fd"
     },
     "src/Models/Cards/JunnaCardJK82B.cs": {
       "bytes": 443,
@@ -2196,89 +1031,29 @@
       "sha256": "4a15b238268808a9e98245ec02757ca9199b806dc7bec018362301ce9ff9febd"
     },
     "src/Models/Cards/JunnaCardJK84B.cs": {
-      "bytes": 518,
-      "gitBlob": "173ce0e0b099247471de8102f9b8c682e0753dab",
-      "sha256": "f2ff3f329c2a69a6e91fb59a76aa69af6af0e4da04b085465175ebfb03aef4b0"
-    },
-    "src/Models/Cards/JunnaCardJS19.cs": {
-      "bytes": 456,
-      "gitBlob": "ceb370310c25758309a335599c6aa4f93684c4e0",
-      "sha256": "7ea418c329ca1038c4de24c24c753f24626474bb368ee885aa55af5b1eb8b3f7"
-    },
-    "src/Models/Cards/JunnaCardJS33.cs": {
-      "bytes": 421,
-      "gitBlob": "aac23813ece3d18f26c98ce7ddd589ad5f782b28",
-      "sha256": "a69fb7874d6c991feb53f07d493c0e191100f622d9c25c94d21c6941fe1354da"
-    },
-    "src/Models/Cards/JunnaCardJS34.cs": {
-      "bytes": 442,
-      "gitBlob": "824230292f532a7a085a293527d606da60fe0735",
-      "sha256": "d534a1da1b05721015bf374cdec7c115102b144733a5b694f197935b5bbe74ca"
-    },
-    "src/Models/Cards/JunnaCardJS35.cs": {
-      "bytes": 438,
-      "gitBlob": "e840e00812633d734c713f31003b651f7a2f1205",
-      "sha256": "65c5ce318a4ce2dbf2890c38148b86a0f68c052226390570e8d296aef4cc79c1"
-    },
-    "src/Models/Cards/JunnaCardJT02.cs": {
-      "bytes": 566,
-      "gitBlob": "0e345a90b2099389f2bc5e05539a7558b34ef637",
-      "sha256": "3b719115158bbaebbfee9be48b749ba357220dba25bfee86976766985c282544"
-    },
-    "src/Models/Cards/JunnaCardJT03.cs": {
-      "bytes": 535,
-      "gitBlob": "203b768b100bacd313635aa3e2a6b6e745dec2de",
-      "sha256": "89d0c0dbe2b5748e15c0cbdbf2e574fbcc98ce9ca35dde5dde4e23c711349fdf"
-    },
-    "src/Models/Cards/JunnaCardJX01.cs": {
-      "bytes": 438,
-      "gitBlob": "5cd2042116949ef9f82df1d019bc46b9b0292d02",
-      "sha256": "01334ba25f7b3f12678a64b559be878d8aeed163265baa14ef7c4a0640e56e52"
-    },
-    "src/Models/Cards/JunnaCardJX02.cs": {
-      "bytes": 619,
-      "gitBlob": "8f32ec55dd2f34bffd96ff8036f9144bf2512273",
-      "sha256": "5bedba945f84228e6acda8c51b73dbbf60c0416be47687624550d93b8563a671"
-    },
-    "src/Models/Cards/JunnaCardJX07.cs": {
-      "bytes": 498,
-      "gitBlob": "4c1e8d9eb48268e67f0d2f32875de4b4641f38ff",
-      "sha256": "97fb7b2c46cb8e2b315f3379fc57d38fa7b6f19ea4fb3cde1f25bba0db50ce00"
+      "bytes": 630,
+      "gitBlob": "eb0caef751761377c20166b419df5265f1a08a57",
+      "sha256": "1652d5f30ede298ced4713aefadc1f424d9a0f06ee6747e94456ee1e256c5d09"
     },
     "src/Models/Cards/JunnaCardJZ03.cs": {
-      "bytes": 456,
-      "gitBlob": "d5056b3b4ef62373a69fe8484faa6cc2695fca61",
-      "sha256": "91566e5b6e79201ac8c2472ba0470eee01d16bbca020b821c6a7d6fdc2687963"
-    },
-    "src/Models/Cards/JunnaCardJZ05.cs": {
-      "bytes": 412,
-      "gitBlob": "86307568a1e6bae56110c5a77128543e08da9c8a",
-      "sha256": "dfa07b41c5be4f5c780eb375d8fc8a302668c2370b6777e55300146d11d05884"
-    },
-    "src/Models/Cards/JunnaCardJZ06.cs": {
-      "bytes": 412,
-      "gitBlob": "6fdba90c827e7484fd597d6c2fbe8b5d6c770999",
-      "sha256": "b5276c2220a5d2b7059fd64eee8a20c4148b5ba8ce4c42234fbc14db0e7be5d5"
+      "bytes": 517,
+      "gitBlob": "65e849d8548a3131a025429ccfc285837cdfc18f",
+      "sha256": "e66a381f12b3025bec08a0e4487a067a63ae5020501f0e4d8ceacde25f77b4f6"
     },
     "src/Models/Cards/JunnaCardU_CARD_005.cs": {
-      "bytes": 844,
-      "gitBlob": "953b2f81b07812c33cfeea90c1c49e5b5af470db",
-      "sha256": "bfa7964b1adcc1a1b13469489270ad924fea287b10d72519960267eb447f8c26"
+      "bytes": 885,
+      "gitBlob": "3767ef76032f32ce55e64e07bdcc16b9864b36ef",
+      "sha256": "aac11ad74b1befa6b10827b46e381e3d692fdf6e889128afb552e710ba874515"
     },
     "src/Models/Cards/JunnaCardU_CARD_008.cs": {
-      "bytes": 424,
-      "gitBlob": "3c3bf668359ca3b9be22f3fe561a556d7de0ccb4",
-      "sha256": "5dc6df86cd43cf291a8d501d212f8801d75c1630d55811cc7df508c1e2057388"
+      "bytes": 494,
+      "gitBlob": "ff1405b199fa263bcdfec3a3842424936d83eb39",
+      "sha256": "aa6c5f365348834da7d2e08c585656087e1b23738d3bd7206402a5149b8bf0d9"
     },
     "src/Models/Cards/JunnaCardU_CARD_008B.cs": {
       "bytes": 513,
       "gitBlob": "83d7eba09088b9cea1e40ea7990b57d7ab0148cb",
       "sha256": "5a61eec7ea93b5c094442ad22576bfacd3eeb3d314fdb28b971956094ccda3f4"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_009.cs": {
-      "bytes": 433,
-      "gitBlob": "4051ca51402523095690383fc94d32557103214e",
-      "sha256": "e82c932045920af3a3affae142bc85ad9c3f51a93c3782acccebfe67f47a35b8"
     },
     "src/Models/Cards/JunnaCardU_CARD_010.cs": {
       "bytes": 424,
@@ -2291,9 +1066,9 @@
       "sha256": "aa2e5fb5f4e7287db1014e08d1e40135560cd3872ea2ebc8ea1d110e2d81f153"
     },
     "src/Models/Cards/JunnaCardU_CARD_012.cs": {
-      "bytes": 462,
-      "gitBlob": "e292fcac79ff39d2460653477cf212985404abc8",
-      "sha256": "dacbd686c6e81153e350a7fba003843ac3bc373511724166eb8a702d7a2b9559"
+      "bytes": 958,
+      "gitBlob": "bcb94cda0958142d66bdf7d6fd1ddd479a1ba9aa",
+      "sha256": "ff22b3e00abbbb5c58f35d01367709d6dd6937bf35399cfdb3b339695e63f50b"
     },
     "src/Models/Cards/JunnaCardU_CARD_013.cs": {
       "bytes": 547,
@@ -2306,34 +1081,9 @@
       "sha256": "ad19e1e7f3360519708ffb7721836c5163e16a84aeebfca958fae6b4a8822488"
     },
     "src/Models/Cards/JunnaCardU_CARD_017.cs": {
-      "bytes": 510,
-      "gitBlob": "8b03ba2c58c5a14de9bd4c28b406277a62d2ea7b",
-      "sha256": "5879fb5e10dec3a8919cbc5045d74aea9fe0c76c67de59a417ddf18d941499fc"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_018.cs": {
-      "bytes": 462,
-      "gitBlob": "31dc357da87109371b7ebd97d1f76182c4bb045a",
-      "sha256": "92cddc233a488b6c29cbc68a47a5579e7628cfad447d894d037367c8f983bc02"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_021.cs": {
-      "bytes": 462,
-      "gitBlob": "5aa232709c1507b79c9743bf988b2ad190a30e37",
-      "sha256": "fbd9809ea42cb655b9283c06c4cf32dc0e5706de4821586074c97f093ef16e1a"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_023.cs": {
-      "bytes": 607,
-      "gitBlob": "8cc91d8445870bb234136ac359a38320eb65ac51",
-      "sha256": "50e5ecb7e1be3d9d36c85832971592ba6912aca78947633ef77bb881aa5d476e"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_024.cs": {
-      "bytes": 448,
-      "gitBlob": "e4ba23e9273bcb237cc06d6c4758328defd1f098",
-      "sha256": "c90a2f812c2d133661ec4eb16ec80012fd10de74bd986cdfdc0ae91d7febd393"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_025.cs": {
-      "bytes": 440,
-      "gitBlob": "5cd5b9510ad02ddcc5aae5eaad7f538fd46156d5",
-      "sha256": "75bde1a59ee7b0ebf593b9fa1b154fe6969e445bd3d3e87d1675c634aeb1ad0e"
+      "bytes": 1028,
+      "gitBlob": "46c86bb69695ca809f940090873f9d3eff3d42ef",
+      "sha256": "5f5347df88bf7e173cd338335a75c851c907fe8a47d5277d2d03b3c29278b04f"
     },
     "src/Models/Cards/JunnaCardU_CARD_030.cs": {
       "bytes": 966,
@@ -2360,11 +1110,6 @@
       "gitBlob": "7c25860c9383e34eff24877af1a9099ba7d20aeb",
       "sha256": "2955321ce6349ac8fa189ed752818488b24d22a9ef725c2c12d4867fc641400c"
     },
-    "src/Models/Cards/JunnaCardU_CARD_035.cs": {
-      "bytes": 508,
-      "gitBlob": "fcc45ee96c9518f17f48a0131bf660e66f578494",
-      "sha256": "bc262d9078c83b3dfeb9eb9cde024e5f3a3a27418aa62abe18be9670c4ba49f7"
-    },
     "src/Models/Cards/JunnaCardU_CARD_036.cs": {
       "bytes": 831,
       "gitBlob": "cf59a6ed832260dd9322be49638d715887c4af89",
@@ -2376,54 +1121,29 @@
       "sha256": "e50757491def0a849d277ad3f87013d0b3a7a29c62076f82024ce7780eb2500c"
     },
     "src/Models/Cards/JunnaCardU_CARD_045.cs": {
-      "bytes": 695,
-      "gitBlob": "39433f77a4f31016b196aea9e7a277ca3b05b715",
-      "sha256": "5ae9410ed92035bca9f43921d901a50d4013fe0819fcd599b10ac6960cf58586"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_047.cs": {
-      "bytes": 559,
-      "gitBlob": "d9d9e243c27624d845d4b41dca6edca1990e2726",
-      "sha256": "d142b80131ffc4889d30ebcc6750a4a9e23a05f552db33affc3128081d7afa10"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_051.cs": {
-      "bytes": 462,
-      "gitBlob": "9eb538c79ee1606628466183a1dddbe847cbe13d",
-      "sha256": "cbe6089792eb231679e29d0da998ba0ca2fea720b45442b51ae63be846ff3ce7"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_052.cs": {
-      "bytes": 710,
-      "gitBlob": "30fb1dca52fad30354e1b47685072cd76c808f3b",
-      "sha256": "913d57a94bed52608b9cf61e0bdb6a8604992e0962801677a3a62c1a9ec9884c"
+      "bytes": 891,
+      "gitBlob": "f232ccf9f0d64aca04b0250053d4dee2242013bd",
+      "sha256": "c528bf302f8f371f259d7c85ededb8220b598e510412b06d178b7f54d630b163"
     },
     "src/Models/Cards/JunnaCardU_CARD_063.cs": {
-      "bytes": 537,
-      "gitBlob": "eeeda6b7705468286f894b1e17b8bde8e39ce4b8",
-      "sha256": "8b5dbe6ff0432b212c32bc22fee35598979a3b99e6de5c6534d6d3cf0ce7c70a"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_074.cs": {
-      "bytes": 602,
-      "gitBlob": "2bf79e3bbef0b6ee202e261fac9115e2ca687b17",
-      "sha256": "90c033990eb72a5518001ff48cc429b4b78d4c71d28b2ac4a32871068f484d0f"
+      "bytes": 646,
+      "gitBlob": "b42d8f94774b02aa0abb92d0625a7bd2f2d90414",
+      "sha256": "57f3a280bc94f75f340543c38c78131af045d6c79ec6505ca9a38c5edb6fc42a"
     },
     "src/Models/Cards/JunnaCardU_CARD_079.cs": {
-      "bytes": 584,
-      "gitBlob": "b05321c64b893dcd289e003a43dc8e70565e3e4f",
-      "sha256": "4f895d3a5950f381b4b130f4a96893317f9d3ad38e110c1be1c1ff03d3cd1f48"
+      "bytes": 695,
+      "gitBlob": "e4395fcd592c3c262b4d0e41b8daf40607a3e2fc",
+      "sha256": "ae3d1c64ea4d9bb614d352bad70afcba1139cfa9f06c7d0f5cefe4d31e576307"
     },
     "src/Models/Cards/JunnaCardU_CARD_130.cs": {
-      "bytes": 420,
-      "gitBlob": "bc5ccebbfb5acfb0a339d815e5a0f27b40d7ec71",
-      "sha256": "9a8b2087cc5881f69f7c9ddcef3b764c5e46f3d5033d63ec3e4d645bd4076388"
-    },
-    "src/Models/Cards/JunnaCardU_CARD_131.cs": {
-      "bytes": 1417,
-      "gitBlob": "7c32c1d1d3f522c496e3bd7aa3c6b774bb6cd90c",
-      "sha256": "ef22cb5a5edac4b719d7df9ded5c59276aba84bbef517ca77b5bb69654ba1028"
+      "bytes": 953,
+      "gitBlob": "9895c6aa2c7f75ae64cdc5a95403f070b2f5ec9a",
+      "sha256": "61a69492b33d3a16b5f3b3763ca16c3bc3878346adba6e8be6ee8a3df6ffdeec"
     },
     "src/Models/CatalogCard.cs": {
-      "bytes": 5814,
-      "gitBlob": "a3671c16efc397e8c6baa8409277d196d9f03f78",
-      "sha256": "fd99fca1f6897700243a820f85683d7d319b75a0bd3cabe148b1346e6fb18a85"
+      "bytes": 5117,
+      "gitBlob": "7235c6009b6f80fc5c78174a2590299a272d6b1c",
+      "sha256": "00ef7c4a18d6b4d4de222ccc84f3f441d947faa4ac6669095c769a3ad09a1a4d"
     },
     "src/Models/CatalogPower.Cards.cs": {
       "bytes": 1357,
@@ -2431,14 +1151,14 @@
       "sha256": "b5ab6dc18f42eff71ba6ab324f028df503410e522c1dd9599d147bc64f145da8"
     },
     "src/Models/CatalogPower.Description.cs": {
-      "bytes": 6183,
-      "gitBlob": "24e3276a271bda89d1f03be3ebc1b24f3a64a522",
-      "sha256": "de4b7abcdc15f31778586a61820507c5e993ad7c45d57be5c86d1c790fd15e5c"
+      "bytes": 5837,
+      "gitBlob": "c4d80ff0859304dc1362a8645e18625a6df58e46",
+      "sha256": "13f00c9274e41a75a049a8a2eb47fe23594e9a606322c4bb538c13acdca37508"
     },
     "src/Models/CatalogPower.Rules.cs": {
-      "bytes": 12860,
-      "gitBlob": "c81aa1cf14ae8732b8b171222c1a8cd88be22e12",
-      "sha256": "128c55daa50e88e7be4a7b8f3a876567e1b069a3860955726c7e331ef93b5e7f"
+      "bytes": 9439,
+      "gitBlob": "8f2703debf62568ae28b1c0a4e5a2c4d100d5688",
+      "sha256": "7a193be169fe8b09ec5707b0d7064a801cfdc8c6c9f021c5f2ef95d25d6bedab"
     },
     "src/Models/CatalogPower.Turns.cs": {
       "bytes": 1836,
@@ -2446,19 +1166,19 @@
       "sha256": "201f17bbc319782ec46ac7b9294ab7f2cf8bfb836b704d43d6a7e935cc1ce72c"
     },
     "src/Models/CatalogPower.cs": {
-      "bytes": 5450,
-      "gitBlob": "31c14612214143f81e9beea15867f12e4efc75f4",
-      "sha256": "07bfd98a4aadead6c1b24efd291476c834877d598ccd569793eea9f6b2122d61"
+      "bytes": 5275,
+      "gitBlob": "05b181abfb177a4ece198e5ce0d4cd4c85a34536",
+      "sha256": "cebc55fdcb3ac46a7a63cbe7e5af3070a8212d2e6930de999d4c079d9fe0a091"
     },
     "src/Models/CatalogPowers.Generated.cs": {
-      "bytes": 3560,
-      "gitBlob": "0e13ed594c9a31327957a4ae5db0283fe8a09d92",
-      "sha256": "a09ee354c912be88c8067e4c9826ce0c3d69086155e9f67fd0bdbfcfef0f479e"
+      "bytes": 2140,
+      "gitBlob": "c037cf2fc0f3da4a8f293a4878fa2f126af0b46d",
+      "sha256": "c4e54d732f72960c130d045f9245e4a6c69848a0f98b58aacef195bdf8995482"
     },
     "src/Models/CategoryResponsePower.cs": {
-      "bytes": 1589,
-      "gitBlob": "af51b414cb54de72eed96e30a55d2beb47846ebf",
-      "sha256": "d602c25cfac290935fdf49ddf930cb58eb4851c513ff4486d28493c56e3442b8"
+      "bytes": 1665,
+      "gitBlob": "1f0529d047172bd207a366aaf99da38fb7762027",
+      "sha256": "2cd576e65d53b0e9bf3277e8a02a376eb703dcde523225bc170907ea200824ae"
     },
     "src/Models/Junna.cs": {
       "bytes": 3964,
@@ -2479,6 +1199,11 @@
       "bytes": 1578,
       "gitBlob": "5f69c2db6509ac675f8bbe53a62c09d066e0a19c",
       "sha256": "8970912bfb69240b7596aac00c93a5d66404c689f7f6083857c56c215774ad83"
+    },
+    "src/Models/JunnaDistantStarsPowers.cs": {
+      "bytes": 1052,
+      "gitBlob": "22973f432cdbe04d8d9227d155d4ea00ce6a82ef",
+      "sha256": "a1d95a779cdd4bea0635fcf75990a130f303624f9951ef0e0e1e547bfcfddb17"
     },
     "src/Models/JunnaFullDraw.cs": {
       "bytes": 1242,
@@ -2501,9 +1226,9 @@
       "sha256": "d45c69a447a027c9ff96c3cab573f3fd52699424acefe64502c7192866f91395"
     },
     "src/Models/JunnaNotesChoice.cs": {
-      "bytes": 1940,
-      "gitBlob": "223985d775d66a2707ce5243558ffd6a38569327",
-      "sha256": "3ac0f742c8c376d278495a95e9f9703b7e7b9ce3522a253cc0ebbd7e8b1982a0"
+      "bytes": 836,
+      "gitBlob": "93e670f2cf91c6af829f76874503f1730d1e890c",
+      "sha256": "746d830cf40258740794cc7566e4d32925eb02ffa9c843612260dab7d98e9927"
     },
     "src/Models/JunnaSpikeTape.cs": {
       "bytes": 1361,
@@ -2516,9 +1241,9 @@
       "sha256": "d49d81da5dece182937419eb463a08c04f140d690bdb49dc02e8da6a8474715e"
     },
     "src/Models/KnowledgeDamageVar.cs": {
-      "bytes": 2260,
-      "gitBlob": "d5c08eea30639df30d79b813d57755e6ed21a333",
-      "sha256": "4682a9dc039a84367003192599d05bad441e9b85c1f3d19e5ea7485754cc3b22"
+      "bytes": 2318,
+      "gitBlob": "b15b32994671ccc777bfdc47453a4feb5a354f70",
+      "sha256": "1688f1b94e5db229541c9ea32eae81e5a333a2e1db1df928e506b77db0abb90e"
     },
     "src/Models/KnowledgeGroup.cs": {
       "bytes": 1507,
@@ -2535,20 +1260,15 @@
       "gitBlob": "d2eda489f23a52252936663655410c7eba6d588e",
       "sha256": "e98a6bf789db6b7eb061fe5ab5a5bcc7865bcab683726dab1fdca8bf2de75e43"
     },
-    "src/Models/Powers/JunnaPowerJK80.cs": {
-      "bytes": 494,
-      "gitBlob": "fc4e34c06466531bea2972b997ec1643fa8cf2c9",
-      "sha256": "fd7da5721e2d2321d0ae7097de241b3f364c3a915e440220d80dfa178a46783a"
-    },
     "src/Models/ZeroCostMeteorPowers.cs": {
-      "bytes": 542,
-      "gitBlob": "8d55aec7fcefa584806e0b5407e9c34506149f07",
-      "sha256": "bc7be7e52da8a733a8ebe6079f6407b8a8544019b85148ed6895889931e580bf"
+      "bytes": 444,
+      "gitBlob": "fd2732ea9d9f9d14c715025caa7fb15d0ae820dd",
+      "sha256": "d0e9e5af5c899114b091418c9964d093455bde7b920960a364a1e53aa4c1d102"
     },
     "src/UI/Arrows/ArrowCardPresentation.cs": {
-      "bytes": 10021,
-      "gitBlob": "b5ad4622b4703519b6cf0146eb54988e92c53900",
-      "sha256": "1769a25c440e10df7e09793a023f07e29d4e5700bd66a444bcf5052e6d347ade"
+      "bytes": 10799,
+      "gitBlob": "03bfbf2da59cbb0d1ee7d8560715259ab5df3a47",
+      "sha256": "4939828bf23ff4b0bbeeec3a2b3960bf0ea8c5022282985aac41fa09121bd558"
     },
     "src/UI/Arrows/ArrowPortraitTexture.cs": {
       "bytes": 1539,

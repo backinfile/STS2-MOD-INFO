@@ -9,9 +9,9 @@ window.MOD_CATALOG = {
       "ref": "main",
       "adapter": "karen",
       "enabled": true,
-      "commit": "dc9a28a7d738b09575c3c0b5ab611421a083a28c",
-      "upstreamUpdatedAt": "2026-11-23T13:37:02+08:00",
-      "syncedAt": "2026-11-24T07:25:18+00:00",
+      "commit": "c28c7bdc3f7b155279c2240d76aacb838018f256",
+      "upstreamUpdatedAt": "2026-11-25T02:59:56Z",
+      "syncedAt": "2026-11-25T08:48:56+00:00",
       "cards": [
         {
           "id": "KAREN_WHY",
@@ -4025,9 +4025,9 @@ window.MOD_CATALOG = {
         }
       ],
       "enabled": true,
-      "commit": "6822de8b18528ba41132d713335caae333ce418e",
-      "upstreamUpdatedAt": "2026-11-24T14:36:55+08:00",
-      "syncedAt": "2026-11-24T07:25:19+00:00",
+      "commit": "fb3b1f25a167b6e2c9e95f4805abf70f265e5b66",
+      "upstreamUpdatedAt": "2026-11-25T08:35:16Z",
+      "syncedAt": "2026-11-25T08:49:02+00:00",
       "adapterVersion": 2,
       "cards": [
         {
@@ -4332,8 +4332,8 @@ window.MOD_CATALOG = {
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK27.jpg",
           "type": "Power",
           "rarity": "Rare",
-          "cost": 3,
-          "upgradedCost": 2,
+          "cost": 2,
+          "upgradedCost": 1,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -4550,9 +4550,9 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJK37",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "绝美的凋零",
-          "description": "[gold]知识[/gold]。\n造成50点伤害。\n战斗开始时打出此牌。",
-          "upgradedDescription": "[gold]知识[/gold]。\n造成60点伤害。\n战斗开始时打出此牌。",
-          "rawDescription": "[gold]知识[/gold]。\n造成{Damage:diff()}点伤害。\n战斗开始时打出此牌。",
+          "description": "[gold]知识[/gold]。\n战斗开始时打出此牌。",
+          "upgradedDescription": "[gold]知识[/gold]。\n战斗开始时打出此牌。",
+          "rawDescription": "[gold]知识[/gold]。\n战斗开始时打出此牌。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK37.jpg",
           "type": "Arrow",
           "rarity": "Rare",
@@ -4577,7 +4577,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "关联牌",
-              "description": "[gold]绝美的凋零[/gold]\n[gold]遥远星辰[/gold]\n[gold]囚禁[/gold]"
+              "description": "[gold]绝美的凋零[/gold]\n[gold]囚禁[/gold]"
             },
             {
               "kind": "mod",
@@ -4592,7 +4592,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "关联牌",
-              "description": "[gold]绝美的凋零[/gold]\n[gold]遥远星辰[/gold]\n[gold]囚禁[/gold]"
+              "description": "[gold]绝美的凋零[/gold]\n[gold]囚禁[/gold]"
             },
             {
               "kind": "mod",
@@ -4635,7 +4635,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "关联牌",
-              "description": "[gold]囚禁[/gold]\n[gold]绝美的凋零[/gold]\n[gold]遥远星辰[/gold]"
+              "description": "[gold]囚禁[/gold]\n[gold]绝美的凋零[/gold]"
             },
             {
               "kind": "mod",
@@ -4650,7 +4650,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "关联牌",
-              "description": "[gold]囚禁[/gold]\n[gold]绝美的凋零[/gold]\n[gold]遥远星辰[/gold]"
+              "description": "[gold]囚禁[/gold]\n[gold]绝美的凋零[/gold]"
             },
             {
               "kind": "mod",
@@ -4664,14 +4664,14 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJK37C",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "遥远星辰",
-          "description": "[gold]知识[/gold]。\n打出耗能为0的牌后，随机一个[gold]飞矢[/gold][gold]加速[/gold]1回合。",
-          "upgradedDescription": "[gold]知识[/gold]。\n打出耗能为0的牌后，随机使一个同目标的[gold]飞矢[/gold][gold]加速[/gold]1回合。",
-          "rawDescription": "[gold]知识[/gold]。\n打出耗能为{N0:diff()}的牌后，随机{IfUpgraded:show:使|}一个{IfUpgraded:show:同目标的|}[gold]飞矢[/gold][gold]加速[/gold]{N1:diff()}回合。",
+          "description": "打出耗能为0的牌后，在当回合获得1点[gold]力量[/gold]和敏捷。",
+          "upgradedDescription": "打出耗能为0的牌后，在当回合获得1点[gold]力量[/gold]和敏捷。",
+          "rawDescription": "打出耗能为{N0:diff()}的牌后，在当回合获得{N1:diff()}点[gold]力量[/gold]和敏捷。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK37C.jpg",
           "type": "Power",
-          "rarity": "Rare",
-          "cost": 2,
-          "upgradedCost": 2,
+          "rarity": "Uncommon",
+          "cost": 1,
+          "upgradedCost": 0,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -4683,44 +4683,8 @@ window.MOD_CATALOG = {
           "shine": null,
           "flavor": "",
           "unresolved": [],
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-KNOWLEDGE"
-            },
-            {
-              "kind": "text",
-              "name": "关联牌",
-              "description": "[gold]遥远星辰[/gold]\n[gold]绝美的凋零[/gold]\n[gold]囚禁[/gold]"
-            },
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            },
-            {
-              "kind": "static",
-              "key": "ENERGY"
-            }
-          ],
-          "upgradedTipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-KNOWLEDGE"
-            },
-            {
-              "kind": "text",
-              "name": "关联牌",
-              "description": "[gold]遥远星辰[/gold]\n[gold]绝美的凋零[/gold]\n[gold]囚禁[/gold]"
-            },
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            },
-            {
-              "kind": "static",
-              "key": "ENERGY"
-            }
-          ]
+          "tipRefs": [],
+          "upgradedTipRefs": []
         },
         {
           "id": "JUNNA_JK49",
@@ -5264,14 +5228,14 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJA67",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "连珠箭",
-          "description": "造成20点伤害。\n重新打出此牌。",
-          "upgradedDescription": "造成26点伤害。\n重新打出此牌。",
+          "description": "造成22点伤害。\n重新打出此牌。",
+          "upgradedDescription": "造成28点伤害。\n重新打出此牌。",
           "rawDescription": "造成{Damage:diff()}点伤害。\n重新打出此牌。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA67.jpg",
           "type": "Arrow",
           "rarity": "Uncommon",
-          "cost": 1,
-          "upgradedCost": 1,
+          "cost": 2,
+          "upgradedCost": 2,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -5436,8 +5400,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJH27",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "舞台研究",
-          "description": "[gold]知识[/gold]。\n获得21点[gold]格挡[/gold]。",
-          "upgradedDescription": "[gold]知识[/gold]。\n获得28点[gold]格挡[/gold]。",
+          "description": "[gold]知识[/gold]。\n获得18点[gold]格挡[/gold]。",
+          "upgradedDescription": "[gold]知识[/gold]。\n获得24点[gold]格挡[/gold]。",
           "rawDescription": "[gold]知识[/gold]。\n获得{Block:diff()}点[gold]格挡[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JH27.jpg",
           "type": "Skill",
@@ -5707,8 +5671,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJA81",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "化作流星的箭",
-          "description": "造成10点伤害。\n打出一张造成等量伤害的[gold]流星[/gold]。",
-          "upgradedDescription": "造成12点伤害。\n打出一张造成等量伤害的[gold]流星[/gold]。",
+          "description": "造成9点伤害。\n打出一张造成等量伤害的[gold]流星[/gold]。",
+          "upgradedDescription": "造成11点伤害。\n打出一张造成等量伤害的[gold]流星[/gold]。",
           "rawDescription": "造成{Damage:diff()}点伤害。\n打出一张造成等量伤害的[gold]流星[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA81.png",
           "type": "Attack",
@@ -5731,7 +5695,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成10点伤害。"
+              "description": "造成9点伤害。"
             },
             {
               "kind": "mod",
@@ -5743,7 +5707,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成12点伤害。"
+              "description": "造成11点伤害。"
             },
             {
               "kind": "mod",
@@ -5801,8 +5765,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJA82",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "流星之矢",
-          "description": "打出X张造成14点伤害的[gold]流星[/gold]。",
-          "upgradedDescription": "打出X张造成18点伤害的[gold]流星[/gold]。",
+          "description": "打出X张造成18点伤害的[gold]流星[/gold]。",
+          "upgradedDescription": "打出X张造成24点伤害的[gold]流星[/gold]。",
           "rawDescription": "打出X张造成{Damage:diff()}点伤害的[gold]流星[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA82.png",
           "type": "Skill",
@@ -5825,7 +5789,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成14点伤害。"
+              "description": "造成18点伤害。"
             },
             {
               "kind": "mod",
@@ -5837,7 +5801,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成18点伤害。"
+              "description": "造成24点伤害。"
             },
             {
               "kind": "mod",
@@ -6127,8 +6091,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJK122",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "弓身横击",
-          "description": "[gold]知识[/gold]。\n造成15点伤害。",
-          "upgradedDescription": "[gold]知识[/gold]。\n造成20点伤害。",
+          "description": "[gold]知识[/gold]。\n造成14点伤害。",
+          "upgradedDescription": "[gold]知识[/gold]。\n造成18点伤害。",
           "rawDescription": "[gold]知识[/gold]。\n造成{Damage:diff()}点伤害。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK122.jpg",
           "type": "Attack",
@@ -6459,13 +6423,13 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJA105",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "加速",
-          "description": "打出[gold]飞矢[/gold]时使其[gold]加速[/gold]1回合，并使其获得[gold]消耗[/gold]。",
+          "description": "打出[gold]飞矢[/gold]时使其[gold]加速[/gold]2回合，并使其获得[gold]消耗[/gold]。",
           "upgradedDescription": "打出[gold]飞矢[/gold]时使其[gold]加速[/gold]2回合，并使其获得[gold]消耗[/gold]。",
           "rawDescription": "打出[gold]飞矢[/gold]时使其[gold]加速[/gold]{N0:diff()}回合，并使其获得[gold]消耗[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA105.jpg",
           "type": "Power",
           "rarity": "Rare",
-          "cost": 1,
+          "cost": 2,
           "upgradedCost": 1,
           "keywords": [],
           "upgradedKeywords": [],
@@ -6497,8 +6461,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJH27B",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "观摩",
-          "description": "[gold]知识[/gold]。\n抽3张牌。",
-          "upgradedDescription": "[gold]知识[/gold]。\n抽4张牌。",
+          "description": "[gold]知识[/gold]。\n抽2张牌。",
+          "upgradedDescription": "[gold]知识[/gold]。\n抽3张牌。",
           "rawDescription": "[gold]知识[/gold]。\n抽{N0:diff()}张牌。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JH27B.jpg",
           "type": "Skill",
@@ -6847,9 +6811,9 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJA145",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "瞄准射击",
-          "description": "造成7点伤害。\n将1张[gold]更近一步[/gold]加入[gold]手牌[/gold]。",
-          "upgradedDescription": "造成9点伤害。\n将1张[gold]更近一步+[/gold]加入[gold]手牌[/gold]。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n将{N1:diff()}张{IfUpgraded:show:[gold]更近一步+[/gold]|[gold]更近一步[/gold]}加入[gold]手牌[/gold]。",
+          "description": "造成9点伤害。\n随机一个[gold]箭矢[/gold][gold]加速[/gold]1回合， 重复3次。",
+          "upgradedDescription": "造成10点伤害。\n随机一个[gold]箭矢[/gold][gold]加速[/gold]1回合， 重复4次。",
+          "rawDescription": "造成{Damage:diff()}点伤害。\n随机一个[gold]箭矢[/gold][gold]加速[/gold]{N1:diff()}回合， 重复{N2:diff()}次。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA145.jpg",
           "type": "Attack",
           "rarity": "Uncommon",
@@ -6868,16 +6832,14 @@ window.MOD_CATALOG = {
           "unresolved": [],
           "tipRefs": [
             {
-              "kind": "card",
-              "id": "JUNNA_JA119",
-              "upgraded": false
+              "kind": "mod",
+              "key": "SHOUJOKAGEKIJUNNA-ARROW"
             }
           ],
           "upgradedTipRefs": [
             {
-              "kind": "card",
-              "id": "JUNNA_JA119",
-              "upgraded": true
+              "kind": "mod",
+              "key": "SHOUJOKAGEKIJUNNA-ARROW"
             }
           ]
         },
@@ -7164,12 +7126,12 @@ window.MOD_CATALOG = {
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "沸腾的热情",
           "description": "[gold]飞矢[/gold]造成50%额外伤害。",
-          "upgradedDescription": "[gold]飞矢[/gold]造成50%额外伤害。",
+          "upgradedDescription": "[gold]飞矢[/gold]造成75%额外伤害。",
           "rawDescription": "[gold]飞矢[/gold]造成{N0:diff()}%额外伤害。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JA205.png",
           "type": "Power",
-          "rarity": "Rare",
-          "cost": 3,
+          "rarity": "Uncommon",
+          "cost": 2,
           "upgradedCost": 2,
           "keywords": [],
           "upgradedKeywords": [],
@@ -7239,14 +7201,14 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_005",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "星屑",
-          "description": "造成8点伤害。\n打出2张[gold]星屑[/gold]。",
-          "upgradedDescription": "造成12点伤害。\n打出2张[gold]星屑[/gold]。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n打出{N1:diff()}张[gold]星屑[/gold]。",
+          "description": "造成20点伤害。\n打出2张自身的复制。",
+          "upgradedDescription": "造成25点伤害。\n打出2张自身的复制。",
+          "rawDescription": "造成{Damage:diff()}点伤害。\n打出{N1:diff()}张自身的复制。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_005.jpg",
           "type": "Arrow",
           "rarity": "Rare",
-          "cost": 1,
-          "upgradedCost": 1,
+          "cost": 2,
+          "upgradedCost": 2,
           "keywords": [
             "Exhaust"
           ],
@@ -7329,7 +7291,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "知识背景",
-              "description": "莎士比亚悲剧《李尔王》中，交出国土的老王逐渐失去权势与庇护，流落荒野。失势与一无所有分别呈现威势衰退和失去保护的处境。"
+              "description": "莎士比亚悲剧《李尔王》中，交出国土的老王逐渐失去权势与庇护，流落荒野。"
             },
             {
               "kind": "power",
@@ -7349,7 +7311,7 @@ window.MOD_CATALOG = {
             {
               "kind": "text",
               "name": "知识背景",
-              "description": "莎士比亚悲剧《李尔王》中，交出国土的老王逐渐失去权势与庇护，流落荒野。失势与一无所有分别呈现威势衰退和失去保护的处境。"
+              "description": "莎士比亚悲剧《李尔王》中，交出国土的老王逐渐失去权势与庇护，流落荒野。"
             },
             {
               "kind": "power",
@@ -7433,8 +7395,8 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJK274",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "弓身掩护",
-          "description": "[gold]知识[/gold]。\n获得11点[gold]格挡[/gold]。",
-          "upgradedDescription": "[gold]知识[/gold]。\n获得14点[gold]格挡[/gold]。",
+          "description": "[gold]知识[/gold]。\n获得10点[gold]格挡[/gold]。",
+          "upgradedDescription": "[gold]知识[/gold]。\n获得13点[gold]格挡[/gold]。",
           "rawDescription": "[gold]知识[/gold]。\n获得{Block:diff()}点[gold]格挡[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK274.png",
           "type": "Skill",
@@ -7537,9 +7499,9 @@ window.MOD_CATALOG = {
           "className": "JunnaCardJK314",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "耀眼的身姿",
-          "description": "[gold]知识[/gold]。\n造成8点伤害。\n每耗尽过1张[gold]渴望[/gold]，额外造成1次伤害。",
+          "description": "[gold]知识[/gold]。\n造成9点伤害。\n每耗尽过1张[gold]渴望[/gold]，额外造成1次伤害。",
           "upgradedDescription": "[gold]知识[/gold]。\n造成12点伤害。\n每耗尽过1张[gold]渴望[/gold]，额外造成1次伤害。",
-          "rawDescription": "[gold]知识[/gold]。\n造成{Damage:diff()}点伤害。\n每耗尽过{N1:diff()}张[gold]渴望[/gold]，额外造成{N2:diff()}次伤害。{InCombat:\n（已耗尽{DepletedPartners}张）|}",
+          "rawDescription": "[gold]知识[/gold]。\n造成{Damage:diff()}点伤害。\n每耗尽过{N1:diff()}张[gold]渴望[/gold]，额外造成{N2:diff()}次伤害。{InCombat:\n（已耗尽{DepletedPartners}张，共{CalculatedHits:diff()}段）|}",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/JK314.jpg",
           "type": "Attack",
           "rarity": "Rare",
@@ -7585,9 +7547,9 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_008",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "去寻找故事吧",
-          "description": "战斗结束时，向牌组中添加1张[gold]朋友！[/gold]。",
-          "upgradedDescription": "战斗结束时，向牌组中添加1张[gold]朋友！[/gold]。",
-          "rawDescription": "战斗结束时，向牌组中添加{N0:diff()}张[gold]朋友！[/gold]。",
+          "description": "战斗结束时，向牌组中添加1张[gold]朋友！[/gold]",
+          "upgradedDescription": "战斗结束时，向牌组中添加1张[gold]朋友！[/gold]",
+          "rawDescription": "战斗结束时，向牌组中添加{N0:diff()}张[gold]朋友！[/gold]",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_008.jpg",
           "type": "Power",
           "rarity": "Uncommon",
@@ -7625,16 +7587,20 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_008B",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "朋友！",
-          "description": "获得4点[gold]格挡[/gold]。\n抽1张牌。",
-          "upgradedDescription": "获得8点[gold]格挡[/gold]。\n抽1张牌。",
+          "description": "获得3点[gold]格挡[/gold]。\n抽1张牌。",
+          "upgradedDescription": "获得6点[gold]格挡[/gold]。\n抽1张牌。",
           "rawDescription": "获得{Block:diff()}点[gold]格挡[/gold]。\n抽{N1:diff()}张牌。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_008B.jpg",
           "type": "Skill",
           "rarity": "Token",
           "cost": 0,
           "upgradedCost": 0,
-          "keywords": [],
-          "upgradedKeywords": [],
+          "keywords": [
+            "Exhaust"
+          ],
+          "upgradedKeywords": [
+            "Exhaust"
+          ],
           "maxUpgradeLevel": 1,
           "cardPool": "junna",
           "visualPool": "junna",
@@ -7779,9 +7745,9 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_013",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "牢笼",
-          "description": "本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成伤害降低50%。",
-          "upgradedDescription": "本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成伤害降低50%。",
-          "rawDescription": "本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成伤害降低{N0:diff()}%。",
+          "description": "在本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成的攻击伤害降低50%。",
+          "upgradedDescription": "在本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成的攻击伤害降低50%。",
+          "rawDescription": "在本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成的攻击伤害降低{N0:diff()}%。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_013.jpg",
           "type": "Skill",
           "rarity": "Rare",
@@ -7865,7 +7831,7 @@ window.MOD_CATALOG = {
           "name": "猛烈",
           "description": "造成6点伤害。\n[gold]手牌[/gold]中[gold]知识[/gold]、[gold]飞矢[/gold]、[gold]闪耀[/gold]每有一类，额外造成1次伤害。",
           "upgradedDescription": "造成8点伤害。\n[gold]手牌[/gold]中[gold]知识[/gold]、[gold]飞矢[/gold]、[gold]闪耀[/gold]每有一类，额外造成1次伤害。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n[gold]手牌[/gold]中[gold]知识[/gold]、[gold]飞矢[/gold]、[gold]闪耀[/gold]每有一类，额外造成{N1:diff()}次伤害。{InCombat:\n（已满足{SatisfiedCategories}类）|}",
+          "rawDescription": "造成{Damage:diff()}点伤害。\n[gold]手牌[/gold]中[gold]知识[/gold]、[gold]飞矢[/gold]、[gold]闪耀[/gold]每有一类，额外造成{N1:diff()}次伤害。{InCombat:\n（已满足{SatisfiedCategories}类，共{CalculatedHits:diff()}段）|}",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_017.png",
           "type": "Attack",
           "rarity": "Uncommon",
@@ -7904,52 +7870,6 @@ window.MOD_CATALOG = {
           ]
         },
         {
-          "id": "JUNNA_U_CARD_023",
-          "designId": "U_CARD_023",
-          "className": "JunnaCardU_CARD_023",
-          "sourcePath": "src/Models/CardCatalog.Generated.cs",
-          "name": "系住梦想的纽扣",
-          "description": "获得4点[gold]格挡[/gold]。\n抽1张牌。\n将1张[gold]手牌[/gold]作为3回合的[gold]飞矢[/gold]打出。",
-          "upgradedDescription": "获得6点[gold]格挡[/gold]。\n抽1张牌。\n将1张[gold]手牌[/gold]作为3回合的[gold]飞矢[/gold]打出。",
-          "rawDescription": "获得{Block:diff()}点[gold]格挡[/gold]。\n抽{N1:diff()}张牌。\n将{N2:diff()}张[gold]手牌[/gold]作为{N3:diff()}回合的[gold]飞矢[/gold]打出。",
-          "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_023.png",
-          "type": "Skill",
-          "rarity": "Common",
-          "cost": 1,
-          "upgradedCost": 1,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "cardPool": "junna",
-          "visualPool": "junna",
-          "inPool": true,
-          "isRegistered": true,
-          "isOption": false,
-          "shine": null,
-          "flavor": "",
-          "unresolved": [],
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            },
-            {
-              "kind": "static",
-              "key": "BLOCK"
-            }
-          ],
-          "upgradedTipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            },
-            {
-              "kind": "static",
-              "key": "BLOCK"
-            }
-          ]
-        },
-        {
           "id": "JUNNA_JK400B",
           "designId": "JK400B",
           "className": "JunnaCardJK400B",
@@ -7978,11 +7898,6 @@ window.MOD_CATALOG = {
           "unresolved": [],
           "tipRefs": [
             {
-              "kind": "text",
-              "name": "知识背景",
-              "description": "尼采《查拉图斯特拉如是说》以学习站立、行走、奔跑、攀登与舞蹈，说明通向飞翔所需的实践。"
-            },
-            {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
@@ -7994,11 +7909,6 @@ window.MOD_CATALOG = {
             }
           ],
           "upgradedTipRefs": [
-            {
-              "kind": "text",
-              "name": "知识背景",
-              "description": "尼采《查拉图斯特拉如是说》以学习站立、行走、奔跑、攀登与舞蹈，说明通向飞翔所需的实践。"
-            },
             {
               "kind": "card",
               "id": "JUNNA_JA81B",
@@ -8017,14 +7927,14 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_030",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "倾泻的星光",
-          "description": "本次对战中每打出过1次[gold]飞矢[/gold]，就打出一张造成8点伤害的[gold]流星[/gold]。",
-          "upgradedDescription": "本次对战中每打出过1次[gold]飞矢[/gold]，就打出一张造成10点伤害的[gold]流星[/gold]。",
+          "description": "本次对战中每打出过1次[gold]飞矢[/gold]，就打出一张造成16点伤害的[gold]流星[/gold]。",
+          "upgradedDescription": "本次对战中每打出过1次[gold]飞矢[/gold]，就打出一张造成20点伤害的[gold]流星[/gold]。",
           "rawDescription": "本次对战中每打出过{N0:diff()}次[gold]飞矢[/gold]，就打出一张造成{Damage:diff()}点伤害的[gold]流星[/gold]。{InCombat:\n（打出{MeteorCount}张）|}",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_030.png",
           "type": "Skill",
           "rarity": "Rare",
-          "cost": 2,
-          "upgradedCost": 2,
+          "cost": 3,
+          "upgradedCost": 3,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -8041,7 +7951,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成8点伤害。"
+              "description": "造成16点伤害。"
             },
             {
               "kind": "mod",
@@ -8053,7 +7963,7 @@ window.MOD_CATALOG = {
               "kind": "card",
               "id": "JUNNA_JA81B",
               "upgraded": false,
-              "description": "造成10点伤害。"
+              "description": "造成20点伤害。"
             },
             {
               "kind": "mod",
@@ -8150,9 +8060,11 @@ window.MOD_CATALOG = {
           "type": "Skill",
           "rarity": "Rare",
           "cost": 2,
-          "upgradedCost": 1,
+          "upgradedCost": 2,
           "keywords": [],
-          "upgradedKeywords": [],
+          "upgradedKeywords": [
+            "Retain"
+          ],
           "maxUpgradeLevel": 1,
           "cardPool": "junna",
           "visualPool": "junna",
@@ -8215,14 +8127,13 @@ window.MOD_CATALOG = {
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_036.jpg",
           "type": "Skill",
           "rarity": "Uncommon",
-          "cost": 2,
+          "cost": 3,
           "upgradedCost": 2,
           "keywords": [
             "Exhaust"
           ],
           "upgradedKeywords": [
-            "Exhaust",
-            "Innate"
+            "Exhaust"
           ],
           "maxUpgradeLevel": 1,
           "cardPool": "junna",
@@ -8260,12 +8171,12 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_044",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "火花四溅",
-          "description": "造成15点伤害。\n获得15点[gold]格挡[/gold]。",
-          "upgradedDescription": "造成18点伤害。\n获得18点[gold]格挡[/gold]。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n获得{Block:diff()}点[gold]格挡[/gold]。",
+          "description": "[gold]知识[/gold]。\n造成15点伤害。\n获得15点[gold]格挡[/gold]。",
+          "upgradedDescription": "[gold]知识[/gold]。\n造成18点伤害。\n获得18点[gold]格挡[/gold]。",
+          "rawDescription": "[gold]知识[/gold]。\n造成{Damage:diff()}点伤害。\n获得{Block:diff()}点[gold]格挡[/gold]。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_044.png",
           "type": "Attack",
-          "rarity": "Common",
+          "rarity": "Rare",
           "cost": 3,
           "upgradedCost": 3,
           "keywords": [],
@@ -8281,11 +8192,29 @@ window.MOD_CATALOG = {
           "unresolved": [],
           "tipRefs": [
             {
+              "kind": "mod",
+              "key": "SHOUJOKAGEKIJUNNA-KNOWLEDGE"
+            },
+            {
+              "kind": "text",
+              "name": "关联牌",
+              "description": "[gold]火花四溅[/gold]\n[gold]火花四溅[/gold]"
+            },
+            {
               "kind": "static",
               "key": "BLOCK"
             }
           ],
           "upgradedTipRefs": [
+            {
+              "kind": "mod",
+              "key": "SHOUJOKAGEKIJUNNA-KNOWLEDGE"
+            },
+            {
+              "kind": "text",
+              "name": "关联牌",
+              "description": "[gold]火花四溅[/gold]\n[gold]火花四溅[/gold]"
+            },
             {
               "kind": "static",
               "key": "BLOCK"
@@ -8335,110 +8264,6 @@ window.MOD_CATALOG = {
             {
               "kind": "static",
               "key": "BLOCK"
-            }
-          ]
-        },
-        {
-          "id": "JUNNA_U_CARD_047",
-          "designId": "U_CARD_047",
-          "className": "JunnaCardU_CARD_047",
-          "sourcePath": "src/Models/CardCatalog.Generated.cs",
-          "name": "两人的心跳",
-          "description": "获得8点[gold]力量[/gold]。",
-          "upgradedDescription": "获得10点[gold]力量[/gold]。",
-          "rawDescription": "获得{N0:diff()}点[gold]力量[/gold]。",
-          "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_047.png",
-          "type": "Power",
-          "rarity": "Uncommon",
-          "cost": 3,
-          "upgradedCost": 3,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "cardPool": "junna",
-          "visualPool": "junna",
-          "inPool": true,
-          "isRegistered": true,
-          "isOption": false,
-          "shine": null,
-          "flavor": "",
-          "unresolved": [],
-          "tipRefs": [],
-          "upgradedTipRefs": []
-        },
-        {
-          "id": "JUNNA_U_CARD_051",
-          "designId": "U_CARD_051",
-          "className": "JunnaCardU_CARD_051",
-          "sourcePath": "src/Models/CardCatalog.Generated.cs",
-          "name": "定要抓住你",
-          "description": "造成7点伤害。\n对[gold]飞矢[/gold]的目标敌人造成双倍伤害。",
-          "upgradedDescription": "造成9点伤害。\n对[gold]飞矢[/gold]的目标敌人造成双倍伤害。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n对[gold]飞矢[/gold]的目标敌人造成双倍伤害。",
-          "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_051.webp",
-          "type": "Attack",
-          "rarity": "Common",
-          "cost": 1,
-          "upgradedCost": 1,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "cardPool": "junna",
-          "visualPool": "junna",
-          "inPool": true,
-          "isRegistered": true,
-          "isOption": false,
-          "shine": null,
-          "flavor": "",
-          "unresolved": [],
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            }
-          ],
-          "upgradedTipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            }
-          ]
-        },
-        {
-          "id": "JUNNA_U_CARD_052",
-          "designId": "U_CARD_052",
-          "className": "JunnaCardU_CARD_052",
-          "sourcePath": "src/Models/CardCatalog.Generated.cs",
-          "name": "最后一刺",
-          "description": "造成9点伤害。\n如果击杀敌人，获得[energy][energy]。",
-          "upgradedDescription": "造成12点伤害。\n如果击杀敌人，获得[energy][energy]。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n如果击杀敌人，获得{energyPrefix:energyIcons(2)}。",
-          "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_052.webp",
-          "type": "Attack",
-          "rarity": "Common",
-          "cost": 1,
-          "upgradedCost": 1,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "cardPool": "junna",
-          "visualPool": "junna",
-          "inPool": true,
-          "isRegistered": true,
-          "isOption": false,
-          "shine": null,
-          "flavor": "",
-          "unresolved": [],
-          "tipRefs": [
-            {
-              "kind": "static",
-              "key": "ENERGY"
-            }
-          ],
-          "upgradedTipRefs": [
-            {
-              "kind": "static",
-              "key": "ENERGY"
             }
           ]
         },
@@ -8532,52 +8357,14 @@ window.MOD_CATALOG = {
           "className": "JunnaCardU_CARD_130",
           "sourcePath": "src/Models/CardCatalog.Generated.cs",
           "name": "星轨",
-          "description": "造成8点伤害。\n每有一个指向目标的[gold]飞矢[/gold]，伤害增加4。",
-          "upgradedDescription": "造成8点伤害。\n每有一个指向目标的[gold]飞矢[/gold]，伤害增加6。",
-          "rawDescription": "造成{Damage:diff()}点伤害。\n每有一个指向目标的[gold]飞矢[/gold]，伤害增加{N1:diff()}。",
+          "description": "造成8点伤害。\n每有一个布置的[gold]飞矢[/gold]，伤害增加4。",
+          "upgradedDescription": "造成8点伤害。\n每有一个布置的[gold]飞矢[/gold]，伤害增加6。",
+          "rawDescription": "造成{Damage:diff()}点伤害。\n每有一个布置的[gold]飞矢[/gold]，伤害增加{N1:diff()}。",
           "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_130.webp",
           "type": "Attack",
           "rarity": "Uncommon",
           "cost": 1,
           "upgradedCost": 1,
-          "keywords": [],
-          "upgradedKeywords": [],
-          "maxUpgradeLevel": 1,
-          "cardPool": "junna",
-          "visualPool": "junna",
-          "inPool": true,
-          "isRegistered": true,
-          "isOption": false,
-          "shine": null,
-          "flavor": "",
-          "unresolved": [],
-          "tipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            }
-          ],
-          "upgradedTipRefs": [
-            {
-              "kind": "mod",
-              "key": "SHOUJOKAGEKIJUNNA-ARROW"
-            }
-          ]
-        },
-        {
-          "id": "JUNNA_U_CARD_131",
-          "designId": "U_CARD_131",
-          "className": "JunnaCardU_CARD_131",
-          "sourcePath": "src/Models/CardCatalog.Generated.cs",
-          "name": "直至世界成灰",
-          "description": "对所有敌人造成4点伤害。\n对[gold]飞矢[/gold]的目标敌人额外造成1次伤害。",
-          "upgradedDescription": "对所有敌人造成5点伤害。\n对[gold]飞矢[/gold]的目标敌人额外造成1次伤害。",
-          "rawDescription": "对所有敌人造成{Damage:diff()}点伤害。\n对[gold]飞矢[/gold]的目标敌人额外造成{N1:diff()}次伤害。",
-          "image": "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_131.webp",
-          "type": "Attack",
-          "rarity": "Common",
-          "cost": 0,
-          "upgradedCost": 0,
           "keywords": [],
           "upgradedKeywords": [],
           "maxUpgradeLevel": 1,
@@ -8734,108 +8521,48 @@ window.MOD_CATALOG = {
         "SHOUJOKAGEKIJUNNA-KNOWLEDGE.title": "知识",
         "SHOUJOKAGEKIJUNNA-KNOWLEDGE.description": "获得知识牌时，同时获得关联的其他牌。",
         "SHOUJOKAGEKIJUNNA-CHAIN_KNOWLEDGE.title": "连锁知识",
-        "SHOUJOKAGEKIJUNNA-CHAIN_KNOWLEDGE.description": "获得连锁知识时，同时获得同一选牌界面的其他牌，并将它们设为关联牌。战斗中，这些牌进入同一牌堆，关联持续到战斗结束。",
+        "SHOUJOKAGEKIJUNNA-CHAIN_KNOWLEDGE.description": "获得连锁知识时，同时获得同一奖励界面的其他牌，并将它们设为关联牌。",
         "SHOUJOKAGEKIJUNNA-ARROW.title": "飞矢",
-        "SHOUJOKAGEKIJUNNA-ARROW.description": "打出后布置，等待数个回合后触发其卡牌效果。",
+        "SHOUJOKAGEKIJUNNA-ARROW.description": "打出后布置，等待数个回合后触发卡牌效果。",
         "SHOUJO_CORE_SHINE.title": "闪耀X",
         "SHOUJO_CORE_SHINE.description": "打出X次后，从牌组中[red]永久移除[/red]。"
       },
       "powers": {
-        "JUNNA_JA04_POWER.title": "速射",
-        "JUNNA_JK10_POWER.title": "观摩",
         "JUNNA_JA22_POWER.title": "返场",
-        "JUNNA_JK15_POWER.title": "再演",
         "JUNNA_A_POWER.title": "埋头学习",
         "JUNNA_JK27_POWER.title": "关联阅读",
-        "JUNNA_JA35_POWER.title": "娓娓道来",
         "JUNNA_JK32_POWER.title": "掌舵",
         "JUNNA_JK37C_POWER.title": "遥远星辰",
-        "JUNNA_JA45_POWER.title": "搭箭",
-        "JUNNA_JK64_POWER.title": "理清思路",
-        "JUNNA_JK67_POWER.title": "磨砺身心",
-        "JUNNA_JG31_POWER.title": "连贯练习",
         "JUNNA_JH19_POWER.title": "烁星",
-        "JUNNA_JH21_POWER.title": "长明",
-        "JUNNA_JG34_POWER.title": "合唱练习",
-        "JUNNA_JK75_POWER.title": "学以致用",
-        "JUNNA_JH23_POWER.title": "星芒护持",
-        "JUNNA_JA70_POWER.title": "掩护射击",
-        "JUNNA_JK80_POWER.title": "要点",
-        "JUNNA_JK81_POWER.title": "书签",
-        "JUNNA_JZ05_POWER.title": "即兴",
-        "JUNNA_JZ06_POWER.title": "晨星",
         "JUNNA_JH30_POWER.title": "星芒",
-        "JUNNA_JK46_POWER.title": "持续阅读",
         "JUNNA_ENERGY_RESERVE.title": "能量保留",
         "JUNNA_ENERGY_RESERVE.description": "下回合保留至多[blue]1[/blue]点剩余能量。",
         "JUNNA_JA87_POWER.title": "布置舞台",
-        "JUNNA_JA96_POWER.title": "刺痛",
-        "JUNNA_JH31_POWER.title": "筹备",
         "JUNNA_CATALOG.smartDescription": "{Effects}",
         "JUNNA_CATALOG.repetition": "此效果结算[blue]{Amount}[/blue]次。",
-        "JUNNA_JA04_POWER.description": "你打出的下[blue]1[/blue]张[gold]飞矢[/gold]立即加速到完成。",
-        "JUNNA_JA04_POWER.smartDescription": "你打出的下[blue]{Amount}[/blue]张[gold]飞矢[/gold]立即加速到完成。",
-        "JUNNA_JK10_POWER.description": "每回合第一次打出耗能不低于[blue]2[/blue]的牌时，抽[blue]1[/blue]张牌并获得[blue]1[/blue]点能量。",
-        "JUNNA_JK10_POWER.smartDescription": "每回合第一次打出耗能不低于[blue]{Threshold}[/blue]的牌时，抽[blue]{Draw}[/blue]张牌并获得[blue]{Energy}[/blue]点能量。",
         "JUNNA_JA22_POWER.description": "你的[gold]飞矢[/gold]完成后返回你的[gold]手牌[/gold]。",
         "JUNNA_JA22_POWER.smartDescription": "你的[gold]飞矢[/gold]完成后返回你的[gold]手牌[/gold]。",
-        "JUNNA_JK15_POWER.description": "每回合第一次打出[gold]知识[/gold]牌时，将其[blue]1[/blue]张复制加入你的[gold]抽牌堆[/gold]。",
-        "JUNNA_JK15_POWER.smartDescription": "每回合第一次打出[gold]知识[/gold]牌时，将其[blue]{Amount}[/blue]张复制加入你的[gold]抽牌堆[/gold]。",
         "JUNNA_A_POWER.description": "在你的回合结束时，将[blue]1[/blue]张[gold]心得[/gold]加入你的[gold]抽牌堆[/gold]。",
         "JUNNA_A_POWER.smartDescription": "在你的回合结束时，将[blue]{Amount}[/blue]张[gold]心得[/gold]加入你的[gold]抽牌堆[/gold]。",
         "JUNNA_JK27_POWER.description": "每当你抽到[gold]知识[/gold]牌时，抽取其所有关联牌。",
         "JUNNA_JK27_POWER.smartDescription": "每当你抽到[gold]知识[/gold]牌时，抽取其所有关联牌。",
-        "JUNNA_JA35_POWER.description": "回合开始时，所有[gold]飞矢[/gold]加速[blue]2[/blue]回合。",
-        "JUNNA_JA35_POWER.smartDescription": "回合开始时，所有[gold]飞矢[/gold]加速[blue]{Amount}[/blue]回合。",
         "JUNNA_JK32_POWER.description": "在你的回合开始时，抽[blue]1[/blue]张牌。",
         "JUNNA_JK32_POWER.smartDescription": "在你的回合开始时，抽[blue]{Amount}[/blue]张牌。",
-        "JUNNA_JK37C_POWER.description": "每当你打出[blue]0[/blue]费牌后，随机一个[gold]飞矢[/gold]加速[blue]1[/blue]回合。",
-        "JUNNA_JK37C_POWER.smartDescription": "每当你打出[blue]0[/blue]费牌后，随机使{Target}加速[blue]{Turns}[/blue]回合。{Repetition}",
-        "JUNNA_JA45_POWER.description": "你每回合打出的前[blue]2[/blue]张[gold]飞矢[/gold]加速[blue]1[/blue]回合。",
-        "JUNNA_JA45_POWER.smartDescription": "你每回合打出的前[blue]{Limit}[/blue]张[gold]飞矢[/gold]加速[blue]{Turns}[/blue]回合。",
-        "JUNNA_JK64_POWER.description": "本回合，每当你打出[gold]知识[/gold]牌后，选择一个[gold]飞矢[/gold]加速[blue]1[/blue]回合。",
-        "JUNNA_JK64_POWER.smartDescription": "本回合，每当你打出[gold]知识[/gold]牌后，选择一个[gold]飞矢[/gold]加速[blue]{Turns}[/blue]回合。{Repetition}",
-        "JUNNA_JK67_POWER.description": "旧版强化效果已退役。",
-        "JUNNA_JK67_POWER.smartDescription": "旧版强化效果已退役。",
-        "JUNNA_JG31_POWER.description": "旧版强化效果已退役。",
-        "JUNNA_JG31_POWER.smartDescription": "旧版强化效果已退役。",
+        "JUNNA_JK37C_POWER.description": "打出耗能为[blue]0[/blue]的牌后，在当回合获得[blue]1[/blue]点[gold]力量[/gold]和[gold]敏捷[/gold]。",
+        "JUNNA_JK37C_POWER.smartDescription": "打出耗能为[blue]0[/blue]的牌后，在当回合获得[blue]{Amount}[/blue]点[gold]力量[/gold]和[gold]敏捷[/gold]。",
         "JUNNA_JH19_POWER.description": "本回合，你的下一张非能力牌会消耗能量再打出[blue]1[/blue]次。",
         "JUNNA_JH19_POWER.smartDescription": "本回合，你的下一张非能力牌会消耗能量再打出[blue]{Amount}[/blue]次。",
-        "JUNNA_JH21_POWER.description": "在你的回合结束时，若有剩余能量，获得[blue]5[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JH21_POWER.smartDescription": "在你的回合结束时，若有剩余能量，获得[blue]{Amount}[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JG34_POWER.description": "在你的回合开始时，对所有敌人造成[blue]3[/blue]点伤害。",
-        "JUNNA_JG34_POWER.smartDescription": "在你的回合开始时，对所有敌人造成[blue]{Damage}[/blue]点伤害[blue]{Repeat}[/blue]次。",
-        "JUNNA_JK75_POWER.description": "旧版强化效果已退役。",
-        "JUNNA_JK75_POWER.smartDescription": "旧版强化效果已退役。",
-        "JUNNA_JH23_POWER.description": "每回合前[blue]1[/blue]次打出耗能不低于[blue]2[/blue]的牌后，获得[blue]6[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JH23_POWER.smartDescription": "每回合前[blue]{Limit}[/blue]次打出耗能不低于[blue]{Threshold}[/blue]的牌后，获得[blue]{Amount}[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JA70_POWER.description": "每当你打出[gold]飞矢[/gold]后，获得[blue]2[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JA70_POWER.smartDescription": "每当你打出[gold]飞矢[/gold]后，获得[blue]{Amount}[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JK80_POWER.description": "下次打出[gold]知识[/gold]牌后，获得[blue]4[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JK80_POWER.smartDescription": "下次打出[gold]知识[/gold]牌后，获得[blue]{Amount}[/blue]点[gold]格挡[/gold]。",
-        "JUNNA_JK81_POWER.description": "在你的回合结束时，[gold]保留[/gold]所有耗能不低于[blue]2[/blue]的[gold]手牌[/gold]。",
-        "JUNNA_JK81_POWER.smartDescription": "在你的回合结束时，[gold]保留[/gold]所有耗能不低于[blue]{Threshold}[/blue]的[gold]手牌[/gold]。",
-        "JUNNA_JZ05_POWER.description": "每回合前[blue]1[/blue]次造成攻击伤害时，打出[blue]1[/blue]张造成等量伤害的[gold]流星[/gold]。",
-        "JUNNA_JZ05_POWER.smartDescription": "每回合前[blue]{Amount}[/blue]次造成攻击伤害时，打出[blue]1[/blue]张造成等量伤害的[gold]流星[/gold]。",
-        "JUNNA_JZ06_POWER.description": "在你的回合开始时，获得[gold]手牌[/gold]中最高耗能[blue]1[/blue]倍的能量。",
-        "JUNNA_JZ06_POWER.smartDescription": "在你的回合开始时，获得[gold]手牌[/gold]中最高耗能[blue]{Amount}[/blue]倍的能量。",
         "JUNNA_JH30_POWER.description": "每当你获得、失去或消耗能量时，对一个随机敌人造成等量伤害。",
         "JUNNA_JH30_POWER.smartDescription": "每当你获得、失去或消耗能量时，对一个随机敌人造成等量伤害。{Repetition}",
-        "JUNNA_JK46_POWER.description": "在你的回合开始时，将[blue]1[/blue]张[gold]笔锋[/gold]加入你的[gold]手牌[/gold]。",
-        "JUNNA_JK46_POWER.smartDescription": "在你的回合开始时，将[blue]{Amount}[/blue]张[gold]{Card}[/gold]加入你的[gold]手牌[/gold]。",
         "JUNNA_JA87_POWER.description": "在你的回合结束时，可以将[blue]1[/blue]张[gold]手牌[/gold]作为[blue]3[/blue]回合的[gold]飞矢[/gold]打出。",
         "JUNNA_JA87_POWER.smartDescription": "在你的回合结束时，可以将[blue]{Amount}[/blue]张[gold]手牌[/gold]作为[blue]3[/blue]回合的[gold]飞矢[/gold]打出。",
-        "JUNNA_JA96_POWER.description": "受到未被格挡的攻击伤害时，所有目标为敌人的[gold]飞矢[/gold]加速[blue]1[/blue]回合。",
-        "JUNNA_JA96_POWER.smartDescription": "受到未被格挡的攻击伤害时，所有目标为敌人的[gold]飞矢[/gold]加速[blue]{Amount}[/blue]回合。",
-        "JUNNA_JH31_POWER.description": "每当你打出耗能不低于[blue]2[/blue]的牌后，抽[blue]1[/blue]张[blue]0[/blue]费牌。",
-        "JUNNA_JH31_POWER.smartDescription": "每当你打出耗能不低于[blue]{Threshold}[/blue]的牌后，抽[blue]{Amount}[/blue]张[blue]0[/blue]费牌。",
         "JUNNA_ENERGY_RESERVE.smartDescription": "下回合保留至多[blue]{Amount}[/blue]点剩余能量。",
         "JUNNA_JK127_POWER.title": "铭刻",
         "JUNNA_JK139_POWER.title": "领悟",
         "JUNNA_JK127_POWER.smartDescription": "战斗结束后，可以单独复制牌组中的[blue]1[/blue]张[gold]知识[/gold]牌。{Repetition}",
         "JUNNA_JK139_POWER.smartDescription": "每回合开始时，获得{Amount}点[gold]能量[/gold]。",
         "JUNNA_JA105_POWER.title": "加速",
-        "JUNNA_JA105_POWER.description": "每当你打出一张[gold]飞矢[/gold]，使其加速[blue]1[/blue]回合，并使其获得[gold]消耗[/gold]。",
+        "JUNNA_JA105_POWER.description": "每当你打出一张[gold]飞矢[/gold]，使其加速[blue]2[/blue]回合，并使其获得[gold]消耗[/gold]。",
         "JUNNA_JA105_POWER.smartDescription": "每当你打出一张[gold]飞矢[/gold]，使其加速[blue]{Amount}[/blue]回合，并使其获得[gold]消耗[/gold]。",
         "JUNNA_JA118_POWER.title": "立下誓言",
         "JUNNA_JA118_POWER.description": "打出[gold]飞矢[/gold]时，获得[blue]2[/blue]点[gold]格挡[/gold]。",
@@ -8843,46 +8570,35 @@ window.MOD_CATALOG = {
         "JUNNA_JA144_POWER.title": "稳步前进",
         "JUNNA_JA144_POWER.description": "回合开始时，获得[blue]1[/blue]张[gold]更近一步[/gold]。",
         "JUNNA_JA144_POWER.smartDescription": "回合开始时，获得[blue]{Amount}[/blue]张[gold]更近一步[/gold]。",
-        "JUNNA_JH59_POWER.title": "北极星",
         "JUNNA_JK235_POWER.description": "打出[gold]知识[/gold]牌后，对随机敌人造成[blue]4[/blue]点伤害。",
         "JUNNA_JK235_POWER.smartDescription": "打出[gold]知识[/gold]牌后，对随机敌人造成[blue]{Damage}[/blue]点伤害。",
         "JUNNA_JK235_POWER.title": "理想的国语教科书",
-        "JUNNA_JH59_POWER.description": "回合开始时，获得[blue]1[/blue]点[gold]能量[/gold]。",
-        "JUNNA_JH59_POWER.smartDescription": "回合开始时，获得[blue]{Amount}[/blue]点[gold]能量[/gold]。",
         "JUNNA_JK127_POWER.description": "战斗结束后，可以单独复制牌组中的[blue]1[/blue]张[gold]知识[/gold]牌。",
         "JUNNA_JA205_POWER.title": "沸腾的热情",
-        "JUNNA_JK254_POWER.title": "融会贯通",
         "JUNNA_JK260_POWER.title": "知识的力量",
         "JUNNA_JA205_POWER.description": "[gold]飞矢[/gold]造成[blue]50[/blue]%额外伤害。",
-        "JUNNA_JA205_POWER.smartDescription": "[gold]飞矢[/gold]造成[blue]50[/blue]%额外伤害。",
-        "JUNNA_JK254_POWER.description": "每当你打出一张[gold]知识[/gold]牌，其[gold]手牌[/gold]中的关联牌下次打出耗能变为0。",
-        "JUNNA_JK254_POWER.smartDescription": "每当你打出一张[gold]知识[/gold]牌，其[gold]手牌[/gold]中的关联牌下次打出耗能变为0。",
+        "JUNNA_JA205_POWER.smartDescription": "[gold]飞矢[/gold]造成[blue]{Amount}[/blue]%额外伤害。",
         "JUNNA_JK260_POWER.description": "每回合第一次打出[gold]知识[/gold]牌后，获得[blue]2[/blue]点[gold]力量[/gold]。",
         "JUNNA_JK260_POWER.smartDescription": "每回合第一次打出[gold]知识[/gold]牌后，获得[blue]{Amount}[/blue]点[gold]力量[/gold]。",
         "JUNNA_CATALOG.remainingTriggers": "本回合还可触发[blue]{Amount}[/blue]次。",
         "JUNNA_U_CARD_008_POWER.title": "去寻找故事吧",
-        "JUNNA_U_CARD_008_POWER.description": "战斗结束时，向[gold]牌组[/gold]添加[blue]1[/blue]张[gold]朋友！[/gold]。",
-        "JUNNA_U_CARD_008_POWER.smartDescription": "战斗结束时，向[gold]牌组[/gold]添加[blue]{Amount}[/blue]张[gold]朋友！[/gold]。",
+        "JUNNA_U_CARD_008_POWER.description": "战斗结束时，向[gold]牌组[/gold]中添加[blue]1[/blue]张[gold]朋友！[/gold]",
+        "JUNNA_U_CARD_008_POWER.smartDescription": "战斗结束时，向[gold]牌组[/gold]中添加[blue]{Amount}[/blue]张[gold]朋友！[/gold]",
         "JUNNA_U_CARD_010_POWER.title": "舞台少女心得",
         "JUNNA_U_CARD_010_POWER.description": "回合开始时，从[gold]抽牌堆[/gold]选择[blue]1[/blue]张当前类别的牌放入[gold]手牌[/gold]。\n每回合依次切换为[gold]知识[/gold]牌、[gold]飞矢[/gold]牌、[gold]闪耀[/gold]牌。",
         "JUNNA_U_CARD_010_POWER.smartDescription": "下回合开始时，从[gold]抽牌堆[/gold]选择[blue]{Amount}[/blue]张[gold]{Category}[/gold]牌放入[gold]手牌[/gold]。\n每回合依次切换为[gold]知识[/gold]牌、[gold]飞矢[/gold]牌、[gold]闪耀[/gold]牌。",
         "JUNNA_CAGED_POWER.title": "牢笼",
-        "JUNNA_CAGED_POWER.description": "本回合，当前[gold]飞矢[/gold]目标对你造成的攻击伤害降低50%。",
-        "JUNNA_CAGED_POWER.smartDescription": "本回合，当前[gold]飞矢[/gold]目标对你造成的攻击伤害降低50%。",
+        "JUNNA_CAGED_POWER.description": "在本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成的攻击伤害降低50%。",
+        "JUNNA_CAGED_POWER.smartDescription": "在本回合中，作为[gold]飞矢[/gold]目标的敌人对你造成的攻击伤害降低50%。",
         "JUNNA_U_CARD_016_POWER.title": "呼喊与回应",
         "JUNNA_U_CARD_016_POWER.description": "打出[gold]知识[/gold]牌后，抽[blue]1[/blue]张牌。\n每次在[gold]知识[/gold]、[gold]飞矢[/gold]、[gold]闪耀[/gold]中轮换。",
         "JUNNA_U_CARD_016_POWER.smartDescription": "打出[gold]{Category}[/gold]牌后，抽[blue]{Amount}[/blue]张牌。",
         "JUNNA_KNOWLEDGE_COPY_REWARD_POWER.title": "知识复制奖励",
         "JUNNA_KNOWLEDGE_COPY_REWARD_POWER.description": "战斗结束后，可领取1次知识牌复制奖励。",
         "JUNNA_KNOWLEDGE_COPY_REWARD_POWER.smartDescription": "战斗结束后，可领取{Amount}次知识牌复制奖励。",
-        "JUNNA_JK400_POWER.title": "站起来奔跑",
         "JUNNA_JK400B_POWER.title": "翱翔在天际",
-        "JUNNA_JK400_POWER.description": "旧版强化效果已退役。",
-        "JUNNA_JK400_POWER.smartDescription": "旧版强化效果已退役。",
         "JUNNA_JK400B_POWER.description": "回合结束时，打出[blue]1[/blue]张造成[blue]8[/blue]点伤害的[gold]流星[/gold]。",
-        "JUNNA_JK400B_POWER.smartDescription": "回合结束时，打出[blue]{Repeat}[/blue]张造成[blue]{Damage}[/blue]点伤害的[gold]流星[/gold]。",
-        "JUNNA_JK37C_POWER.randomArrow": "一个[gold]飞矢[/gold]",
-        "JUNNA_JK37C_POWER.targetedArrow": "一个同目标的[gold]飞矢[/gold]"
+        "JUNNA_JK400B_POWER.smartDescription": "回合结束时，打出[blue]{Repeat}[/blue]张造成[blue]{Damage}[/blue]点伤害的[gold]流星[/gold]。"
       },
       "rendering": {
         "frameHsv": [
