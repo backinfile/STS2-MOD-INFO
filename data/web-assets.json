@@ -510,6 +510,13 @@
     "sourceBytes": 621969,
     "sourceSha256": "8e965d2caa12922e9eda4a6e111bb6c322efaccd5e6dacf381623f8f0b3e1bf3"
   },
+  "assets/game-ui/junna-arrow-junna_u_card_181.png": {
+    "bytes": 113820,
+    "path": "assets/web/game-ui/junna-arrow-junna_u_card_181.png.webp",
+    "sha256": "3d947ed029ad174f1773ad29e3d79334b1de382c8fe38c0542c5a06b3efe018a",
+    "sourceBytes": 193070,
+    "sourceSha256": "16308d75a647aaa9dddbf60a80f35f7b7a0eb4b885efdb614d5086bfee7cfe56"
+  },
   "assets/game-ui/junna-arrow-rare.png": {
     "bytes": 283608,
     "path": "assets/web/game-ui/junna-arrow-rare.png.webp",
@@ -1246,11 +1253,11 @@
     "sourceSha256": "dd385f17bd9f4144cdfef9984e4afc0a633208e7b7ddc6820fea9922a1fd5eb6"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JA53.jpg": {
-    "bytes": 117292,
+    "bytes": 133560,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JA53.jpg.webp",
-    "sha256": "86dde462debc07d2beeea050d2ae082355dfce8020c66a5ab3e696ffdd86c6c0",
-    "sourceBytes": 32634,
-    "sourceSha256": "bb4d45f70ac78fb99c2889d9ba1925620511efed14d27a1b5aa1dc73fc927abe"
+    "sha256": "3eba57a4a94ec8a92f3156bea819ad46fff5d69f94ac5fef875996ddc182fcc5",
+    "sourceBytes": 79742,
+    "sourceSha256": "3a305547132dc1bdbb15b247e27cd7bc1fc0500d7aa9e97ce2872532f5721136"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JA57.jpg": {
     "bytes": 382574,
@@ -1505,11 +1512,11 @@
     "sourceSha256": "8a832c11f4b4a6e5da6eaafe2ba65c9a669bb764238e3202ac15807a6a889c13"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JF13.jpg": {
-    "bytes": 120804,
+    "bytes": 243708,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JF13.jpg.webp",
-    "sha256": "926eae80b02ec1b1345d8cd0bebe8d05b8f20a9751001404d67d366cdc3233c4",
-    "sourceBytes": 34045,
-    "sourceSha256": "1e2407215cbbf28c3bda947a0b4b0035daaf3e2a79d60ae8f9626cb9788baeaa"
+    "sha256": "a735f0ca453a58175ef52336d285ae096ca0ea7a3bda1e0a194534bd37babec1",
+    "sourceBytes": 50966,
+    "sourceSha256": "1c1f38cb31e0fc9acc4f46e256a707772b51aa9791ec61ea3afcd33dfcf73237"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JG03.jpg": {
     "bytes": 238338,
@@ -1785,11 +1792,18 @@
     "sourceSha256": "03036511a04da2c188c2258243f109c6e6889d584b7a76f6b02b816e058518c9"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JK122.jpg": {
-    "bytes": 135768,
+    "bytes": 267394,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK122.jpg.webp",
-    "sha256": "f79161761ce748d673e19f512e88641b3864cd2a78dd924760f784c2e07a90fd",
-    "sourceBytes": 42633,
-    "sourceSha256": "3b9a2060f173593aa7eba0ccfa3dda4f0ba48ac181302c40214b8f2ee9171871"
+    "sha256": "a1ff68391e0b0be17f3b898bd6dfeb62b6f9f377d655110d5b6b7e5839680bed",
+    "sourceBytes": 72955,
+    "sourceSha256": "fbfb4772081c620aed5fd8d5db605ca9fd98fc126d804b45b588925051593e1d"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/JK122B.jpg": {
+    "bytes": 90604,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK122B.jpg.webp",
+    "sha256": "fc8790b88c0d1759d943398ffbd2f15e08f4872bde6c761c01da9e53eaa4478c",
+    "sourceBytes": 47915,
+    "sourceSha256": "bd3338ca50c233ac85a75c1bdb0fa490c2ecadf04e108c95cbedbaf1d24f208c"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JK122B.png": {
     "bytes": 322386,
@@ -2072,18 +2086,18 @@
     "sourceSha256": "82bd16e427cdb75b5beb9518a906588af0fed458c9f034b34e945a08ab5ec469"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JK275.jpg": {
-    "bytes": 213604,
+    "bytes": 291846,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK275.jpg.webp",
-    "sha256": "fa2d5b4d40e972b403291cf360c2c66cfbad44f1bc8b4566d35f8d0004162ee9",
-    "sourceBytes": 62382,
-    "sourceSha256": "b4496bd96411b521bf419ce54a4193dc208d57a2d200fc8128c7e09b556b8d04"
+    "sha256": "ecb9d02d72cad7dfb69ff0b3a5c74eb13ccec9779fb4dc12f3d46bd651b1354c",
+    "sourceBytes": 73038,
+    "sourceSha256": "c1e6b60c4a2bc3c20be619c4e0ee0904d80c4662a72416938d1475c3870e5ec1"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JK314.jpg": {
-    "bytes": 294272,
+    "bytes": 394694,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/JK314.jpg.webp",
-    "sha256": "993bf1382600f02ab49eb60f5ac8f6c20bf6d26e07bfccd48c81762851f37e00",
-    "sourceBytes": 73153,
-    "sourceSha256": "51ccdad7a9dc93bd25a872d62e6dafd0b304ae27cca300f88fda30342ad9c5f9"
+    "sha256": "7d31118c954ae53c6e94bfdb32fed4ef3433aa1bca4c7ee1348754746b9b6afb",
+    "sourceBytes": 106807,
+    "sourceSha256": "3a5db7a396be9d3903abf3de9365df58cf0c57db4ddad9e6376641e12f995d27"
   },
   "assets/junna/ShoujoKagekiJunna/images/cards/JK32.jpg": {
     "bytes": 486192,
@@ -2722,6 +2736,62 @@
     "sourceBytes": 443902,
     "sourceSha256": "c4af2bb6de9028d7b3c3bf858cd16c7ff76ca7477ab21a60a5b652275757c8ad"
   },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_178.jpg": {
+    "bytes": 54230,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_178.jpg.webp",
+    "sha256": "7abb9387427a0d014f74380b63a0221acf071fb59f29919f04080e96cab5fe40",
+    "sourceBytes": 12311,
+    "sourceSha256": "2c1fdaff638f31fddcf25076872e8be706b49c3783b28afcc050f56841fabe34"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_179.jpg": {
+    "bytes": 284240,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_179.jpg.webp",
+    "sha256": "7bf0a908ffc2aec21013beb49fe9b0f0ca28e96e6dbbe168951c2b3ee3657f1f",
+    "sourceBytes": 81863,
+    "sourceSha256": "e17ae06a5cca4bedc54fed8fc3e853abb40b6a75f47f43325aaa112500c7d932"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_181.jpg": {
+    "bytes": 42436,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_181.jpg.webp",
+    "sha256": "e696140a14afa77023d4938f5968645d500caa54fbd0dd22f2a4a63ada2debbd",
+    "sourceBytes": 17369,
+    "sourceSha256": "1627e671afd1f9ae02d9a219e871e197a7522a0a3f9f70ccb77a1acf750c13fa"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_184.jpg": {
+    "bytes": 237396,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_184.jpg.webp",
+    "sha256": "3fcf8b75f42924bbe37b4dd51f30039494a01fd29bcd8b57ec587ea14cd4a0ec",
+    "sourceBytes": 42000,
+    "sourceSha256": "2fb062e203415eee71e44fa7d0a9d65c92c9053e78d9c77b0a54e8b318c06dbc"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_185.jpg": {
+    "bytes": 214576,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_185.jpg.webp",
+    "sha256": "1e8b49f3077f6111c110bbaf62b166c0ca68e1870120823dc7f2d5c79da3eaf6",
+    "sourceBytes": 54478,
+    "sourceSha256": "5c942e3685f435e66d314ff40b98575c64a1c760e5d009dd57c70cc3a9145847"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_186.png": {
+    "bytes": 304182,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_186.png.webp",
+    "sha256": "523462b8861385c8948d13ac0c5e70d08c81ca159dd5bdbd2c28e2f4f67d3ba8",
+    "sourceBytes": 475723,
+    "sourceSha256": "23c59e307880246bac0ff175cb087d0452899dfa11cea2254a652de2a3f54987"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_187.jpg": {
+    "bytes": 277826,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_187.jpg.webp",
+    "sha256": "a5adf7272598a0ec490fa0f30909e868aef70500aef6c0f66cc1a9be0a46d1b2",
+    "sourceBytes": 47357,
+    "sourceSha256": "34bc5ad988e7171e429d5f8b42f73c301d18fbc7fee648eb88a50866e26bd384"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/cards/U_CARD_188.jpg": {
+    "bytes": 150890,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/cards/U_CARD_188.jpg.webp",
+    "sha256": "3a53fbfccc0ba807cfa09848aca899c2843f823aa1d0c655573a9d0ca78afa8f",
+    "sourceBytes": 36250,
+    "sourceSha256": "fc302629a680c8085f9e92995f01c7c16fa9239629a485d087ee4f6cf2c2765b"
+  },
   "assets/junna/ShoujoKagekiJunna/images/character_select/motion_poster.png": {
     "bytes": 1346400,
     "path": "assets/web/junna/ShoujoKagekiJunna/images/character_select/motion_poster.png.webp",
@@ -2784,6 +2854,13 @@
     "sha256": "1eb44ebab35dc5b4c3e46a1821e096938209e82ce1e787ad6b67b85edb73c322",
     "sourceBytes": 80484,
     "sourceSha256": "10145026492b10811d82dc83b517f8b15c997724a301942951de789c7d518a29"
+  },
+  "assets/junna/ShoujoKagekiJunna/images/events/knowledge_possibility.png": {
+    "bytes": 3146744,
+    "path": "assets/web/junna/ShoujoKagekiJunna/images/events/knowledge_possibility.png.webp",
+    "sha256": "589f08d4dae610c795540f327c24720ba6448c5201e0e39510d5281685b5394c",
+    "sourceBytes": 4756132,
+    "sourceSha256": "366c393ef879f047b834f443cac026e3099ad16ed200cd3c1fda316605cb481e"
   },
   "assets/junna/ShoujoKagekiJunna/images/events/stage_girl_notes.png": {
     "bytes": 3210402,
